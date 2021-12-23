@@ -1,0 +1,5 @@
+(-) - R-N- (3-phenylpropyl) -1-phenyl-2-aminopropane ((-) - R-PPAP; 29) was published in 1990 by Glennon et al. identified as a selective and potent o-ligand (IC50 (σ) = 24nM; IC50 (NMDA receptor PCP binding site)> 75000nM; IC50 (D1 and D2)> 5000nM) [41]. It should be emphasized that most of the σ ligands each have an affinity for the PCP binding site, but (-) - R-PPAP as a phenethylamine type shows no affinity for PCP receptors. Although the structure is related to the amphetamine, (-) - R-PPAP could neither generate nor antagonize an amphetamine stimulus in rats which were able to discriminate (+) - S-amphetamine.
+
+
+
+As soon as 29 was discovered as a σ ligand, additional N-monoalkylated amphetamines were investigated as a σ pharmacophore. The binding constants Ki (guinea pigs, [3HIDTG) of the compounds 1-3, 6, and 10-11 as well as 30-36 were determined (enantiomerically pure-
