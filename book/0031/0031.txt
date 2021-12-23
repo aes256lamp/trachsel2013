@@ -1,7 +1,3 @@
-L-DOPA und die Pfade der Melanine. Eine zentrale Zwischenstufe bei der Ca-
-techolamin-Biosynthese spielt die Aminosäure L-DOPA (30, siehe Kapitel 7.5.1) Sie
-ist bis heute noch das wichtigste Medikament zur Behandlung von Morbus Parkinson.
-L-DOPA (30) spielt auch eine Schlüsselrolle bei der Hautpigmentierung, Dabei bilden
-sich, wie aus dem nachfolgenden Schema zu erkennen ist, via DOPA-Chinon (33) ei-
-nerseits Dopachrom (34) und anderseits Thioderivate (35 und 36) des L-DOPA (30), die
+L-DOPA und die Pfade der Melanine. Eine zentrale Zwischenstufe bei der Catecholamin-Biosynthese spielt die Aminosäure L-DOPA (30, siehe Kapitel 7.5.1) Sie ist bis heute noch das wichtigste Medikament zur Behandlung von Morbus Parkinson.
+L-DOPA (30) spielt auch eine Schlüsselrolle bei der Hautpigmentierung, Dabei bilden sich, wie aus dem nachfolgenden Schema zu erkennen ist, via DOPA-Chinon (33) einerseits Dopachrom (34) und anderseits Thioderivate (35 und 36) des L-DOPA (30), die
 zu Benzothiazinen (37 und 38) cyclisieren. Polymere, die daraus entstehen, nennt man
