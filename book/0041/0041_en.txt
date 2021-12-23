@@ -1,0 +1,6 @@
+Pyridoacridineethylamines are also found in some Aswdaceae and sponges. Only the basic framework 116 itself is shown. Sulfur-containing heterocycles are often condensed on. Some compounds have been shown to be topoisomerase inhibitors and could thus be used as cytostatics or antibiotics [38, 39]. Like caffeine or theophylline, they bind to adenosine receptors and GABA receptors [40]. An application is not yet in sight.
+
+
+A number of arylalkylamines and arylalkylamides with the group name Convolutamine (Convolutamine F; 117, see Section 9.2, Convolutamine H; 118, see Section 10.3) have been isolated from the marine bryophytes Amathia convoluta (Bryozoa). In addition, volutamides such as volutamid A (121) and volutamid H (122) have been isolated, all of which have a 2,4-dibromo-5-methoxyphenethylamine unit [41]. They all have a phenethylamine basic structure, and a similarity with the potent psychedelics 2C-B (119, sure chapter 8.5.9) or 2C-DB (120) is obvious (see chapter 9.2). Pharmacologically, they were tested for their activity against nematodes or for their cytotoxic properties against certain cancer cell lines [42, 43]. No studies have yet been carried out on GPCRs.
+
+Dakaramine (123) is an aryl bisalkylamine which is derived from tyrosine (12a). It was isolated from the sponge Ptilocaulis spiculifer [44].
