@@ -1,0 +1,12 @@
+Chapter 7 describes the immense number of almost 600 combinations of aryl-disubstituted phenylalkylamines. Six sub-chapters represent six different substitution patterns. Epinephrine (adrenaline), norepinephrine, and dopamine are for that
+human psyche of vital importance. Structurally related and probably the most prominent artificial representative of this chapter is MDMA (Ecstasy), although hundreds of other compounds are described there. In order to be able to classify new substances in animals according to their effect, there are relatively precise methods that are demonstrated in the excursus on drug discrimination. Many of the substances shown in this book interact with transporters that push neurotransmitters through the cell wall between the inside and outside of the cell. The excursus on monoamine transporters
+explains this.
+
+Not least because of the very large number of molecules investigated, the aryl trisubstituted phenylalkylamines are among the most important and complex. Chapter 8, which has been divided into six sub-chapters, contains over 600 molecules. Mescaline, as theirs
+Ancestor, was the first isolated psychedelic of mankind and indirectly promoted hundreds of offspring. Generations of chemists played with these scaffolds by varying the chemical substituents. In particular, compounds with a 2,4,5-substitution pattern have been intensively researched - including in self-tests on the effect. This led to potent psychedelic compounds such as DOM or 2C-B.
+
+By attaching four aryl substituents, a total of four different substitution patterns can be achieved; they are discussed in Chapter 9, Aryl Tetra-substituted Phenylalkylamines. Around 130 substances were compiled and considerations to add a further substituent to already active, low-substituted phenylalkylamines are being discussed.
+
+There are around 40 phenylalkylamines that have completely substituted the aryl ring. There are even phenethylamine natural products with a penta substitution; they are listed in Chapter 10, Arylpentasubstituted Phenylalkylamines.
+
+Last but not least, an extensive excursus on the aspects of molecular pharmacology explains frequently used terms such as receptor, antagonist, agonist, GPCR etc. and explains their relationships in the transmission of biochemical information: the principles of communication between receptors and ligands as well as biochemical cascades of the cells involved.
