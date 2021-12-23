@@ -1,0 +1,15 @@
+Using the compounds 50-62 it can be seen that a very broad spectrum of pharmacological effects can be achieved through small modifications.
+
+The structurally simple derivative phendimetrazine (63) has been marketed for the short-term treatment of obesity. It is also a potent psychostimulant. Phendimetrazine (63) itself has little effect on the neurological level: it is a prodrug for phenmetrazine (64). This releases DA and NE and is actually responsible for the stimulating effect. Phenylpiperazines 65 act differently depending on the aryl substituents. There are reports of entactogenic, psychedelic or stimulating effects. They interact unselectively with various serotonin receptor subtypes.
+
+Finally, benzylpiperazine (66) exhibits psychostimulatory properties. It causes an increase in extracellular dopamine as well as serotonin.
+
+
+
+Conclusion derivatives with cyclic side chain: This possibility of making structural changes offers many different pharmacological action profiles, starting with MAO inhibition by tranylcypromine (44), via combined DA and NE-releasing agents (e.g. fencamfamine; 45 or phenmetrazine ; 64), combined DA and 5-HT releasing agents (e.g. Aminorex; 48, 4-Methylaminorex; 49, benzylpiperazine; 66), but also reuptake inhibitors of DA and NE (e.g. pemolin; 47 and Ritalin; 50) , up to opioid receptor ligands (e.g. pethidine; 56, prodine; 57 and fentanyle; 58) or NMDA antagonists (PCP; 60 and ketamine; 61).
+
+
+Derivatives with benzene-fused cycles (Chapters 3.13, 3.14 and 3.15)
+
+The benzene-fused derivatives are alicyeles which are linked to a benzene unit in the 1,2-position. The phenethylamine unit is rigidized by the attachment of two carbon atoms in the side chain to the benzene unit and is thus conformationally restricted. This makes these structures attractive for medicinal chemistry, since through the rigidization more can be learned about the spatial arrangement of an active ingredient at the site of action and its active profile and strength can possibly be specifically modulated.
+A prominent representative of the benzene-fused cycloalkylamines (Section 3.13) is, for example, rasagiline (67). It is a selective MAO-B inhibitor and is used to treat Parkinson's disease. The two derivatives 2-aminoindane (68) and 2-aminotetralin (69) can be regarded as rigid analogues of amphetamine (3), but they proved to be

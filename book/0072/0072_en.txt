@@ -1,0 +1,9 @@
+Interestingly, here an N, N-dialkylation can maintain the stimulating properties (dimethylcathinone; 20), this is in contrast to N, N-dimethylamphetamine (8), which is largely inactive. Α-PVP (21) is also a psychostimulant, and diethylpropion (22), which is used in some countries for the short-term treatment of obesity, shows relatively little potential for abuse. In general, the amphetamine-like “releaser” effect is lost with increasing side chain length, whereas the inhibiting effect on monoamine transporters is retained.
+
+
+
+The introduction of strongly electron-withdrawing substituents (e.g. CF3 or CN) on the side chain lowers the basicity of the nitrogen so much that the properties typical of amphetamines are completely lost. The basicity of the respective amines is so drastically reduced that an interaction in protonated form is very difficult under physiological conditions (e.g. with receptors), which various experiments have been able to confirm (e.g. with substances 23-27).
+
+
+
+Conclusion heteroatoms in the area of the side chain: Through ß-HO groups more interactions with adrenergic receptors are achieved. Similar to amphetamine (3), the ß-keto unit achieves a release of DA and NE, which can result in stimulating effects; If the α-alkyl chain is lengthened, the release properties are increasingly lost and the monoamine reuptake is inhibited. Strongly electron-withdrawing atoms or groups can change the pKa value of the amines to such an extent that protonation and thus interaction with receptors is prevented.
