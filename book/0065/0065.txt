@@ -1,28 +1,8 @@
 Zusammenfassung
 
-	1887 zum erstenmal synthetisiert, wurde Amphetamin (1; Alpha-Methylphenethylamin)
-Ende der 1920er Jahre ursprünglich als Asthmamittel entwickelt, Anfang der 1930er Jahre als
-Schleimhaut abschwellendes Mittel in Form eines Inhalers vermarktet und wenige Jahre spä-
-ter als Mittel gegen milde Depressionen auf den Markt geworfen. Seiner euphorisierenden
-und stimulierenden (Neben-)Wirkung wegen wurde Amphetamin (1) zunehmend auch in
-der Armee benützt und während des Zweiten Weltkriegs offiziell den Soldaten verabreicht.
-Der epidemisch verbreitete Missbrauch führte zusammen mit dem hohen Suchtpotenzial
-schließlich zum weitgreifenden Verbot. Durch die einfache chemische Synthese ist seine Ver-
-breitung auf dem Schwarzmarkt immer noch sehr aktuell. Amphetamin, das keine Affinität
-an den Dopamin-Rezeptoren zeigt, entfaltet seine Wirkung hauptsächlich durch verstärkte
-Ausschüttung (reverse transport) und Hemmung der Wiederaufnahme von Dopamin (7) und
-Norepinephrin (8). Zusätzlich wird der metabolische Abbau von Dopamin (7) verlangsamt.
-Durch die erhöhten Dopamin- und Norepinephrin-Mengen entstehen die Effekte in ih-
-rer ganzen Komplexität. Die Enantiomere von Amphetamin unterscheiden sich in ihrem
-pharmakologischen Profil z.T. deutlich. Amphetamin findet noch heute in verschiedenen
-Formulierungen als Medikament (Adderall® und Vyvanse®) zur Behandlung des Aufmerk-
-samkeitsdefizit-/Hyperaktivitätssyndroms (ADHS) seine (legale) Anwendung.
-	Die Faszination für dieses kleine Molekül liegt wahrscheinlich unter anderem in sei-
-ner Einfachheit und den komplexen Veränderungen im Menschen. Während Jahrzehnten
-versuchten und versuchen Medizinalchemiker das Grundgerüst so zu verändern, dass ge-
-wünschte Eigenschaften hervortreten und unerwünschte Nebeneffekte ihre Aktivität verlie-
-ren. Während dieser Zeit wurden mehrere hundert strukturell analoge Verbindungen synthe-
-tisiert und untersucht (siehe folgende Kapitel, im speziellen 3.1, 3.3 und 6.2).
+	1887 zum erstenmal synthetisiert, wurde Amphetamin (1; Alpha-Methylphenethylamin) Ende der 1920er Jahre ursprünglich als Asthmamittel entwickelt, Anfang der 1930er Jahre als Schleimhaut abschwellendes Mittel in Form eines Inhalers vermarktet und wenige Jahre später als Mittel gegen milde Depressionen auf den Markt geworfen. Seiner euphorisierenden und stimulierenden (Neben-)Wirkung wegen wurde Amphetamin (1) zunehmend auch in der Armee benützt und während des Zweiten Weltkriegs offiziell den Soldaten verabreicht.
+Der epidemisch verbreitete Missbrauch führte zusammen mit dem hohen Suchtpotenzial schließlich zum weitgreifenden Verbot. Durch die einfache chemische Synthese ist seine Verbreitung auf dem Schwarzmarkt immer noch sehr aktuell. Amphetamin, das keine Affinität an den Dopamin-Rezeptoren zeigt, entfaltet seine Wirkung hauptsächlich durch verstärkte Ausschüttung (reverse transport) und Hemmung der Wiederaufnahme von Dopamin (7) und Norepinephrin (8). Zusätzlich wird der metabolische Abbau von Dopamin (7) verlangsamt. Durch die erhöhten Dopamin- und Norepinephrin-Mengen entstehen die Effekte in ihrer ganzen Komplexität. Die Enantiomere von Amphetamin unterscheiden sich in ihrem pharmakologischen Profil z.T. deutlich. Amphetamin findet noch heute in verschiedenen Formulierungen als Medikament (Adderall® und Vyvanse®) zur Behandlung des Aufmerksamkeitsdefizit-/Hyperaktivitätssyndroms (ADHS) seine (legale) Anwendung.
+	Die Faszination für dieses kleine Molekül liegt wahrscheinlich unter anderem in seiner Einfachheit und den komplexen Veränderungen im Menschen. Während Jahrzehnten versuchten und versuchen Medizinalchemiker das Grundgerüst so zu verändern, dass gewünschte Eigenschaften hervortreten und unerwünschte Nebeneffekte ihre Aktivität verlieren. Während dieser Zeit wurden mehrere hundert strukturell analoge Verbindungen synthetisiert und untersucht (siehe folgende Kapitel, im speziellen 3.1, 3.3 und 6.2).
 
 
 Literatur

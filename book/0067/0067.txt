@@ -1,8 +1,7 @@
 3. Aryl-unsubstituierte Phenylalkylamine
 
 
-	Die Aryl-unsubstituierten Phenylalkylamine wurden in insgesamt 15 verschiedene
-Klassen eingeteilt. Das folgende Schema zeigt deren Grundstrukturen.
+	Die Aryl-unsubstituierten Phenylalkylamine wurden in insgesamt 15 verschiedene Klassen eingeteilt. Das folgende Schema zeigt deren Grundstrukturen.
 
 
 Die Stammverbindungen
@@ -62,13 +61,11 @@ Aminoposition (~15)
 
 
 Kapitel 3.11.
-Phenylalkylcyclo-
-alkylamine (~45)
+Phenylalkylcycloalkylamine (~45)
 
 
 Kapitel 3.12.
-Phenylalkylaza-
-cycloalkane (~90)
+Phenylalkylazacycloalkane (~90)
 
 
 Kapitel 3.13.
