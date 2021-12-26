@@ -1,0 +1,15 @@
+Phenethylamine (see chapter 1) The biogenic amine phenethylamine
+(2-phenethylamine or ß-phenethylamine) occurs in cocoa beans,
+in the brains of humans and animals as well as in the urine of big cats
+before. Phenethylamine (15) is produced by the decarboxylation of
+Phenylalanın (14) and is rapidly broken down by monoamine oxidase (MAO) -B.
+Like amphetamine on monoamine transporters, the brain is able to act as a releaser of norepinephrine and dopamine (29) without having a stimulating effect in vivo - probably because of its metabolic lability. It is said to have antidepressant properties. It thus acts as a modulator, but not as a neurotransmitter.
+
+L-Phenylalanine (see Chapter 1) The essential amino acid is found in vegetable and animal protein-rich foods.
+It cannot be made by mammals themselves and comes from the previously mentioned shikimic acid pathway of plants.
+L-phenylalanine (14a) is the biochemical precursor to the neurotransmitters dopamine (29), norepinephrine (31) and epinephrine (32), but is also important in the synthesis of proteins. The naturally occurring L-phenylalanine (14a, S-phenylalanine) tastes bitter, while the synthetic D-phenylalanine (14b, R-phenylalanine) leaves a sweet taste impression. Interestingly, the unnatural D-phenylalanine (14b) itself also shows pharmacological effects. Antidepressant effects are also ascribed to it (see also [5]). In the liver, L-phenylalanine can also be hydroxylated on the aromatic, which creates the amino acid tyrosine (12a).
+
+
+Ephedrine (see chapter 3.5) The ephedra alkaloids occur in several plants. The most well-known representative is the family of the seaweed plants (Ephedraceae), from which the name is derived. It is also found in the blue monkshood (Avonitum napellus), the yew (Taxus baccata) and in the Kath shrub (Catha edulis). Because of
+of the two stereocenters there are four stereoisomers. Their affinities for adrenergic α and ß receptors are relatively weak.
+They act primarily as releasers and reuptake inhibitors on the norepinephrine transporter and thus, as indirect sympathomimetics, have blood pressure-increasing, heart-stimulating, bronchodilator, stimulating and appetite-suppressing properties [2]. The synthetic ephedrine stereoisomer 16b is less potent than the naturally occurring 16a. Of the pseudoephedrines, the (+) - [18,28] form 16c occurs naturally, while the (-) - [1R, 2R] form 16d is obtained synthetically.

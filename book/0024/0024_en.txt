@@ -1,0 +1,14 @@
+The term “phenethylamine” is vague, the question arises as to whether it refers to derivatives that are similar to 2-phenethylamine. The term "same" is in turn dependent on the point of view. The spectrum of phenethylamines under consideration expands massively the more substitutions are included. B. the tetrahydroisoquinolines, an enormously widespread class of natural substances. One can also find it in the indoles and thus the ’tryptamine derivatives
+to a certain extent a modified phenethylamine structure, and finally even in morphine and LSD,
+
+Even more derivatives can be included with the term “arylalkylamines” because it also includes, for example, all the compounds with a benzylamine or 3-arylpropylamine structure. Perhaps the term “(hetero) arylethylamine” would be a little more precise. In colloquial terms, however, “phenethylamine” has simply caught on, and this primarily includes compounds that are similar to phenethylamine and amphetamine and all their derivatives.
+
+The branches (polycycles, chain length, etc.) are manifold, so the focus is primarily on substances with an ethyl unit, clamped between an aromatic or heteroaromatic and an amino group. The variation in aromatics is the most important; heteroaromatic substances have been shown to represent their independent classes.
+
+
+Biological origin of the phenethylamine:
+Praise to the shikimic acid
+
+Although mammals - and therefore humans as well - need considerable amounts of phenethylamine derivatives and these, as hormones and neurotransmitters, play a central role in the protein balance, we are still unable to produce phenyl rings
+build up in the body. The aromatic amino acids are counted among the essential 'amino acids, because they are our source of aromatics. But where do the phenyl rings in our food come from? They are all of vegetable origin [3, 4]. So we either have to eat the plants ourselves or the animals that ate the plants before. The plants have a refined biosynthetic pathway from which the whole living world benefits: the shikimic acid path, the starting point for the production of shikimic acid (1) is the C3 body phosphoenolpyruvate (2, PEP),
+which comes from glycolysis, and the C4 body erythrose-4-phosphate (3) from the pentose phosphate pathway. The following diagram shows how a cyclic hemiacetal with seven carbons (5) is formed from the C3 and C4 bodies, which forms the cyclohexene ring of shikimic acid (9) via phosphate cleavage and rearrangement.
