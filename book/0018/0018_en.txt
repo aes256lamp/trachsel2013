@@ -1,0 +1,17 @@
+A range of 1 to 4 grams have a similar effect as a mixture between Δ9-THC (tetrahydrocannabinol; main active ingredient in hemp) and the entactogen MDMA (see chapter 7.5.6). This disinformation circulated only for marketing reasons, in order to boost sales of (legal) phenethylamine (1) through online shops [8]. There is also evidence of the (risky) combined intake of monoamine oxidase inhibitors (MAO inhibitors) with phenethylamine (1) [9] - the euphoric and stimulating effects are controversial, and it can be assumed that this is the main reason going to make profitable sales.
+In order to shed light on the pharmacological background to the ineffectiveness, some of the studies with phenethylamine (1) described in the specialist literature are shown here
+will.
+
+It is known that central stimulating substances such as amphetamine stimulate locomotion. This is particularly evident in rats and mice. In 1962 Van der Scoot et al. this connection in a large number of phenylalkylamine derivatives [10]. In comparison to amphetamine, phenethylamine (1) was found to be completely inactive in this test arrangement (mouse, i.p. administration). In order to clarify whether the lack of an effect is due to bio-inactivation, the following experiment was carried out: It is known that substances with an amphetamine structure have good stability towards the endogenous
+Show enzyme monoamine oxidase (MAO, see excursus amine oxidases). Substances that do not have an α-methyl group, namely phenethylamines, have very little resistance to this enzyme (especially those with few or no substituents on the aromatic) and are therefore rapidly broken down (Fig. 1). Now mice were first given the MAO inhibitor iproniazid to suppress the degrading effect of MAO on phenethylamines. When phenethylamine (d) i.p. was administered, they showed a very pronounced urge to move. The thus increased Lokomotion underpinned the theory of bio-inactivation of simple
+Phenethylamines by MAO. This could later be confirmed several times (e.g. [11], and summarized in [12]).
+
+In rhesus monkeys, changes in behavior were found with phenethylamine (1) after the previous administration of MAO-A and MAO-B inhibitors [13].
+Other experiments have also shown that prior administration of an MAO inhibitor 1 in test animals has a spectrum of activity comparable to that of amphetamine.
+
+
+
+
+Fig. 1. Oxidative deamination of phenethylamine (1). There
+Introducing Deuterium Atoms into the Alpha Position for the
+Nitrogen makes the metabolic breakdown by monoamine oxidase (MAO) significantly more difficult.

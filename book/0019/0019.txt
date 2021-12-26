@@ -1,12 +1,11 @@
-[File: /home/zedar/Desktop/Phenethylamine - Von der Struktur zur Funktion (2013)/0019.jpg; Page: 1]
-Das zweifach deuterierte &,x-Dideuterophenethylamin (4) erwies sich stabil gegenüber
+Das zweifach deuterierte α-α-Dideuterophenethylamin (4) erwies sich stabil gegenüber
 der MAO (Abb. 1) [14]. Es zeigte einen lang anhaltenden Stimulus, generalisierte in einer
 Drug Discrimination-Studie (Ratten) vollständig für Phenethylamin (1) und war deutlich
 potenter als dieses [14]. Interessant wäre auch die Prüfung, ob α,α-Dideuterophenethylamin
 (4) in Amphetamin-trainierten Ratten substituieren würde. Bis anhin sind keine Berichte zu
 dessen Wirkung im Menschen bekannt. Es könnte durchaus sein, dass sich dieses Konzept
 der metabolischen Stabilisierung von Phenethylamin-Derivaten auch auf andere, an und für
-sich in »zvo inaktive Phenethylamine ausweiten lässt (siehe auch Kapitel 8.4.6, wo die Stei-
+sich in vivo inaktive Phenethylamine ausweiten lässt (siehe auch Kapitel 8.4.6, wo die Stei-
 gerung der Humanpotenz von Mescalin durch eine α,α-Dideuterierung dokumentiert ist).
 	Zwar konnte beispielsweise gezeigt werden, dass Phenethylamin (1) ohne Hilfsstoff in
 kleinen Dosen Katzen einen Zustand erhöhter Wachheit und Erregtheit verleiht, so wie es

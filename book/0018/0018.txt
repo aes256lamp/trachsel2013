@@ -5,7 +5,7 @@ Absatz von (legalem) Phenethylamin (1) durch Online-Shops anzukurbeln [8]. Weite
 man Hinweise auf die (riskante) kombinierte Einnahme von Monoaminoxidase-Hemmern
 (MAO-Inhibitoren) mit Phenethylamin (1) [9]- Die euphorischen und stimulierenden Wir-
 kungen sind umstritten, und es darf auch hier vermutet werden, dass es vor allem darum
-geht, gewinnbringenden Umsatz zu machen. ‚ En:
+geht, gewinnbringenden Umsatz zu machen.
 	Um die pharmakologischen Hintergründe zur Wirkungslosigkeit zu durchleuchten, sol-
 len hier einige der in der Fachliteratur beschriebenen Arbeiten mit Phenethylamin (1) gezeigt
 werden.
@@ -18,7 +18,7 @@ Verabreichung) als komplett inaktiv. Um abzuklären, ob das Fehlen einer Wirkung
 eine Bio-Inaktivierung erfolgt, wurde folgendes Experiment getätigt: Von Substanzen mit
 Amphetamin-Struktur ist bekannt, dass sie eine gute Stabilität gegenüber dem körpereigenen
 Enzym Monoaminoxidase (MAO, siehe Exkurs Aminoxidasen) zeigen. Substanzen, die
-keine «-Methylgruppe tragen, namentlich Phenethylamine, weisen (insbesondere mit keinem
+keine α-Methylgruppe tragen, namentlich Phenethylamine, weisen (insbesondere mit keinem
 oder wenigen Substituenten am Aromaten) eine sehr geringe Resistenz gegenüber diesem
 Enzym auf und werden deshalb rasch abgebaut (Abb. 1). Nun wurde Mäusen zunächst
 der MAO-Inhibitor Iproniazid verabreicht, um die abbauende Wirkung von MAO auf
