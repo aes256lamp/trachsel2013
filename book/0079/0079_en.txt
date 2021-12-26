@@ -1,0 +1,7 @@
+In comparative studies with amphetamine (3) in animals, it was found to be significantly less stimulating.
+
+The tetrahydroisoquinolines (TIQ; 70, Chapter 3.14) are an extensive and important core structure of the benzo-fused azacycloalkanes. 2-Methyltetrahydroisoquinoline (71) can be viewed as a rigidized analog of methamphetamine (1). However, it turned out to be completely ineffective in comparison in an animal experiment.
+
+Derivatives that have one of two aromatic compounds (aminoalkyl) alicyclic are counted among the AMDA derivatives (9- (aminomethyl) -9,10-dihydroanthracene, for sure Chapter 3.15). With its simple chemical structure, AMDA (72) shows a relatively high affinity as an antagonist for the serotonin 5-HT2A and 5-HT2C receptors. Despite the similarities between AMDA (72) and tricyclic antidepressants such as imipramine (73), it has no affinity for monoamine transporters. Starting from AMDA (72), numerous derivatives were produced and investigated, and (unselective) 5-HT2A ligands were also discovered, which proved to be more potent than AMDA (72).
+
+Conclusion of derivatives with benzene-fused cycles: The conformational restriction of the side chain of amphetamine means that the stimulating properties are largely lost. With AMDA-like substances you get potent 5-HT2A and 5-HT2C ligands (e.g. substance 72).
