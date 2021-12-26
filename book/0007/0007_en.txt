@@ -1,0 +1,15 @@
+Navigation and structure
+
+In this work more than 2300 different substances are presented. When collecting the immense wealth of literature, it quickly became apparent that similar pharmacological effects can be achieved with very different chemical structures. Conversely, two chemically very related substances can have very different action profiles. The only logical strategy for capturing this abundance of material finally seemed to us to be the chemical structure of the molecules themselves. It is supposed to accommodate the development of knowledge, promote fast navigation and simplify reference options. This structure also means that some connections can appear several times in different chapters in order - where appropriate - to put the information in a context. In such cases, cross-references are a navigation aid to help you find the information you are looking for. The information density of the individual chapters varies significantly, because
+not all substances have been investigated to the same extent or their social relevance differs significantly. Particular emphasis was placed on juxtaposing structural relationships. Schemes roughly show the influence of the chemical structure, for example on affinities, potency, selectivity, but also the influence on the level of human perception itself. The reader is also occasionally pointed out to new, hitherto completely unknown structures. This is to show which medicinal-chemical possibilities are still open and unexplored and which questions have so far remained unanswered.
+
+The reader will find, so that he does not get lost in the enormous amount of data, at the beginning of each main chapter, roughly outlined the structural relationships, the structural subgroups and, depending on the case, a brief historical insight. At the end of a subchapter, where deemed necessary, there is a short summary of the matter discussed in detail above, and in some places it has been supplemented with a graphical overview of the qualitative structure-activity relationship.
+
+
+Guide through the chapters
+
+Compounds that do not have any radicals on the phenyl ring are listed first (Chapters 1-3), followed by heteroarylalkylamines (Chapter 4), the omission of the phenyl ring (Chapter 5) and finally substances with a successively increasing number of aryl substituents (Chapter 6-10):
+
+Chapter 1 is dedicated to the underlying structure and the namesake - the phenethylamine itself. The following excursus on natural substances shows how diverse nature has constructed phenethylamine structures. In addition to the amino acids and messenger substances that are important for the functioning of humans, there are relatively unknown but no less exciting molecules from flora and fauna.
+
+A second, weighty basic structure is obtained by adding a single
