@@ -1,0 +1,10 @@
+The diamine by-product 32 was formed in the synthesis of ephedrine (1a) [21]. Only weak sympathomimetic effects were found in pharmacological studies. A significant stimulation of the test animals was only observed at concentrations close to the lethal dose.
+
+    Thioketones (also called thiones) are generally quite chemically unstable and have not yet been described in connection with phenethylamines (e.g. thiocathinones).
+
+
+
+    The introduction of fluorine atoms into the side chain of the phenylalkylamines has also been investigated. There are a large number of pharmacologically active compounds that carry one or more fluorine atoms, and this sometimes significantly changes the properties (see excursus fluorine in medicinal chemistry).
+In 1967, Pinder and Burger investigated the influence of three F atoms on the α-Me group in amphetamine and identified the compound 2-amino-3-phenyl-1,1,1-trifluoropropane (33) and its ß-hydroxy analogue 34 her [22]. These compounds showed neither anorectic, antiemetic, CNS, MAO-inhibitory nor pressor activity. Compound 34 can be viewed structurally as a norephedrine analog; however, it showed only 0.3% of the pressor activity in comparison. In the work that followed shortly afterwards, Pinder, Brimblecombe and Green argued with the electronic effects [23]. The strongly electron-withdrawing fluorine atoms lower the basicity of the amino group to such an extent that the molecule loses its ability to be protonated under physiological conditions. Amphetamine has a pKa value of 9.93, whereas the trifluorinated amine 33 has a pKa value of only 4.97.
+
+    Fuller, Molloy and Shaw also showed through their investigations on the two compounds ß-fluoramphetamine (35) and β, β-difluoramphetamine (36) that the introduction of fluorine atoms can have a very significant influence [24, 25]. The pKa values of 35 (8.4) and 36 (7.0) were changed compared to amphetamine (95). This means that the first two amines at physiological pH are still mainly cations
