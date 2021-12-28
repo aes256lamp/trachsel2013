@@ -1,0 +1,28 @@
+The separation of the stereoisomers of 25, which result from the hydrogenation of 26, has been described with the help of various tartaric acids [17]. These stereoisomers were subjected to a locomotion study with mice and were similarly active to the comparison substance amphetamine. The similarity to lefetamine (24) suggests that there are affinities for NMDA and opioid receptors.
+
+
+Summary
+
+As the size of the substituents in the α position increases, the ability to release monoamines into the synapse (reverse transport) decreases. Inhibition of the transporter and the associated increase in monoamine concentrations in the synaptic cleft is partially retained, which leads to compounds that can potentially be used as antidepressants. Depending on the nature of the residue in the α position, side affinities in the direction of NMDA and opioid receptors can occur (cf. Lefetamine).
+
+Literature
+
+[1] J. Van der Schoot, E.J. Ariens, J. Van Rossum, J.A. Hurkmanns. Arzneim. Forsch.
+    1962, 12, 902.
+[2] R. Oberlender, D.E. Nichols. Pharmacol. Biochem. Behav. 1991, 38, 581.
+[3] U.B. Paulsen-Sörman, K.H. Jönnson, B.G. Lindeke. J. Med. Chem. 1984, 27, 342.
+[4] A. Burger, S.E. Zimmerman, E.J. Ariens. J. Med. Chem. 1966, 9, 469.
+[5] D. W. Nachand, A.A. Kurland, T.E. Hanlon. J. Clin. Pharmacol. 1967, 7, 116.
+[6] J.T. Hitchins, R. Orzechowski, S. Goldstein. Taxicol. Appl, Pharmacol, 1972, 21,302.
+[7] F.J. McCarty, P. D, Rosenstock, J.P. Paolini, D.D. Micucci, L. Ashton, W. W.
+    Bennetts, F.P. Palopoli. J. Med. Chem. 1968, 17, 534.
+[8] A. Donetti, E. Marazzi-Uberti, S. Casadio, C. Bianchi. J. Med. Chem. 1972, 15, 590.
+[9] J. Knoll, A. Simay. New Psychostimulant Agent. WO8802254, 1988.
+[10] Dodds, W. Lawson, S.A. Simpson, P.C. Williams. J. Physiol. 1945, 104, 47.
+[11] P. Mannelli, L. Janiri, M. De Marinis, E. Tempesta. Drug Alcohol Depend. 1989, 24,95.
+[12] E. Paroli, P. Nencini, M. Moscucei. Pharmacol, Res. Commun. 1984, 16, 915.
+[13] M. G. De Monits, P. Devoto, A. Bucarelli, A. Tagliamonte. Pharmacol, Res. Commun.
+     1985, 17, 471.
+[14] L. Janiri, P. Mannelli, C. Pirrongelli, M. Lo Monaco, E. Tempesta. Brit. J. Addict.
+     1989, 84, 89.
+[15] S. Massa, G. Stefancich, M. Artico, F. Corelli, R. Silvestri, G. C. Pantaleoni, D.

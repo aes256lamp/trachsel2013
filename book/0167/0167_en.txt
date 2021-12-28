@@ -1,0 +1,9 @@
+3.8. B-substituted phenylalkylamines
+
+
+With the help of the introduction of alkyl residues in the ß-position to the amino group, it was hoped to gain access to new, potentially active substances that are free from some of the unpleasant side effects that occur with amphetamine (1) itself (see Chapter 2). The simplest derivative B-methylphenethylamine (2), which is derived directly from 2-phenethylamine (see Chapter 1), was described synthetically in 1946, for example [1]. Compounds 3-8 were discovered in 1943 by Warren et al. examined [2]. The aim was to find a volatile and inhalatively applicable amine that has good vasoconstrictive activity and low toxicity. At the same time, it was hoped that the CNS stimulation would be low. The pressor activity on dogs and toxicity on rabbits were tested. Compound 3 proved to be particularly promising. Compared to amphetamine (1), it showed no CNS stimulation. Compound 3 was later given the name Vonedrin [3]. It did not reach the pharmaceutical market.
+
+
+
+In the search for a methamphetamine antagonist (for the treatment of addiction) a few dozen compounds were investigated, and among them the ß-substituted compound 9 was mentioned [4].
+Compound 10 was tested as an inhibitor of dopamine-β-hydroxylase (DBH), whereby it turned out to be much weaker than the heteroaromatic thienyl analogues (see Section 4.3). The two compounds 11 and 12 were tested for the same inhibitory activity, with their two 4-HO analogues being somewhat more potent [5].
