@@ -1,0 +1,12 @@
+Structurally, these compounds are reminiscent of the classic beta blockers, such as. wise penbutolol (5). Such compounds, which are described in more detail in Chapter 6.1.2, efficiently enable a more or less unselective blockade of the ß-receptors and are used to treat arterial high blood pressure and / or to lower the heart. frequency and excitability of the heart are used. This combination of both structural elements, the phenoxyalkylamines from this chapter and the hydroxy-functionalized side chain from chapter 3.5, has established itself to this day as a ’template for ß-blockers.
+
+Phenyltoloxamine (6) is another example of a member of the phenoxyalkylamine class of substances. As an antihistamine and anticholinergic, it is used as a flu remedy because of its additional analgesic, sedative and spasmolytic properties in combination with non-steroidal anti-inflammatory drugs (NSAIDs) [3].
+
+
+
+In another context, researchers at Eli Lilly were interested in the structural class with the general formula 7 [4]. In fact, these compounds, such as 8 and 9 - especially provided with a cyclopropyl residue on nitrogen - should serve as MAO inhibitors. The authors point out the important presence of such a cyclopropyl group in order to obtain substances with MAO-inhibiting properties (cf. tranylcypromine (11), see also Chapter 3.11).
+
+
+
+Another 40 substances come from Hoffmann-La-Roche, with the MAO inhibitor tranylcypromine (11) serving as the lead structure [5]. For the structural isomerism cis / trans, for example, the in vitro MAO inhibition was given in comparison to iproniazid. Depending on the location measured, e.g. in the mouse brain, the trans isomer 12 was around 70 times and the cis isomer 13 over 30 times more potent than iproniazid (tranylcypromine: - 100 times stronger than iproniazid).
+The same people published the corresponding methyl derivative 14 a year later [61-Interestingly, this substance turned out to be inactive, both in vivo and in vitro (rats). Since compound 14 has three centers of chirality, there are theoretically 3², i.e. 9 stereoisomers, which could have very differently pronounced effects.

@@ -1,0 +1,14 @@
+Summary
+
+Due to their similarity to the pharmacologically successful beta blocker backbone, numerous phenoxyalkylamines were examined for their cardiovascular effects, but also for MAO-inhibiting properties, especially in the mid-1960s. Special attention is paid to the substituent in the 2-position for antihypertensive properties (see Chapter 6.1.2). In order to inhibit the MAO, a cyclopropyl group on the nitrogen or in the side chain turned out to be important (see also excursus on amine oxidases).
+
+Literature
+
+[1] R. J. Fessenden, M. D. Coon. J. Med. Chem. 1964, 7, 561.
+[2] J. Augstein, W. C. Austin, R. J. Boscott, S. M. Green, C. R. Worthing. J. Med. Chem.
+    1965, 8, 356.
+[3] A. Sunshine, I. Zighelboim, A. De Castro, J. V. Sorrentino, D. S. Smith, R. D.
+    Bartizek, N. Z. Olson. J. Clin. Pharmacol. 1989, 29, 660.
+[4] J. Mills, R. Kattau, I. H. Slater, R. W. Fuller. J. Med. Chem. 1968, 11,95.
+[5] J. Finkelstein, E. Chiang, J. Lee. J. Med. Chem. 1965, 8, 432.
+[6] J. Finkelstein, E. Chiang, J. Lee. J. Med. Chem. 1966, 9, 440.

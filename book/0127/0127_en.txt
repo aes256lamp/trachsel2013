@@ -1,0 +1,10 @@
+3.4. Phenylalkylamines with incorporated into the side chain
+Heteroatoms
+
+
+In 1964, chemists synthesized a silicon analog of a sympathomimetic amine in order to investigate the effect of silicon on physiological properties [1]. The silicon-carbon bond (Si-C) is longer than the C-C bond. In addition to a changed geometry, one also expects a different basicity of the nitrogen, since silicon is less electronegative than carbon. In fact, the pKa measured for 1 was 10.26 and for 2 the pKa was 9.73.
+The unimaginative LD50 determination is a typical feature of earlier research methods in which, due to the lack of alternatives for determining pharmacological values for new substances, the LD values were first determined. Substance 1 has an LD50 of 105-113mg / kg and substance 2 a comparable LD50 of 102-107mg / kg (i.p., mouse). Furthermore, the electrocardiogram (ECG) and the electroencephalography (EEG) show "qualitative similarities" [1].
+
+
+
+Over one hundred aryloxyalkylamine derivatives of the general formula 3 were synthesized by Pfizer in 1965 and provided with biological data [2]. The researchers examined the compounds for their cardiovascular effects and, in their detailed studies of the structure-activity relationship, came to the conclusion that a 2-methoxy substituent is essential to obtain a maximum antihypertensive effect (structure 4).
