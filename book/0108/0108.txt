@@ -7,7 +7,7 @@ in einer Senkung der Affinitäten. Da das Stereozentrum relativ wenig Einfluss h
 die meisten Verbindungen als α-unsubstituierte Phenethylamine untersucht (siehe Kapitel
 3.2.2). Das Phenethylamin 14 erwies sich mit einer Bindungskonstante von Ki= 0.25nM als
 sogenannter superpotenter Sigma-Ligand [10] und erwies sich als rund zehnmal affiner als
-(+)-5-10 (Ki= 2.6nM [8], [3H]DTG markiert, 0-Gesamtbindungsaffinität).
+(+)-5-10 (Ki= 2.6nM [8], [3H]DTG markiert, σ-Gesamtbindungsaffinität).
 
 	Cyanomethylmethamphetamin (CMMA; 15) entsteht beim Rauchen von Methamphet-
 amin mit Tabak in großem Ausmaß [11]. Sekine et al. zeigten, dass CMMA (15) das stereo-

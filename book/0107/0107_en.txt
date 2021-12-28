@@ -1,0 +1,9 @@
+3.2. N, N-dialkyl-substituted phenylalkylamines
+
+
+3.2.1. N, N-dialkyl-substituted phenylisopropylamines (amphetamines)
+
+The simplest N, N-dialkylamphetamine compound is N, N-dimethylamphetamine (N, N-DMA; 1), which is also called dimephenopan and metrotonin. It was examined for its effect on blood pressure as early as the 1940s [1] and showed four to five times weaker pressor activity than amphetamine. Compared to amphetamine, N, N-DMA (1) was only able to increase the locomotion of mice (i.p.) by 20% [2]. N, N-DMA (1) also appeared on a larger scale in the drug market in the 1980s, which Ricaurte et. al arranged to investigate its neurotoxic potential in mice [3]. Compared to methamphetamine, N, N-DMA (1) showed significantly more dopaminergic and serotonergic neurotoxicity. Nevertheless, the authors mention that the “safety” of N, N-DMA (1) in humans has yet to be investigated. One can assume, however, that N, N-DMA (1) is rarely offered on the illegal market, as it has a significantly weaker effect than methamphetamine. In addition, if methamphetamine is improperly manufactured, N, N-DMA (1) can arise as a synthesis by-product and thus represent an impurity in methamphetamine.
+In a drug discrimination study with rats (training drug: 1.0mg / kg (+) - amphetamine), (+) - N, N-DMA was found to be around seven times less potent than methamphetamine and six to eight times less potent than (+) -Amphetamine [4].
+
+For compounds 1-8, for example, physicochemical properties such as partition coefficient and pKa were determined [5, 6], and the pharmacokinetics in humans was also investigated [7].

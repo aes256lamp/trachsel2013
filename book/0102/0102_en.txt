@@ -1,0 +1,5 @@
+Table 4. Relative potency of the compounds phenethylamine (5) and 41-47 to amphetamine (1) with regard to the increase in locomotor activity in mice [33] a
+
+
+
+The two compounds 48 and 49, along with a further series of amphetamine derivatives (see e.g. substance 29), were developed by Glennon et al. Investigated as potential σ ligands in 1991 [43]. Since σ-ligands of the phenylalkylamine type 50 also show a high affinity for 5-HT1A receptors, an attempt was made to increase the selectivity by structural modification in favor of the o-affinity, which in some cases was also successful. However, the compounds 48-49 showed no higher selectivity (IC50 σ / 5-HT1A = 20nM / 76nM and 4.6nM / 35nM, zespective) [43]. In 1994, Glenmon et al. set up a model for the σ-receptor and the structural requirements for a high binding affinity [45]. Compounds with the general structure of 50 were mentioned, and compound 51 turned out to be a so-called superpotent σ-ligand (K1 = 0.17nM, total o-binding affinity).

@@ -1,6 +1,6 @@
 	Eine bemerkenswerte Eigenschaft von Cyanomethylenaminen ist die im Vergleich zu
 alkylierten Aminen enorm herabgesetzte Basizität. Der für N,N-Dimethylamphetamin (1)
-mit Chemaxon-Marvin berechnete PKa-Wert beträgt 9.54. Das bedeutet, dass unter physio-
+mit Chemaxon-Marvin berechnete pKa-Wert beträgt 9.54. Das bedeutet, dass unter physio-
 Iogischen Bedingungen (pH 7.4) 9.27% protoniert vorliegen. Für CMMA (15) wird ein pKa
 von 5,66 berechnet, was im physiologischen Milieu ein entgegengesetztes Verhältnis zeigt: So
 liegen bei pH 7.4 lediglich 118% protoniert vor, und der Rest als Basc, Solche Überlegungen
