@@ -1,0 +1,7 @@
+Table 2. Amine oxidases and their parameters, adapted from [31].
+
+
+a) MAO: monoamine oxidase; b) DAO: diamine oxidase; c) AOC: aminoxidase copper containing; d) RAO: retina-specific amine oxidase; e) SSAO: semicarbazide-sensitive amine oxidase; f) FAD: flavin adenine dinucleotide; g) TPQ: 2,4,5-trihydroxyphenylalaninequinone.
+
+
+In summary, it can be said that the amine oxidases are enzymes that occur both extra- and intracellularly and have the task of breaking down amines. For the numerous existing systems of amine oxidases - the best known are probably MAO-A and MAO-B - there are old and well-researched MAO inhibitors with different mechanisms of action that still raise questions. Chemical structure, selectivity and reversibility are features used to classify the many structures. Since these active ingredients prevent or slow down the breakdown of neurotransmitters, they have an antidepressant effect or are used to treat

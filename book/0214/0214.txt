@@ -19,5 +19,5 @@ abstrahiert. Nach einigen H-Shifts ergibt sich schließlich ein alkenyliertes FA
 
 	Bis auf Clorgylin hemmen die Propargylamine vor allem die MAO-B. Clorgylin
 (8) ist ein selektiver und irreversibel bindender MAO-A-Hemmer. Prinzipiell ist aber
-weniger die reaktive funktionelle Gruppe als der Rest des Moleküls für die Subtyps“
+weniger die reaktive funktionelle Gruppe als der Rest des Moleküls für die Subtypse-
 lektivität verantwortlich. Somit eignen sich die Propargylamin-Derivate vor allem zur

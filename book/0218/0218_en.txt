@@ -1,0 +1,14 @@
+can, the release of norepinephrine occurs exclusively in the periphery and thus leads to the well-known cheese effect [17]. If you keep this process in mind, it becomes clear that the actual processes actually take place inside the cell and that tyramine must first penetrate the cell before it can have any effects. This fact also explains why inhibitors of the norepinephrine transporter can prevent the cheese effect [27, 28]. It is generally considered dangerous to combine MAO inhibitors with substances that inhibit the serotonin transporter SERT, as there is a risk of serotonin syndrome [29].
+Even if it has not yet been investigated in detail, an MAO inhibitor must inevitably be absorbed into the cell first in order to inhibit the breakdown of tyramine. Harmane-like compounds have been described as being smuggled into the cell interior via the dopamine transporter [30].
+In view of the abundance of other amine oxidases and FAD-dependent enzymes, it is not surprising that so-called “MAO inhibitors” also influence other enzyme systems. Theoretically, the mentioned classes of MAOIs, the binding mechanism of which with the FAD is explained above, should not have any influence on the other amine oxidases, which have a different cofactor. Using the SSAO, however, it was shown that propargylamines can also be able to inhibit copper-containing amine oxidases.
+Many older studies on MAO inhibitors have to be examined precisely for their informative value, since the enzyme was often isolated from organs and not precisely characterized. A common method for more detailed differentiation of amine oxidases was to subdivide them into semicarbazide-sensitive and non-semicarbazide-sensitive fractions. Hydroxylamine or aminoguanidine has sometimes been used for such in vitro research purposes. These compounds are known as carbonyl-reactive agents and are chemicals that are of no importance as drugs. Investigations of this kind with different inhibitors to subdivide the amine oxidases must also be viewed in a very differentiated manner. It was shown that even the semicarbazide-sensitive fractions do not have to be uniform and the diamine oxidase (DAO), which breaks down histamine, is also inhibited by semicarbazide, for example.
+
+
+Here you can find more information on substances and their interactions with amine oxidases:
+
+Chapter 1
+Chapter 3.1.2, 3.2.1, 3.3, 3.4, 3.7, 3.11, 3.12.1, 3.13
+Chapter 4.3, 4.6
+Chapter 6.2.2.4, 6.3.4, 6.3.7
+Chapter 7.2.1, 7.3.6, 7.5.1
+Chapter 8.4.1.2, 8.4.6, 8.4.10, 8.5.5, 8.5.8, 8.5.17, 8.6.1

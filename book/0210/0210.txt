@@ -1,4 +1,4 @@
-	2.) Kupferhaltige Aminoxidasen benötigen als Cofaktor TPQ 2,4,5-Trihydr
+	2.) Kupferhaltige Aminoxidasen benötigen als Cofaktor TPQ (2,4,5-Trihydr
 phenylalanin-Chinon; 2). Die zugehörigen Gene nennt man AOC für „Aminoxidase
 Copper-containing“. Der bekannteste Vertreter ist die Semicarbazid-sensitive Amin-
 oxidase (SSAO), die manchmal auch nach ihrem Gen AOC3 genannt wird. In diesem

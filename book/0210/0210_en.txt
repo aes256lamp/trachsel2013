@@ -1,0 +1,5 @@
+2.) Amine oxidases containing copper require TPQ (2,4,5-trihydrphenylalanine-quinone; 2) as a cofactor. The associated genes are called AOC for "amine oxidase copper-containing". The best-known representative is the semicarbazide-sensitive amine oxidase (SSAO), which is sometimes called AOC3 after its gene. In this context, the diamine oxidase DAO and the retina-specific amine oxidase RAO are worth mentioning; their genes are called AOC1 and AOC2. The α-position H of the amine is formally transferred to an aspartate anion. In this case, the hydrogen peroxide is generated during the regeneration of the TPQ [2].
+
+
+
+For both shown degradation mechanisms, the abstraction of an α-permanent H is the decisive step. Thus, phenethylamine (3) is converted to phenylacetaldehyde (4). This also explains why amphetamine (5) is not broken down by the MAO.
