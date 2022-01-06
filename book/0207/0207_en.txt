@@ -1,0 +1,34 @@
+Summary
+
+Tranylcypromine (1), with its MAO-inhibiting properties, deserves special attention in this chapter. As a non-selective and irreversible MAO inhibitor, it is used as a drug for depression and anxiety disorder. Inspired by the cyclopropyl ring, quite a few derivatives were created where the structural requirements to inhibit the MAO were explored. Attaching a fluorine atom (compound 23) proved to be particularly beneficial, which increased this ability by a factor of ten. Milnacipran (27), a selective reuptake inhibitor of norepinephrine and serotonin, is another cyclopropyl derivative used as an antidepressant. Due to the modest use of fencamfamin (44) in treating mental and physical weakness, it has almost disappeared from the market. At times it appeared on the narcotics market as a cocaine substitute. As an opioid, tilidine (43) is a pain reliever pharmaceutical active ingredient.
+
+Literature
+
+[1] A. Burger, W. L. Yost. J. Am. Chem. Soc. 1948, 70, 2198.
+[2] D. H. Tedeschi, R. E. Tedeschi, E. J. Fellows. J. Pharm. Exp. Ther. 1959, 126, 223.
+[3] D. H. Tedeschi, R. E. Tedeschi, E. J. Fellows. Fed. Proc. 1960, 19, 181.
+[4] S. Sarkar, R. Banerjee, M. S. Ise, E. A. Zeller. Helv Chim. Acta 1960, 43, 439.
+[5] H. W. Moises, H. Beckmann. J. Neural Transm. 1981, 50, 185.
+[6] C. Kaiser, B. M. Lester, C. L. Zirkle. J. Med. Chem. 1962, 5, 1243.
+[7] C. L. Zirkle, C. Kaiser, D. H. Tedeschi, R. E. Tedeschi, A. Burger. J. Med. Chem.
+    1962, 5, 1265.
+[8] A. Burger, C. S. Davis, H. Green, D. H. Tedeschi, C. L. Zirkle. J. Med. Chem. 1961, 4,
+    571.
+[9] G. C. Heil. Pharmacologist 1965, 7, 155.
+[10] C. Kaiser, C. A. Leonard, G. C. Heil, B. M. Lester, D. H. Tedeschi, C. L. Zirkle. J.
+     Med. Chem. 1970, 13, 820.
+[11] U. M. Teotino, D. D. Bella, A. Gandini, G. Benelli. J. Med. Chem. 1967, 10, 1091.
+[12] S. Yoshida, O. G. J. Meyer, T. C. Rosen, G. Haufe, S. Ye, M. J. Sloan, K. L. Kirk. J.
+     Med. Chem. 2004, 47, 1796.
+[13] T. C. Rosen, S. Yoshida, R. Fröhlich, K. L. Kirk, G. Haufe. J. Med. Chem. 2004, 47,
+     5860.
+[14] S. Yoshida, T. C. Rosen, O. G. Meyer, M. J. Sloan, S. Ye, G. Haufe, K.L. Kirk. Bioorg.
+     Med. Chem. 2004, 12, 2645.
+[15] J. Vallgarda, U. Appelberg, L. E. Arvidsson, S. Hjorth, B. E. Svensson, U. Hacksell.
+     J. Med. Chem. 1996, 39, 1485.
+[16] C. Moret, M. Charveron, J. P. Finberg, J. P. Couzinier, M. Briley. Neuropharmacology
+     1985, 24, 1211.
+
+[17] D.Spinks, G, Spinks. Curr. Med. Chem. 2002, 9, 799.
+[18] C. L. Bumgardner. J. Org. Chem. 1964, 29, 767.
+[19] A. Burger, R. Bennett. J. Med. Chem. 1960, 2, 687.

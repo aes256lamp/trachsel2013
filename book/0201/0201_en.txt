@@ -1,0 +1,12 @@
+3.11. Phenylalkylcycloalkylamines
+
+
+
+Embedding the side chain of phenylalkylamines in an alicyclic system opens up a multitude of structural possibilities. Cyclopropane was built into some compounds as the smallest possible alicyclic system and in some cases also led to very effective substances.
+
+(±) -Tranylcypromine (1, racemic, trans), which is still present on the pharmaceutical market today, is probably best known. It was first described synthetically in 1948 by Burger and Yost [1]. About ten years later it was discovered that this compound is a potent, irreversible and unselective inhibitor of monoamine oxidase (MAO) A and B [2-4]. The inhibition of the MAO enzymes generally increases the synaptic concentration of norepinephrine, epinephrine and serotonin in the brain (see excursus amine oxidases). This increase can be used positively with the help of tranylcypromine (1), and so it is still prescribed as an effective antidepressant (Parnate®, Jatrosom®). When using it, however, a strict diet must be adhered to, as serious complications can arise from the simultaneous intake of tranylcypromine (1) and foods rich in tyramine (e.g. cheese) (see excursus amine oxidases). Tyramine is normally broken down by the MAO-B; If this enzyme is now inhibited by tranylcypromine (1), tyramine can no longer be broken down and a threatening rise in blood pressure occurs.
+Clinical studies have shown that the individual enantiomers of tranylcypromine (1a and 1b), which is always commercially available as a racemate of the frans stereoisomers, have different effects [5]. Only the (+) - [1S, 2R] enantiomer 1a produced an improvement in symptoms of depression, the (-) - [1R, 2S] enantiomer 1b was found to be ineffective. There were no differences in the general well-being of the patients.
+
+
+
+After the valuable pharmacological properties of tranylcypromine (1) were known, a large number of structural analogues (2-10) were prepared [6] and pharmacologically investigated [7]. Compound 8 showed approximately the same inhibitory potency with respect to monoamine oxidase inhibition in vitro and in vivo [8].

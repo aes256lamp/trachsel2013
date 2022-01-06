@@ -7,7 +7,7 @@ Vielzahl von strukturellen Möglichkeiten hervor. Cyclopropan wurde als kleinstm
 Alicyclus in einige Verbindungen eingebaut und führte teils auch zu sehr wirksamen Stoffen.
 
 	Die wohl grösste Bekanntheit dürfte das noch heute auf dem pharmazeutischen Markt
-vertretene (±)-Tranyleypromin (1, racemisch, trans) erlangt haben. Synthetisch wurde es erst-
+vertretene (±)-Tranylcypromin (1, racemisch, trans) erlangt haben. Synthetisch wurde es erst-
 mals 1948 von Burger und Yost beschrieben [1]. Rund zehn Jahre später wurde entdeckt, dass
 diese Verbindung ein potenter, irreversibler und unselektiver Inhibitor der Monoaminoxida-
 se (MAO) A und B ist [2-4]. Durch die Hemmung der MAO-Enzyme erhöht sich allgemein

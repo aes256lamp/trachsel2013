@@ -1,0 +1,14 @@
+Digression:
+Amine oxidases
+
+
+How do amine oxidases work?
+
+Amine oxidases are of crucial importance for the metabolism of alkylamines and arylalkylamines, even if they need different cofactors, sometimes prefer different substrates and there are different inhibitors, in principle the same thing happens with all the amines: They are converted into aldehydes and ammonia and Hydrogen peroxide.
+
+
+
+In addition to monoamine oxidases (MAO), there are a number of other amine oxidases in the body that preferentially break down various amines and can be inhibited by various inhibitors.
+Functionally, i.e. with regard to their cofactors, with the help of which the oxidation of the amine is carried out, the amine oxidases can be divided into two groups:
+
+1.) Flavin-containing amine oxidases, which carry out the oxidation by means of FAD (flavin-adenine-dinucleotide; 1). This group includes the monoamine oxidases MAO-A and MAO-B, which only occur intracellularly, and the renalase, which occurs extracellularly. The α-position H of the amine is transferred to the FAD. During the reverse reaction, i.e. during the regeneration of the cofactor FAD, hydrogen peroxide is produced [1].

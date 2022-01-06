@@ -23,5 +23,3 @@ die Oxidation vollziehen. In diese Gruppe gehören die Monoaminoxidasen MAO-A un
 MAO-B, die nur intrazellulär vorkommen, und die Renalase, die extrazellulär vorkommt.
 Das α-ständige H des Amins geht dabei auf das FAD über. Bei der Rückreaktion, also
 bei der Regeneration des Cofaktors FAD, entsteht das Wasserstoffperoxid [1].
-
-	
