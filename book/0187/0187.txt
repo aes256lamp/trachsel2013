@@ -1,7 +1,7 @@
 Ein Antihistaminikum steht Modell für tricyclische
 Antidepressiva und Neuroleptika: Die Ära der Trizyklika
 
-	Es war deshalb absehbar, dass diesen Substanzen (Hydrazinderivate und Tranyley-
+	Es war deshalb absehbar, dass diesen Substanzen (Hydrazinderivate und Tranylcy-
 promin) zur Behandlung von Depressionen eine neue, nebenwirkungsfreiere Substanz-
 klasse folgen musste; mit einem kleinen Umweg über Promethazin (13), von dessen anti-
 histaminischen Eigenschaften erstmals 1949 in der Fachliteratur berichtet wurde [20].
@@ -19,7 +19,7 @@ Die hohe H1-Affinität erklärt, warum es zentral stark dämpfend und sedierend 
 	Inspiriert durch die antipsychotischen Eigenschaften von Chlorpromazin (14) und
 möglicherweise auf Grund chemischer und metabolischer Überlegungen ersetzten die
 Chemiker von Geigy (Haefliger und Schindler [23]) das Schwefelatom durch eine „Ethylen-
-Brücke“, also zwei CH,-Einheiten, und veränderten so die Winkelung und die Spreizung
+Brücke“, also zwei CH2-Einheiten, und veränderten so die Winkelung und die Spreizung
 der beiden Aromaten. Daraus resultierte G22355, das zweite Antidepressivum, welches
 später den Namen Imipramin (15) erhielt und als Toftanil® in die Geschichte eingehen
 sollte (Abb. 4). Aus Tabelle 1 lässt sich entnehmen, dass durch die Ringerweiterung

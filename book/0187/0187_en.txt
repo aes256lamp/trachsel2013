@@ -1,0 +1,11 @@
+An antihistamine is the model for tricyclic antidepressants and neuroleptics: The era of tricyclics
+
+It was therefore foreseeable that these substances (hydrazine derivatives and tranylcypromine) for the treatment of depression would have to be followed by a new class of substances with fewer side effects; with a little detour via promethazine (13), whose antihistaminic properties were first reported in the specialist literature in 1949 [20]. In 1950, chlorpromazine (14, see also Chapter 3.15) was synthesized by Charpentier for the first time and protected by patent [21]. The moderately strong D2-antagonistic effect could be influenced even more favorably by chain extension. The H1 antihistamine 13 became the antipsychotic agent 14.
+
+
+
+As can be seen from the spectrum of activity in Table 1, chlorpromazine (14) has the highest affinity for dopamine D2 receptors, which is why it has been used as a neuroleptic for the treatment of schizophrenic patients since the mid-1950s. The high H1 affinity explains why it has a strong central depressant and sedative effect [3].
+Inspired by the antipsychotic properties of chlorpromazine (14) and possibly due to chemical and metabolic considerations, the chemists von Geigy (Haefliger and Schindler [23]) replaced the sulfur atom with an "ethylene bridge", i.e. two CH2 units, and thus changed the angle and the spread of the two aromatics. This resulted in G22355, the second antidepressant, which was later given the name imipramine (15) and which would go down in history as Toftanil® (Fig. 4). From Table 1 it can be seen that the affinity for the monoamine transporters increases dramatically and the affinity increases as a result of the ring expansion
+
+
+Table 1. Change in affinity profiles due to small structural variations. All values from [22]

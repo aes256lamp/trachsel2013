@@ -1,0 +1,13 @@
+and are or have been on the market. The following, incomplete overview (Fig. 5) shows a qualitative chronological sequence of the appearance of the molecules. The data were created on the basis of the first scientific publication or their publication from the Pubmed online database [26].
+
+In older textbooks, tricyclics are divided into three classes with regard to their profile of action:
+
+- Amitriptyline type (e.g. amitriptyline; 17, doxepin; 18): The initial therapeutic effect should be sedative, anxiolytic and mood-enhancing.
+- Desipramine type (e.g. desipramine; 24, nortriptyline; 25): For inhibited depression; In addition to the mood-enhancing active component, there is also a drive-enhancing component. Must not be used in suicide-prone patients!
+- Imipramine type (e.g. imipramine; 15): The substances are neither sedating nor stimulating in terms of drive, so they are more drive-neutral, but mood-enhancing.
+
+
+If you consider that desipramine (24) and nortriptyline (25) are the main drive-enhancing metabolites of imipramine (15) and amitriptyline (17), then it becomes clear that a division into types is misleading. Since the overall effect of amitriptyline (17) is described as more sedating than that of imipramine (15), one can derive from it
+
+
+Table 2. Affinities of tricyclic antidepressants and their metabolites for monoamine transporters and the 5-HT2A receptor [28].
