@@ -1,0 +1,9 @@
+used [13, 14]. To find out whether AMDA (1) occupies the 5-HT2A receptor in a comparable way, structural fusions between AMDA (1) and cyproheptadine (19), imipramine (18), and N-alkylations thereof were made, e.g., 22-24 and tested for affinities to the 5-HT2A receptor (summarized in [1]). Structure 22 (Ki = 0.7nM) shows a remarkably high affinity, and the seven-membered ring structure 23 (Ki = 9nM) also proves to be highly affine. Conversely, if the heptatriene element from cyproheptadine (19) is transferred to the original lead structure AMDH (2, Ki = 112nM), one loses an enormous amount of affinity (24, Ki = 4125nM).
+
+
+
+As usual in medicinal chemistry, rings were replaced by a heterocycle (substances 25-28) (see also digression bioisosterism) [1].
+
+
+
+Imipramine (18) has a side chain of different lengths compared to AMDA (1), and the exocyclic nitrogen is N, N-dimethylated. This structural characteristic was also applied to the AMDA structure (Table 2). The N-methylated AMDA derivative 29 (Ki = 52nM) shows an affinity for the [PH] ketanserin-labeled 5-HT2A which is weaker by a factor of 2.5, the N, N-dimethylated AMDA derivative 30 (Ki = 540nM) by a factor of 25 Receptor as AMDA (1, Ki = 20nM) [1].

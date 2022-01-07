@@ -1,0 +1,50 @@
+4. Heteroatrylalkylamines
+
+The heteroaromatics are aromatic cycles which have at least one heteroatom. Compared to benzene, they can have very different physicochemical properties, which makes them attractive for modulating pharmacologically active ingredients, but also material properties. A distinction is made between μ-electron-rich and μ-electron-poor heteroaromatics. The reactivity, electron density distribution, polarization and steric stress are properties that distinguish heteroaromatic compounds from benzene. There are also bi- or polycyclic aromatics (e.g. indole, benzofurans, purines, etc.), but here the focus was limited to monocyclic systems. In order not to go beyond the scope, practically only those substances were collected that do not have any further substituents on the heteroaromatic. With this structural modification, the term bioisosterism inevitably comes into play. However, since bioisosterism is not limited to ring-to-ring transformations and this topic is an important and interesting tool for medicinal chemists, an excursus on bioisosterism was created.
+
+Chapter 4.1.
+Pyrrolylalkylamines (~ 20)
+
+
+Chapter 4.2.
+Furanylalkylamines (~ 15)
+
+
+Chapter 4.3.
+Thienylalkylamines (~ 40)
+
+
+Chapter 4.4.
+Selenienylalkylamines (3)
+
+
+Chapter 4.5.
+Telluroylalkylamines (1)
+
+
+Chapter 4.6.
+Imidazolylalkylamines (~ 15)
+
+
+Chapter 4.7.
+Oxazolylalkylamines (1)
+
+
+Chapter 4.8.
+Thiazolylalkylamines (~ 10)
+
+
+Chapter 4.9.
+Isoxazolylalkylamines (3)
+
+
+Chapter 4.10.
+Isothiazolylalkylamines (2)
+
+
+Chapter 4.11.
+Pyridylalkylamines (~ 15)
+
+
+Chapter 4.12.
+Diazinylalkylamines (3)
