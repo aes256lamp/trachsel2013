@@ -1,7 +1,7 @@
 Womöglich wirken solche Transporterhemmstoffe sogar hemmend auf eine PAH (z.B der
 SSRI Fluoxetin). Es wurden bis anhin keine großangelegten Studien unternommen, um dies
-zu prüfen, jedoch sind sich Experten einig, dass SSRI die PAH günstig beeinflussen [2].
-	Im Gegensatz zu den SSRIs scheinen einige der serotoninfreisetzenden Substanzen ak
+zu prüfen, jedoch sind sich Experten einig, dass SSRI die PAH günstig beeinflussen [29].
+	Im Gegensatz zu den SSRIs scheinen einige der serotoninfreisetzenden Substanzen mit
 einer PAH assoziiert zu sein [26]. Es gibt aber auch einige SERT-Substrate, welche sehr
 potent Serotonin freisetzen und dennoch (bisher) nicht mit PAH in Verbindung gebracht
 wurden (z.B. mCPP und MDMA,) [26]. Von zentraler Bedeutung scheint die Wirkungsweise
@@ -27,7 +27,7 @@ USA und Deutschland [35].
 
 
 Tabelle 1. Der Zusammenhang zwischen Transporter-Aktivität, Monoamin-Efflux und dem Risiko einer
-Entwicklung der pulmonalen Hypertonie (PAH) durch Anorektika und andere Substanzen (u.a. aus [28)).
+Entwicklung der pulmonalen Hypertonie (PAH) durch Anorektika und andere Substanzen (u.a. aus [28]).
 Nicht berücksichtigt ist die Interaktion mit der NE-Neurotransmission.
 
 
