@@ -30,7 +30,7 @@ herungsweise derjenigen in Amphetamin. Als mögliche Erklärungen erwähnten die
 elektronische Effekte des Piperazin-Ringes auf den Aromaten, eine ungünstige Ausrichtung
 des Phenyl-Rings zum Piperazin-Ring durch π-Überlappung des Elektronenpaars vom terti-
 ären Stickstoff mit dem Aromaten oder andere durch den Piperazin-Ring bedingte sterisch
-und/oder elektronisch ungünstige Faktoren, a 1nıdee
+und/oder elektronisch ungünstige Faktoren.
 	Weiter diente 1-Phenylpiperazin (72) als Leitstruktur bei der Suche nach Liganden des
 Serotonin 5-HT1A-Rezeptors [44]. 1-Phenylpiperazin (72) zeigte zu diesem Rezeptor eine
 Bindungskonstante von Ki= 380nM ([3H]OH-DPAT-Austausch) und, eine etwas tiefere

@@ -21,8 +21,8 @@ Selegilin, welche ebenfalls zur symptomatischen Bekämpfung der Parkinson-Krankh
 wendet wird, wirkt durch Erhöhung des extrazellulären Dopamins, siehe Kapitel 3.2.1 und
 Exkurs Aminoxidasen.
 
-	Gerlach ex al. führten Trialkylsilyl-Gruppen in Verbindungen des Typs 74 an den Stick-
-stoff ein (anstelle R=Alkyl steht R="Trialkylsilyl) und erhofften sich, durch die stark erhöhte
+	Gerlach et al. führten Trialkylsilyl-Gruppen in Verbindungen des Typs 74 an den Stick-
+stoff ein (anstelle R=Alkyl steht R=Trialkylsilyl) und erhofften sich, durch die stark erhöhte
 Lipophilie eine höhere Konzentration im ZNS zu erreichen [105]. Die Silyl-Verbindungen
 zeigten in etwa die gleichen In-Vivo-Effekte (Neurotransmitterkonzentrationen), wie sie mit
 Budipin (75) erreicht wurden, Die Entdeckung von biologisch aktiven Organo-Silicum-

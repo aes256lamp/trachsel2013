@@ -1,0 +1,8 @@
+to replace quaternary carbon in 4,4-diphenylpiperidines with a silicon atom (structure 76) [107].
+The Si-C bond is longer than the C-C bond and, as a result of different electronegativities, more polarized, which can ultimately lead to significant differences in physico-chemical and biological properties. The Sila derivatives have a higher lipophilicity and a somewhat higher affinity for the opioid receptors [107]. The synaptosomal uptake of norepinephrine and serotonin was significantly more strongly inhibited by the silicon analogues [107].
+
+
+
+The pethidines (77), prodines (78; inverse esters of pethidines) and the fentanyls (79) have an additional function in the 4-position of the piperidine and thereby achieve a strong increase in the affinity for opioid receptors. They are all categorized as synthetic opioids and are only shown here to illustrate the structural relationship.
+
+The antipsychotically active compound haloperidol or its decanoate ester (80), which acts as a retarding, releasing prodrug, is also derived from the N-substituted 4-phenylpiperidines and belongs to a certain extent to the proline family (78). However, it has a very pronounced effect as a dopamine and serotonin antagonist and shows almost no interaction with opioid receptors.
