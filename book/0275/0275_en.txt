@@ -1,0 +1,12 @@
+3.15. AMDA and descendants
+
+
+
+The derivative 9-(aminomethyl)-9,10-dihydroanthracene (1; AMDA) is an example of substances which have an aminoalkyl alicyclic fused with two benzene rings. The basic phenethylamine structure is found in the chemical structure of AMDA (1).
+Aryl-unsubstituted phenylalkylamines generally show low affinities for the 5-HT2 receptors (summarized in [1]). The assumption that a second aromatic ring could increase the affinity prompted Westkaemper, Dukat and Glennon to carry out various computer-based structure calculations [2]. This gave rise to new ideas, which ultimately led to the discovery of AMDH (5-aminomethyl-10,11-dihydro-5H-dibenzo[a,d]-cycloheptadiene, 2). It showed a decent affinity for the [3H] ketanserin-labeled 5-HT2A receptor (Ki = 112nM).
+
+
+
+This new lead structure led to a comprehensive structure-affinity study that examined the importance of the second aryl ring and the geometric relationship between the two aromatic rings [3, 4]. The review article by Westkaemper and Glennon presents the meticulous examination of the structural requirements of this class of ligand, which is largely adhered to below [1]. Unless otherwise noted, all of the following affinities below the structures are K values that were determined from binding studies with [3H] ketanserin-labeled 5-HT2A receptors.
+
+Structures 3-8 are each part of the AMDA (1, Ki = 20nM) discovered according to AMDH (2), a potent and selective 5-HT2A receptor antagonist [3]. It is noticeable that none of these derivatives even approximates the affinity for the [H] ketanserin-labeled 5-HT2A, receptor of AMDA (1). It must therefore not only through the postulated presence of a second aryl part, but also through the special geometry of the two aryl parts to one another and to the side chain achieves a high affinity with AMDA (1)

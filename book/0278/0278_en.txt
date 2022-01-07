@@ -1,0 +1,13 @@
+Initially, the investigations on AMDA () focused on the interaction with the 5-HT2A receptor. By antagonizing the 5-HT2A receptor, it is hoped that new approaches will be found to treat sleep disorders [8]. Only later did the focus shift to the histamine H1 interaction, because ligands of the histamine H1 receptor also represent a very promising treatment method for sleep disorders [9, 10].
+It is structurally recognizable why the early generations of antiallergic drugs such as cyproheptadine (19) or diphenhydramine (20) have a sedative effect on the patient as a side effect, and why certain active ingredients can also be used as sleeping aids in addition to the antiallergic effect. The analysis of the structure-activity relationship of AMDA (1) provides the basis for the development of more selective active ingredients so that the desired effect can be achieved in a more targeted manner.
+
+
+
+Despite, or perhaps precisely because of, the sparse pharmacophoric groups (two aromatic rings and amino group) and the similarities to imipramine (18) and cyproheptadine (19), AMDA (1) is relatively selective - at least on the tested targets - and, in contrast to 18 and 19 no affinity for the serotonin and norepinephrine transporters, at least in the competitive assay (Table 1) [1].
+
+
+Table 1. Details of the Ki values in nM. Values from [1, 11].
+
+
+
+This led to the assumption that e.g. imipramine (18) has a different binding mode than AMDA (!) [12]. Cyproheptadine (19), originally developed as an antidepressant, is a histamine / serotonin H1 / 5-HT2 antagonist and is now mainly used against allergic reactions, but is also used as an appetite stimulant
