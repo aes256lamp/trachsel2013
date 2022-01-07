@@ -16,7 +16,7 @@ Effekte gefunden [16]. Rivastigmin (11) wird seit 2006 als Exelon® für die sym
 Behandlung der leichten bis mittelschweren Alzheimer-Krankheit eingesetzt und ist zusätzlich
 für die Behandlung der Parkinson-Demenz zugelassen [17]. Rivastigmin (11) hemmt die Ace-
 tycholinesterase und die Butyrylcholinesterase [18]. Es wird von Novartis nebst oralen Formu-
-lierungen auch als transdermales Pflaster vermarktet 119].
+lierungen auch als transdermales Pflaster vermarktet [19].
 
 	Das evolutionäre Kombinieren der Pharmakophoren von Rasagilin (10a) und Rivastigmin
 (11) ebnete Ladostigil (TV-3,326, 12) den Weg für klinische Untersuchungen [20]: Ladostigil
@@ -29,5 +29,3 @@ und Rivastigmin (11) in einem einzigen Molekül vereinen.
 	Das Stereoisomer 10b, die zwei N-Methyl-Derivate 13a und 13b sowie eine weitere
 umfangreiche Reihe von analogen Strukturen von 10-12 wurden ebenfalls auf die MAO-A
 und MAO-B sowie auf die Acetylcholinesterase (AChE) hemmende Wirkung untersucht [20].
-
-5
