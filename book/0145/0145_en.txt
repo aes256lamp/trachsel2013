@@ -1,0 +1,12 @@
+Excursus:
+Fluorine in medicinal chemistry
+
+
+Fluorine in nature
+
+Toxic, gaseous and - in a highly compressed form - pale yellow, this is how elemental fluorine appears. Despite the relatively frequent occurrence of fluorine-containing salts in the earth's crust, naturally occurring organofluorine compounds are very rare. By 2002, 38 such compounds had been identified [1]. Interestingly, there are 20 gaseous fluoroalkanes and alkenes as well as aromatics that were found in volcanic exhalations (gases). One speaks here of abiotic produced natural substances. The remaining 18 naturally occurring organofluorine compounds identified so far are organically produced substances. The most prominent representative is certainly the highly toxic fluoroacetic acid (1). An ester (2), ketone (3) and aldehyde (4) could also be identified [1]. The somewhat more complex compounds 5-7 and eleven ω-fluorinated fatty acids are the other organic fluorine compounds that have been identified as natural substances [1]. In 2002, O'Hagan identified the first enzyme in the fungus Streptomyces cattleya that can incorporate fluoride into organic substances and form a C-F bond [2]. Metabolic defluorination has not yet been described: This means that when we take a fluorine-containing drug, after its metabolism, the fluorine atom usually remains bound to the same carbon atom as before.
+
+
+An underrated helper in everyday life
+
+People who need traces of fluorine to build bones, among other things, have also acquired the knowledge to make this element manageable and usable. Fluorspar (fluorite; CaF2, Fig. 1) has been used as a flux for melting ores since the Middle Ages the name (lat. fluere for "to flow"). Fluorite is
