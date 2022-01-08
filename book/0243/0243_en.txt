@@ -1,0 +1,9 @@
+There are other regioisomers of pipradrol (61; more precisely: α-pipradrol), which, however, have pharmacologically different activity spectra: β- or 3-pipradrol (66) seems to have effects similar to pipradrol (61) and was developed by Hoffmann La Roche in Patented in 1957 as a stimulant that has no cholinergic side effects [94]. The γ- or 4-pipradrol (67) also has the name Frenquel or azacyclonol and has an antipsychotic effect as a dopamine antagonist [95]. Its N-phosphoric acid derivatives have been assigned to reduce cocaine- or pipradrol-induced locomotion and to prolong phenobarbital-induced sleep [96]. A released CIA film (1955) from the video archive of the National Archives documents in detail the antagonizing effect of Frenquel on LSD in humans [133].
+
+
+
+The piperidine ring positional isomer 3-phenylpiperidine (68) contains the phenethylamine substructure. So far it has only been described synthetically [56]. The derivative 69 is known under the name 3-PPP (3- (3'-hydroxyphenyl) -N- (1-propyl) piperidine). It is known for its affinity to the sigma receptor and has been investigated, for example, to determine to what extent it influences the anticonvulsant effect of conventional anti-epileptic drugs [97]. It also binds to dopamine D2 receptors [98]. The (+) - enantiomer is weakly agonistic and the (-) - enantiomer is antagonistic [98].
+
+
+
+Another structural variant is to move the nitrogen in the piperidine ring or the aryl radical to the 4-position of piperidine. The Glennon et al. investigated 4-phenylpiperidine (70) [99] showed a moderate, around five times higher affinity for sigma receptors (Ki = 1980nM; [3H] DTG exchange) than 1-phenylpiperazine (72) or 1-benzylpiperazine (73, see Chapter 3.12.4.2). Appropriate substitution on nitrogen (e.g. structure 71) led to high affinity sigma ligands [99]. 4-Phenylpiperidine (70) showed no affinities (Ki> 10000nM) [100] for the serotonin 5-HT2A and 5-HT2C receptors.

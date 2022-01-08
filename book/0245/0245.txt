@@ -2,7 +2,7 @@ quartären Kohlenstoff in 4,4-Diphenylpiperidinen durch ein Silicium--Atom zu er
 (Struktur 76) [107].
 	Die Si-C Bindung ist langer als die C-C Bindung und als Folge von unterschiedlicher
 Elektronegativitäten stärker polarisiert, was schließlich zu wesentlichen Unterschieden
-in physico-chemischen sowie bi Eigenschaften führen kann. Die Sila-Derivate
+in physico-chemischen sowie biologischen Eigenschaften führen kann. Die Sila-Derivate
 weisen eine höhere Lipophilie auf und zeigten eine etwas höhere Affinität zu den Opioid-
 Rezeptoren [107]. Die synaptosomale Aufnahme von Norepinephrin und Serotonin wurde
 durch die Silicium-Analoga deutlich stärker inhibiert [107].
@@ -20,7 +20,3 @@ schaft gezeigt.
 4-Phenylpiperidinen ab und gehört gewissermaßen zur Familie der Proline (78). Es hat al-
 lerdings eine sehr stark ausgeprägte Wirkung als Dopamin- und Serotonin-Antagonist und
 zeigt nahezu keine Interaktion mit Opioid-Rezeptoren.
-
-
-
-
