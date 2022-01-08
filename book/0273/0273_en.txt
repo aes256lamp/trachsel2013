@@ -1,0 +1,13 @@
+In their study of structure-activity relationships, they come to the conclusion that conformationally relatively free isomers enhance the activity of the benzylamines originally investigated. The bridging of type 20-24, however, results in a complete loss of PNMT inhibition due to negative steric interaction with the active site of the enzyme [5]. Although or probably precisely because the function of epinephrine in the brain remains unclear to this day, Grunewald and his co-workers continued their research and discovered with structure 26 (R: H, various alkyl residues) new, potent and selective PNMT inhibitors that inhibit the CNS Inhibit epinephrine biosynthesis with a Ki, in the nanomolar range [6] (for the numerous works in this research area see [7]). PNMT inhibitors could potentially be used to treat angina pectoris, myocardial infarction, or anxiety disorders [9].
+
+
+
+3.14.3. Cyclophanes
+
+Compounds 27 and 28 are “exotic” phenylalkylamines that bind the two para positions of an aromatic in a bridged ring system. Such substances are called paracyclophanes. In animal experiments, 4-Azapara [9] cyclophane (28) caused the pupils to dilate without showing any symphatomimetic or anticholinergic signs [8]. Chapter 7.3.6 describes a [2.2] paracyclophane.
+
+
+
+Summary
+
+With the tryptamines, ergolines and tetrahydroisoquinolines, a practically immeasurable number of pharmacologically interesting compounds could belong to the group of benzo-fused azacycloalkanes. However, since these substances form independent substance classes, only a small number of compounds were mentioned here. The rigidized amphetamine or methamphetamine analogue 15 proved to be completely ineffective in the locomotion test on rats. Some TIQ derivatives have turned out to be PNMT inhibitors, but a therapeutic benefit is unclear at this point in time.

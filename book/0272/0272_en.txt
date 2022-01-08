@@ -1,0 +1,5 @@
+Table 1. Effect of various tetrahydroisoquinoline structures on the locomotion of mice [3].
+
+
+
+Together with other substituted TIQs, the simplest TIQ (13) was tested by Sall and Grunewald for the inhibition of phenylethanolamine-N-methyltransferase (PNMT, see also Chapter 3.13) [4]. The enzyme PNMT, in combination with S-adenosyl methionine (SAM), acts as a methyl group carrier at various points in the body and converts, for example, norepinephrine (noradrenaline) to epinephrine (adrenaline). With the aim of finding further PNMT-inhibiting molecules, Grunewald and his co-workers synthesized further conformationally restricted benzylamines or TIQ (15, 18-25) [5] as well as benzannellated cycloalkylamines, which are described in Section 3.13. 3-Methyl-TIQ (15, Ki = 3.04μM) was the only compound that showed stronger PNMT inhibition than TIQ (13, Ki = 10.34μM). In addition to structure 15, 23 also contains the methamphetamine substructure.

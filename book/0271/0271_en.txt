@@ -1,0 +1,12 @@
+The isoindoline derivative 11 is obtained by formal cyclization of pargyline (12, monoamine oxidase inhibitor, see also excursus amine oxidase) and has been described synthetically [2].
+
+
+
+3.14.2. Tetrahydroisoquinolines
+
+The benzo-fused azacycloalkanes can also include the tetrahydroisoquinolines (TIQ) with the basic structure 13. An idea of the diversity of this system can be obtained in the excursus on natural substances. Only a few TIQs are discussed here that are somewhat similar to the structure of amphetamine (Chapter 2) or methamphetamine (Chapter 3.1.1.1). A decision criterion was also which biological data were to be collected, and the field was deliberately narrowed down.
+
+
+
+The locomotor activity has been determined for a few TIQ derivatives [3]. At doses where (+) - methamphetamine (MA, 2mg / kg) caused an increase of more than 600% in locomotor activity in mice compared to the control group, the substances investigated 13-16 (Table 1) reached less than 80% of the control group, from which it can be concluded that there is no significant increase in locomotor stimulation. Compound 15 is - structurally speaking - most closely related to methamphetamine. The affinities for the 5-HT2A receptor all turned out to be very weak.
+In general, as the authors of the study put it, the aminotetralins (17; see also Chapter 3.13) proved to be more active than the corresponding TIQ. Accordingly, there is no evidence that the TIQ conformation is important for the locomotor activity of amphetamine derivatives [3].
