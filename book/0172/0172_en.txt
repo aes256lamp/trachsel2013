@@ -1,0 +1,16 @@
+    The compounds 8-15 were used to develop a monoamine oxidase inhibito (MAOI) [7]. Of these, 15 turned out to be the most active, and so it served as a template for further diversification on the phenyl ring. The MAO selectivity could be controlled by suitable aryl substituents: with a 4-HO substituent (16) in favor of MAO-A, or with one with a 4-MeO group (17) in favor of MAO-B. Substance 8 was further tested as an inhibitor of dopamine-ß-hydroxylase (see chapter 3.8).
+
+
+
+Summary
+
+Too little data is available to identify any final trends. Lipophilic residues in the ß-position can lead to compounds that have an affinity for monoamine transporters. As such, they are potentially used for the treatment of ADHD, as antidepressants or as anorectics, such as sibutramine (7), which, however, has been withdrawn from the market due to cardiovascular side effects (see Section 6.3).
+
+
+Literature	
+
+[1] C.M. Suter, A. W. Weston. J. Am. Chem. Soc. 1942, 64, 533.
+[2] A. Burger, H. H. Ong, J. Org. Chem. 1962, 29, 2588.
+[3] E. J. Jeffery, A. Kozlik. Substituierte Cyclobutane, Verfahren zu ihrer Herstellung
+     und pharmazeutische Zubereitungen, welche diese Verbindungen enthalten.
+     DE3212682, 1982.
