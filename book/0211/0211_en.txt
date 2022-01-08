@@ -1,0 +1,15 @@
+The S-enantiomer of amphetamine (5), which is more potent in terms of MAO inhibition, reversibly inhibits MAO-A, with the α-methyl group protecting the molecule from metabolic degradation [3]. It fits into the binding pocket, but in the α position the proton shown here in gray is not accessible due to the additional methyl group [4].
+Amphetamine (5) is metabolized to phenylacetone (6), but this is done by the cytochrome P450 system [5].
+
+
+What is the benefit of it?
+
+As mentioned, amine oxidases break down amines to aldehydes. The aldehydes formed are then preferably oxidized to carboxylic acids or, to a lesser extent, reduced to the corresponding alcohol. In the reaction from the amine to the aldehyde, hydrogen peroxide is always produced, which contributes to “oxidative stress” and has a potentially cell-damaging effect. However, these are normal processes that run continuously in a healthy organism without harming it.
+Amines can be of different origins in our body: Many neurotransmitters are amines, there are a number of so-called biogenic amines that either arise in our body or are added fermentatively in protein-rich food. Last but not least, many drugs or foreign substances (xenobiotics) also have an amine structure. Most of the compounds mentioned have an effect on the organism, be it a desired or undesired effect. All of these compounds are usually broken down by amine oxidases. In some cases, especially in the case of amines with several large residues on or around the nitrogen, cytochrome P450 also plays a role in the N-dealkylation [6]. Some amine oxidases are briefly characterized below.
+
+
+Characteristics of the amine oxidases
+
+Before discussing the prominent monoamine oxidase MAO in more detail, a few lesser known amine oxidases should first be characterized. The following list is not complete. Lysyl oxidases (LOX), which e.g. play a role in tumor processes [7], are not discussed here.
+The FAD-dependent enzyme renalase occurs extracellularly in a dissolved form and is sometimes also referred to as MAO C. Renalase does not have a great structural similarity to MAO A and B. It does not metabolize serotonin, tyramine or benzylamine and is not inhibited by the propargylamine inhibitors pargyline (7) or clorgyline (8) (see Table 2). However, it seems to break down catecholamines to a certain extent, thus regulating blood pressure. It has been identified in the brain and also in the periphery and is a current research area [8-10].
+The diamine oxidase or DAO (encoded by the AOC1 gene) occurs intracellularly, belongs to the copper-containing amine oxidases and is significantly involved in the breakdown of histamine. It also breaks down aliphatic diamines such as cadaverine and putrescine and can be inhibited by semicarbazide.

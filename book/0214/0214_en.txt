@@ -1,0 +1,9 @@
+Tranyleypromine (11) stood as a model for many other substances, e.g. compounds 12 and 13, which have a cyclopropane ring and a basic nitrogen. In various chapters (3.4, 3.7, 3.11, 4.3, 6.3, 7.3.6, 7.5.1, 8.4.7 and 8.5.27.1) Examples of more or less potent MAC) inhibitors, which most likely all bind to the FAD with the help of a cyclopropyl fragment. The Tranyleypromin is the only representative of this class that has ever made it onto the market. It binds covalently to the FAD via a radical mechanism, opening the strained cyclopropylting, whereby the enzyme is also irreversibly inhibited [1].
+
+
+
+The propargylamine inhibitors such as 7-10 (Table 1) are a newer class of substances, with selegiline (14) as the main representative. They also bind irreversibly to the FAD of the enzyme. In the first step an α-position H of the propargylamine group is abstracted. After a few H shifts, an alkenylated FAD finally results [13].
+
+
+
+Except for clorgylin, the propargylamines mainly inhibit the MAO-B. Clorgyline (8) is a selective and irreversibly binding MAO-A inhibitor. In principle, however, it is less the reactive functional group than the rest of the molecule that is responsible for the subtype selectivity. Thus, the propargylamine derivatives are particularly suitable for
