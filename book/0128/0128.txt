@@ -25,7 +25,7 @@ clopropylgruppe hin, um Substanzen mit MAO-inhibitorischen Eigenschaften zu erha
 	Aus dem Hause Hoffmann-La-Roche stammen weitere 40 Substanzen, wobei der MAO-
 Hemmer Tranylcypromin (11) als Leitstruktur diente [5]. Für die Strukturisomerie cis/trans
 wurden z.B. die In-vitro-MAO-Inhibition im Vergleich zu Iproniazid angegeben. Je nach ge-
-messenem Ort, z.B. im Mäusehirn, war das /rans-Isomer 12 rund 70-mal und das cis-Isomer
+messenem Ort, z.B. im Mäusehirn, war das trans-Isomer 12 rund 70-mal und das cis-Isomer
 13 über 30-mal potenter als Iproniazid (Tranylcypromin: - 100-mal stärker als Iproniazid).
 	Die gleichen Leute publizierten ein Jahr später das entsprechende Methylderivat 14 [61-
 Interessanterweise erwies sich diese Substanz als inaktiv, sowohl in vivo wie auch in vitro (Rat-
