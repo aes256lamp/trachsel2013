@@ -1,0 +1,9 @@
+3.12. Phenylalkylazacycloalkanes
+
+
+
+The incorporation of the basic nitrogen from the phenethylamine pharmacophore into a ring structure leads to a very large number of pharmacologically active compounds. Such substances are counted among the azacycloalkanes. The class is characterized by structural diversity with a wide variety of pharmacological effects, and some derivatives have made the leap onto the pharmaceutical market.
+
+3.12.1. Aziridines
+
+The smallest aza cycle is represented by the tripartite aziridine. The synthesis of 1-phenylaziridine (1) and the 2-phenylaziridines 2-5 was described, for example, by Brois in 1962 [1]. The positional isomer 2-phenylaziridine (2) can be viewed as a phenethylamine analog in which the nitrogen is attached to the benzylic carbon atom. It showed monoamine oxidase (MAO) inhibitory activity [2], which Wells et al. In 1966, the N-substituted 2-phenylaziridines 6 (R = methyl, ethyl, isopropyl, 2-phenethyl) and 1- (2-phenethyl) aziridine (7) were also tested for this ability. In vitro (homogenate from rat liver) all compounds showed an inhibition, but not as pronounced as the MAO inhibitor iproniazid. Structure 3 is a cyclized amphetamine analog in which the amine function is linked to the benzyl position, and compound 5 can be viewed as a cyclized phentermine analog (see Section 3.7).
