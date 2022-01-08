@@ -1,0 +1,10 @@
+bar certain structural requirements are met (compare similar structures of imipramine (18), cyproheptadine (19) and diphenhydramine 20). The elongation of the side chain, along with the N-alkylations, revealed a propyl linker as the optimal length between the tricyclic system and amine for both binding sites.
+It is also interesting what influence the chain length has on the affinity for the 5-HT2A receptor. In the case of the double benzylamine structure of 32 (Ki = 12000nM), the distance between the aromatic and the basic amine seems to be too small to enter into an interaction. As soon as there are 2 carbon atoms between the aromatic and nitrogen, one has the high affinities of AMDA (1, Ki = 20nM). If the distance in the case of 33 (Ki = 480nM) is expanded by one carbon atom to form a double propylamine structure, the affinities become
+
+
+
+Table 2. Affinities of various AMDA and diphenylalkylamine derivatives for the 5-HT2A and H1 receptors [1, 15].
+
+
+
+a) not determined.

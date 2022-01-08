@@ -1,0 +1,18 @@
+Summary
+
+The basic body of AMDA (1, Ki = 20nM), initially developed from computer-based calculations, turned out to be a potent 5-HT 2A receptor antagonist. Due to the similarity of AMDA to antihistamines (e.g. cyproheptadine, 19 and diphenhydramine, 20) and antidepressants (e.g. imipramine, 18), the affinities on other targets 5-HT2A, 5-HT2C, histamine H1, or monoamine transporters were tested and to set up so-called cross-target structure-effect relationships. In contrast to imipramine (18), AMDA (1) has practically no affinity for the serotonin and norepinephrine transporters. High affinity ligands for 5-HT2- (eg 50, Ki = 1.3nM, or 51, Ki = 3.2nM) or H1 receptors (eg 31, Ki = 0.5nM) were found, but none of them pointed to them Ligands measured by receptor types exhibit higher selectivities. The foundations could be used to find more selective antihistamines or sleeping pills that act by antagonizing the histamine or serotonin receptors. For all of the compounds discussed in this chapter, it would be desirable to have affinities for all other potential targets, such as muscarinic and dopamine receptors. In this way it could be said exactly which structural variation influences which targets to what extent.
+The general formula (67), which was intentionally unspecified, led to pharmaceutically interesting active ingredients and valuable drugs. Some of these are discussed in the antidepressants excursus, among other things. The development around AMDA (1) is another medicinal chemistry variation: two aromatics and one amine - a process that is not yet considered to be completed.
+
+
+Literature
+
+[1] R. B. Westkaemper, R. A. Glennon. Curr. Top. Med. Chem. 2002, 2, 575.
+[2] R. B. Westkaemper, M. Dukat, R. A. Glennon. Med. Chem. Res. 1991, 2, 401.
+[3] R. B. Westkaemper, S. P. Runyon, M. L. Bondarey, J. E. Savage, B. L. Roth, R.A.
+    Glennon. Eur. J. Pharmacol. 1999, 380, R5.
+[4] R. B. Westkaemper, S. P. Runyon, J. E. Savage, B. L. Roth, R. A. Glennon. Bioorg
+    Med. Chem. Lett. 2001, 11, 563.
+[5] P. Gerber. Moloc, a Molecular Design Softmare Suite, 2010. http://www.moloc.ch”
+[6] P. Gerber. This software was a generous gift from Paul Gerber, thank you
+    much! 2010,
+[7] Many thanks to Daniel Bur. 2010.
