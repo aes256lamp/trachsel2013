@@ -1,5 +1,5 @@
 	In einem Patent von 1964 sind ebenfalls einige Verbindungen des Aminooxazolin-Typs
-erwähnt [36]- Die Autoren bestätigen, dass Substanzen, welche den Aryl-Teil nicht wie in
+erwähnt [36]. Die Autoren bestätigen, dass Substanzen, welche den Aryl-Teil nicht wie in
 Aminorex (17) in Position 5 tragen, sondern in Position 4, frei von den ZNS-stimulierenden
 Wirkungen sind. So erwies sich Verbindung 22 (auch unter dem Namen Rexamino bekannt)
 als inaktiv. Auch sie erwähnten, dass das aromatische Oxazol 19 frei von solch einer Wirkung
@@ -20,8 +20,8 @@ ren Dosierung von 23 (Methylaminorex, 1mg/kg; i.v.) an einem zuvor anästhesiert
 suchstier eine ZNS-Stimulation erreicht werden kann, was sich durch erhöhte Lokomotion
 bemerkbar machte [37]. In nicht anästhesierten Tieren äußerten sich die Wirkungen unter
 anderem durch Unruhe und Drehbewegungen.
-	In Ratten reduzierte 4-Methylaminorex (23, ED50= 8.8mg/kg) die Nahrungsaufnahme
-mit nur geringfügig schwächerer Potenz als Aminorex (17, ED50= 5.8mg/kg) [6].
+	In Ratten reduzierte 4-Methylaminorex (23, ED50 = 8.8mg/kg) die Nahrungsaufnahme
+mit nur geringfügig schwächerer Potenz als Aminorex (17, ED50 = 5.8mg/kg) [6].
 	4-Methylaminorex (23) trat bereits Ende der achtziger Jahre des vergangen Jahrhunderts
 auf dem Schwarzmarkt unter anderem als „U4Euh“ (englisch ausgesprochen: Euphoria)
 oder 4-MAX auf [33]. Dem folgte in vielen Ländern die Aufnahme von 4-Methylaminorex
