@@ -1,0 +1,7 @@
+Compounds 30 and 31 were synthesized and investigated as conformationally restricted analogues of the anesthetic ketamine (32, see also Chapter 3.12.4.1) [31]. The two compounds 30 and 31 induced neither a hypnosis-like state nor a complete immobility of the animals, which could indicate an anesthetic or dissociative mode of action. Compound 31 increased motor activity in mice, whereas compound 30 decreased it. Due to the increased locomotion, it can be speculated that 31 partially mimics the structure of cathinone (33, see also Chapter 3.5).
+
+
+
+The next larger derivatives are the benzocycloheptenes. Substance 34 was examined for the inhibition of PNMT [7]. Compounds 35 and 36 were unable to substitute for amphetamine in a drug discrimination study with rats [2].
+
+Bridged and further connected ring systems were also examined. Inspired by the two most extreme conformers of amphetamine (gauche and anti position of the aromatic to the amino group) Burn et al. investigated the effects of the endo and exo isomers of 2-aminobenzonorbornene (37 and 38) [32]. The respective unsubstituted amines and mono- and dimethyl derivatives of 37 and 38 have been described as indirectly acting symphatomimetic agents, which can be equated with an effect on monoamine trans porters (blocking and reverse transport). The authors explain this

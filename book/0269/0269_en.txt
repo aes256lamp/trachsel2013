@@ -1,0 +1,14 @@
+3.14. Benzannelated azacycloalkanes
+
+
+
+Embedding the nitrogen in the benzene fused alicyclic results in an immense number of connections. The indole, tetrahydroquinoline and tetrahydroisoquinoline derivatives, which are extremely widespread in nature, bear witness to this. The subject is clearly too extensive to be adequately covered here and deserves a treatise in separate books. Therefore, only a few chemically simple structures of the classes mentioned are to be dealt with. A small overview can also be found in the excursus on natural substances.
+
+
+3.14.1. Indoline and indole derivatives
+
+The connection of the alkylamine side chain with a benzene ring was discussed in the previous chapter (3.13) with various positions, except with the nitrogen itself. Here, however, one arrives at a completely new class of substances, namely the indoline derivatives (1), the form the aromatic heterocycle indole (2) after oxidation. Since the lonepair electrons of the indole nitrogen are needed to maintain its aromaticity, indole can be deprotonated rather than protonated. This means that, unlike the phenethylamines, the nitrogen is not basic. In such compounds, the basic function is often taken over by a second nitrogen, usually with two carbon atoms removed from the indole structure, from which tryptamine (3) and its derivatives are obtained.
+
+
+
+First of all, it should be said that tryptamine (3) and serotonin (4) as well as their exciting derivatives cannot be adequately taken into account in this book for conceptual reasons. Since the first publications recorded in Pubmed (1948), serotonin (4), its receptors and its transporters have been researched very intensively; over a hundred thousand (120,000!) publications with the keyword had appeared by the end of 2012
