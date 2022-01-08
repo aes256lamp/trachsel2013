@@ -5,10 +5,10 @@ min (31; Formetorex) erwies sich dabei als die effektivste Verbindung (10mg/kg, 
 und erhöhte die Lokomotion im Vergleich zur Kontrollgruppe um 500% (rac. Amphetamin:
 534%) [32, 33]. Im Vergleich zu Amphetamin traten keine kardiovaskulären Effekte auf
 (Blutdruckerhöhung; geprüft am isolierten Meerschweinchenherz sowie an anästhesierten
-Hunden). Die für Mäuse minimale letale Dosis von $-31 war dreimal höher als die von rac,
+Hunden). Die für Mäuse minimale letale Dosis von S-31 war dreimal höher als die von rac,
 Amphetamin. Die beiden Forscher Cavallito und Gray zeigten ın einem Patent von 1970, dass
 die N-Formylierung von R-Amphetamin eine anorektisch recht wirksame Verbindung liefert
-(R-31; 2.5-5mg/kg, Hunde, p.o,); R-31 zeigte dabei keine ZNS-Stimulierung (2.5-10mg/kg,
+(R-31; 2.5-5mg/kg, Hunde, p.o.); R-31 zeigte dabei keine ZNS-Stimulierung (2.5-10mg/kg,
 Hunde, p.o., sowie Mäuse, i.p.) [34]. Das Enantiomer S-31 - ausgehend von S-Amphetamin —
 erwies sich im Vergleich zu R-31 als nur leicht potenter bezüglich der anorektischen Wirkung;
 dagegen blieb die von Amphetamin her bekannte ZNS-Stimulierung weitgehend erhalten
@@ -23,7 +23,7 @@ senkt [27]. N-Acetylamphetamin (32) wurde zusammen mit N-Formylamphetamin (31) u
 weiteren N-Acylmethamphetamin-Derivaten als Pyrolyseprodukte im Rauch von mit Tabak
 vermischtem Methamphetamin gefunden [28].
 
-Trotz all den Versuchen, das Wirkprofil von Amphetamin durch Retardierung mit Hilfe
+    Trotz all den Versuchen, das Wirkprofil von Amphetamin durch Retardierung mit Hilfe
 von Polymeren, Stärke oder Umwandlung in andere funktionelle Gruppen zu verbessern,
 konnte sich diese Technik nicht durchsetzen. Retardierungsformulierungen, wie Adderall
 XR® (extended release), setzen racemisches sowie enantiomerenreines Amphetamin aus
