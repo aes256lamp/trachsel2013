@@ -1,0 +1,65 @@
+\documentclass{book}
+
+%Important packages
+\usepackage[T1]{fontenc}
+\usepackage[mathletters]{ucs}
+\usepackage[utf8x]{inputenc}
+\usepackage{mathptmx}
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage[top=1in,bottom=1in,left=3.2cm,right=2.6cm]{geometry}
+\usepackage{graphicx}\graphicspath{ {./graphics/} }
+\usepackage{setspace}
+\usepackage[square,sort&compress]{natbib}
+\usepackage{fancyhdr}\pagestyle{fancy}
+\usepackage{xcolor}
+\usepackage{booktabs}
+\usepackage{hyperref}
+\usepackage{afterpage}
+\newcommand\blankpage{%
+	\null
+	\thispagestyle{empty}%
+	\addtocounter{page}{-1}%
+	\newpage}
+
+\begin{document}
+	
+%frontmatter: half title, frontispiece, title page, colophon (copyright page), dedication, toc, preface, acknowledgements
+\frontmatter
+\include{frontmatter/colophon}
+\include{frontmatter/half-title-frontispiece}
+\blankpage
+\include{frontmatter/title}
+\include{frontmatter/dedication-pirated}
+\include{frontmatter/dedication}
+\include{frontmatter/roman}
+%\tableofcontents
+
+
+%mainmatter: chapters
+\mainmatter
+\include{mainmatter/ch1_-_2-Phenethylamine}
+%\include{mainmatter/ch2_-_Amphetamine}
+%\include{mainmatter/ch3_-_Aryl-unsubstituted_phenylalkylamines}
+%\include{mainmatter/ch4_-_Heteroarylalkylamines.}
+%\include{mainmatter/ch5_-_Replacement_of_the_aryl_part_by_non-aromatic_residues}
+%\include{mainmatter/ch6_-_Monosubstituted_phenylalkylamines}
+%\include{mainmatter/ch7_-_Disubstituted_phenylalkylamines}
+%\include{mainmatter/ch8_-_Trisubstituted_phenylalkylamines}
+%\include{mainmatter/ch9_-_Tetra-substituted_phenylalkylamines}
+%\include{mainmatter/ch10_-_Pentasubstituted_phenylalkylamines}
+%\include{mainmatter/}
+
+%backmatter: appendix, bibliography, index, postface
+\backmatter
+%\printindex
+%\clearpage
+%\include{backmatter/the-authors}
+%\include{backmatter/postface}
+%\include{backmatter/lsd-book-ad}
+%\include{backmatter/psychedelic-chemistry-book-ad}
+%\clearpage
+
+%%% front cover, spline, and back cover
+
+
+\end{document}
