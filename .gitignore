@@ -1,2 +1,7 @@
 *.swp
 *DS_Store
+*.aux
+book.pdf
+book.out
+book.log
+book.synctex.gz
