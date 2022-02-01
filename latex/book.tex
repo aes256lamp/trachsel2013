@@ -21,6 +21,19 @@
 	\addtocounter{page}{-1}%
 	\newpage}
 
+\setcounter{tocdepth}{4}
+\setcounter{secnumdepth}{4}
+
+\newcommand\shortlorem{Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.}
+
+\newcommand\placeholderimagec{
+	\begin{center}\includegraphics{placeholder}\end{center}
+}
+
+\newcommand\placeholderimage{
+	\includegraphics{placeholder}
+}
+
 \begin{document}
 	
 %frontmatter: half title, frontispiece, title page, colophon (copyright page), dedication, toc, preface, acknowledgements
@@ -37,9 +50,13 @@
 
 %mainmatter: chapters
 \mainmatter
-\include{mainmatter/ch1_-_2-Phenethylamine}
-%\include{mainmatter/ch2_-_Amphetamine}
-%\include{mainmatter/ch3_-_Aryl-unsubstituted_phenylalkylamines}
+%\include{mainmatter/ch1_-_2-Phenethylamine}
+\include{mainmatter/ch2_-_Amphetamine}
+\include{mainmatter/ch3_-_Aryl-unsubstituted_phenylalkylamines}
+\include{mainmatter/ch3-1_-_N-Alkyl_substituted_phenylalkylamines}
+\include{mainmatter/ch3-2_-_NN-dialkyl_substituted_phenylalkylamine}
+\include{mainmatter/ch3-3_-_N-hetero_stubstituted_phenylalkylamine}
+\include{mainmatter/ch3-4_-_phenylalkylamines_with_heteroatoms_incorporated_into_the_side_chain}
 %\include{mainmatter/ch4_-_Heteroarylalkylamines.}
 %\include{mainmatter/ch5_-_Replacement_of_the_aryl_part_by_non-aromatic_residues}
 %\include{mainmatter/ch6_-_Monosubstituted_phenylalkylamines}
