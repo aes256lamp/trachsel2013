@@ -170,8 +170,8 @@ Name them:
       3.12.4.1. Piperidines
       3.12.4.2. Piperazine
       3.12.4.3. Morpholines
-  3.13. Benzannelated cycloalkylamines
-  3.14. Benzannelated azacycloalkanes
+  3.13. Benzannulated cycloalkylamines
+  3.14. Benzannulated azacycloalkanes
     3.14.1. Indoline and indole derivatives
     3.14.2. Tetrahydroisoquinolines
     3.14.3. Cyclophanes
