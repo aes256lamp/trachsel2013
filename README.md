@@ -9,7 +9,7 @@ A long-term project to digitise and translate Trachsel et al.'s seminal book "Ph
   - [x] pages 100-199
   - [x] pages 200-299
   - [x] pages 300-399
-  - [ ] pages 400-499
+  - [x] pages 400-499
   - [ ] pages 500-599
   - [ ] pages 600-699
   - [ ] pages 700-799
