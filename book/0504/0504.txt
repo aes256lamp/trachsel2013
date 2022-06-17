@@ -1,0 +1,29 @@
+Auch die um ihre Aromatizität erweiterten Verbindungen 35-37 geben ihren Anreiz, ein-
+mal hergestellt und untersucht zu werden. Natürlich weisen sie eine enorme Lipophilie auf.
+Nichtsdestotrotz würden sie weitere Informationen über die sterische Toleranz im Bereich
+der Bindungsstellen der Sauerstoffatome liefern.
+
+
+
+Zumindest die Synthesen der folgenden drei Benzo[1‚2-b:4,5-b’]dichalcogenophene wur-
+den kürzlich sehr effizient beschrieben und sind daher gut zugänglich [37]. So wären auch
+Substanzen der Tellurophene oder Selenophene erreichbar. Hier sei auf die relativ ausge-
+prägte Toxizität von Selen- und Tellurverbindungen hingewiesen.
+
+
+7.3.3.2. Rigidisieren der Seitenkette
+
+Eine weitere Möglichkeit ist das Rigidisieren der Seitenkette. Dies kann z. B. durch
+Cyclisieren oder durch Benzannellierung erfolgen.
+
+Das Aminotetralinderivat 38 (5,8-ADT) wurde 1973 auf biologische Aktivitäten ge-
+prüft und daraufhin, ob es als Teilstruktur von LSD (48) sowie als rigides Konformer von
+psychoaktiven Phenethylaminen die motorische Aktivität zu erhöhen vermag und welchen
+Einfluss es auf die serotonerge sowie noradrenerge Neurotransmission hat [13]. In Mäusen
+senkte es die Motilität, Das offenkettige 2,5-DMA (2) hingegen erhöhte die motorische
+Aktivität bei gleicher Dosierung (20μmol/kg). 5,8-ADT (48) vermochte jedoch Norepine-
+phrin aus adrenergen Nervenendigungen freizusetzen, und eine gewisse α-adrenerge Akti-
+yität in anästhesierten Hunden wurde ebenfalls festgestellt. Die Pharmakologischen Daten
+waren etwas widersprüchlich, und es ließ sich nicht eindeutig einer Wirkklasse zuweisen.
+Die α-adrenerge Aktivität wurde später bestätigt [38]. N-alkylierte Derivate sind von Arneric
+et al. beschrieben [39].

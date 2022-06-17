@@ -1,0 +1,33 @@
+Substanzen des Typs 52 wurden 1988 von der Firma Lundbeck patentiert und sollten
+allgemein zur Behandlung von ZNS-Krankheiten dienen [44]. Verbindungen des Typs 53
+sollten als Sauerstoff-Isostere von Tetralin-Derivaten dienen [45] und wurden auf ihre
+biologische Aktivität untersucht [46]. Das Benzoxepin 54 wurde synthetisch beschrieben
+und diente als Intermediat zur Herstellung eines bromierten Analogs (siehe Kapitel 8.5.27.2),
+das für die weitere Erforschung der aktiven Konformation von Phenethylaminliganden am
+5-HT2A-Rezeptor hilfreich war [47].
+
+
+7.3.4. Ersatz der MeO-Gruppen
+
+Da viele Phenylalkylamine mit einer 2,5-Dimethoxysubstitution biologische Aktivitäten
+zeigen, kam natürlich — nebst der Frage nach den Auswirkungen von Variationen des Subs-
+titutionsmusters — auch die Erforschung anderer Substituenten in der 2- oder 5-Position in
+Gang.
+
+Die beiden Forscher Barfnecht und Nichols untersuchten eine Reihe von Bromomethoxy-
+amphetaminen, darunter auch das Derivat 55 [48]. In Ratten zeigte es bis zu einer Dosierung
+von 25mg/kg keine Wirkung auf das Verhalten. Allerdings erwähnten die Autoren, dass die-
+ses Resultat mit Vorsicht zu interpretieren sei, da auch 2,5-DMA (2) in einem Tierversuch
+inaktiv war, obschon es im Menschen mäßig aktiv ist. Von Interesse könnten Analoge der
+Verbindung 55 sein, die zusätzlich einen kleinen, lipophilen Rest in der 4-Position tragen.
+
+Glennon et al. zeigten, dass die beiden 2-Hydroxyverbindungen 56 und 57 eine um den
+Faktor 1.8 und 1.5 höhere Affinität zu Serotonin-Rezeptoren (nicht spezifiziert) aufweisen
+als ihre 2,5-Dimethoxyanaloga 2C-H (1) und 2,5-DMA (2) [49]. Weiter erwähnt wurden auch
+deren N,N-Dimethylderivate sowie ein 2-O-Benzylanalog, die jedoch allesamt deutlich tief-
+ere Affinitäten zeigten.
+
+
+
+Wird die 5-MeO-Gruppe durch eine Hydroxy-Gruppe ersetzt (Substanz 62), so geht dies
+mit einer leichten Senkung der Affinität zum 5-HT2A-Rezeptor einher (siehe Tabelle 2) [50].

@@ -1,0 +1,20 @@
+Offenbar scheinen die Bindungsregionen der Sauerstoff-Atome relativ tolerant gegen
+über strukturellem Modifikationen zu sein, solange die one pair-BleketönenideeiAlkoxy-
+gruppen durch Fixierung zur entsprechenden Ausrichtung wie in Abb, 4 gezwungen werden.
+	Dieser Fakt lässt neue Ideen aufkommen, und so sind eine Vielzahl von weiteren Mo-
+difikationen wie weitere Alkylreste oder auch F-Atome an den bestehenden Heterocyclen
+denkbar.
+
+
+Das Weglassen der Heteroatome und Bilden eines Anthracen-Systems Ist eine weitere
+Modifikation, die untersucht wurde (ANTH-Verbindungen; siche auch Kapitel 8.5.27.2):
+
+
+In dem Zusammenhang sei darauf hingewiesen, dass die Gruppe von Glennon eine Viel-
+zahl an AMDA-Derivaten auf ihre Bindungsfähigkeit am 5-HT2A-Rezeptor untersuchte (sie-
+he Kapitel 3.15) [33]. AMDA (24; Ki= 20nM, [3H]Ketanserin markiert) stellt ein Struktura-
+nalogon zu den Antidepressiva des Imipramin-Typs (= trizyklische Antidepressiva; "TCAs,
+siehe Exkurs Antidepressiva) dar, deren biologisches Prinzip primär durch Hemmung der
+Wiederaufnahme von Monoaminen erfolgt. Imipramin zeigt aber auch zum 5-HT2A-Rezep-
+tor eine nicht unwesentliche Affinität (Ki= 94nM). Gegenüber den Monoamin-5-HT- und
+NE-Transportern zeigte AMDA (24) im Gegensatz zu Imipramin keine Affinität.

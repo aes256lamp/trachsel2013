@@ -1,0 +1,35 @@
+Durch die Entdeckung, dass AMDA (24) potent an den 5-HT2A-Rezeptor bindet, wurde
+eine Vielzahl an strukturellen Analoga untersucht [33] (siehe Kapitel 3.15). Das komplett
+aromatisierte AMDA-Analogon 25 zeigte eine deutlich schwächere Bindungskonstante als
+AMDA (24) (Ki= 2300nM vs. 20nM) gegenüber dem 5-HT2A-Rezeptor [33]. In AMDA (24)
+sind die beiden Aromaten zueinander gewinkelt, verursacht durch den Dihydro-1H-Benzen-
+Ring in der Mitte. Das aromatische Anthracen-System ist in 25 hingegen planar, was keine
+optimale Bindung mehr zulässt (Abb. 5) [33].
+
+
+Abb. 5. Räumliche Anordnung des planaren
+Anthracen-Derivats 25 (dunkel) sowie des gewin-
+kelten AMDA (24, hell). Optimiert mittels Force-
+field-Methode des Programms Moloc [109-111].
+
+
+Die potenten DFLY-Verbindungen (siehe oben; z. B. Substanz 20) weisen einen um eine
+C-Einheit längeren Spacer zwischen der aromatischen Einheit und der Aminogruppe auf als
+25. Nun stellte sich die Frage, ob ein strukturelles Verschmelzen der beiden Substanzen zu
+einer Steigerung der Affinität am 5-HT2A-Rezeptor führt (Substanzen 2C-H-ANTH (26) und
+27-28, Abb. 6). Die komplett aromatisierte Substanz 25 trägt zwar quasi den planaren, erwei-
+terten Arylteil der FLY-Verbindungen, hat jedoch eine kürzere Seitenkette. Die am 5-HT2A-
+Rezeptor hochaffinen Phenethylamine tragen alle zwei C-Atome zwischen dem Arylteil und
+der Aminogruppe. Es könnte nun sein, dass AMDA (24) durch die Anwinkelung der beiden
+Aryleinheiten die kürzere Seitenkette etwas zu kompensieren mag, die Gesamtgeometrie die
+notwendigen Bindungsstellen erreicht und so dennoch eine hohe Interaktion in der Bin-
+dungsregion am Rezeptor entsteht.
+	Trachsel und Hadorn stellten 2C-H-ANTH (26) her [34], und eine Bestimmung der Ki-Werte
+zeigte, dass 2C-H-ANTH (26; Ki= 337nM) [108] gegenüber dem [3H]Ketanserin vorbelade-
+nen h5-HT2A-Rezeptor rund 7-mal affıner als 25 (Ki= 2300nM) [33] ist. Am [3H]-Mesulergin
+markierten r5-HT2C-Rezeptor zeigte 26 ein Ki= 19nM [108]. Es wird angenommen, dass
+diese Verbindung einen antagonistischen Bindungscharakter am 5-HT2A-Rezeptor aufweist
+(siehe Kapitel 8.5.27.2). Interessanterweise unterscheiden sich die Affinitäten von 2C-H-
+ANTH (26) und dem Dihydro-Analogon (29; Ki= 480nM) nur unwesentlich [33].
+	Von Interesse waren auch die in der Paraposition substituierten ANTH-Verbindungen
+(siehe Kapitel 8.5.27.2).

@@ -1,0 +1,22 @@
+7.2.1) [4]. So zeigte die Substanz 58 durch Weglassen der 5-MeO-Gruppe sogar höhere
+Bindungsaffinitäten zum 5-HT2A-Rezeptor als die Vergleichssubstanz 59 ([3H]Ketanserin
+markierte r5-HT2A-Rezeptoren, und [3H]Mesulergin markierte r5-HT2C-Rezeptoren, Abb. 8).
+Nun stellte sich die Frage, ob die Funktionalität nebst der Fähigkeit der Moleküle, am Re-
+zeptor zu binden, erhalten bleibt, wenn man den 4-Substituenten in die 5-Position verschiebt
+(Substanz 60) [50]. Dies schien sich zu bestätigen (beides Antagonisten) und so bindet 60 am
+r5-HT2A-Rezeptor mit einem Ki = 20nM und am r5-HT2C-Rezeptor mit einem Ki = 220nM.
+Rangisetty et al. präsentierten mit ihrer Studie eine Reihe von weiteren 2,5-disubstituierten
+Phenylalkylaminen, um Aufschluss über diese Frage zu erhalten (Tabelle 2). Es zeigte sich
+demnach, dass je nach 5-Substituent eine hohe Affinität erhalten bleibt, und das 2,5-Di-
+methoxy-Substitutionsmuster kein absolutes strukturelles Erfordernis mehr ist. Es ist aller-
+dings anzumerken, dass Substanzen wie 60 oder 70 — im Gegensatz zu den psychedelisch
+wirksamen, 4-substituierten 2,5-Dimethoxyphenylalkylaminen — antagonistischen Bindungs-
+charakter am 5-HT2A-Rezeptor zeigen. Aus den Resultaten interpretierten Rangisetty et al.,
+dass multiple substituentenabhängige Bindungsmodi möglich sind [50].
+
+Tabelle 2. (falls nicht anders angegeben stammen die Werte aus [50])
+
+
+a) [125I)DOI markiert, geklonte Humanrezeptoren [26]. b) Werte aus [51]. c) [125I]DOI markiert, geklonte
+Humanrezeptoren [52]. d) [30]. e) nicht bestimmt.
+

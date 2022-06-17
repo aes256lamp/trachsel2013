@@ -1,0 +1,30 @@
+Die drei Naphthofurane 45-47 stellen Phenethylamin Ergolin-Hybride dar. Die Idee war,
+dass sie Teilstrukturen von Phenethylaminen sowie von LSD (48) tragen und somit mögli-
+cherweise sehr potente 5-HT2A-Rezeptorliganden sein könnten [35] (siche dazu auch Diskus-
+sion in Kapitel 8.5.27.1). Substanz 45 diente als synthetisches Intermediat. Die beiden Ver-
+bindungen 46 und 47 wurden auf ihre Affinitäten an den 5-HT2A- und 5-HT1A-Rezeptoren
+und 46 zusätzlich als Liganden an den Muscarin-M1-M5-Rezeptoren getestet.
+
+Beide Verbindungen erwiesen sich als niederaffin an den Serotoninrezeptoren. Da man
+bei einem Rezeptorscrening feststellte, dass das bromierte Analog von 45 einerseits zwar eine
+hohe Affinität am 5-HT2A-Rezeptor hatte ([1251]DOI markierter h5-HT2A-Rezeptor, Ki=
+13nM), andererseits jedoch im tiefen nanomolaren Bereich an allen getesteten Muscarinre-
+zeptoren band, wurde auch 46 auf seine Bindungskonstanten getestet. Jedoch zeigte es auf
+den M1-M5-Rezeptoren wesentlich schlechtere Bindungseigenschaften (Ki= 650-1100nM).
+
+Aus diesen Ergebnissen sowie aufgrund der Tatsache, dass solche Substanzen in mit LSD
+trainierten Ratten nicht zu substituieren vermochten, schlossen die Autoren, dass die Subs-
+tanzen des Typs 45-47 resp. deren Ringsystem durch ihre schlechten Bindungskonstanten
+an Serotoninrezeptoren nicht bioisoster mit dem Ringsystem von LSD sind. Somit wäre
+die Bindungsorientierung von psychedelischen Phenethylaminen, entgegen früheren Hypo-
+thesen, nicht direkt deckungsgleich mit der von LSD. In Ref. [36] wird erwähnt, dass das
+bromierte Analog von 45 ein Antagonist sein könnte und den Rezeptor nicht zu aktivieren
+vermag, was eine Erklärung für das Fehlen einer Substitution in Diskriminationsstudien mit
+LSD sein könnte.
+
+
+Einen weiteren Approach präsentierte die Gruppe von Nichols im Jahre 2003 mit Hilfe
+der Substanzen 49-51 sowie deren in Position 8 bromierten Analoga [36]. Die Verbindun-
+gen zeigten im Gegensatz zu ihren bromierten Analoga deutlich geringere Affinitäten zum
+r5-HT2A Rezeptor ([125I]DOI markiert: Ki= 700nM, 310nM und 200nM, respektive; Werte
+und Diskussion der Bromanaloga siehe Kapitel 8.5.27.1).
