@@ -1,0 +1,38 @@
+Tabelle 3. Weitere 2,5-disubstituierte Phenylalkylamine (Fortsetzung)
+
+
+
+a) A: Getestet als Substrat der Serotonin-N-acetyltransferase 5-HT-NAT, B: Als Metabolıt von Methoxy-
+phenamin (2-methoxy-N-methylamphetamine) im Menschen identifiziert; C: Synthese; D: Die Amide
+davon wurden als Liganden der Iodomelatonin-Bindungsstellen geprüft; E: Patentiert zur Behandlung
+von Epilepsie, Hirnschlag und Hirn- sowie Spinaltrauma; F: Forensische Analyse; G: 13C-NMR-Analytik;
+H: Serotoninrezeptor-Affinitäten; I: auf die hypotensive Wirkung geprüft; J: auf die Fähigkeit hin, NE
+freizusetzen und Aufnahme zu hemmen, geprüft; K: Studien zur Neurotoxizität; L: Fähigkeit geprüft,
+ob NE oder DA erschöpft wird; M: Freisetzung und Aufnahmehemmung von NE im Mäuseherz; N: als
+Haarfärbemittel patentiert; O: in vitro COMT-Inhibition; P: Wirkung auf Blutdruck; Q: Oxidationsstudien;
+R: MAO-Inhibition geprüft; S: Als Stickstoffmonoxidsynthaseinhibitoren patentiert; T: Auf die Erschöp-
+fung von Hirnmonoaminen geprüft; U: Enzymatische oxidative Deaminierung; V: PNMT-Inhibition; W:
+‚Als gefäßverengendes Agens sowie analeptische Wirkung, Toxizität und anorektische Wirkung geprüft;
+X: Blockierung von ß-Rezeptoren; Y: Analgetische Wirkung; Z: Als NMDA Rezeptor-Ionophor-Komplex-
+Antagonisten patentiert; AA: Als Blockierer des Calciumeintritts patentiert; AB: PET-Studien in Primaten;
+AC: DA-Transporter-Interaktion; AD: Derivate zur Behandlung von Harninkontinenz; AE: Untersucht auf
+die Regulierung des Pflanzenwachstums; AF: Effekt auf die Herzarrythmie, induziert durch Ouabain oder
+Acetylstrophanthidin; AG: als Anorektikum patentiert; AH: Agens für bildgebende Studien.
+
+
+7.3.6. Anderweitige strukturelle Abwandlungen
+
+Nach der Entdeckung, dass Derivatisierungen (β-Hydroxygruppe, N-Alkylierungen oder
+Seitenkettenverzweigungen) von 2C-H (1) zu Verbindungen mit pozentiell interessanter bio-
+logische Aktivität führen [2], wurden 1948 pharmakologische Daten (in vitro und in vivo) zu ei-
+ner Vielzahl solcher Substanzen präsentiert [93]. Es zeigte sich, dass die Steigerung des Blut-
+drucks bei vielen Verbindungen ausgeprägt war. Die Anwesenheit einer β-Hydroxygruppe
+erhöhte und das Vorhandensein einer α-Methylgruppe senkte die Pressoraktivität.
+	Aus diesen und vielen nachfolgenden Untersuchungen hat das Derivat Methoxamin
+(129) den Weg auf den pharmazeutischen Markt gefunden. Es wird unter dem Handelsna-
+men Vasoxin® von GlaxoSmithKline vermarktet. Durch seine Stimulierung von adrenergen
+α1-Rezeptoren erzeugt es schnell und länger anhaltend eine Konstriktion der Blutgefäße und
+kann somit zur Behandlung von gefährlich werdendem Blutdruckabfall z. B. während Ope-
+rationen verwendet werden [94, 95]. Methoxamin ist ein reiner peripherer Vasokonstriktor,
+und als Begleiterscheinung kann Bradykardie auftreten,
+

@@ -1,0 +1,25 @@
+Das strukturell interessante Molekül 136 trägt eine [2.2]Paracyclophan-Struktur. Es wur-
+de 1991 in einem Patent synthetisch beschrieben und diente als Zwischenprodukt zur Her-
+stellung von kardiovaskulär aktiven Verbindungen [99]. Man beachte die gewisse strukturelle
+Verwandtschaft zu den Sandwichverbindungen im Kapitel 5.3, und im Kapitel 3.14.3 sind
+weitere Cyclophane erwähnt.
+
+
+2,5-Dimethoxyphenylpiperazin (137) und 2,5-Dimethoxybenzoylpiperazin (138) wurden
+als potenzielle serotonerge Agenzien untersucht [100]. Das Phenylpiperazin mTFMPP (139)
+bindet an diverse Serotoninrezeptorsubtypen im nanomolaren Bereich [100]. Substanz 137
+bindet an 5-HT1- sowie 5-HT2-Rezeptoren rund 50-mal schlechter als mTFMPP (139). Das
+Benzoylpiperazin 138 war an beiden Rezeptoren essenziell inaktiv. In Ratten vermochte 137
+weder für DOM (5) noch für mTFMPP (139) zu substituieren [100]. Die Gruppe der Phenyl-
+und Benzylpiperazine sind ausführlich im Kapitel 3.12.4.2 beschrieben.
+
+
+Die Verbindungen 140 und 141 tragen einen Thiophenring anstelle eines Benzenrings. Sie
+könnten Bioisostere der Substanzen 2,5-DMA (2) sowie 63 (ohne α-Methyl-Gruppe) sein.
+Das Derivat 141 wurde durch Vonlanthen synthetisch beschrieben [101, 102].
+
+
+
+Im Jahre 1985 beschrieben Gol'dfarb et al. die Synthese und Pharmakologische Aktivitäten
+wie akute Toxizität, Verhalten, Körpertemperatur und die motorische Aktivität in Mäusen
+(i.p. Verabreichung) von den Thiophen-Derivaten 142-144 [103]. Allgemein stellten sie für

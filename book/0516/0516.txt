@@ -1,0 +1,66 @@
+Substituenten (Benzylreste) konnten Liganden für den 5-HT2A- sowie 5-HT2C-Rezeptor erzielt
+werden, die trotz Fehlen des wichtigen 4-Substituenten in 2,5-Dimethoxyphenylalkylaminen
+Affinitäten zeigten, die ebenfalls im Bereich der potenten 2,4,5-trisubstituierten Phenylalkyl-
+amine liegen (z.B. Substanz 11; Ki 5-HT2A= 1.19nM; Agonist).
+	Durch Einführen von OH-Gruppen in der ß-Position von 2,5-Dimethoxyphenyl-
+alkylaminen sowie Alkylsubstituenten am Stickstoff erhält man Substanzen, die mit α- und/
+oder ß-Rezeptoren interagieren.
+	Anschließend eine grobe Übersicht der Struktur-Aktivitäts-Beziehungen, ausgehend von
+einem 2,5-Dimethoxyphenylalkylamin (Abb. 9).
+
+
+
+
+
+Abb. 9. Qualitative Struktur-Aktivitätsbeziehungen der 2,5-disubstituierten Phenylalkylamine
+
+Heteroatome:
+OH-Gruppe führt zu
+kardiovaskulären Effekten.
+
+Alkylierung:
+nahezu unerforscht.
+
+
+Ersatz durch große,
+lipophile Gruppen
+(z.B. 3-Phenylpropyl)
+führt zu potenten 5-HT2A/C-
+Antagonisten.
+
+
+Rigidisierung
+Konformationelles Einschränken
+einer der 2,5-MeO-Gruppen in
+einen Benzodihydrofuran- oder
+Benzofuranring zu den
+3- oder 6-Positionen, respektive,
+mimt die aktive Konformation dieser
+Liganden an den 5-HT2A/C-Rezeptoren;
+dasselbe gilt für das simultane
+Einbinden beider MeO-Gruppen;
+führt zu potenten Liganden.
+
+Alkylierung:
+neuronal:
+für H und Me: Liganden binden
+am 5-HT2A-Rezeptor
+im mikromolaren Bereich.
+
+Humanwirkung:
+Rα,=H -> inaktiv,
+Rα.=Me -> schwach stimulierend
+Rα,=Et -> inaktiv
+
+
+Alkylierung:
+
+- Monoalkylierung mit
+  Methyl oder Propyl senkt
+  5-HT2A/C-Affinitäten.
+- Monoalkylierung mit
+  Benzyl steigert
+  5-HT2A/C-Affinitäten massiv.
+  (potente Agonisten)
+- Dimethyl senkt deutlich
+  5-HT2-Affinitäten

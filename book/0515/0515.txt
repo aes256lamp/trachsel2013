@@ -1,0 +1,40 @@
+die Substanzen moderate Toxizitäten und eine schwache Aktivität betreffend der stimulieren-
+den und antidepressiven Wirkung fest. Substanz 143 erzeugte eine gewisse Intensivierung
+der motorischen Aktivität, und die beiden anderen Substanzen bewirkten nur eine schwache
+Stimulierung der Versuchstiere (1-10mg/kg).
+
+Substanz 145 wurde zusammen mit anderen Thienylalkylaminen mehr als 20 Jahre früher
+vom gleichen Forscher synthetisch beschrieben [104]. Die Idee für solche Substanzen wurde
+damit begründet, dass Schwefel- und 2-Aminoethylgruppen einen gewissen Schutz gegen io-
+nisierende Strahlen aufweisen (Radioprotektoren). Die Autoren des Artikels [104] stammen
+aus der ehemaligen UdSSR, und die Publikation wurde während des Kalten Krieges (1962)
+erstellt. Man erhoffte sich offensichtlich, wie auch aufseiten der Amerikaner [105, 106] und
+der Japaner [107], mit Hilfe schwefelhaltiger Phenylalkylamine einen gewissen Schutz gegen
+die durch einen atomaren Angriff verursachte radioaktive Strahlung zu erlangen. Siehe dazu
+auch die Schwefelverbindungen in Kapitel 3.5.
+
+
+
+Zusammenfassung
+
+Eine Vielzahl an 2,5-disubstituierten Phenylalkylaminen wurde hergestellt und pharma-
+kologisch untersucht. Die 2,5-Dimethoxyphenethylamineinheit ist Grundstruktur zahl-
+reicher biologisch hochwirksamer Substanzen: Wird ein lipophiler Rest in der 4-Position
+des Aromaten eingeführt, so erhält man potente Liganden für den Serotonin 5-HT2A- sowie
+5-HT2C-Rezeptor (siehe Kapitel 8.5), und viele davon sind potente Psychedelika. Ohne diesen
+4-Substituenten zeigen 2C-H (1) und 2,5-DMA (2) keine nennenswerten pharmakologischen
+Aktivitäten und ihre Affinitäten zu den 5-HT2-Rezeptoren liegen lediglich im mikromolaren
+Bereich. Es konnte aber auch gezeigt werden, dass ebenfalls potente Liganden erhalten wer-
+den (z.B. Substanzen 60 und 70; Ki 5-HT2A= 20nM und 13nM, respektive; beides Antagonis-
+ten), wenn die 5-MeO-Gruppe in 2C-H (1) und 2,5-DMA (2) mit einem größeren, lipophilen
+Substituenten ersetzt wird.
+	Mit einer Vielzahl an rigiden analogen Verbindungen (z. B. Substanzen 18-20) wurde
+dargestellt, welches die aktive Konformation von 2C-H (1) und 2,5-DMA (2) am 5-HT2A- so-
+wie 5-HT2C-Rezeptor ist. Obwohl wiederum deren 4-substituierte Analoga zu den erheblich
+potenteren Liganden führen (Kapitel 8.5.27.2), zeigt das aktivere R-Enantiomer der Verbin-
+dung 20 trotz Fehlen eines 4-Substituenten eine Bindungskonstante (Ki 5-HT2A = 1.5nM), die
+im Bereich der potentesten, konformationell nicht eingeschränkten 2,4,5-trisubstituierten
+Phenylalkylamine wie DOB (4) liegt. Jedoch weist das 4-unsubstituierte Derivat 20 eine eher
+tiefe funktionelle Potenz auf.
+	Alkylierungen am basischen Stickstoff sind für ‚gewöhnlich der psychopharmakologischen
+Aktivität sowie der Rezeptoraffinität stark abträglich (z. B. Strukturen 8-9). Mit Hilfe geeigneter

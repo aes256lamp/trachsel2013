@@ -1,0 +1,23 @@
+Das Einführen einer N-Isopropylgruppe in Methoxamin (129) führt im Gegensatz zu
+Methoxamin zu einer Blockierung von β-Rezeptoren [80].
+
+Es zeigte sich, dass in verschiedenen Phenethylaminen mit einer 2,4,5-Trisubstitution
+oder einer 3,4-Disubstitution durch Einführen einer OH- [16], MeO- [16] oder Ketogruppe
+[96] in der β-Position die Verbindungen psychoaktiv bleiben, wenn teils auch mit einem
+veränderten Wirkspektrum. Nun stellte sich ebenfalls die Frage, was geschieht, wenn in der
+ß-Position ein kleiner Alkylrest eingeführt wird. Das Derivat 130 diente als synthetisches
+Intermediat zur Herstellung von BMB (131), das psychoaktive Eigenschaften aufweist [53]
+(siehe Kapitel 8.5.25). Das Derivat 132 wurde synthetisch beschrieben [97].
+
+
+Das Derivat 133 trägt zwischen dem Arylteil und der Aminogruppe drei C-Atome. Es
+wurde 1978 innerhalb einer Reihe von diversen Phenylalkylaminen auf die Fähigkeit hin
+gemessen, an Serotoninrezeptoren (unspezifisch) zu binden [21]. Es zeigte dabei eine deut-
+lich geringere Affinität als beispielsweise DOB (4) oder DOM (5), was angesichts der N,N-
+Dimethylgruppe (siehe Kapitel 8.5.26) und der fehlenden Substitution an der 4-Position
+jedoch nicht verwunderlich ist (siehe Kapitel 8.5.1).
+
+
+2,5-Dichlortranyleypromin (134) ist ein dem potenten MAO-Hemmer Tranyleypromin
+(135) Analoges (Stereochemie nicht erwähnt). Es zeigte jedoch nur eine äußerst schwache
+Inhibition der MAO [98].
