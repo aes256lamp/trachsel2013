@@ -1,0 +1,31 @@
+7.3. 2,5-Disubstituierte Phenylalkylamine
+
+Die 2,5-disubstituierten Phenylalkylamine sind in der Literatur stark vertreten. Einige
+Gründe hierfür sind darin zu finden, dass die 2,5-Dimethoxy-Anordnung die Teilstruktur
+potenter Psychedelika ist (siehe Kapitel 8.5). Da man relativ früh davon Kenntnis hatte,
+demnach viele Struktur-Aktivitäts-Studien getätigt und strukturelle Variationen unter Erhalt
+dieses Substitutionsmusters durchgespielt. Auch wenn diese Substanzen selber relativ wenig
+pharmakologische Aktivitäten zeigen, so wurden sie stets zum Vergleich mit den 2,4,5-tri-
+substituierten Phenylalkylaminen herbeigezogen.
+
+7.3.1. Die klassischen Vertreter 2C-H, 2,5-DMA und 4C-H
+
+Die wohl bekanntesten Vertreter dieser Substanzklasse dürften 2,5-Dimethoxyphen-
+ethylamin (2C-H, 2,5-DMPEA; 1) sowie 2,5-Dimethoxyamphetamin (2,5-DMA; 2) sein.
+Sie wurden in einer Vielzahl von SAR-Studien mit einbezogen. Von besonderem Interesse
+dürften die Aktivitäten von 2,5-DMA (2) verglichen mit den übrigen isomeren Dimethoxy-
+amphetaminen sein (möglich sind insgesamt sechs Isomere: 2,3-; 2,4-; 2,5-; 2,6-; 3,4- sowie
+3,5-Dimethoxysubstitution).
+
+
+
+2C-H (1) wurde erstmals 1932 synthetisch beschrieben [1]. 1940 wurden diverse N-Alkyl-
+derivate sowie Modifikationen (Verzweigungen, Hydroxylierung) an der Seitenkette synthe-
+tisch beschrieben und es wurde erwähnt, dass erste pharmakologische Untersuchungen zu
+solchen Verbindungen Hinweise auf biologische Aktivität gaben [2].
+
+Im Rahmen einer Analyse zur enzymatischen oxidativen Deaminierung wurde 2C-H (1)
+zusammen mit vielen anderen Phenethylaminen 1965 untersucht [3]. Es wurde ähnlich wie
+die anderen Stellungsisomere von löslicher Monoaminooxidase aus Kaninchenleber deami-
+niert (nur 2,6-Dimethoxyphenethylamin war resistent gegenüber dieser MAO, siehe Tabelle
+1 im Kapitel 8.6).

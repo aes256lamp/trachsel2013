@@ -1,0 +1,29 @@
+pophilie sowie der höheren intrinsischen Aktivität am Rezeptor potenter als die entsprechen-
+den Phenethylamine sind. Streng genommen wurde diese SAR jedoch nur bei den analogen,
+zusätzlich in 4-Position substituierten Phenylalkylaminen festgestellt, und daher zeigen sich
+hier möplicherweise Differenzen.
+	Das Anbringen von Substituenten in der 4-Position von 18 und 19 führte zu potenten
+Liganden am 5-HT2A-Rezeptor, die Bindungskonstanten im Bereich von DOB aufweisen,
+jedoch ist deren In-vivo-Aktivität enorm gesteigert (Gründe und weitere Erklärungen siehe
+Kapitel 8.5.27.2) [29] [30].
+
+Nun war also geklärt, dass gleichzeitig beide MeO-Gruppen rigidisiert werden dürfen,
+um eine hohe Affinität zu erlangen. Beide MeO-Gruppen liegen idealerweise in einer Ebene
+zum Benzenring, und die Ausrichtung der Lone-pair-Elektronen war dadurch geklärt. Dar-
+aus wurde das folgende Bindungsmodell postuliert [29] (Abb. 4):
+
+
+Abb. 4. Vereinfachtes, postu-
+liertes Bindungsmodell für
+Phenethylaminliganden am
+5-HT2A-Rezeptor [29].
+
+Eine darauffolgende Strukturabwandlung der Tetrahydrobenzodifuranstruktur war das
+komplette Aromatisieren zu einer Benzodifuran-Einheit:
+
+
+
+Die Gruppe von Nichols zeigte, dass Phenylalkylamine mit diesem Strukturelement vergli-
+chen mit den Tetrahydrobenzodifuranderivaten nochmals eine erheblich höhere Bindungsaf-
+finität aufweisen und deren In-vivo-Aktivität ebenfalls gesteigert ist (siehe Kapitel 85.272) [31]
+[30]. Untersucht wurde ferner das 4-unsubstituierte Benzodifuranylethylamin 20 (H-DFLY)

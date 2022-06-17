@@ -1,0 +1,22 @@
+immer noch ein Ki (r5-HT2A)= 60nM und Ki (r5-HT2C)= 525nM auf [18, 20]. Allerdings er-
+wiesen sich Verbindungen mit einem derart großen (lipophilen) Rest in Position 4 als Ant-
+agonisten.
+
+Wird hingegen die 5-MeO-Gruppe bei Substanzen mit kleinem Rest in Position 4 weg-
+gelassen (Substanzen 45 und 47-48, Abb. 2), so verliert man drastisch an Affinität, zumindest
+zum 5-HT2A-Rezeptor (Substanzen 7-9) [15] (Rezeptoren von Ratten; [3H]Ketanserin
+respektive [3H]Mesulergin markiert. Die Werte in Klammern sind neueren Datums [20]).
+	Obwohl nur eine limitierte Anzahl an Vergleichspaaten zur Verfügung steht, kann in-
+itial vermutet werden, dass zumindest Substanzen mit kleinen Substituenten in Position 4
+eine 2,5-Dimethoxysubstitution erfordern, um eine hohe Bindungsaffinität aufzuweisen.
+Trägt ein Phenethylamin einen großen, lipophilen Rest in Position 4, so ist die 2,5-Di-
+methoxysubstitution nicht mehr absolut unentbehrlich. Verbindung 52 weist somit am
+
+
+
+
+
+
+Abb. 2. Das Entfernen der 5-MeO-Gruppe von 2,5-Dimethoxyphenethylamin-Liganden mit kleinen
+4-Substituenten bewirkt am 5-HT2A-Rezeptor einen großen Affinitätsverlust.
+

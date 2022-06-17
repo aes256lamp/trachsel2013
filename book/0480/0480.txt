@@ -1,0 +1,25 @@
+Wie bereits erwähnt, tragen die für den Menschen potentesten Psychedelika des Phenethyl-
+amintypus eine 2,4,5-Trisubstitution. Dies geht mit der Affinität am Serotonin-5-HT2A-Rezeptor
+einher; Die agonistische Aktivierung dieses Serotoninrezeptor-Subtyps wird als Grundprinzip
+einer psychedelischen Wirkung von Phenylalkylaminen betrachtet (siehe Kapitel 8.5.1). 4-Brom-
+2,5-dimethoxyamphetamin (DOB; 48) gilt als eines der potentesten Phenethylamin-Psychede-
+lika im Menschen, und es bindet mit hoher Affinität an Serotonin r5-HT2A- und r5-HT2C-Re-
+zeptoren (Ki = 32nM und 64nM, respektive. [3H]Ketanserin und [3H]Mesulergin markiert) [20].
+	Die Erfahrungen aus Humanversuchen und Messungen der Bindungskonstanten, der
+funktionellen Aktivität am Rezeptor sowie Drug-Discrimination-Studien gaben lange Zeit
+Annlass zur Annahme, dass das oben erwähnte Substitutionsmuster (2,5-Dimethoxy und
+4-kleiner, lipophiler Rest) ein absolutes Erfordernis für eine hohe Affinität am 5-HT2A-Rezep-
+tor darstellt. Es konnte jedoch mit Hilfe der Substanzen 7-21 und 52 (Tabelle 1) gezeigt wer-
+den, dass je nach Eigenschaft des 4-Substituenten dieses Substitutionsmuster nicht mehr un-
+bedingt notwendig ist. So zeigte beispielsweise Substanz 15, welche die 5-MeO-Gruppe von 51
+nicht mehr trägt und einen 3-Phenylpropyl-Rest in der Position 4 besitzt, eine Bindungskon-
+stante von K (r5-HT2A)= 18nM und Ki (r5-HT2C)= 295nM [18, 20] ([3H]Ketanserin respektive
+[3H]Mesulergin markiert, Abb. 1). Die Substanz 15 zeigt demnach eine rund achtmal höhere
+Affinität am 5-HT2A-Rezeptor als Verbindung 51. Sogar das Weglassen beider MeO-Gruppen
+ergibt bei entsprechenden 4-Substituenten noch eine hohe Affinität. So weist 4-PPPEA (52)
+
+
+
+Abb. 1. Das Entfernen der 5- sowie 2-MeO-Gruppe liefert immer noch Phenethylamin-Liganden mit
+hohen Affinitäten zum 5-HT2A-Rezeptor. Allerdings wird dazu ein großer, lipophiler 4-Substituent
+benötigt, und die daraus hervorgehenden Liganden sind partielle Agonisten oder Antagonisten.

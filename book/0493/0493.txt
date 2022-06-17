@@ -1,0 +1,19 @@
+Nun sind Pertz et al. 1999 sowie Elz et al. 2002 einer vorangehenden Arbeit von Glennon
+et al. [20] gefolgt und haben detaillierter gezeigt, dass das Anbringen eines N-Benzylrests an
+bereits 5-HT2-affinen Phenylalkylaminen eine deutliche Steigerung der 5-HT2A-Rezeptoraf-
+finität mit sich bringt [24] [25]. Dieser interessante Fakt motivierte die Gruppe von Nichols
+zu weiteren Untersuchungen zur Validierung der Topologie des 5-HT2A-Rezeptorhomolo-
+giemodells [26]. Dabei beschrieben sind auch die 2,5-Dimethoxyphenethylamine 8-12 (siehe
+auch Kapitel 8.5.26 für weitere Ausführungen).
+
+
+
+Vergleicht man nun die Ki-Werte (Tabelle 1), so lässt sich erkennen, welchen dramatischen
+Einfluss die Alkylierung zur Folge haben kann. Es bestätigte sich, dass einfache Alkylketten
+zu einer Abschwächung der Affinität führen und das Verwenden von Benzylresten
+ein enormer Gewinn bezüglich der Affinität darstellt [26]. So zeigt die Substanz 11 im
+Vergleich zu der Muttersubstanz 2C-H (1) eine rund 190-mal höhere Affinität (rHT2A).
+
+
+Tabelle 1. Fähigkeit verschiedener 2,5-Dimethoxyphenethylamine, (±)-[125I]DOI von Ratten- sowie Hu-
+man-5-HT2A-Rezeptoren zu verdrängen [26].

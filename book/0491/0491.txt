@@ -1,0 +1,47 @@
+struktur, Definitionen siehe Kapitel 8.5.2). Erstere sind generell weniger stabil gegenüber
+oxidativer Desaminierung und weniger lipophil, aber auch die intrinsische Aktivität am Re-
+zeptor ist tiefer (Gegenüberstellung der 2C- und 3C-Derivate siehe Kapitel 8.5.15). Die Tat-
+sache, dass bereits 2,5-Dimethoxyamphetamin (2) nur schwach psychotrop ist, und die 2C-
+Struktur sowie die geringen Rezeptoraffinitäten untermauern die Annahme, dass 2C-H (1)
+im Menschen keine psychotropen Effekte erzeugt.
+
+Die Verbindungen 2C-H (1) und 2,5-DMA (2) sind wertvolle Präkursoren, die durch
+elektrophile Substitution in der 4-Position (z. B. mit Brom, Iod, Chlor, Alkyl etc) Zugang zu
+einer Reihe von potenten Liganden an den Serotonin 5-HT2A/C-Rezeptoren erlauben.
+
+Das 3C-Homolog 2,5-Dimethoxyamphetamin (2,5-DMA; 2) wurde erstmals 1940 von
+Baltzdy und Buck in einer Arbeit über diverse Derivate von 2C-H (1) synthetisch beschrieben
+[2]. Vorangetrieben wurde ihre Arbeit dadurch, dass erste pharmakologische Untersuchungen
+zu Verbindungen mit einer 2,5-Dimethoxysubstitution Hinweise auf biologische Aktivität
+lieferten. Die letale Dosis von 2 in Mäusen (i.p.) wurde auf LD50= 135mg/kg bestimmt [5].
+	Benington und Morin testeten 2,5-DMA (2) auf die Fähigkeit, radioaktiv markiertes Nor-
+epinephrin (NE) aus Mäuscherz freizusetzen [6]. Es war diesbezüglich inaktiv. In Kaninchen
+vermochte 2,5-DMA (2) eine deutlich schwächere Hyperthermie als potente Psychedelika
+wie DOB (4) oder DOM (5) zu erzeugen, und die Effekte auf das EEG in Katzen sowie das
+Verhalten von Ratten deuten cher auf Verwandtschaft mit Amphetamin hin [7]. Die von psy-
+chedelisch wirkenden Verbindungen des Typs Phenylalkylamin erzeugte Hyperthermie steht
+allgemein in recht guter Korrelation mit der Wirkpotenz im Menschen [7].
+	In einer Drug-Discrimination-Studie zeigte die Gruppe von Glenmon, dass
+(±)-25-DMA (2, ED50 = 2.42mg/kg) in mit 5-Methoxy-N,N-Dimethyltryptamin (5-MeO-
+DMT: 34, ein Psychedelikum der Tryptaminklasse. ED50 = 3.0mg/kg) trainierten Ratten voll
+substituierte [8]. Auch für das Psychedelikum DOM (5; racemisch, ED50 = 0.44mg/kg) ver-
+mochte es vollumfänglich mit einem ED50 = 5.5lmg/kg in Ratten zu substituieren [9] [10]
+[11]. Es stellte sich heraus, dass nur das (-)-R-2,5-DMA für die Substitution verantwortlich
+ist; Es zeigte einen ED50 von 3.25mg/kg und das (+)-S-2,5-DMA vermochte nicht einmal
+partiell zu substituieren [9].
+	Glennon, Young und Hauck untersuchten weiter die Fähigkeit von racemischem 2 sowie
+vom (+)-S-Enantiomer, in amphetamintrainierten Ratten für (+)-S-Amphetamin (1.0mg/kg)
+zu substituieren [12]. Das Racemat 2 vermochte nur partiell zu substituieren, das (+)-S-En-
+antiomer war völlig wirkungslos. Das N-Methyl-2,5-DMA war ebenfalls wirkungslos. Weiter
+ist zu erwähnen, dass 2,5-DMA (2) die motorische Aktivität von Mäusen bei einer Dosierung
+von 4mg/kg zu erhöhen vermochte [13].
+	Die Gruppe von Reyes-Parada untersuchten diverse Amphetaminderivate auf die Fähig-
+keit hin, Monoaminoxidase A und B zu hemmen [14]. 2,5-DMA (2) zeigte im Vergleich zu
+den beiden Isomeren 3,4-Dimethoxyamphetamin (IC50 = 20μM) und 2,4-Dimethoxyam-
+Pphetamin (IC50= 0.6μM) eine äußerst schwache Inhibition der MAO-A (IC50 > 100μM).
+
+2,5-DMA (2) wurde im Menschen bisher nur spärlich untersucht. Es gibt aber Hinweise,
+dass es bei einer Dosierung von 80-160mg rund 6-8 Stunden eine Wirkung entfaltet [15].
+Diese scheint eher unangenehmer Natur zu sein, denn es wurde primär von einer physischen
+Stimulation berichtet, begleitet von Tremor und kardiovaskulären Nebenwirkungen. Psyche-
+delische oder sensorische Wirkungen wurden nicht erwähnt.

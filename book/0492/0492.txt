@@ -1,0 +1,38 @@
+Vergleicht man diese Umscreibungen mit den In-vitro- und In-vivo-Daten, so lassen sich
+einige Parallelen erkennen. Die Diekriminationsstudien ergeben für 2,5-DMA (2) eine zu
+DOM (6) rund 12-mal schwächere Wirkung [9]. Die Bindungsaffinitäten am 5-HT2A-Rezep.
+tor von 2,5-DMA (2) sind im Vergleich zu DOB (4) rund 150-mal tiefer [4]. Die für eine im
+Menschen durchschnittliche Dosis beträgt für DOM (6) 3-10mg, für DOB (4) 1-3mg und
+für 2,5-DMA (2) 80-160mg [16] [17]. Die Dosierungen reflektieren die In-vitro- sowie In-vivo-
+Daten durchaus.
+
+Es wurde herausgefunden, dass das Verlängern der Seitenkette ın DOM (5) zu einer
+α-Ethylgruppe mit einer drastischen Änderung der psychoaktiven W irkung einhergeht
+(DOM: 3-10mg, Wirkdauer 14-20h, klassisches Psychedelikum). So erwies sich das Derivat
+6 (ARIADNE, Dimoxamin oder auch BL-3912 bezeichnet, siehe auch Kapitel 8.5.24) als
+andersartig und zeigte keine Stimulation oder psychedelische Eigenschaften [16]. Trotzdem
+entfaltet es eine eigene Wirkung im Menschen, und so wurde es zusammen mit anderen
+α-ethylanalogen Verbindungen auf biologische Aktivitäten untersucht [16] [18].
+	Das α-Ethylhomologe von 2C-H (1) trägt den Namen 4C-H (sowie 2,5-DMB; 7) und
+wurde ebenfalls untersucht (Verhalten von Katzen) [18]. Es ist allerdings stark anzunehmen,
+dass es im Menschen frei von einer psychoaktiven Verbindung ist. Gründe hierfür liegen da-
+rin, dass bereits beim Homologisieren der Seitenkette von potenten Psychedelika wie DOM
+(5) die Wirkung drastisch abnimmt und zudem 2,5-DMA (2) auch eine sehr schwache Akti-
+vität im Menschen zeigt.
+	4C-H (7) wurde zusammen mit 2,5-Dimethoxyamphetamin (2) und 2,5-Dimethoxy-
+Phenethylamin (1) mit massenspektrometrischer Analytik für forensische Zwecke charak-
+terisiert [19].
+
+
+
+7.3.2. N-Alkylierungen
+
+Von Interesse war, wie sich eine N-Alkylierung bei Phenethylaminderivaten auf die phar-
+makologischen Eigenschaften auswirkt. Bei denjenigen mit psychedelischer Wirkung (me-
+diiert durch agonistische Interaktion am 5-HT2A Rezeptor) erwies sich eine N-Alkylierung
+der Wirkung in Menschen stark abträglich [16], was sich auch in den Bindungsaffinitäten
+widerspiegelte [20] (siehe Kapitel 8.5.26). Die Verbindungen 2C-H (1, Ki= 2.82μM) sowie
+2,5-DMA (2, Ki = 4.72μM, Tabelle 2, Kapitel 7.3.4) zeigten ohnehin schon tiefe Affinitäten
+an 5-HT2-Rezeptoren, und deren N,N-Dimethylanaloga waren noch weniger affın [21] [22-
+Auch das N-Propylderivat von 2,5-DMA (2) erwies sich mit einem Ki= 25.6μM rund fünfmal
+weniger affın als 2,5-DMA (2) [23]. 2

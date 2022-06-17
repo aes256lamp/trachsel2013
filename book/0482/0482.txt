@@ -1,0 +1,33 @@
+5-HT2A-Rezeptor einen Ki-Wert auf, der im Bereich des potenten Liganden DOB (48) liegt
+(41nM vs. 60nM; antagonistisch vorbelegt). Allerdings ist die Funktionalität wie bereits er-
+wähnt antagonistischer Natur.
+
+Trachsel et al. untersuchten, ob mit der Verbindung 12 der 5-MeO-Substituent durch den
+4-(2'-Methoxyphenyl)-Substituenten bis zu einem gewissen Grad mimetisiert werden kann
+[19]. Allerdings zeigte 12 (Ki, = 5320nM) ungefähr dieselbe Affinität wie Verbindung 11 (Ki =
+6720nM) [18] (5-HT2A-Rezeptoren von Ratten; [3H]Ketanserin markiert), und somit kommt
+dem 2'-MeO-Substituenten keine Bedeutung zu.
+
+
+Das folgende Bindungsmodell (Abb. 3) zeigt vereinfacht, wie 2,5-dimethoxy-4-substi-
+tuierte Phenethylamine 53 mit dem 5-HT2A-Rezeptor interagieren können [46]. Vermutlich
+lässt Substanz 12 keine für Agonisten optimale Bindung zu: Der 4-(2'-Methoxyphenyl)-Subs-
+tituent könnte zu groß sein, so dass ein antagonistischer Bindungsmodus vorliegt und die
+MeO-Gruppen für die Interaktion mit dem Rezeptor nur noch eine untergeordnete Rolle
+spielen (siche auch Abb. 1).
+
+
+Abb. 3. Stark vereinfachtes Bin-
+dungsmodell für 2,4,5-trisubstitu-
+ierte Phenethylamine (53) sowie
+geprüfte Hypothese, ob 12 mit dem
+4-(2'-MeO-phenyl)-Substituenten in
+einem gewissen Ausmaß die 5-MeO-
+Gruppe von 53 mimetisieren kann.
+
+
+Die Substanz 2,4-Dimethylamphetamin (2,4-DMeA, 38) wurde als potenzielles Anorekti-
+kum untersucht [32]. Es hat jedoch den pharmazeutischen Markt nicht erreicht. Das Derivat
+39 trägt den Namen Amiflamin (und auch FLA 336) und wurde eingehend als (eversibler)
+Inhibitor der Monoaminoxidase untersucht (z.B. [25-28, 33-35]). Das (+)-Enantiomer erwies
+sich bezüglich der MAO-A-Inhibition als potenter als das (-)-Enantiomer. Weiter vermochte

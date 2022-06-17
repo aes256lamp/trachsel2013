@@ -1,0 +1,37 @@
+Abb. 2. Den freien Elek-
+tronenpaaren (Lone-pair-Elek-
+tronen) der 2,5-Dimethoxy-
+gruppen von Phenethylaminen
+kommt bei der Interaktion
+mit den 5-HT2A- und 5-HT2C-
+Rezeptoren eine große Be-
+deutung zu.
+
+
+Oft hat sich gezeigt, dass bei biologisch aktiven Molekülen durch Rigidisierung der
+chemischen Struktur die Affinität zum Zielrezeptor erhöht werden kann. Flexible Struk-
+turen können durch ihre freie Drehbarkeit sehr unterschiedliche Konformationen anneh-
+men, wovon aber möglicherweise nur sehr wenige der aktiven Konformation am Target
+(z.B. Rezeptor oder Enzym) entsprechen. Wenn diese aktive Konformation sterisch und
+energetisch ungünstig ist, so ist die Wahrscheinlichkeit, dass diese Konformation vorliegt
+entsprechend klein. Wird nun durch chemisches Fixieren von Bindungen in einem Molekül
+diese aktive Konformation stabilisiert, so erhöht man die Anzahl der „aktiven“ Moleküle.
+Dadurch kann die normale Wahrscheinlichkeitsverteilung künstlich in die gewünschte Rich-
+tung getrieben werden.
+
+7.3.3.1. Rigidisierung der Methoxygruppen
+
+Nun kam die Frage auf, ob eine Anbindung einer oder beider MeO-Gruppen die akti-
+ve Konformation der 2,5-Dimethoxygruppen mimetisieren kann. So bot sich zunächst ein
+2,3-Dihydrobenzofuran-System an:
+
+
+
+Die Substanz 14 kann als Analog zum potenten Psychedelikum DOM (5) betrachtet wer-
+den. Formell betrachtet wurde die 4-Methylgruppe mit der 5-MeO-Gruppe verbunden. In
+LSD-trainierten Ratten erwies sie sich als nur wenig potent; sie substituierte mit einem knapp
+zehnmal höheren ED50-Wert (6.99uM/kg) als DOM (5; 0.89πM/kg) [27]. In Verbindung 15
+(ED50 = 5.23πM/kg) wurde die 5-MeO-Gruppe an die 6-PoSition angebunden [28]. Während
+Verbindung 14 den, für hohe Affinität wichtigen 4-Substituenten gewissermaßen noch trägt,
+weist Substanz 15 diesen nicht auf. Trotzdem zeigt 15 einen etwas tieferen ED50-Wert und ist
+somit leicht potenter als Verbindung 14 (Abb. 3).

@@ -1,0 +1,31 @@
+Die Methoxygruppe in 2-Position von 2,5-DMA (2) wurde ebenfalls in ein Dihydro-
+benzofuransystem eingebunden (Substanz 17); und die entsprechende 4-Iodo-Derivati-
+sierung führte ebenso zu einem potenten 5-HT2A/C-Rezeptor Agonist [29] (siehe Kapitel
+8.5.27.2). Auch hier zeigte sich demnach, dass das Rigidisieren der 2-MeO-Gruppe die Bin-
+dungsorientierung gut zu mimetisieren vermag.
+
+Als nun bekannt war, dass durch das Einbinden einer der beiden MeO-Gruppen in ein
+Dihydrobenzofuransystem potente Liganden am Serotonin-5-HT2A-Rezeptor zugänglich
+sind, musste die Vermutung geklärt werden, ob das simultane Einbringen beider MeO-
+Gruppen in ein Tetrahydrobenzodifuransystem zu einem zusätzlichen Gewinn an Affinität
+und In-vvo-Aktivität führt:
+
+
+Mit Verbindungen des Typs 18 und 19 sowie ihren 4-substituierten Analoga (siehe
+Kapitel 8.5.27.2) bestätigte die Gruppe von Nichols schließlich, dass durch diese struktu-
+relle Modifikation die Affinität am 5-HT2A-Rezeptor (sowie 5-HT2C) im Vergleich zu 2,5-
+DMA (2) ebenfalls erhöht ist. Die Bindungskonstanten betragen für 18 Ki= 2300nM und
+für 19 Ki= 2010nM [29], für 2,5-DMA (2) liegt der Wert bei Ki= 4720nM [4] (Achtung:
+[3H]Ketanserin markiert, 5-HT2A-Rezeptoren von Ratten. Die Verbindungen 14-16 wurden
+mit R-[I125]DOI markierten 5-HT2A-Rezeptoren von Ratten gemessen. Dies führt zu nicht
+direkt vergleichbaren Werten zwischen 14-16 und 18-19). An [3H]DOB markierten 5-HT2A-
+Rezeptoren der Ratte zeigte R-19 ein Ki= 54.4nM, (S)-19 ein Ki= 227nM und R-2,5-DMA
+(8) ein Ki= 2340nM [30].
+
+
+Ein interessanter Fakt ist, dass nur 2C-H-FLY (18) in LSD-trainierten Ratten zu substitu-
+ieren vermochte [29]. Der ED50 liegt mit einem Wert von 1.43mmol/kg nahezu im Bereich
+des potenten Psychedelikums DOB (4, R=Br; ED50= 1.12mmol/kg). Die Substanz H-FLY
+(19) erzeugte in der Drug-Discrimination nur eine partielle Substitution. Dies ist insofern er-
+staunlich, da für gewöhnlich Substanzen mit einer α-Methylgruppe (=Phenylisopropylamine
+oder Amphetamine) in vivo aufgrund der erhöhten metabolischen Stabilität, der größeren Li-

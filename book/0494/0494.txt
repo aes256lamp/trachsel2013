@@ -1,0 +1,36 @@
+Dies ist insofern beachtenswert, als lange die Meinung herrschte, dass Phenethylamine je-
+weils durch Substitution am Stickstoff viel weniger affın zum 5-HT2A-Rezeptor sind. Zudem
+ist es beachtlich, dass die Verbindungen 10-12 trotz Fehlen eines Substituenten in Position 4
+in Bereiche der Affinität gelangen, die sonst nur von 2,4,5-trisubstituierten Phenethylaminen
+wie z. B. 2C-I (13) erreicht oder unterschritten werden (Tabelle 1).
+
+
+
+Dasselbe Phänomen wurde auch für die 2,4-disubstituierten Phenethylamine beobachtet;
+dort konnte die 5-HT2A-Rezeptoraffinität bis um dem Faktor 200 erhöht werden (siehe Ka-
+pitel 7.2.1). Bei den ohnehin schon potenten 2,4,5-trisubstituierten Phenethylaminen (siche
+Kapitel 8.5.26) war der Effekt einer N-Benzylierung nicht mehr so dramatisch, aber bei
+einem Faktor 17 erhält man dadurch superpotente Liganden (Agonisten) mit Ki-Werten im
+Bereich von 50pM!
+
+7.3.3. Rigidisierungen der 2,5-disubstituierten Phenylalkylamine
+
+Obwohl einige der folgenden Substanzen eigentlich Tri- und Tetrasubstitution tragen,
+sollen sie hier aus Analogiegründen erläutert werden. Sie sind zwar oft als synthetische In-
+termediate zur Herstellung ihrer den trisubstituierten potenten Phenylalkylaminen analogen
+Verbindungen beschrieben, wurden aber oftmals auch auf ihre biologischen Eigenschaften
+untersucht. Sie dienten zur Aufklärung der aktiven Konformation von Phenylalkylaminen
+am Serotonin 5-HT2A- und auch 5-HT2C-Rezeptor sowie zur Erforschung der Frage, ob es
+durch strukturelle Modifikationen möglich wird, eine Selektivität zwischen den beiden Re-
+zeptorsubtypen zu erhalten. Es sei dazu auch auf das ausführliche Kapitel 8.5.27 verwiesen.
+	Nachdem man eine Vielzahl an potenten 5-HT2-Rezeptorliganden mit Phenethylamin-
+Struktur und einer Trisubstitution am Aromaten gefunden hatte, wovon sehr viele sich
+als psychedelisch wirksam erwiesen, stellte man sich zunehmend den Fragen, welche die
+Orientierung der MeO-Gruppen und deren Lone-pair-Elektronen betreffen. Klar war bis
+ins Jahr 1986, dass die Arylsubstituenten für optimale Aktivität in der 2- und 5-Position
+liegen und diese jeweils mit einer Methoxygruppe besetzt sein müssen. Für eine Interakti-
+on zwischen einem Wirkstoff und einem Target sind z. B. Van-der-Waals-Bindunge, Was-
+serstoffbrücken, π-Stacking, hydrophobe Wechselwirkungen oder in manchen Fällen gar
+kovalente Bindungen verantwortlich. In 2,5-Dimethoxyamphetamin (2) bieten sich nebst
+der Aminogruppe die Lone-pair-Elektronen der MeO-Gruppen zum Bilden von Wasser-
+stoffbrücken an (Abb. 2):

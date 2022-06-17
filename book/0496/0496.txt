@@ -1,0 +1,15 @@
+Dies widerspiegelt sich noch deutlicher in den R-[I125]DOI markierten r5-HT2A-Rezeptor
+Affinitäten: Ki(5)= 18.6nM, Ki(14)= 388nM und Ki(15)= 146nM [28]. Im Vergleich zeigte die
+Aexible Muttersubstanz 2,5-DMA (2) eine Affinität von Ki= 465nM, und damit bestätigte sich,
+dass die Substanz 15 die aktive Konformation von 2 gut mimetisiert. Verbindung 14 zeigt zwar
+ebenfalls eine leicht höhere Affinität, es ist aber zu beachten, dass sie zusätzlich einen Subs-
+tituenten in der 4-Position trägt, was sich zugunsten einer besseren Wechselwirkung mit dem
+Rezeptor auswirkt (Abb. 3). Bestätigt werden konnte dieser Zusammenhang durch Einführen
+eines Substituenten in die 4-Position von Substanz 15: So zeigte Substanz 16 eine beachtliche
+Bindungskonstante von Ki(16)= 3.1nM und ist somit sechsmal affiner als DOM (5).
+
+
+
+Abb. 3. Einfluss des Rigidisierens der MeO-Gruppen von 2,5-DMA (2) auf die Affinitäten zum  5-HT2A-
+Rezeptor sowie auf die Fähigkeit der Substanzen, in LSD-trainierten Ratten zu substituieren [27. 28].
+
