@@ -1,0 +1,39 @@
+7.2.1. Auswahl einiger 2,4-disubstituierter Phenylalkylamine
+
+Bedeutende Vertreter dieser Substanzklasse sind 2,4-Dimethoxyphenethylamin
+(2,4-DMPEA; 1) sowie 2,4-Dimethoxyamphetamin (2,4-DMA; 5). Das 2,4-DMPEA (1) zeigt
+eine eher schwache Affinität am h5-HT2A-Rezeptor ((±)-[125I]DOI markiert: Ki= 298nM;
+[3H]Ketanserin markiert: Ki = 999nM) [4]. Es darf angenommen werden, dass es im Men-
+schen ohne psychoaktive Wirkung ist (Begründung siche weiter unten bei 2,4-DMA (6); hin-
+zu kommt, dass es keine &-Methylgruppe resp. keine Amphetaminstruktur trägt, was einen
+schnelleren Abbau durch die Monoaminoxidase MAO bedeuten kann).
+
+
+
+Allgemein ist bekannt, dass das Einführen von Alkylsubstituenten am Stickstoff von
+Phenylalkylaminen zu einer dramatischen Abnahme der HT,-Rezeptor-Affinitäten [4, 40]
+sowie der psychoaktiven Wirkung [41] zur Folge hat. Nun haben vor kurzem Braden et al., ge-
+leitet von den Entdeckungen durch Glennon et al. [40] Pertzet al. [42] und E/:etal. [43] (siehe
+auch Kapitel 8.5.26) eine überraschende Entdeckung gemacht [4]. Sie zeigten, dass das Ein-
+führen von Benzylsubstituenten am Stickstoff entgegen früheren Erwartungen eine drama-
+tische Zunahme der 5-HT2A-Rezeptoraffinität mit sich bringen kann. Die vorhergehenden
+Arbeiten [40, 42, 43] zeigten diesen Effekt zunächst an trisubstituierten Phenylalkylaminen,
+die bereits ohne N-Benzylsubstituent hohe Affinitäten aufweisen. Dieses Konzept scheint
+jedoch auch an wenig affınen Liganden zu funktionieren; so erhöhten sich gegenüber dem
+N-unsubstituierten 2,4-Dimethoxyphenethylamin (1) für 24-NB (2), 24-NBOMe (3) und
+24-NBOH (4) die Affinitäten (Ki-Werte, (±)-[125I]DOI Markierung) um den Faktor ~11,
+~174 und ~197 respektive [4]. (Anm.: Bereits Glennon et al. stellten Mitte der 1990er Jahre
+eine zwei- bis dreifache Zunahme der Affinität durch Einführen eines Benzyltests in das Mo-
+lekül 2C-B (45) fest [40]). Somit zeigte 24-NBOH (4) gegenüber dem h5-HT2A-Rezeptor eine
+beachtliche Affinität von Ki = 1.51nM ((±)-125I]DOI markiert; zum Vergleich: LSD zeigte im
+gleichen Assay ein Ki= 0.4nM) [4].
+	Als Erklärung dieser dramatischen Zunahme wird eine π-π-Interaktion zwischen dem
+neu eingeführten Benzylsubstituent und dem h5-HT2A-Rezeptor (im Bereich der benach-
+barten Phenylalanine Phe339(⁶.⁵¹) und Phe340(⁶.⁵²) gegeben [4], denn beim entsprechenden
+2,5-Dimethoxyphenethylamin konnte durch Einführen von N-Methyl- oder N-Propyl-
+gruppen, die zu keiner π-π-Interaktion befähigt sind, nur eine dramatische Abnahme der
+Affinität festgestellt werden [40]. Somit reicht eine rein hydrophobe Interaktion nicht aus.
+	Untermauert wird diese Hypothese durch Mutationsstudien am h5-HT2A-Rezeptor [4]:
+Eine semikonservative Phenylalanin-zu-Leuein-Mutation wurde gewählt, um die Aromatizi-
+tät im vermuteten Rezeptor-Interaktionsbereich zu eliminieren. Tatsächlich waren die Affini-
+täten an den mutierten Rezeptoren (Phe339(6.51) und Phe340(6.52)L) wesentlich geringer.

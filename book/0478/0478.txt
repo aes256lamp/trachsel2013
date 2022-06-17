@@ -1,0 +1,30 @@
+Untersuchungen zur 5-HT2A-rezeptorvermittelten Hydrolyse von Phosphatidylinositol
+(PI) zeigten, dass die Liganden 2-4 potente und hochwirksame Agonisten am r5-HT2A-Re-
+zeptor sind [4].
+	Es stellt sich unweigerlich die Frage nach deren Wirkung im Menschen. Gegenstand
+aktueller Untersuchungen (zusammengefasst in [44]) ist der Folgeschritt (Second messenger,
+Sekundärsignal) nach der agonistischen Aktivierung des 5-HT2A-Rezeptors: Einerseits kann
+eine Stimulierung des Phosphoinositid-(P) Umsatzes erfolgen, andererseits können Agonis-
+ten auch das Endocannabinoid Arachidonsäure (Arachidonic acid, AA) freisetzen. Es wird
+gegenwärtig vermutet, dass psychedelische Effekte eher mit letzterem korrelieren [44]. Die
+N-Benzyl-Verbindungen setzen zwar AA frei, zeigen jedoch eine gewisse Selektivität für
+IP:AA, d. h. sie stimulieren vorzugsweise den PI-Umsatz [45].
+	Es sei auf das kaum vorstellbare Potenzial verwiesen, das sich durch diese Entdeckung
+eröffnet: Durch das Einführen von unsubstituierten sowie substituierten Benzylresten an
+den Stickstoff von bereits potenten oder potenziell aktiven Phenylalkylaminen sind hun-
+derte, wenn nicht tausende neue Liganden denkbar. Zur ausführlichen Diskussion von N-
+benzylsubstituierten Phenylalkylaminen sei auf Kapitel 8.5.26 verwiesen.
+
+
+
+Das 2,4-Dimethoxyamphetamin (2,4-DMA; 5) wurde in einer Vielzahl von SAR-Studien
+mit einbezogen; von besonderem Interesse dürfte ein Aktivitätsvergleich mit den übrigen
+isomeren Dimethoxyamphetaminen sein (möglich sind insgesamt sechs Isomere: 2,3-; 2,4-;
+2,5-; 2,6-; 3,4- sowie 3,5-Dimethoxysubstitution).
+	Das bedeutendste Dimethoxyamphetamin ist das strukturanaloge 2,5-Dimethoxyamphet-
+amin (2,5-DMA, 46), da es die Teilstruktur der potenten 5-HT2-Rezeptor-Liganden wie DOM
+(47) oder DOB (48) trägt (siche Kapitel 8.5). Von 2,5-DMA (46) ist eine schwache psycho-
+trope Wirkung bekannt [41]. Bisher bestehen (zumindest in der Literatur) nur Humanstudien
+von den drei 2,4-, 2,5- und 3,4-Dimethoxyamphetaminen. Die Gründe hierfür dürften darin
+liegen, dass die im Menschen wirkungsstärksten Phenylalkylamine eine 2,4,5-Trisubstitution
+

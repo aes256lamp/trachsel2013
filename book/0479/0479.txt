@@ -1,0 +1,31 @@
+aufweisen. Idealerweise tragen dabei die Positionen 2 und 5 je eine MeO-Gruppe und die Po-
+sition 4 einen kleinen, lipophilen Rest (z.B. Halogen, Me, Et, CF3, MeS, EtS etc., siehe Kapi-
+tel 8.5). Um Einblick in Struktur-Aktivitäts-Beziehungen zu erlangen, wurde unter anderem
+jeweils ein Arylsubstituent vom 2,4,5-trisubstituierten Amphetamin TMA-2 (49) entfernt,
+um dessen Relevanz aufzuklären [41]. Betrachtet man nun, welche Kombinationen sich beim
+Weglassen jeweils eines Substituenten ergeben, so erkennt man genau die Substitutionsmus-
+ter der drei am Menschen untersuchten Dimethoxyamphetamine wieder.
+	In Drug-Discrimination-Studien mit Ratten vermochte 2,4-DMA (5) nicht für das
+Psychedelikum 5-MeO-DMT [7], jedoch für DOM (47) [8] zu substituieren. Von allen sechs
+möglichen Dimethoxyamphetaminen substituierten nur 2,4-DMA (5; ED50 = 4.88mg/kg)
+und 2,5-DMA (46, ED50 = 5.80mg/kg) für DOM (47; ED50 = 0.44mg/kg). Vergleicht man
+dies mit den erforderlichen Dosen zur Erzeugung eines spürbaren Effekts beim Menschen,
+so kann zumindest eine gewisse Parallele erkannt werden: Shulgin gibt für 2,4-DMA (6) eine
+Dosis von > 60mg (erste spürbare Effekte, nur eine mögliche kardiovaskuläre Aktivität wird
+erwähnt) und für 2,5-DMA (46) 80-160mg (schwache psychostimulierende Wirkung) an
+[41]. 3,4-DMA (50) ist im Menschen vermutlich bis zu mehreren 100 Milligramm wirkungs-
+los [41]. In Ratten vermochte 2,4-DMA (5) für das Stimulans (+)-Amphetamin [6] nicht
+komplett zu substituieren.
+
+
+
+2,4-DMA (5) zeigte eine potente Inhibition der Monoaminoxidase (MAO)-A (in vitro
+IC50 = 0.61μM) [5]. Das 2,5-Dimethoxyisomer 46 hingegen zeigte eine sehr schwache MAO-
+Inhibition (IC50> 100μM) und auch 3,4-Dimethoxyamphetamin (50) zeigte eine deutlich
+schwächere Inhibition der MAO (IC50= 20μM).
+
+Es wurden diverse N-Alkyl- und N,N-Dialkylderivate von 2,4-DMA (5) hergestellt, wel-
+che mit radioaktiven Nukliden (beispielsweise von F und ]) markiert wurden [41]. Diese
+Substanzen sollten dazu dienen, die Hirndurchblutung in Versuchstieren sichtbar zu machen.
+Weiter wurden die Methoxygruppen durch größere Akoxyreste ersetzt [41].
+

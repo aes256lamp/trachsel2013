@@ -1,0 +1,29 @@
+xie und dämpfende Wirkung entfalteten; Hyperaktivität wurde nicht beobachtet (Anm.: das
+entsprechende Phenylalkylamin 2,3-DMA &) zeigt selber auch nahezu keine Wirkung, daher
+ist diese Untersuchung nicht sehr aussagekräftig). Durch die späteren In-vitre-Experimente
+konnte gezeigt werden, dass Phenylalkylamine effektiv selber als Wirkstoffe fungieren (siehe
+dazu auch Kapitel 8.5.1).
+
+
+
+	Auch Substanzen mit Heteroaromaten anstelle des Benzenringes wurden untersucht. In
+diesen sollte das dem Benzen oft bioisostere Thiophen zu einer optimierten Wirkung führen
+(siehe auch Exkurs Bioisosterie). Die Verbindungen 55 [52] und 56 [53] wurden in einer
+Reihe von anders substituierten Heterocyclen als Pharmakophor zur ß-adrenergen Blockie-
+rung untersucht. Verbindungen des Typs 56 zeigten eine mäßige bis starke, nichtspezifische
+spasmolytische Aktivität im Ileum des Meerschweinchens (ex vivo) [53]
+	Substanz 57 diente zur Untersuchung von neurotoxischen Effekten auf die serotonergen
+Nervenzellen [54], geleitet von der Tatsache, dass 4-Chloramphetamin (PCA; 58, siehe Ka-
+pitel 6.3) als klassisches Neurotoxin für serotonerge Nervenzellen gilt.
+
+
+
+Als weitere Bioisostere sind die den Methylendioxyphenylalkylaminen analogen Struktu-
+ten 59-61 denkbar. Die Verbindungen MDTHAP-2 (59) und MDTHAP-3 (60) sind bisher
+in der Fachliteratur nicht beschrieben. Es wurde versucht, das dem gut untersuchten und
+bekannten, psychoaktiven MDA (36) analoge Bioisoster MDTHAP-1 (61) synthetisch herzu-
+stellen [55]. Allerdings scheint die hohe Elektronendichte im Thiophen, vermittelt durch die
+beiden Sauerstoffatome, das Molekül derart instabil zu machen, dass die Synthese bisher
+misslang. Die N-Methylanaloga der Strukturen 59 und 60 würden konsequenterweise die Na-
+men 2,3-MD-4-THMAP (MDTHMAP-2) respektive 3,4-MD-2-THMAP (MDTHMAP-3)
+tragen.
