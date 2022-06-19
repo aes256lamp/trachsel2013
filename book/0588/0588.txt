@@ -1,0 +1,35 @@
+tät zu R-[125I]-DOI-markierten 5-HT2A-Rezeptoren) ergaben allesamt die Potenz-Sequenz
+MDA (97) > EDA (201) >> IDA (202) [274, 275].
+	Während EDA (201) teils noch dem MDA (97) in Verhaltensstudien glich, erwies sich
+IDA (202) als komplett andersartig. So waren die mit IDA (202) behandelten Ratten sediert
+und schläfrig, und höhere Dosen erzeugten Konvulsionen.
+	Ein Erklärungsansatz war die sterische Beanspruchung der zusätzlichen Methylgruppen,
+Die Autoren kamen zum Schluss, dass solche Verbindungen in dieser Bindungsregion ste-
+risch gut zugänglich sein müssen, um eine starke Interaktion zu erlangen. Dies würde zu-
+mindest teilweise die Reihenfolge der Wirkungsstärken erklären. Zu beachten eilt, dass vier
+Stereoisomere von EDA (201) existieren, die nicht separat untersucht wurden. Eine andere
+Möglichkeit wurde der metabolischen Labilität der Verbindungen zugeschrieben. Die beiden
+Verbindungen zeigen eine erhöhte Empfindlichkeit gegenüber sauren Medien und könnten
+dadurch bereits im Magensaft zersetzt werden. Somit wäre schließlich auch die Konzentra-
+tion im Gehirn geringer.
+	Es wäre auch denkbar, dass bei diesen beiden Verbindungen andere Metaboliten als bei
+den aktiven MD-Derivaten (Methylendioxyderivate) entstehen und diesen eine entscheiden-
+de Bedeutung zukommt (für eine Diskussion siehe z. B. [276)). Es existieren diverse Artikel,
+die erwähnen, dass MDMA-Metaboliten entscheidende Faktoren für dessen Neurotoxizität
+sein könnten [277-280] (siehe auch Kapitel 7.5.6.3).
+
+
+Die beiden H-Atome der Methylendioxygruppe wurden auch durch Deuteriumatome
+ersetzt [281]. Die erhaltenen Verbindungen 203 und 204 dienten dazu, kinetische Isoto-
+peneffekte in Bezug auf die Demethylenierung während des Metabolismus (CYP2B4) zu
+untersuchen. Die Autoren erwähnten, dass MDA (97) sowie MDMA (1) schlechte Substrate
+für dieses Enzym seien (und somit auch die beiden deuterierten Substanzen 203 und 204),
+jedoch zeigten ihre Versuche, dass Deuterium-Isotopeneffekte eine gute Möglichkeit sind,
+mehr Informationen über den Metabolismus zu erlangen. Heute ist bekannt, dass andere
+Isoenzyme für die Demethylenierung verantwortlich sind (siehe Kapitel 7.5.6.5).
+
+
+
+Eine weitere Idee ist das Ersetzen der beiden H-Atome durch Fluoratome. Trachsel et
+al. präsentierten die Synthese und theoretische Ansätze zur metabolitenbasierten Neuroto-
+xizität sowie zu den Auswirkungen dieser strukturellen Modifikation (Substanzen 205-210)

@@ -1,0 +1,46 @@
+Die Gruppe von Verrico gibt für rac. MDMA (1) folgende IC50-Werte an (alle Human-
+transporter): hDAT 1290nM, hNET 267nM und hSERT 874nM [162].
+	In Abb. 12 sind die deutlichen Unterschiede in der Fähigkeit, stereospezifisch Mono-
+amine freizusetzen, gezeigt (in vitro, Synaptosome des Rattenhirns). MDMA (1) setzt am
+potentesten [’H]5-HT frei, zugleich werden immer noch potent [3H]NE und [3H]DA freige-
+setzt. (-)-R-MDMA (1b) ist mindestens 4-mal weniger potent in der [3H]5-HT Freisetzung,
+26-mal weniger potent in der [3H]DA-Freisetzung und rund 4-mal weniger potent in der [3H]
+NE Freisetzung als das (+)-S-MDMA (la) [166].
+	Die beiden Abb. 13 und 14 verdeutlichen, wie groß die Differenz auf das Verhalten
+von Versuchstieren durch die einzelnen optischen Antipoden ist [220]. Ein sehr interessan-
+tes Phänomen zu den durch MDMA ausgelösten Kopfbewegungen zeigten Fantegrossi et al.
+[216]: Beide Stereoisomere erzeugen einzeln verabreicht eine deutliche Zunahme der Kopf-
+bewegungen, beim Verabreichen des racemischen MDMA jedoch bleibt eine Zunahme der
+Kopfbewegungen aus.
+	Auch die Körpertemperatur von Mäusen wird durch die Stereoisomere von MDMA ver-
+schieden ausgeprägt erhöht (Abb. 15).
+
+
+
+
+Grundsätzlich ist zu bemerken, dass MDMA (1) enantioselektiv ausgeschieden und meta-
+bolisiert wird. Dies bedeutet, dass Metaboliten des einen Stereoisomers schneller gebildet
+werden können als andere.
+	In Abb. 16 sind die vorgeschlagenen metabolischen Pfade für MDMA (1) aufgeführt
+(stereounspezifisch, aus Studien mit Ratten) [221].
+	MDMA (1) zeigt zwei Hauptwege des Metabolismus (zusammengefasst in [164]):
+1.) O-Demethylenierung gefolgt von einer Catechol-O-methyltransferase-(COMT)-kata-
+Iysierten Methylierung und/oder Glucuronid-/Sulfatkonjugation und 2.) N-Dealkylierung,
+Deaminierung und Oxidation zu den entsprechenden Phenylaceton- und dann Benzoesäure-
+derivaten (nicht gezeigt), die schließlich mit Glycin konjugieren (nicht gezeigt).
+	Die beiden Metaboliten HMMA (29) und HMA (28) sind im Plasma und im Urin haupt-
+sächlich als deren Glucuronid- oder Sulfatkonjugate vorhanden. Die N-Dealkylierung und
+die O-Demethylenierung sind hauptsächlich durch das Isoenzym Cytochrom P450 2D6 ge-
+steuert. Dabei erfolgt die erstere circa um eine Zehnerpotenz langsamer. Die Eliminierungs-
+Halbwertszeit von MDMA wird mit 8-9h (eruiert bei 50-125mg Einzeldosierung) angegeben.
+
+Die O-Demethylenierung (reguliert durch CYP2D6) zeigt eine gewisse Enantioselek-
+tivität zugunsten des (+)-S-Isomers. In einem Versuch (40mg MDMA; 1) mit einem ge-
+sunden Freiwilligen wurde gezeigt, dass die Plasmakonzentrationen des (-)-R-Isomers die
+des (+)-S-Isomers überschreiten (R:S ~2.4) (zusammengefasst in [164]). Die Plasma-Halb-
+wertszeit war ebenfalls höher ((-)-R-MDMA 5.8h ± 2.2h; (+)-S-MDMA 3.6h ± 0.9h). Die
+zurückgewonnenen Mengen der einzelnen Stereoisomere aus dem humanen Urin nach 24h
+zeigten ein konsistentes Bild. Die wiederholte Verabreichung von MDMA (2x100mg, zweite
+Verabreichung nach 24h) führte zu höheren Plasmawerten von MDMA (1), was die Hinweise
+auf die nichtlineare Pharmakokinetik von MDMA (1) erhärtete. Vermutet wird eine länger
+anhaltende Inhibition des CYP2D6.

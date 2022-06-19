@@ -1,0 +1,33 @@
+[276]. Bei In-vitro-Untersuchungen am hSERT zeigte DFMDA (206, Ki= 1200nM) eine Hem-
+mung der [3H]-5-HT Aufnahme, die zwischen der von MDA (97, Ki= 700nM) und MDMA
+(1, Ki= 1600nM) lag [282].
+	Es zeigte sich denn auch, dass DFMDA (206) bis zu einer Dosierung von 250mg im
+Menschen nur sehr schwach ausgeprägte Wirkungen erzeugt [259] (MDA (97) ist bereits bei
+Dosierungen von 40mg schwach spürbar). Das dem MDMA (1) analoge DFMDMA (207)
+zeigte bei einer Dosierung von 120mg keine wahrnehmbaren Effekte [259].
+	Einerseits könnte dies mit der Größe der Fluoratome im Zusammenhang stehen, aber
+auch die Wirkung der stark elektronenziehenden F-Atome könnte eine Rolle spielen: die
+3,4-Methylendioxysubstituenten von Amphetaminderivaten könnten die Transporter-Auf-
+nahmestelle dazu bringen, den Phenylting zu akzeptieren, da durch die elektronenreichen
+Substituenten der Phenylring eine höhere Blektronendichte hat, ähnlich dem sehr elektronen-
+reichen Indolkern des Serotonins [215]. Die beiden F-Atome könnten dies komplett ändern.
+Es müssten nähere Untersuchungen zur Transporterinteraktion (Substrat oder inhibitorische
+Eigenschaften, am SERT, DAT, und NET) getätigt werden, um Erklärungsansätze für die
+fehlende Wirkung im Menschen zu liefern. Auch wird der Metabolismus der difluorierten
+Derivate vermutlich entscheidend verändert [276], so dass unter Umständen pharmakolo-
+gisch aktive Metaboliten von MDMA hier nicht mehr gebildet werden können.
+
+
+
+
+Die beiden Derivate 211-212 wurden mit DFMDPEA (205) und anderen fluorierten Phe-
+nethylaminen in einem Patent synthetisch beschrieben [283].
+
+
+An dieser Stelle sei auf die tri- und höher substituierten Phenylalkylamine 213-219 ver-
+wiesen, Sie wurden bisher in der Literatur nicht erwähnt, wären aber interessant zu untersu-
+chen, da sie in den für den Metabolismus wichtigen Positionen im Aromaten durch Fluora-
+tome blockiert sind. Diese Positionen können dann mit Glutathion keine Konjugate — die
+sich als potente Neurotoxine erwiesen haben — mehr eingehen (siehe Abb. 7). Zumindest
+die analogen Fluoro-MDA-Derivate von 213-215 wurden hergestellt und an den Monoamin-
+transportern geprüft (siehe Kapitel 8.1).

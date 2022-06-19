@@ -1,0 +1,42 @@
+Während man lange versuchte, alle möglichen toxischen Wirkungen auf peripherer und
+neuronaler Ebene darzulegen (das Auslegen und Interpretieren erhaltener Daten dürfte hie
+und da von der einen oder anderen Interessengruppe gesteuert worden sein), zeigt sich seit
+einiger Zeit eine Kehrtwende, und es werden nebst den lange in den Medien gezeigten po-
+tenziellen Gefahren jetzt zunehmend Eigenschaften von MDMA entdeckt und erwähnt
+die durchaus einen positiven Nutzen aufweisen (z.B. psychotherapeutische Behandlung von
+PTSD-Patienten sowie potenzielle Hinweise darauf, dass mit MDMA-artigen Substanzen
+eventuell neue Behandlungsmethoden für Parkinsonkranke zur Verfügung stehen könnten;
+siche 7.5.6.8, Das therapeutische Potenzial von MDMA).
+
+
+Es ist bekannt, dass MDMA (l) Serotonin (5-HT) und, in geringerem Ausmaß Dopamin
+(DA) und Norepinephrin (NE) aus neuronalen Vesikeln freizusetzen vermag, wodurch die
+Konzentration dieser Neurotransmitter ansteigt [158, 159]. MDMA (1) erhöht die 5-HT-
+Konzentrationen auch durch die Hemmung der Serotoninwiederaufnahme va Inhibition des
+Serotonintransporters (SERT) [159, 160]. Die K-Werte an den Monoamintransportern für
+racemisches MDMA (1) betragen (funktioneller Assay): Ki(hSERT)= 2.41μM, Ki(hDAT)=
+8.29μM und Ki(hNET)= 1.19μM [161]. Der Fakt, dass MDMA (1) eine höhere Affinität am
+NET hat als am DA oder SERT, verlangte nach Untersuchungen zur Relevanz der Interakti
+on zwischen MDMA (1) und NET [162]. Schließlich wurde gezeigt, dass alle drei Monoami-
+ne zur Wirkung von MDMA (1) beitragen [167, 168, 333]. Die lokomotorischen Effekte von
+MDMA vermitteln α-adrenerge Rezeptoren [163].
+	Weiter erwies sich MDMA (1) als schwacher MAO-Inhibitor und zeigte schwache In-
+teraktionen mit M,-muscarinergen, α2-adrenergen sowie Histamin-H1-Rezeptoren (zusam-
+mengefasst in [164)). Zudem hemmt MDMA (1) die Tryptophanhydroxylase (Enzym, das
+die Serotoninsynthese steuert), wobei die Bildung von Serotonin gesenkt wird (zusammen-
+gefasst in [164]). Bei einem ausführlichen Screening von MDMA (1) an einem „Receptorome“
+[165] fanden Sefola et al. heraus, dass MDMA (1) an den h5-HT2B-Rezeptor mit einem Ki=
+500nM bindet und dabei den Rezeptor aktiviert (Agonist), wobei das (+)-S-Isomer leicht
+affiner als das (-)-R-Isomer ist [166].
+	Durch Vorbehandlung von Versuchspersonen mit einem selektiven SERT-Inhibitor und
+einem Dopamin-D2-Antagonisten zeigten Liechti et al., dass die allgemein-psychologischen
+Effekte von der carriervermittelten 5-HT-Freisetzung abhängig sind, und dass die eupho-
+rischen Effekte sowie die Gemütsstimulierung eine DA-Rezeptorstimulierung erfordern
+könnten [167, 168]. Neuere Studien lassen annehmen, dass nebst 5-HT und DA auch NE zu
+den psychologischen Effekten von MDMA beiträgt [323].
+	Weiter wurde gezeigt, dass die leichten und selten auftretenden pseudohalluzinogenen
+Effekte zumindest teilweise durch die Stimulierung des 5-HT2A-Rezeptors erfolgen kön-
+nen (entweder als Resultat der 5-HT-Freisetzung oder durch direkte Wirkung von MDMA
+(1) oder des Metaboliten MDA (97) am 5-HT2A-Rezeptor), denn typische Psychedelika wie
+Mescalin (Kapitel 8.4.1) oder 4-10do-2,5-dimethoxyamphetamin (DOI; 166) entfalten ihre
+Wirkungen primär durch agonistische Aktivierung dieses Serotoninrezeptor-Subtyps [169].

@@ -1,0 +1,47 @@
+Im Jahre 2002 präsentierten Forsling et al. mit einem In-vitro-Versuch, dass MDMA (1) die
+Freisetzung von Oxytoein stimuliert [170]. Thompson et al. präsentierten im Jahre 2007 die
+Rolle des Hormons Oxytocin und der Serotonin-5-HT1A-Rezeptoren bei den prosozialen
+Effekten von MDMA (1) [171]. Das Neuropeptid Oxytocin spielt eine entscheidende Rolle
+bei sozialem Verhalten und beeinflusst das Verhalten zwischen Mutter und Kind. Physiolo-
+gisch löst es bei einer Geburt Wehen aus und stimuliert die Zellen der Milchdrüsen zur Lak-
+tation. Seine zentrale Bedeutung liegt unter anderem in der Steuerung des Paarungsverhal-
+tens, der Sexualität und Bildung einer Partnerbindung (darum wird Oxytocin im Volksmund
+auch als „Treuehormon“ bezeichnet).
+	Interessanterweise stimuliert MDMA (1) die Freisetzung von Oxytocin aus dem isolier-
+tem Hypothalamus der Ratte, und MDMA-Konsumenten zeigten erhöhte Oxytocinwerte
+im Blut (zusammengefasst in [171]). Thompson et al. konnten mit ihren Experimenten zeigen,
+dass mäßige Dosierungen von MDMA (1; 5mg/kg; i.p.) die sozialen Interaktionen von Ratten
+stark erhöhten (Dauer des Aneinanderliegens). Weiter vermochte MDMA (1) die Oxytocin-
+Konzentrationen im Plasma zu erhöhen, was durch Verabreichen eines 5-HT1A-Antago-
+nisten (WAY 100,635) unterbunden werden konnte. Mit Hilfe eines Oxytocin-Antagonisten
+(Tocinoic acid) wurde die durch MDMA (1) erzeugte soziale Interaktion der Ratten signifi-
+kant abgeschwächt. Zusammengefasst wird ein Mechanismus postuliert, bei dem MDMA (1)
+postsynaptische 5-HT1A-Rezeptoren im Hypothalamus stimuliert und dies eine Freisetzung
+von Oxytocin zur Folge hat [171]. Untersuchungen zu den Oxytocin-Mengen in gesunden
+Probanden präsentierten 2008 Baggott et al. [172], und es konnte ebenfalls gezeigt werden,
+dass diese durch MDMA erhöht werden. Im Jahre 2009 zeigten Dumot et al., dass MDMA
+(100mg vs. Placebo) eindeutig die Oxytocinmengen in gesunden Freiwilligen erhöhte und
+dass eine stärkere Korrelation der prosozialen Gefühle mit Oxytocin als mit den MDMA-
+Mengen im Blut besteht [173]. Diese Effekte lassen darauf schließen, dass Oxytocin eine
+Schlüsselrolle bei den prosozialen Wirkungen von MDMA einnimmt.
+
+	Obwohl MDMA (1) eine langfristige Erschöpfung der Serotoninspeicher hervorru-
+fen kann, scheint das Freisetzen von Serotonin alleine für die langanhaltenden 5-HT-
+Defizite nicht ausreichend zu sein [174]. Serotoninspezifische Freisetzungsagentien (z.B.
+4-Methylthioamphetamin; MTA; 167) welche nicht-dopaminerg sind, scheinen in Versuchs-
+tieren frei von einer MDMA-artigen Neurotoxizität zu sein [175, 176]. Dies lässt auf zwei
+Möglichkeiten schließen: Entweder benötigt die Schädigung eine länger anhaltende Wir-
+kung von MDMA-artigen Substanzen (was antioxidative Schutzmechanismen und zelluläre
+Energiespeicher erschöpfen könnte) und/oder toxische Metabolite vermitteln die toxischen
+Effekte von MDMA (1).
+	Es liegen verschiedene Erklärungsansätze für die mechanistische neurotoxische Wirkung
+von MDMA vor. Es fragt sich unweigerlich, welche Rolle die Metaboliten von MDMA für
+die Neurotoxizität und / oder für die psychopharmakologischen Wirkungen tragen.
+	Betreffend Neurotoxizität sagt eine Theorie aus, dass die durch enzymbedingte Spaltung
+(Cytochrome P450; CYP) der Methylendioxybrücke entstandenen Dihydroxyverbindungen,
+u.a. Catecholamine, zumindest teilweise im Verdacht stehen, neurotoxisch zu sein [177, 178].
+Diese Catecholamine können ein Redox-Cycling eingehen, was Superoxid-Radikale oder
+sonstige Radikale hervorbringen kann. Diese können schließlich zu einer Zellschädigung
+oder zum Zelltod führen.
+	Ein anderer möglicher Mechanismus für MDMA-bedingte Neurotoxizität basiert auf
+der MDMA-induzierten Aufnahme von DA durch den SERT in Serotoninterminals, was

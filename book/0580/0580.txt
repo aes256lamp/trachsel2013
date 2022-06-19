@@ -1,0 +1,31 @@
+Heteroatome und -gruppen wie NH2, (Hydrazin; Bestimmung der MAO-Inhibition 154)
+HO, MeO, Trifluorethyl etc. wurden ebenfalls untersucht (siehe Tabelle 2) [38]. Interessan-
+terweise zeigt die Verbindung MDTFE (122; N-Trifluorethyl) keine Wirkung im Menschen
+[38, 259]. Gründe hierfür könnten die (durch die stark elektronenziehenden Fluoratome)
+heruntergesetzte Basizität des Stickstoffs sein oder sterische Effekte, die zum Tragen kom-
+men. Allerdings herrscht allgemein die Meinung, dass F-Atome ungefähr den gleichen
+Van-der-Waals-Radius wie H-Atome zeigen und somit die sterische Komponente ausser
+Acht gelassen werden könnte. Es gibt auch Untersuchungen, die darauf hinweisen, dass ein
+F-Atom cher den Van-der-Waal-Radius eines O-Atoms erreicht [260] (siehe auch Exkurs
+Fluor in der Medizinalchemie). Dem Exkurs über Bioisosterie ist zu entnehmen, dass eine
+α-Trifluoromethylgruppe einem Amin den Charakter eines Amides verleiht (siche dort).
+	Die Verbindungen MDDFE (121; N-2,2,-Difluorethyl) und MDFE (120; N-2-Fluorethyl)
+wurden bisher nicht untersucht. Es sei jedoch auf die allgemein bekannte Gefährlichkeit von
+Monofluorethyl-Einheiten in Wirkstoffen hingewiesen: Ein solcher Substituent (allgemein
+geradzahlige Monofluoralkylreste FC₂, FC₄, FC₆, etc.) kann im Körper zur hochgiftigen Flu-
+oressigsäure metabolisiert werden. Fluoressigsäure ist ein Naturstoff, der beispielsweise in
+den Blättern der südafrikanischen Pflanze Dichapetalum coymosum gefunden wurde [261]. Im
+Körper wird Fluoressigsäure zu Fluoreitrat umgesetzt, das wie das natürliche Citrat als Subs-
+trat erkannt wird und dabei den Citratzyklus blockiert. Eine Fluoroacetatvergiftung verläuft
+tödlich, da alle für die Adenosintriphosphat-Produktion notwendigen katabolischen Prozes-
+se zum Stillstand kommen (siehe auch Exkurs Fluor in der Medizinalchemie).
+
+
+Das Weglassen einer α-Alkylgruppe führt zu 3,4-MDPEA (107), das offenbar auch in ho-
+hen Dosierungen im Menschen keine Wirkungen zeigt [38]. Auch in Diskriminationsstudien
+(Ratten, DOM oder Amphetamin als Training Drug) war 3,4-MDPEA (107) essenziell inak-
+tiv [240]. Das Verlängern einer α-Methylgruppe (MDMA; 1) zu einer α-Ethylgruppe (BDB
+(145) und MBDB (94)) führt zu weniger ausgeprägter Neurotoxizität und die stimulierenden
+Effekte nehmen deutlich ab [38]. BDB (145) und MBDB (94) vermochten die DA-Konzen-
+tration nicht zu erhöhen (Hippocampus der Ratte) [257], was wiederum ein Hinweis auf die
+Abnahme der stimulierenden Effekte im Menschen ist.

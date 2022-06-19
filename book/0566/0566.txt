@@ -1,0 +1,45 @@
+nirgends ein „Poor metabolizer"-Profil entdeckt werden (Anm.: die untersuchten Fälle waren re-
+lativ klein; n= 13, 7 und 3) [205, 207, 208]. Folglich scheinen für diese Komplikationen nicht
+nur genetische Faktoren, sondern auch das innere Milieu (Environments) verantwortlich zu sein.
+
+Zu vermerken gilt noch, dass MDMA (1) auch im Blutplasma die Serotoninkonzen-
+trationen nicht unwesentlich zu erhöhen vermag [209]. Der Basislevel von 5-HT in Ratten
+lag bei ~0.22nM, und MDMA (1) vermochte bei einer i.v. Verabreichung von 0.3 und 1.0mg/
+kg die Levels um den Faktor 7, respektive 12 zu erhöhen. Dies lässt die Frage nach Interak-
+tionen im pulmonalen oder kardiovaskulären System aufkommen (siehe Kapitel 3.12.3 zur
+Problematik der pulmonalarteriellen Hypertonie oder Kapitel 6.2.2.2 zu koronaren Veren-
+gungen!) [210]. MDMA scheint die 5-HT-Konzentrationen im Blutplasma (in vivo, Ratten)
+zwar nicht ausreichend für eine Konstriktion der pulmonalen Gefäße zu erhöhen, jedoch
+könnten die vorliegenden Konzentrationen ausreichen, um eine Mitogenese in pulmonalar-
+teriellen glatten Muskelzellen zu stimulieren [209].
+	Weiter wurde kürzlich festgestellt, dass MDMA (1) eine bedeutende Affinität am 5-HT2B-
+Rezeptor aufweist (Ki= 500nM) [166]. MDMA (1) ist für diesen Rezeptor ein Agonist. Dieser
+Rezeptor ist es auch, der offenbar in die fenfluramininduzierten Herzklappenkomplikatio-
+nen (VHD) involviert ist (zusammengefasst in [166]. Siehe auch Exkurs Anorektika). Die
+Autoren wiesen darauf hin, dass der Langzeitkonsum von MDMA (1) die Entwicklung von
+fenfluraminartigen VHD fördern könnte, denn MDMA induzierte in vitro längere mitogene
+Auswirkungen, vergleichbar mit den bei Fenfluramin (168) und Norfenfluramin (169) in vivo
+festgestellten Effekten (Zellfibroblasten).
+
+MDMA (1) kann als Nebenwirkung Tachykardie und Hypertension erzeugen, die sel-
+ten mit kardiovaskulären und cerebrovaskulären Komplikationen einhergeht. In der Klinik
+werden den Patienten mit Stimulanzien-Intoxikationen oft Betablocker verabreicht. Hysek,
+Vollenweider and Liechti untersuchten ausführlich, welche Wirkungen der Betablocker Pindo-
+lol in gesunden Probanden hat, die zuvor MDMA (1) einnahmen. Sie konnten zeigen, dass
+Betablocker zwar die MDMA-induzierte Tachykardie senken können, die hypertensive Wir-
+kung und Nebenwirkungen dadurch jedoch nicht verhindert werden [211].
+
+Eine ernsthafte Gefahr können Drug-Drug-Interaktionen darstellen. Das Kombinieren
+von HIV-Protease-Inhibitoren wie z. B. Ritonavir und Nelfinavir oder von nichtnukleo-
+sidalen Retrotranskriptaschemmern mit MDMA (1) kann fatale oder tödliche Folgen haben
+[212-214]. Diese Substanzen sind gleichzeitig auch potente Substrate und Inhibitoren oder
+Induktoren der hepatischen und Darm-Cytochrom-P450-Systeme und können somit die
+Abbauwege für andere Wirkstoffe, die diese Pfade zur Elimination benötigen, dramatisch
+abschwächen [212]. Im Falle von MDMA (1) wurde festgestellt, dass nicht nur der Rausch
+verlängert wird, sondern auch der MDMA-Plasmaspiegel fatal erhöht wird. Es wird von 2-3-
+mal bis zu 5-10-mal höheren Konzentrationen berichtet [214].
+	Allgemein gilt zu beachten, dass keine Medikamente mit MDMA (1) kombiniert werden
+sollten. Ein besonderes Risiko stellt die Komibination von MDMA mit MAO-Hemmern dar,
+da der daraus resultierende Serotoninüberschuss ein Serotoninsyndrom zur Folge hat (siehe
+auch Exkurs Aminoxidasen). Typische Symptome sind beispielsweise Fieber, Schüttelfrost,
+Durchfall, Kopfschmerzen und Muskelkrämpfe.
