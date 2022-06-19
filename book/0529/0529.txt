@@ -1,0 +1,38 @@
+Mit DD-Untersuchungen können die In-vifro-Faktoren, die zwischen einer Drug und
+ihrer tatsächlichen Wirkung „herausgekürzt“ werden, und — bei entsprechender Ver-
+suchsanordnung — Stoffe in der Summe ihrer akuten In-vivo-Wirkebene untersucht und
+verglichen werden, da sich der diskriminierende Stimulus aus dem Zusammenspiel die-
+ser Faktoren zusammensetzt und die einzigartige Signatur eines Stoffes auf medizinal-
+chemischer und physiologischer Ebene zumindest teilweise reflektiert. Das ist jedoch
+noch nicht alles: Mit entsprechenden Blockade-Versuchen oder mit Stoffmischungen
+können auch Rückschlüsse auf die zugrundeliegenden Mechanismen gezogen werden.
+Demnach kann es mit DD-Studien gelingen, über das biologische Target hinaus sich
+einen Schritt der ganzheitlichen Wirkung zu nähern.
+
+
+
+Abb. 5. Wege von der Drug zum beobachteten Effekt unter Vernachlässigung der ADME
+
+
+Es gilt jedoch zu berücksichtigen, dass DD-Studien alleine relativ wenig Aussage-
+kraft bezüglich der Mechanismen haben, welche für die beobachteten Wirkungen betei-
+ligt sind, aber zusammen mit den klassischen pharmakologischen Methoden (Bindungs-
+studien und Funktionalität), können sie Informationen liefern, die allein aus In-vitro-Ver-
+suchen nicht klar ersichtlich sind.
+
+Die folgende Übersicht zeigt, in welchen Kapiteln man weitere Informationen zu
+Substanzen finden kann, die in Diskriminationsstudien einbezogen wurden.
+
+
+Literaturm 
+
+[1] C.R. Schuster, C. E. Johanson. Psychopharmacol. Ser. 1988, 4, 161.
+
+[2] M. Solinas, L. V. Panlilio, Z. Justinova, S. Yasar, S. R. Goldberg. Nat. Protoc.
+    2006, 1, 1194.
+
+[3] www.dd-database.org
+
+[4] I. Jerome. Personal communication. In 2006.
+
+[5] T. Yanagita, K. Miyasato, J. Sato. NIDA Res. Monogr. 1979, 27, 106.

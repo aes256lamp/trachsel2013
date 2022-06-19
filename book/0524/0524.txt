@@ -1,0 +1,27 @@
+Abb. 2. Dosis-Wirkungs-Kurven verschiedener Test Drugs
+
+
+Disruption bedeutet, dass eine Test Drug beim Tier das erlernte Taste-Drück-Verhal-
+ten unterbindet. Das kann mehrere Ursachen haben, die oft in einer zu hohen Dosie-
+rung, Akkumulation oder starker Toxizität verbunden sind.
+	Blockade Tests nennt man Versuche, bei denen der diskriminative Stimulus auf phar-
+makologischer Ebene untersucht wird. Dabei wird keine Test Drug gegeben, wie bei Ge-
+neralisierungs-Experimenten, sondern die Training Drug in Kombination mit einem an-
+deren Stoff, der selektiv Einfluss auf ein bestimmtes Target oder einen Pathway nimmt.
+Bei erfolgreichen Blockade-Tests kann die Substitution der Training Drug auch auf un-
+ter 20% abnehmen. In so einem Fall spricht man von Antagonisierung des Effekts.
+	2-Lever Verfahren nennt man das herkömmliche Verfahren, bei dem die Versuchs-
+objekte die Test Drug als Training Drug oder Kochsalzlösung beurteilen müssen. Im
+Abschnitt „Prinzipielles Vorgehen“ ist das 2-Lever-Verfahren genau beschrieben.
+	Das 3-Lever Verfahren gilt im Vergleich zum herkömmlichen 2-Lever-Verfahren als
+sensitiver. Dabei wird einem Tier beigebracht, zwischen zwei aktiven Training Drugs
+und Kochsalz zu unterscheiden. Der Vorteil dieser Methode ist es, dass die Tiere „mehr
+können“ und im Zweifelsfall eine größere Auswahl haben. Goodwin, Pynnonen und Baker
+untersuchten im Jahr 2003 mit dieser Methode die Wirkung und mögliche Wirkmecha-
+nismen von 3,4-Methylendioxymethamphetamin (MDMA, siehe Kapitel 7.5.6).
+	Symmetrie Generalisation: Wenn zwei verschiedene Stoffe auf ihren Wirkmechanismus
+hin’untersucht werden sollen, kann man einen Teil der Versuchstiere darauf trainieren,
+Stoff A vom Vehikel (z.B. NaCl) zu unterscheiden, und den anderen Teil darauf
+trainieren, Stoff B von Kochsalz zu unterscheiden. Wenn die Tiere dann in einer
+Diskriminationsstudie in beiden Fällen die Test Drug für die Training Drug halten,
+spricht man von symmetrischer Generalisierung und kann davon ausgehen, dass beide Stoffe

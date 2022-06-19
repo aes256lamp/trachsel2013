@@ -1,0 +1,35 @@
+Die einzelnen Schritte des Trainings sind in Abb. 1 mit Ratten gezeigt: Im Bild a)
+lernt das Tier zuerst, dass es in einem Testkäfig immer nur dann Futter erhält, wenn es
+nach Verabreichung des neutralen Vehikels (z.B. Kochsalzlösung), mehrere Male hin-
+tereinander die linke Taste (Lever) drückt. Im nächsten Stadium b), wenn dem Tier die
+Training Drug verabreicht wurde, ist die linke Taste inaktiv, und das Tier erhält nur Fut-
+ter, wenn es die rechte Taste drückt, Solche Trainingssessions finden regelmäßig uber
+mehrere Monate statt, bis die Ratte zuverlässig auf die verabreichte Substanz reagiert. In
+der Regel kann man bei gut trainierten Ratten etwa 80-90% Trefferquote erzielen, Dann
+kann mit dem Test c) begonnen werden: Die Ratte bekommt nun einen anderen Stoff
+(Test Drug) verabreicht und muss sich entscheiden, von welcher Taste sie nun eine Be-
+lohnung erhält. Drückt die Ratte dabei die Taste, die dem neutralen Vehikel entspricht,
+so zeigt die verabreichte Prüfsubstanz wenig oder keine pharmakologische Ähnlichkeit
+zur Training Drug, Wird hingegen die Taste, die während den vorhergehenden Training
+Sessions der Training Drug zugewiesen wurde, gedrückt, so kann von einer gewissen
+Verwandtschaft der Prüfsubstanz mit der Training Drug ausgegangen werden. Ein wich-
+tiger Aspekt für die Aussagekraft des Tests ist es, dass das Tier nicht immer bei der
+ersten Berührung der Taste eine Belohnung bekommt, sondern erst nach mehrmaligem
+aufeinanderfolgendem Drücken derselben richtigen Taste. Man spricht von einer Fixed
+ratio. Eine Fixed ratio von 10 bedeutet, dass das Tier erst mit Futter belohnt wird, wenn
+es 10-mal aufeinanderfolgend die richtige Taste gedrückt hat. Da in diesem Experiment
+zwei Tasten (Lever) vorhanden sind, spricht man auch vom 2-Lever-Experiment.
+	Trainierte Ratten können nach entsprechenden Pausen und weiterem Training die
+Fähigkeit beibehalten, zwischen zwei Stoffen unterscheiden zu können. Es muss berück-
+sichtigt werden, dass die Tiere eventuell auch gegenüber bestimmten Training Drugs
+eine Toleranz entwickeln können. Das muss regelmäßig überprüft werden und erfordert
+in manchen Fällen entsprechend längere Pausen zwischen den einzelnen Versuchen mit
+solchen Stoffen. Da die Wiedererkennung einer Training Drug immer dosisabhängig ist,
+kann man regelmäßig eine Dosis-Wirkungs-Kurve aufzeichnen und überprüfen, ob sie
+über längere Zeit konstant bleibt.
+
+a) Vorbehandlung mit Vehikel
+b) Vorbehandlung mit Prüfsubstanz
+c) Vorbehandlung mit Training Drug
+
+Abb. 1. Das prinzipielle schrittweise Vorgehen bei DD-Studien [2]

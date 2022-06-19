@@ -1,0 +1,22 @@
+Der Dopamintransporter (DAT) dient letztlich dazu, das Gleichgewicht für eine beno-
+tigte Konzentration an DA im synaptischen Spalt aufrechtzuerhalten. Durch ihn wird das
+natürliche Substrat DA nach der Freisetzung wieder in die präsynaptische dopaminerge Zel-
+le aufgenommen, von wo aus es wieder für eine erneute Ausschüttung zur Verfügung steht.
+Die Blockierung des DAT durch Wirkstoffe wie Cocain erhöht also die DA Konzentration,
+was teilweise die psychostimulierenden Effekte erklärt. Bekannte Dopaminwiederaufnah-
+mehemmer (DARI) sind Methamphetamin (Kapitel 3.1) und Methylphenidat (Kapitel 3. 12;
+beides Substrate des DAT, die nebst der Hemmung der DA-Wiederaufnahme auch DA
+freisetzen) oder z.B. Amineptin (8, ein von den meisten Märkten zurückgezogenes Ant-
+depressivum), Vanoxerin (9), Bupropion (10) und Nomifensin (11). Die möglichen Ein-
+satzgebiete von DARI umfassen beispielsweise die Behandlung von Alzheimer-Krankheit,
+Aufmerksamkeitsdefizit-/Hyperaktivitätsstörung (ADHS) oder Depression. Es gibt aber
+auch diverse Wirkstoffe wie Amphetamin, die durch den DAT in die Zelle gelangen und
+über ihn DA freisetzen. Dieser sogenannte Reverse Transport führt letztendlich zu einer um
+ein Vielfaches effektiveren Erhöhung des Dopaminspiegels im synaptischen Spalt. Auch
+durch diese Stoffe werden häufig psychostimulierende Effekte erzielt (siche auch Exkurs
+Monoamintransporter).
+
+
+Es wurden eine Vielzahl von DA-Derivaten hergestellt und auf ihre biologische Aktivitat
+geprüft, Kurz, z. B.; Aryl-[3H]-Dopamine [10], β-[3H]-DA [11], α,α[2H]- und β,β-[2H]-DA
+[12], β-[11C]-DA [13], Phosphatester des DA [14, 15], Sulfokonjugate des DA [16-18].

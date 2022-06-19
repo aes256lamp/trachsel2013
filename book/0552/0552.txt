@@ -1,0 +1,40 @@
+V: Eigenschaften: Tremorverursacher; W: identifiziert als Neurotoxin; X: Synthese der α,ß-Dideutero-
+Analoga; Y: Synthese der α,α-Dideutero- und ß,ß-Dideutero-Analoga; 7; Einfluss auf Blutdruck; AA: ad-
+renerge Eigenschaften; AB: kardiovaskuläre Effekte; AC: allg. Interaktion mit Neurotransmission; AD
+Biologische Eigenschaften im Vergleich zu DA; AE: Metabolit von MDMA im Menschen und/oder Tier,
+AF: Mechanismus für Putzverhalten von Ratten; AG: Hypermotilität in Ratten und möglicher Wirkmecha-
+nismus; AH: Hyperthermie; Al: Erschöpfung der Monoaminspeicher; AJ: COMT-Inhibition, AK: Interaktion
+mit dem SERT,; AL: untersucht als Entzündungshemmer; AM: isoliert aus Seescheiden (Manteltier; Asci-
+diae, Cnemidocarpa bicornuta); AN: Verhaltenstest in Maus; ‚AO: Radioimmunoassay, AP: Untersuchung
+der anorektischen Wirkung (Tier); AQ: Synthese; AR: Wachstumsregulierung von Pflanzen; AR: Verhal-
+tenstest und biochemische Eigenschaften in Hund und Ratte; AS: Isolation aus Kaktus Cereus validus
+(Argentinien); AT: patentiert als potentes Anorektikum.
+
+
+Das 3,4-Dimethoxyamphetamin (3,4-DMA; 18) wurde bereits 1944 pharmakologisch
+untersucht und mit Amphetamin verglichen. Dabei zeigte es betreffend einer hypertensiven
+Wirkung im Vergleich zu Amphetamin praktisch keine Wirkung (i.v.; Hund) [117]. Im Jahre
+1969 erwähnte Shulgin die Wirkungslosigkeit resp. die umstrittene Wirkung von 3,4-DMA
+(18) im Menschen. Bei intravenöser Applikation von 7001mg (!) wurden jedoch halluzinogene
+Effekte beobachtet [38]. Van der Schoot zeigte, dass 3,4-DMA (18) die motorische Aktivität in
+Mäusen (i.p.) nicht erhöht [53].
+
+
+
+In Ratten beschrieben Barfknecht und Nichols 1972 ab Dosierungen von 8mg/kg amphet-
+aminartige Wirkungen für 3,4-DMA (18) [44]. Die Wirkungen und Toxizität auf Hunde und
+Affen sind in [36] beschrieben.
+	In Drug-Discrimination-Studien vermochte 3,4-DMA (18) weder für Amphetamin [50]
+noch für das Psychedelikum DOM (88) zu substituieren [118]. Hingegen vermochten beide
+Stereoisomere ungefähr äquipotent in Ratten für das Entaktogen MDMA (1) zu substituieren
+[119]. Weiter substituierten beide Stereoisomere von 3,4-DMA (18) in Ratten für PMMA (Pa-
+ramethoxymethamphetamin; 89) nahezu äquipotent, das racemische 3,4-DMA (18) jedoch
+substituierte nur partiell (70%) [119].
+	Die praktische Wirkungslosigkeit von 3,4-DMA (18) im Menschen könnte darin liegen,
+dass es zwar gewisse neurobiologische Wirkungen mit den strukturell verwandten PMA (90)
+oder MDMA (1) teilt, jedoch andere, für deren ausgeprägte Wirkung relevante Prozesse deut-
+lich schwächer beeinflusst.
+
+3,4-Dimethoxyphenethylamin (3,4-DMPEA; 17) ist im Menschen völlig inaktiv (orale
+Dosierungen bis 1000mg) [38]. Es ist dem Dopamin nahe verwandt und stand lange im Mit-
+telpunkt der Schizophrenieforschung [120]. Bei dünnschichtchromatographischen Untersu

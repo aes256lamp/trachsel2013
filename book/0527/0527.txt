@@ -1,0 +1,45 @@
+via verschiedenste Suchkriterien Auskunft über Anwendungsgebiete, konkrete Beispiele,
+bestimmte Stoffe und Verfahren und sei jedem Interessierten empfohlen.
+
+Anwendungsbeispiele
+
+Als Beispiel für eine symmetrische Generalisierung dienen die klassischen Psychedelika
+5-MeO-DMT, LSD, DOM und Mescalin. Unabhängig davon, welche der Substanzen als
+Training Drug verwendet wird, werden die anderen in entsprechenden Dosisbereichen
+von den Versuchstieren cher für die Training Drug gehalten als für Kochsalz [6]. Dieser
+Befund wird damit erklärt, dass die Substanzen alle zumindest in einem gewissen Maße
+als Serotonin 5-HT2-Agonisten wirken. Mit Hilfe von Blockade-Tests konnte dies weiter
+bestätigt werden. Wird vor der Gabe des Psychedelikums DOM als Training Drug der
+potente Serotonin 5-HT2A-Antagonist Ketanserin verabreicht, wird die Training Drug
+DOM für Kochsalz gehalten [7]. Anhand klassischer Psychedelika konnten Sadzot et al.
+eine Korrelation zwischen ihrer Potenz im Menschen und Affinität zum 5-HT2A-Rezep-
+tor aufstellen [8]. Zudem existiert eine gute Korrelation zwischen der ermittelten Dosis
+aus DD-Studien und der Dosis diverser Psychedelika beim Menschen [7].
+
+Da sich das Entaktogen MDMA (Ecstasy, siche Kapitel 7.5.6) mit 2-Lever-Expe-
+timenten nicht eindeutig klassifizieren lässt, benutzte die Arbeitsgruppe um Goodwin
+verschiedene 3-Lever-Verfahren, die als sensitiver gelten. In einem ersten 3-Lever-Ex-
+periment trainierten sie Ratten darauf hin, MDMA, Amphetamin und Kochsalz zu un-
+terscheiden. Wenn diesen Ratten LSD gegeben wurde, hielten sie es eher für MDMA
+als für Amphetamin. Auch Fenfluramin (siehe Kapitel 6.2.2) substituiert unter diesen
+Bedingungen für MDMA und nicht für Amphetamin [9]. In einem anderen Experiment
+trainierten sie Ratten, zwischen MDMA, LSD und Kochsalz zu unterscheiden [10]. Bei
+diesen Ratten substituierte Amphetamin als Dopaminreleaser nur teilweise für MDMA.
+Der Serotoninreleaser Fenfluramin substituierte gut für MDMA, und das beste Substi-
+tutionsergebnis wurde mit einer Mischung aus kleinen Dosen Amphetamin mit Fenflu-
+ramin erzielt. Dieses 3-Lever-Verfahren nutzten die Forscher auch, um Blockade-Tests
+durchzuführen und fanden, dass weder ein reiner Serotonin-5-HT2A-Antagonist noch
+ein Dopaminantagonist in der Lage war, den diskriminativen Stimulus von MDMA zu
+blockieren, während der diskriminative Stimulus von LSD durch die vorherige Gabe
+des 5-HT2A-Antagonisten komplett blockiert wird [10]. Aufgrund von In-vitro-Untersu-
+chungen ist bekannt, dass an der Wirkung von MDMA mehrere Transmittersyteme be-
+teiligt sind. Die Ergebnisse aus den DD-Studien bestätigen dies [1 1]. So wirkt MDMA
+zwar als potenter Releaser von Serotonin, Norepinephrin und weniger auch Dopamin,
+hat aber nahezu keine Affinität (8-10μM) zu 5-HT2A-Rezeptoren [12], die als das Target
+von klassischen Psychedelika angenommen werden (siehe Kapitel 8.5.1). Das erklärt,
+weshalb MDMA nicht für LSD substituiert.
+
+Wie dem Exkurs zu Monoamintransportern entnommen werden kann, führt Cocain
+zu einer Erhöhung von Dopamin, Serotonin und Norepinephrin im synaptischen Spalt,
+indem es die Transporter in der Reihenfolge 5-HT > DA > NE hemmt. MDMA be-
+einflusst die Transmitterkonzentration in erster Linie über einen Release-Mechanismus.

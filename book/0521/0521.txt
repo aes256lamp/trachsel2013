@@ -1,0 +1,44 @@
+Exkurs:
+Drug Discrimination
+
+Drug Discrimination: Substanzen erkennen
+
+
+Drug Discrimination-Studien (DD Studien) nennt man eine bestimmte Art von
+Verhaltensexperimenten, in denen man sich die Fähigkeit mancher Tiere zunutze macht,
+dass sie nach entsprechendem Training die Wirkung eines bestimmten, meist ZNS-
+wirksamen Stoffes von einer neutralen Substanz (z.B. Kochsalz) unterscheiden können.
+Ist das trainierte Tier fähig, zwischen einer Training Drug und der neutralen Substanz
+zu unterscheiden, so kann eine Dritt- oder Prüfsubstanz im trainierten Tier auf ihre
+Fähigkeit hin untersucht werden, die Effekte der Training Drug zu imitieren. Falls eine
+Prüfsubstanz dem Tier vorspiegelt, der Training Drug ähnlich zu sein, dann wird das
+Versuchstier sich entsprechend wie bei der Training Drug verhalten. Ist dies der Fall, so
+kann zumindest von einer Verwandtschaft zwischen der Training Drug und der Prüf-
+substanz ausgegangen werden. Das erlaubt eine Vielzahl von Versuchen, die auf einer
+mehr ganzheitlichen Effekt-Ebene beruhen und nicht nur ein isoliertes Rezeptorsystem
+betrachten - obgleich letzteres mit entsprechenden Versuchsbedingungen, z.B. bei
+Blockade-Experimenten, in DD-Studien ebenfalls möglich ist.
+	Ein Vorteil der DD ist, dass die beobachteten In-vivo-Effekte am Versuchstier besser
+auf den Menschen übertragbar sind als bei den meisten anderen pharmakologischen Ex-
+perimenten. Bei vielen anderen Tierversuchen ist die Übertragbarkeit auf den Menschen
+oft schwierig, und bei In-vitro-Versuchen häufig unmöglich. So lassen sich die subjektiven
+Effekte im Menschen, die über Fragebögen ermittelt wurden, und die Ergebnisse von
+DD-Studien mit Menschen gut in Einklang bringen [1].	
+	Die DD ist eine ausgeklügelte Technik, die durch ihren Nutzen immer häufiger An-
+wendung findet. In diesem Exkurs werden nur ganz grundlegende Prinzipien erklärt
+und anhand einiger Anwendungsbeispiele wird gezeigt, wie vielfältig die Methode ange-
+wendet werden kann.
+
+
+Prinzipielles Vorgehen
+
+Wie bereits erwähnt, müssen die Tiere vor den eigentlichen Experimenten (dem Ver-
+gleichen der Training Drug mit einer Prüfsubstanz) das Unterscheiden oder Diskriminie-
+ten erst in einem langwierigen Training erlernen. Als besonders günstig für die DD haben
+sich als Versuchstiere Ratten erwiesen, so dass heute in den meisten Experimenten diese
+Spezies zum Einsatz kommt. Dabei lernen die Versuchstiere, eine Training Drug von
+einem neutralen, wirkungslosen Vehikel (z.B. NaCl) zu unterscheiden und in einem Käfig
+eine von mehreren zur Auswahl stehenden Tasten zu drücken, um danach bei richti-
+ger Entscheidung eine Belohnung (z.B. Futterpellets) zu erhalten. Damit der Geschmack
+oder der Geruch der Substanzen auf die Entscheidung keinen Einfluss nehmen können,
+werden die Stoffe meist in die Bauchhöhle, also intraperitoneal (i.p.) injiziert.

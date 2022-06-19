@@ -1,0 +1,32 @@
+für die agonistische Interaktion zu sein, siehe auch Kapitel 8.5.1, 8.5.22 und 8.5.27.2). Es
+wäre nun durchaus von Interesse zu testen, ob dieses Konzept in einem gewissen Ausmaß
+ebenfalls für die 2,6-disubstituierten Phenylalkylamine anwendbar ist (Abb. 2, Substanz 12).
+Man könnte vermuten, dass der verschobene Arylteil die durch 11 betroffene Bindungsregion
+ebenfalls erreichen kann, wenn die Kette zwischen den beiden Arylringen genügend lang ist.
+
+2,6-Difluorphenethylamin (2,6-DFPEA, 13) diente 1968 als Intermediat zur Herstellung
+von diversen Guanidinen und quarternären Ammoniumverbindungen, die auf ihre anästhe-
+tischen Eigenschaften, adrenerge Blockierung, nicotinische Aktivität sowie Auswirkung auf
+das Verhalten von Mäusen untersucht wurden [12]. Somit ist 13 nur synthetisch beschrie-
+ben. Das entsprechende Dichloroderivat 14 wurde als Wachstumsregulans in Pflanzen unter-
+sucht, da gewisse halogensubstituierte Phenethylaminderivate diesbezüglich aktiv waren [13].
+2,6-Dichlorphenethylamin (2,6-DCPEA, 14) erwies sich jedoch als wenig wirksam.
+
+
+
+Das 3C-Analogon 2,6-Dichloramphetamin (2,6-DCA; 15) wurde etwas eingängiger un-
+tersucht. Fuller, Miller und Marsh [14] sowie Hansch und Glave [15] prüften Anfang der 1970er
+Jahre die Substanz innerhalb mehrerer disubstituierter Amphetamine auf die Fähigkeit, die
+Phenylethanolamin-N-Methyltransferase (PNMT) zu inhibieren. Im Vergleich zum poten-
+ten 3,4-Dichloramphetamin (3,4-DCA; 16) zeigte das 2,6-Stellungsisomer eine rund 40-mal
+schwächere Inhibitionskonstante. Eine neuere, komparative Studie wurde 1993 von Mekenyan
+et al. beschrieben [16].
+
+
+
+Fuller et al. verglichen 1965 verschiedene Chlor- und Dichloramphetamine auf die Fähig-
+keit, die Serotoninspiegel in Versuchstieren zu senken [17]. Von Parachloramphetamin (PCA;
+17) ist bekannt, dass es ein potentes Neurotoxin für serotonerge Zellen ist [18, 19] (siehe auch
+Kapitel 6.3.4), Bei einer i.v. Verabreichung von 0.1mmol/kg an Ratten senkte PCA (17) den
+Serotoninspiegel nach 16h auf 17% des Kontroll-Levels [17]. Die Verbindung 3,6-DCA (15)
+zeigte hingegen im gleichen Assay nur eine Senkung auf 80% des Kontroll-Levels.

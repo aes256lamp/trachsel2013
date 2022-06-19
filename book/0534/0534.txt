@@ -1,0 +1,23 @@
+nisten. Siehe auch Kapitel 8.5.1). Innerhalb der in diesem Artikel über 30 erwähnten Verbin.
+dungen tritt auch die Substanz 9 auf. Mit einem Ki= 1560nM am [3H]Mesulergin markierten
+r5-HT2C-Rezeptor ist sie nur schwach affın; dieser Wert erstaunt dennoch etwas: die Me-
+thoxygruppen erweisen sich allgemein als essenziell für hohe Affinitäten (Ausnahmen: wenn
+der 4-Substituent groß und lipophil ist, siehe 2. B. Kapitel 7.3.4, 8.5.1, 8.5.4). Ihre Fähigkeit,
+die Lone-pair-Elektronen zur Ausbildung von Wasserstoffbrücken anzubieten, begünstigt
+die (agonistische) Interaktion mit dem Rezeptor ungemein (siehe auch Kapitel 8.5.22 und
+8.5.27.2). Die Verbindung 2,6-DMA (2) zeigte jedoch an den [PH]Ketanserin markierten
+r5-HT2A- sowie [3H]Mesulergin markierten r5-HT2C-Rezeptoren keine Affinität (beide Ki>
+10000nM) [5]. Daher ist die Bindungskonstante der Substanz 9, die nur noch eine MeO-
+Gruppe, jedoch noch ein Br-Atom aufweist, auffallend. Am [3H]Ketanserin markierten r5-
+HT, Rezeptor zeigte die Verbindung 9 keine messbare Affinität (> 10000nM) [10]. Die
+Affinität von 2-Methoxyamphetamin (10) lag auf beiden Rezeptoren bei über 10000nM [5].
+
+
+Rangisetty et al. präsentierten die Tatsache, dass die Verbindung 11 mit einer 2,5-Disubs-
+titution trotz Fehlen eines ansonsten für hohe Affinitäten sehr relevanten 4-Substituenten
+ein potenter Ligand des 5-HT2A-Rezeptors ist [11] (siche Kapitel 7.3.4), allerdings erwies
+sich 11 als Antagonist (eine 2,5-Dimethoxy-Anordnung scheint bis anhin ein Erfordernis
+
+
+Abb. 2. Wäre es möglich, mit genügend langkettigen, lipophilen 6-Substituenten hochaffine S-HT2A-
+Rezeptorliganden des Phenethylamintyps zu erhalten?

@@ -1,0 +1,45 @@
+Die Intensitätsreihenfolge ist dabei: 5-HT > NE >> DA. Man erklärt sich die relativ
+schwach stimulierende Wirkung von MDMA dadurch, dass die Effekte auf den Do-
+paminhaushalt verglichen mit Serotonin und Norepinephrin eher gering sind. Bei Coca-
+in sind die Effekte auf das dopaminerge System fast gleichstark wie diejenigen auf das
+serotonerge System.
+	Das könnte erklären, weshalb eine asymmetrische Generalisierung zwischen MDMA und
+Cocain vorliegt: Wenn beispielsweise zwei Gruppen von Ratten trainiert wurden, entwe-
+der den 5-HT > NE >> DA Releaser MDMA oder den 5-HT > DA > NE Transpor-
+terinhibitor Cocain von Kochsalz zu unterscheiden, dann empfinden zwar die MDMA-
+trainierten Ratten Cocain als MDMA-ähnlich, aber nicht umgekehrt: Cocain-trainierte
+Ratten empfinden MDMA nicht als cocainähnlich [13].
+
+Glennon untersuchte mehrere missbräuchlich genutzte Stoffe des Phenethylamin-
+Typs in DD-Studien und konnte sie bezüglich ihrer Wirkung in die drei Hauptgruppen
+Stimulantien, Halluzinogene und andere („Others“) einteilen [7]. Er stellte das in DD-
+Studien und auch das im Menschen teilweise auftretende Überlagern der diskriminativen
+Effekte resp. der Wirkungen in einem Venn-Diagramm grafisch dar (siehe Abb. 18 im
+Kapitel 7.5.6.7). Da der Begriff „Halluzinogene“ insbesondere bei den Phenylalkylami-
+nen irreführend ist, sollte jedoch „Psychedelika“ an dessen Stelle verwendet werden
+(siehe Kapitel 8.5.18), und „Others“ wird mit den Entaktogenen abgedeckt.
+
+Schlussfolgerungen
+
+Drug-Discrimination-Studien eignen sich besonders für die Untersuchung von
+ZNS-wirksamen Substanzen und ermöglichen einen groben Rückschluss auf die Wir-
+kung im Menschen [1]. Da die tatsächliche Wirkung ein komplexes Zusammenspiel von
+vielen, oft schlecht vorhersagbaren, vielschichtigen und sich gegenseitig beeinflussenden
+Faktoren darstellt, ist es unmöglich von einem bekannten Target auf den vermittelten
+Effekt im Menschen zurückzuschließen.
+	Oft werden in der Medizinalchemie Stoffe über die Affinität zu einem oder im besse-
+ren Fall zu mehreren Targets charakterisiert, um deren (Rezeptor)profil oder Selektivität
+zu bestimmen. Es ist selbst mit den heutigen High-Throughput-Screening-Methoden
+(HTS) nicht möglich, alle Targets zu erfassen. Dazu kommt die Tatsache, dass immer
+wieder neue Targets entdeckt werden. Der nächste Schritt hin zu einer ganzheitlichen
+Charakterisierung ist eine funktionelle Untersuchung (siehe auch Exkurs Aspekte der
+molekularen Pharmakologie) an all den Targets, die sich im ersten Schritt als wichtig
+herausgestellt haben. Wie sich in den letzten Jahren mit der funktionellen Selektivität
+zeigte, ist eine simple Aussage wie „Serotonin-5-HT2A-Agonist“ oder „Adrenerger β2-
+Antagonist“ heutzutage unpräzise, und es müssen die genauen Signalling Pathmays (Si-
+gnaltransduktionspfade) untersucht werden, um die zugrunde liegenden Wirkmecha-
+nismen näher aufzudecken. Wenn dann noch alle ADME-(Adsorption, Distribution,
+Metabolism, Excretion)-Faktoren berücksichtigt werden, wäre es zumindest theoretisch
+möglich, eine gute Vorhersage der Wirkung einer neuen Verbindung zu machen. In Abb.
+5 sind unter Vernachlässigung der ADME sehr vereinfacht die Schritte gezeigt, die zwi-
+schen DRUG und Effekt stehen.

@@ -1,0 +1,26 @@
+Die Suche nach 2,6-disubstituierten Phenylalkylaminen liefert eine geringe Anzahl sol-
+cher Verbindungen. Wie bei der 2,3- sowie 3,5-Disubstitution zeigten die bisher wissen-
+schaftlich untersuchten Derivate allgemein nur geringe biologische Aktivitäten. Sie wurden
+vermehrt im Umfang von Struktur-Aktivitäts-Untersuchungen (SAR) mit einbezogen und
+sind vor allem deshalb in einigen wissenschaftlichen Arbeiten vertreten.
+
+
+Die bekanntesten Vertreter dieses Kapitels dürften 2,6-Dimethoxyphenethylamin
+(2,6-DMPEA; 1) sowie 2,6-Dimethoxyamphetamin (2,6-DMA; 2) sein. Sie wurden in
+verschiedene SAR-Studien mit einbezogen, und von besonderem Interesse dürften die
+Aktivitäten verglichen mit den übrigen isomeren Dimethoxyamphetaminen sein (möglich
+sind insgesamt sechs Stellungsisomere: 2,3-; 2,4-; 2,5-; 2,6-; 3,4- sowie 3,5-Dimethoxy-
+Substitution).
+
+
+
+2,6-DMPEA (1) wurde Mitte der 1960er Jahre im Rahmen einer Analyse zur enzymatischen
+oxidativen Deaminierung durch die MAO zusammen mit vielen anderen Phenethylaminen
+untersucht [1, 2]. Es wurde im Gegensatz zu den anderen Stellungsisomeren nicht signifikant
+deaminiert (siehe Tabelle 1 im Kapitel 8.6). In Katzen vermochte es (i.m. 23mg/kg) weder
+die Körpertemperatur zu erhöhen, noch erzeugte es eine rage response (Wutreaktion) [1]. Über
+die Aktivität im Menschen ist bislang nichts bekannt, es ist jedoch anzunehmen, dass diese
+Substanz völlig wirkungslos ist.
+
+Das 3C-Analogon (Definition siehe Kapitel 8,5.) 26-DMA (2) wurde im Menschen
+bisher ebenfalls nicht untersucht, zumindest nicht offiziell. Es gibt zu der Verbindung je-

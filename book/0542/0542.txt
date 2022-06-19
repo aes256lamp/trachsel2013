@@ -1,0 +1,48 @@
+Die Regulation des DA-Spiegels im Gehirn spielt eine entscheidende Rolle für die men-
+tale und physische Gesundheit des Menschen [7]. DA hat nicht nur Einfluss auf emotionale
+Vorgänge, sondern auch auf die Koordination von Bewegungsabläufen. Bald nach seiner
+Entdeckung wurde DA mit psychischen Krankheiten wie Schizophrenie und Parkinson so-
+wie mit dem Restless-Legs-Syndrom in Zusammenhang gebracht. Beim Morbus Parkinson
+tritt eine Degeneration dopaminerger Neurone (in der Substanzia nigra) auf, was eine Verar-
+mung des Striatums an DA bedeutet. Die Therapie liegt darin, dass z.B. Selegilin (siehe Ka-
+pitel 3.2) den durch die Monoaminoxidase B (MAO-B) bedingten Abbau von vorhandenem
+DA verhindert. Der MAO-B-Hemmer Selegilin wird entweder als Einzeltherapie oder in
+Kombination mit L-DOPA (6) verwendet. Durch die Gesamterhöhung der DA-Konzentra-
+tion wird eine eindeutige Linderung der Symptome erzielt. Durch das Einsetzen von DA-
+Agonisten, die letztendlich den endogenen Neurotransmitter DA imitieren, kann ebenfalls
+eine Verbesserung der Symptome erzielt werden [2].
+	Ein Überschuss an DA wird seit langem mit Schizophrenie ın Zusammenhang gebracht.
+Aktuelle Untersuchungen deuten jedoch darauf hin, dass manche zentrale Symptome der
+Schizophrenie nicht im Zusammenhang mit erhöhtem DA stehen und vielmehr eine gesenk-
+te DA-Funktion im präfrontalen Cortex dafür verantwortlich sein könnte [4]. Neuere Erklä-
+rungsansätze verweisen auf die Wichtigkeit der Catechol-O-methyl-transferase (COMT). So
+könnten nicht nur Desaktivierungen oder Aktivierungen von DA-Rezeporsubtypen Thera-
+pieansätze darstellen, auch COMT-Inhibitoren könnten möglicherweise, helfen indem sie die
+DA-Konzentration im präfrontalen Cortex erhöhen [8].
+	Da man einen Einfluss von DA auf Emotionen wie Freude, Genuss, Lust etc. experi-
+mentell nachweisen konnte, wird DA auch als Botenstoff des Belohnungssystems bezeichnet.
+Viele Konzepte, die eine Wirkung von DA auf das Suchtverhalten erklären, lassen sich auch
+auf synthetische Substanzen anwenden. So erzielen z.B. Stimulanzien wie Amphetamin oder
+Methamphetamin ihre Wirkung primär durch die Freisetzung von DA (und Norepinephrin;
+siehe Kapitel 2), weshalb man sie auch als indirekte DA-Agonisten bezeichnet. Darin liegt auch
+das Suchtpotenzial dieser Stoffe begründet; DA wird aber auch indirekt für die Sucht nach
+Opiaten, Benzodiazepinen, Nikotin und NMDA-Antagonisten verantwortlich gemacht [5].
+
+
+DA ist ein Zwischenprodukt in der Biosynthese von Norepinephrin (NE; 3) und Epine-
+phrin (Adrenalin; 4). Die Aminosäure L-Tyrosin (5) ist dafür die Ausgangssubstanz (Abb. 1).
+L-Tyrosin wird durch Tyrosinhydroxylase in L-DOPA (6, Dihydroxyphenylalanin) umgewan-
+delt und dieses wiederum durch DOPA-Decarboxylase in Dopamin (2) überführt.
+
+Therapeutisch wird DA (Intropin®, Revivan®, Oxytyramin®) z. B. bei Schockzustand
+oder sehr tiefem Blutdruck i.v. verabreicht. Um zur Behandlung vom Morbus Parkinson
+den bestehenden DA-Mangel zu kompensieren, kann nicht direkt DA verabreicht werden,
+da es aufgrund der zwei hydrophilen phenolischen HO-Gruppen die Blut-Hirn-Schranke
+nicht überwinden kann. Daher verabreicht man als Prodrug die Aminosäure L-DOPA (siehe
+Abb. 1), die aktiv mit Hilfe eines Aminosäuretransporters ins Gehirn transportiert, und dort
+mittels Decarboxylasen erst in das eigentlich wirksame DA umgewandelt wird. Um die Um-
+wandlung dieses Vorläufers in der Peripherie zu unterbinden, wird begleitend ein peripher
+wirksamer Decarboxylaschemmer verabreicht. Das verhindert die peripheren, dopamin-
+bedingten Nebenwirkungen wie Blutdruckerhöhung. Zudem könnte das in der Peripherie
+entstehende DA die Blut-Hirn-Schranke nicht überwinden. Die chemische Struktur von DA
+hat schließlich zu einer Vielzahl von analogen Wirkstoffen geführt.

@@ -1,0 +1,51 @@
+Der einfachste Fall ist eine Generalisierungsstudie. Dabei wird getestet, wie ähnlich
+die akuten Effekte einer Test Drug im Vergleich zu der jeweiligen Training Drug
+sind.
+
+Auf diese Art können nicht nur neue Stoffe untersucht werden, es kann auch un-
+tersucht werden, welchen Beitrag Mefabolite zur Wirkung leisten. Dazu werden ver-
+meintlich aktive Metabolite auf ihre Generalisierungsfähigkeit zum eigentlichen
+Stoff hin untersucht.
+
+Gerade die Effekte von psychoaktiven Stoffen können enorm von der Dosis ab-
+hängen. Die Ursache liegt entweder nur im unterschiedlichen subjektiven Befin-
+den bei unterschiedlicher Dosis, kann aber auch darin begründet sein, dass die
+Substanzen bei höherer Dosis ihre Selektivität verlieren und auch andere Targets
+betreffen, die in kleinen Dosen keine Rolle spielen. Diese Tatsache hat zwei Kon-
+sequenzen: Einmal kann das Ergebnis einer DD-Studie mit ein und derselben
+Test- und einer Training Drug in unterschiedlichen Dosierungen zu unterschiedli-
+chen Ergebnissen führen. Zum anderen kann man diese Tatsache auch gezielt für
+Untersuchungen ausnutzen. Bildhaft gesprochen unterscheidet sich die Wirkung
+von zwei Dezilitern Wein gravierend von der Wirkung von zwei Litern Wein, und
+die Effekte haben fast nichts Gemeinsames mehr. Die Effekte von zwei Litern
+Wein haben womöglich mehr Ähnlichkeit mit denen eines Narkosemittels als mit
+denjenigen eines kleinen Glases Wein.
+
+Um den zugrundeliegenden Wirkmechanismus zu untersuchen, können so-
+genannte Blockade-Tests gemacht werden. Dabei wird der Einfluss eines selektiven
+Hemmstoffes auf den diskriminativen Stimulus der Training Drug untersucht. Auf
+ähnliche Weise können auch Potenzierungs-Tests durchgeführt werden. Dabei wer-
+den Stoffe auf ihre Fähigkeit hin untersucht, den diskriminativen Stimulus einer
+Training Drug zu potenzieren. Mit Blockade- oder Potenzierungs-Tests können
+aber auch Studien zu Transportmechanismen oder Metabolismuswegen gemacht
+werden.
+
+Durch gezielte Injektion in bestimmte Hirnareale kann mittels DD-Studien der
+genaue Wirkort einer Substanz bestimmt werden. Es können auch unterschiedliche
+Versuche angestellt werden, um die Durchdringung der Blut-Hirn-Schranke zu
+untersuchen. So kann man auch umgekehrt die Wirkung von Substanzen testen,
+die die Blut-Hirn-Schranke nicht passieren können.
+
+Natürlich kann auch das Missbrauchspotenzial einer Substanz in DD-Studien unter-
+sucht werden. Wenn eine Test Drug für eine Training Drug substituiert, die ein
+Missbrauchspotenzial hat, kann darauf geschlossen werden, dass die Test Drug
+potenziell auch missbraucht werden kann. So substituiert z.B. das Opioid Lopera-
+mid, das bei Durchfallerkrankungen eingesetzt wird, nicht für andere Opioide wie
+Fentanyl [5].
+
+
+Es sind noch viele andere Bereiche denkbar, in denen DD-Studien genutzt werden
+können, auf welche hier jedoch nicht eingegangen wird. Um einen Einblick in praktische
+Anwendungsbereiche zu geben, sollen nun aus dem Bereich der Phenethylamine einige
+konkrete Beispiele genannt werden. Im Internet steht eine Datenbank zur Verfügung, in
+der die Ergebnisse von bisher veröffentlichten DD-Studien gespeichert sind [3]. Sie gibt

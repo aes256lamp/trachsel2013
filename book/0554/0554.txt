@@ -1,0 +1,29 @@
+Das Derivat 3-Methoxy-4-methylamphetamin (MMA; 24) ist ein strukturelles Analog des
+potenten Psychedelikums DOM (88), das sich durch Weglassen der 2-MeO-Gruppe ergibt.
+Es wurde offenbar 1974 in Italien in Straßenproben festgestellt [128]. In frühen Studien an
+Mäusen zeigte es im Schwimmlabyrinth-Verhalten (water-maze) ähnliche Effekte wie DOM
+(88) [33]. MMA (24) wurde pharmakologisch auch mit weiteren Substanzen verglichen. Es
+vermochte in Drug-Discrimination-Studien (Ratten) sowohl für MDMA (1) wie für MBDB
+(94) zu substituieren [57]. Für LSD (95) erfolgte nur eine partielle Substitution, und für Am-
+phetamin erfolgte keine Substitution (Anm.: Es wurden zusätzlich die einzelnen Stereoiso-
+mere von 24 untersucht) [57]. In Ratten erwies sich 24 schließlich als frei von serotonerger
+Neurotoxizität [57].
+	Shulgin erwähnt für MMA (24) eine aktive Dosis von 40-60mg im Menschen [126]. Die
+Wirkung wird als eher dysphorisch und langanhaltend beschrieben.
+
+Die Rigidisierung der Seitenkette in neurotoxischen Verbindungen wie PCA (Para-
+chloramphetamin; 96) oder MDA (97) zu Aminoindan- oder Aminotetralinderivaten (siehe
+Substanzen 98-102, Kapitel 7.5.7.7) führte zum Verlust der Neurotoxizität (siehe Kapitel
+6.3.4). So wurde auch der Effekt einer Einbindung der Seitenkette in MMA (24) zur Substanz
+MMAI (103) untersucht [57]. Auch MMAI (103) substituierte in Ratten für MDMA (1) und
+MBDB (94), jedoch vermochte es weder für LSD noch für Amphetamin zu substituieren.
+Weiter zeigt MMAI (103, Ki= 0.83μM) eine leicht höhere Affinität gegenüber dem humanen
+Serotonintransporter (hSERT) als MDA (97, Ki= 1.1μM) [94].
+
+
+
+Die Substanz MBA (104) ist ein Analogon des potenten Psychedelikums DOB (105). In
+Ratten zeigte MBA (104) bei einer Dosierung von 7.5mg/kg mescalinähnliches Verhalten
+(DOB: bei <2.5mg/kg mescalinähnlich) [73]. Die Affinitäten an 5-HT1- und 5-HT2-Rezep-
+toren waren äußerst gering (beide > 25000nM; DOB zeigte in dieser Seadie Ki-Werte von
+3340nM und 63nM, respektive) [72].

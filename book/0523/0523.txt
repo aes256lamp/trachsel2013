@@ -1,0 +1,46 @@
+Begriffserklärungen
+
+Versuchs-,„ Tier“: Am häufigsten werden Ratten für DD-Studien verwendet, aber bei-
+spielsweise auch Tauben oder Affen; und auch der Mensch wird nicht selten zu DD-
+Studien herangezogen [3]. Menschen eignen sich für DD-Studien nicht immer optimal,
+da sie möglicherweise zu viel „denken“ und den Effekt zu analysieren versuchen, anstatt
+einfach nur auf den Reiz zu reagieren [4].
+	Discriminative Stimulus nennt man den Effekt, der ein Stoff im Versuchstier auslöst
+und der dazu beiträgt, dass das Versuchstier zwischen zwei Stoffen unterscheiden kann.
+Er ist vergleichbar mit einer Art Reiz, der mit einer Belohnung in Verbindung gebracht
+wird. Somit ist es eine besondere Art einer konditionierten Verhaltensweise. Der diskri-
+minative Stimulus entsteht demnach ausgehend von der Training Drug, Unterschied-
+liche Dosen von Stoffen können unterschiedliche Stimuli erzeugen. Je nach Selektivi-
+tätsprofil können am diskriminativen Stimulus mehrere Targets beteiligt sein, oder aber
+auch nur ein einziges Target.
+	Generalisation bedeutet, dass ein Stoff, der als Test Drug verabreicht wird, bei einer
+bestimmten Dosis das Tier dazu bringt, immer wieder dieselbe Taste zu drücken, von
+der es während des Trainings mit einer bestimmten Training Drug gewohnt war, eine
+Belohnung zu bekommen. Die Antwort des Tiers wird in „% appropriate lever response“
+angegeben. Man spricht davon, dass der diskriminative Stimulus der Training Drug für
+die Test Drug generalisiert.
+	Substitution. Wenn Stoff A (Test Drug) voll für Stoff B (Training Drug) substituiert,
+bedeutet das, dass das Tier zuverlässig und im selben Ausmaß nach Verabreichung der
+Test Drug die Taste drückt, von dem es nach Gabe der Training Drug eine Belohnung
+erwartet. Das bedeutet noch nicht unbedingt, dass den beiden Stoffen derselbe Wirk-
+mechanismus zugrunde liegt, sondern nur, dass dieselben Transmittersysteme beteiligt
+sind. So generalisieren Dopamintransporter (DAT) Hemmstoffe in der Regel auch für
+Dopamin-Releaser. Wenn das Versuchstier in mehr als 80% der Fälle die Test Drug für
+die Training Drug hält, spricht man von voller Substitution oder voller Generalisierung,
+Abb. 2 zeigt typische Dose-Response-Kurven von DD-Studien: Die Training Drug selbst
+führt bei 5mg/kg zu 95% dazu, dass das Tier die Taste für die Training Drug drückt.
+Test Drug 1 ist weniger potent als die Training Drug, substituiert aber bei 9mg/kg im-
+mer noch zu über 80% für die Training Drug.
+	Partial Substitutior, Wenn die Test Drug dazu führt, dass sie die trainierten Tiere zwar
+erkennen, aber selbst bei ausreichender Dosierung deutlich mehr Fehler machen, als mit
+der Training Drug, dann substituiert die Test Drug eben nur zu einem gewissen Prozent-
+satz für die Training Drug. Wenn der Prozentsatz zwischen 20 und 80% liegt, spricht
+man von partieller Substitution. Das bedeutet, dass den beiden Stoffen zumindest teil-
+weise ähnliche Wirkmechanismen zugrunde liegen, aber womöglich noch andere Effek-
+te eine Rolle spielen. In Abb, 2 ist die Dosis-Wirkungs-Kurve von Test Drug 2 repräsen-
+tatiy für eine partielle Substitution. So wird selbst bei höheren Dosierungen nicht mehr
+als 65% Substitution erreicht [2].
+	No substitution bedeutet, dass die Test Drug in weniger als 20% der Tests dazu führt,
+dass das Tier die Taste für die Training Drug wählt, oder anders formuliert, zu 80% die
+Test Drug für Kochsalz hält. In Abb.2 entspricht dies Test Drug 3, die für Kochsalz
+gehalten wird.

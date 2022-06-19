@@ -1,0 +1,35 @@
+Norepinephrin (NE; 3) ist das N-Desmethylderivat von Epinephrin („Nor“ = N ohne
+Rest) und zählt wie Dopamin zu den Catecholaminen [19-22]. Es ist ein Neurotransmitter
+und interagiert mit adrenergen Rezeptoren im sympathischen sowie im Zentralnervensystem
+(Klein- und Großhirnrinde). Die zentralen NE-Neuronen regulieren Prozesse wie Schlaf-
+Wach-Rhythmus, Nahrungsaufnahme sowie den Kreislauf. NE wird auch als Stresshormon
+bezeichnet, da es Aufmerksamkeit und Impulsivität reguliert. Zusammen mit Epinephrin
+(Adrenalin) beeinflusst es das Füght-or-fight-Verhalten, indem es die Herzfrequenz, die Ener-
+giefreisetzung aus Fett sowie das Bereitstellen der Muskelkraft reguliert. Weiter ist es ein
+Hormon des Nebennierenmarks. In den Arterien vermag es durch Stimulation adrenerger
+Rezeptoren eine Kontraktion der Gefäße und somit eine Blutdruckerhöhung auszuüben.
+	Norepinephrin (Handelsnahme Arterenol®) wird unter anderem zur Behandlung von
+septischem sowie anaphylaktischem (allergischem) Schock und bei Vergiftungen mit Vaso-
+dilatation verabreicht.
+
+
+
+Die Adrenozeptoren (oder adrenergen Rezeptoren) sind alle an G-Proteine gekoppelt.
+Man unterscheidet heute zwischen α1-Rezeptoren (Subtypen α1A, α1B, α1D, α1L), α2-Rezeptoren
+(Subtypen α2A/D, α2B, α2C) sowie β-Rezeptoren (Subtypen ß1, β2, β3, βb). Die ersteren kommen
+an vielen glatten Muskelzellen vor und regulieren die Kontraktion. Die Zweitgenannten re-
+gulieren über das ZNS den Blutdruck. Die β-Adrenozeptoren sind in vielen glatten Muskel-
+zellen zu finden. Ihre Aufgabe liegt darin, eine Relaxation zu vermitteln, aber auch die Herz-
+frequenz wird durch sie reguliert. Den ß1- und β2-Rezeptor Subtypen kommt insofern eine
+bedeutende Rolle in der gesamten GPCR-Forschung zu, als dass sie die ersten Rezeptoren
+ihrer Art sind, deren Röntgenstruktur bekannt ist [22]. So werden diese räumlichen Struk-
+turen in Zukunft für computergestützte Struktur-Wirkungs-Beziehungen (SAR) an vielen
+anderen Rezeptoren, wie Serotonin oder Dopamin, Modell stehen.
+	Die spezifischen Funktionen noradrenerger Neuronen respektive deren systematische
+Regulierung, vor allem durch Beeinflussung der Norepinephrinkonzentrationen, nutzt man
+heute geschickt durch Verabreichung mehr oder minder selektiver Wirkstoffe. So können
+selektive Wiederaufnahmehemmer von NE als Antidepressiva genutzt werden.
+
+Die Behandlung des Aufmerksamkeitsdefizit-(Hyperaktivitäts)-Syndroms, kurz AD(H)S
+erfolgt durch Medikamente wie Ritalin® (Kapitel 3.12.4.1) oder Amphetamin (Kapitel 2);
+beide erhöhen die Konzentrationen von NE und DA. Der Wirkstoff Atomoxetin (12) mit
