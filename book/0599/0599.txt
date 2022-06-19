@@ -1,0 +1,31 @@
+In einer umfangreichen Studie untersuchte Van der Schoot et al. den Einfluss von Sub-
+stanzen auf die Lokomotion (i.p. Mäuse; Referenzsubstanz: Amphetamin; 1.0mg/kg)
+und bezeichnet 2-NAP (276) als inaktiv [53]. Glennon et al. bestätigten dies, und in einer
+Diskriminationsstudie (Ratten) vermochte 2-NAP (276) nicht für (+)-S-Amphetamin
+(1.0mg/kg) zu substituieren [304]. Später identifizierten Rorhman et al. 2-NAP (276; von
+ihnen als PAL-287 benannt) als potentes Substrat der Monoamintransporter [330]. Ihre Iz-
+vitro-Studien zeigten, dass 2-NAP (276) extrazelluläres Dopamin (DA, EC50= 12.6nM), Se-
+rotonin (5-HT, EC50= 3.4nM) und Norepinephrin (NE, EC50= 11.1nM) zu erhöhen vermag.
+Weiter weist 2-NAP (276) Affinitäten zu den 5-HT2A-, 5-HT2B- und 5-HT2C-Rezeptoren auf
+(EC50= 466nM, 40nM (voller Agonist) und 2.3nM (partieller Agonist)) [330]. Im Gegensatz
+zu MDMA (Kapitel 7.5.6.3) oder Methamphetamin (Kapitel 3.1) vermochte 2-NAP (276)
+keine langanhaltende Erschöpfung des corticalen 5-HT zu erzeugen. Die Selbstverabrei-
+chung in Affen, die zuvor mit Cocain trainiert wurden, konnte durch 2-NAP (276) unter-
+brochen werden, ohne dass 2-NAP (276) selbst zur Suchterzeugung führte. Diese Art von
+Wirkstoff könnte möglicherweise ein Ansatz zur Behandlung von Cocain- und Alkoholab-
+hängigkeit sein [331]. Weiter wurde erwähnt, dass DA/5-HT-freisetzende Substanzen das
+Potenzial zur Behandlung von Depressionen, Fettleibigkeit oder Aufmerksamkeitsdefizit-
+störungen tragen. Bei der klinischen Prüfung müsste durch die hohe agonistische Affinität
+am 5-HT2B-Rezeptor peinlichst auf mögliche Herzklappenveränderungen geachtet werden,
+da dieser Rezeptortyp ein sogenanntes Antitarget darstellt (siehe auch Exkurs Anorektika).
+	Verschiedene N-alkylierte Naphthylalkylamine zeigten eine lokalanästhesierende Wir-
+kung [305, 306].
+
+
+
+Strukturen des Typs 277 wurden in einem Patent erwähnt und sollten zur Behandlung
+von Glaucoma dienen [307]. Man hofft durch geringfügige strukturelle Modifikationen die
+Hirngängigkeit zu senken, jedoch die zur Regulierung des intraokularen Drucks erforderli-
+che hohe Affinität an 5-HT2-Rezeptoren aufrechtzuerhalten (Zur Erinnerung: Die agonisti-
+sche Aktivierung von 5-HT2-Rezeptoren im Gehirn, im speziellen 5-HT2A, wird als primärer
+Wirkmechanismus von psychedelischen Phenylalkylaminen betrachtet. Dies muss in Anbe-

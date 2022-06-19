@@ -1,0 +1,31 @@
+teil und der Aminogruppe tragen (siche Kapitel 8.5.2). Man hat möglicherweise aufgrund
+der frühen Erkenntnisse, dass bei hypertonisch wirksamen Substanzen des Phenylalkyltyps
+der C2-Spacer optimal ist, davon abgeschen, Analoga von ‚Phenethylaminen in Form von
+Benzylaminen eingehend zu untersuchen (siehe auch Kapitel 8.5.16). So gesehen ist das
+Wirkstoffdesign der entsprechenden Benzylamine noch lange nicht ausgeschöpft.
+	Verbindungen 251 und 252 substituierten in MDMA-trainierten Ratten nur partiell [288].
+
+
+
+Verbindung 253 zeigte im Verhaltenstest an Katzen keine nennenswerten Effekte [126].
+Weiter wurde der Einfluss auf die Körpertemperatur in Kaninchen bestimmt (die getestete
+Dosierung wirkte letal). Shulgin erwähnt, dass bei einer oralen Dosierung von 200mg lediglich
+schwache physische sowie psychische Veränderungen während 4h anhielten [126].
+
+
+
+Das Anbringen von Substituenten am Aromaten führt zu trisubstituierten Derivaten, die
+in den entsprechenden Abschnitten des Kapitels 8 behandelt werden.
+
+
+Da Tranylcypromin (254) ein potenter MAO-Inhibitor ist (siehe auch Kapitel 3.11),
+das Cyclobutylanalogon 255 jedoch nicht, erhoffte man sich — durch Einführung von
+elektronenliefernden Substituenten am Aromaten — mit einem Cyclobutylring dennoch
+Substanzen zu erhalten, welche die MAO hemmen (die Elektronendichte in einem
+Cyclopropan ist höher als in einem Cyclobutan) [289]. Getestet wurde jedoch von den
+Autoren nur das 4-Methoxyderivat, das Cyclobutylderivat 256 ist lediglich synthetisch
+beschrieben [289].
+	Das dem Tranyleypromin (254) analoge 3,4-Methylendioxytranyleypromin (257) zeig-
+te interessanterweise eine relative MAO-Inhibition von 60% [129]. 3,4-Dimethoxytranyl-
+cypromin (258) erwies sich mit einer relativen Stärke von 10% als escnllich schwächer. Bei
+der Bestimmung der striatalen dopaminergen Stimulation (durch Betrachtung der Körper-

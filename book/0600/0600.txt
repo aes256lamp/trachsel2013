@@ -1,0 +1,17 @@
+tracht einer möglichen Anwendung als Medikament bei Glaucoma ausgeschlossen werde
+können). Das strukturell verwandte Pronethalol (278) zeigt eine Blockierung ß-adrenerger
+Rezeptoren [24]. In Studien an Mäusen erwies sich 278 als karzinogen [308]. Es wurden
+Naphthalen-Epoxid-Metaboliten vermutet (siehe auch Kapitel 6.1.2).
+
+
+
+In einer Reihe von Heteroarylisopropylaminen, die als MAO-Inhibitoren getestet wur-
+den, traten auch die beiden Verbindungen 279 und 280 auf [284]. Das Benzofurylderivat 279
+zeigte eine hohe Selektivität von MAO-A (IC50=0.8μM) gegenüber MAO-B (IC50 >100μM).
+
+
+Mit den Thiophenderivaten 281 und 282 erhielt man Substanzen mit blockierenden
+Eigenschaften an β-adrenergen Rezeptoren [309, 310]. Die beiden chinoiden Strukturen 283
+und 284 wurden im Zusammenhang mit oxidativem Stress diskutiert [311]. Benzimidazole
+und Benzotriazole des Typs 285 sowie 286 dienten als heterocyclische Dopaminliganden
+[312, 313]. Bestimmt wurden die Affinitäten und Selektivität an D1,-und D2,-Rezeptoren.

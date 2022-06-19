@@ -1,0 +1,23 @@
+Gegenwärtig existieren nur wenig biologische Daten zur Pharmakologie und Toxiko-
+logie. Anfang der 1990er Jahre entdeckte man eine gewisse neuroprotektive Wirkung (cere-
+braler Cortex der Ratte) von MDBZP (265) gegenüber zuvor verabreichtem MDMA (1)
+[299]. Weiter erwies sich MDBZP (265) als schwacher Inhibitor für die [3H]5-HT Aufnahme.
+Staack et al. präsentierten metabolische Pfade in der Ratte [300]. Es existieren nur spärliche
+Informationen zur Wirkung im Menschen. Demzufolge wirkt MDBZP (265) erst in höheren
+Dosierungen von einigen 100mg und lediglich schwach stimulierend [259].
+
+
+Wie schon des Öfteren beobachtet, eignet sich die Thiopheneinheit manchmal als Bio-
+isoster für eine Benzoleinheit (siehe auch Kapitel 4.3 sowie Exkurs über die Bioisosterie). So
+entstand die Idee, Substanzen wie 266 und 267 zu untersuchen [301, 302]; allerdings misslang
+deren Synthese bis heute. Gründe hierfür könnten in der elektronenreichen Struktur liegen,
+welche die Substanzen (oder eine synthetische Vorstufe) sehr instabil werden lässt.
+
+
+Die folgenden Substanzen 268-275 wurden als Synthese-Nebenprodukte in Ecstasy-
+Strassenproben gefunden und auf ihre Interaktion mit dem Monoaminsystem getestet [303].
+Die beiden Substanzen 274 und 275 zeigten dabei eine Hemmung der Wiederaufnahme von
+Monoaminen (DA, NE, 5-HT) im tiefen mikromolaren Bereich, vergleichbar mit MDMA
+(1). Im Vergleich zu MDMA wies 274 eine mehr als 10-mal schwächere Fähigkeit auf, das
+Transportersubstrat [3H]MPP+ vom NET und SERT freizusetzen. Am DAT war die Verbin-
+dung 274 inaktiv. Die Substanz 275 zeigte keine freisetzenden Eigenschaften.
