@@ -1,0 +1,74 @@
+Anschließend eine vereinfachte grafische Darstellung der strukturellen Modifikation und
+den Auswirkungen bei den 3,4-disubstituierten Phenylalkylaminen (Abb. 20). Gezeigt wird
+dies primär an den 3,4-Methylendioxyphenylalkylaminen, der bedeutsamsten Untergruppe.
+
+
+Abb. 20. Strukturelle Modifikationen an 3,4-Methylenedioxyphenylalkylaminen und ihre Folgen bezuglich  Human(psycho)pharmakologie und Neuropharmakologie.
+
+
+Alkylierung
+- Monomethyl: schwächere in-vitro-
+  und in-vivo-Effekte
+- Dimethyl: Wirkverlust
+
+
+Difluorierung:
+- Spärlich untersucht,
+Verlust der akuten psychoaktiven Effekte
+
+Ringerweiterung:
+- Allgemeine Abschwächung bis hin zum
+kompletten Verlust der Aktivitäten (neuronale
+und Humanpotenz)
+
+Ringöffnung:
+- Dimethoxyderivate sind im
+Mensch und Tier inaktiv
+
+Monoalkylierung:
+Monoaminfreisetzung:
+-5-HT: Me ~ Et
+-DA: Me >> Et
+
+Humanpotenz:
+= Rα=H -> inaktiv;
+Me > Et >> Pr.
+- Stimulierende Eigenschaften nehmen
+mit zunehmender Größe ab
+- Falls Rβ = Keto und ein N-Pyrrolidinyl vorhanden,
+führen Rα ~ Pr (und weitere) zu starken Stimulanzien
+
+Dialkylierung:
+Monoamin-Freisetzung:
+= α,α-Dimethyl bewirkt keine Freisetzung von 5-HT
+
+Humanpotenz:
+- a,a-Dimethyl senkt die Humanpotenz
+
+Alkylierung:
+nur sehr spärlich untersucht
+
+Heteroatome:
+- Keton hält die in-vivo-Aktivitäten größtenteils aufrecht
+- Methoxy wird toleriert, jedoch Hinweise auf
+kardiovaskuläre Effekte
+
+Alkylierung
+Monoaminfreisetzung:
+- 5-HT: NH2 <Me
+DA: NH2 > Me
+NE: NH2 ~ Me
+
+
+Hemmung der Monoaminaufnahme:
+- 5-HT: NH2 ~ Me
+- DA: NH2 > Me
+- NE: NH2 ~ Me
+
+Humanpotenz:
+- NH2 > Me > Et;
+Pr und größer: inaktiv.
+-Dimethyl: inaktiv.
+- Falls Rβ = Keto und Rα ~ Pr:
+ein Pyrrolidin führt zu starken
+Stimulanzien

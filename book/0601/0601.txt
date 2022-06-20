@@ -1,0 +1,30 @@
+Die Effekte des Benzimidazols 287 auf die Catecholamin-Levels (Rattenhirn und -Herz)
+sind von Zenker et al. beschrieben [314]. Benzoxazolinone (288) wurden als Wirkstoffe zur
+Behandlung von Insomnia (Schlaflosigkeit) untersucht [315] und patentiert [316]. Bityramin
+(289) zeigte bei i.v. Verabreichung (0.5-3.0mg/kg; Hund und Katze) eine hypertensive Wir-
+kung [317]. Es erinnert an das Konzept bivalenter Liganden (siehe Kapitel 8.5.28).
+	Aminoalkylbenzofurane mit den Strukturelementen 290 (5-BFA oder 5-APB) und 291
+(6-BFA oder 6-APB) sind als 5-HT2C-Agonisten patentiert [318]. Positionsisomere, Aryl-
+oder Seitenkettensubstitutionen, Ringformationen etc. sind mit einbezogen. Die Substan-
+zen sollen zur Behandlung zahlreicher ZNS-Störungen dienen, im Speziellen wurden jedoch
+die Regulierung der Nahrungsaufnahme erwähnt (via agonistsche Aktivierung des 5-HT2C-
+Rezeptors, siehe Exkurs Anorektika). Im Internet wurde 291 unter dem Namen „Benzo
+Fury“ zu Rauschzwecken angeboten, und mindestens ein letaler Zwischenfall wurde vermu-
+tet [334].
+
+
+
+Die beiden Indol-Derivate 292 (5-APIN; auch 5-API; 5-IT) und 293 (6-APIN; auch
+6-API; 6-IT) wurden im Jahr 1962 zusammen mit weiteren Indol-Positionsisomeren von
+Hofmann und Troxler patentiert [319]. Die Autoren erwähnten für diese Substanzklasse Ef-
+fekte wie Mydriasis (Maus), Hyperthermie (Kaninchen) und auch die Fähigkeit der Substan-
+zen, Catecholamine freizusetzen sowie die Monoaminoxidase zu hemmen. Shulgen erwähnt
+in TiHKAL, dass von allen Positionsisomeren nur 5-APIN (292) zentral aktiv ist: Bei 20mg
+wirkt es während etwa 12h stimulierend, begleitet von erhöhter Herzfrequenz, Anorexie,
+Diurese und leichter Hyperthermie [258]. In Schweden wurden im Jahr 2012 mehrere To-
+desfälle mit 5-APIN (292) in Zusammenhang gebracht [336]. Dass 5-APIN (292) stärker mit
+den Monoamintransportern DAT und NET interagiert als 6-APIN (293), konnten Trachsel,
+Setola und Roth zumindest in einem kompetitiven Assay beleuchten (Tabelle 4) [320]. So
+zeigte 5-APIN (292) zum DAT und NET eine mäßige und am SERT keine Affinität. Das
+Positionsisomer 6-APIN (293) zeigte in diesem Assay zum DAT keine, zum NET nur wenig
+und zum SERT mäßige Affinität.
