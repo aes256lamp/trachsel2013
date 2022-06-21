@@ -1,0 +1,34 @@
+jedoch eines spezifischeren Vergleichs, und so zeigt sich, dass je nach 4-Substituent die ent-
+sprechenden Derivate der 3,4,5-Serie durchaus ebenso potent oder sogar potenter sein kön-
+nen (siehe Kapitel 8.4.11). Die Derivate der 2,4,5-Serie scheinen auch deutlich affiner zum
+5-HT2A- und 5-HT2C-Rezeptor; jedoch müssten zum direkten Vergleich mehr Substanzen
+beider Serien mit identischen 4-Substituenten gemessen werden, um abschließende Aussa-
+gen machen zu können. In Bindungsstudien mit antagonistischen Radioliganden (Ketanserin
+und Mesulergin) zeigen von den bisher gemessenen Substanzen selbst die im Menschen
+potentesten 3,4,5-substituierten Phenethylamine nur relativ tiefe Affinitäten.
+	Ein wichtiger Unterschied ist auch der Einfluss einer α-Me-Gruppe: Bei der 3,4,5-Serie
+bewirkt diese nur eine schwache Zunahme der In-vivo-Potenz (Kapitel 8.4.10). Dies steht
+stark im Kontrast zur 2,4,5-Serie, wo das Vorhandensein einer α-Me-Gruppe eine Substanz
+im Menschen teils bis um Faktor 10 potenter macht (Kapitel 8.5.15). Leider liegen gegenwär-
+tig noch zu wenige In-vitro-Daten zur 3,4,5-Serie vor, um Erklärungen für die im Menschen
+beobachteten Unterschiede der beiden Klassen erklären zu können.
+
+
+Interstrukturelle Gemeinsamkeiten
+
+Einiges haben die 3,4,5-, 2,4,5- und 2,4,6-Serien gemeinsam: Der 4-Substituent kann
+die größte sterische Expansion annehmen und bestimmt massgebend In-vitro-Daten (z.B.
+Affinitäten, funktionelle Potenz und funktionelle Selektivität, Metabolismus) sowie die Na-
+tur der Wahrnehmungs- und Bewusstseinsveränderung beim Menschen. Kleine, lipophile
+Substituenten führen zu potenten 5-HT2A- und 5-HT2C-Rezeptoragonisten, grosse, lipophile
+zu Antagonisten. Der 4-Substituent interagiert mit einer hydrophoben Region des Rezeptors.
+Durch seine Variation wird der Wirkcharakter entscheidend verändert.
+	Eine weitere Gemeinsamkeit dieser drei Klassen ist die Anordnung der beiden übrigen
+Substituenten am Aromaten: Es ist je eine MeO-Gruppe senkrecht zur 1,4-Achse angeord-
+net (Abb. 3).
+
+
+
+Abb. 3. Gemeinsamkeiten der 3,4,5-, 2,4,5- und 2,4,6-Serien: Alle jeweils eine MeO-Gruppe auf
+einer Seite der 1,4-Achse auf, und jede der Serie besitzt den für eine hohe Affinitat zum 5-AT2A-Rezeptor
+sowie für den psychedelischen Wirkcharakter entscheidenden 4-Substituenten.

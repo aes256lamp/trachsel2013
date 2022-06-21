@@ -1,0 +1,45 @@
+Was ist die Aufgabe der Monoamintransporter?
+
+Wie der Name schon sagt, können die Monoamintransporter Stoffe, die eine expo-
+nierte Aminogruppe tragen, über eine Zellmembran — also von außen ins Zellinnere (Cy-
+tosol) transportieren. Solche aminische Stoffe sind in der Regel endogene Neurotrans-
+mitter wie Serotonin, Dopamin, Histamin oder Norepinephrin, können aber auch exogen
+zugeführte Stoffe sein. Vereinfacht gesprochen sind Monoamintransporter Pumpen, die
+in der Zellmembran verankert sind und für die Wiederaufnahme (Reuptake) von Neuro-
+transmittern verantwortlich sind. Sie regulieren die Neurotransmitter-Konzentration im
+synaptischen Spalt und beenden durch Entfernen respektive Wiederaufnahme des Neu-
+rotransmitters in das Zellinnere die Signalübertragung, Da die Neurotransmitter zu we-
+nig lipophil sind, können sie nicht passiv die Zellmembran überwinden, sondern sind auf
+aktive Prozesse wie solche Wiederaufnahme-Pumpen angewiesen. Bei einer regulären
+Ausschüttung von Neurotransmittern in den synaptischen Spalt spielen die Monoamin-
+transporter keine Rolle, da hierbei lediglich die gefüllten Speichervesikel Ca2+-induziert
+mit der Zellmembran verschmelzen und sich in den synaptischen Spalt ergießen. Diesen
+Vorgang nennt man auch Exocytose, und Transporter sind daran nicht beteiligt. In Abb.
+1 sind die normalen Vorgänge an einer Synapse skizziert.
+
+
+
+Präsynaptisches Neuron
+
+Postsynaptisches Neuron
+
+Mit Neurotransmittern
+gefüllte Vesikel
+
+Neurotransmitter und
+ihre Transportrichtung
+
+VMAT
+
+Monoamintransporter
+
+Postsynaptischer Rezeptor
+
+Präsynaptischer Rezeptor
+
+Informationsfluss
+
+
+
+
+Abb. 1. Normale Situation bei einer Synapse

@@ -1,0 +1,69 @@
+Hier kann man weitere Informationen zur
+Interaktion mit Monoamintransportern finden:
+
+- Kapitel 1
+
+- Kapitel 2.3.2
+
+- Kapitel 3.1.1.1 (unter Pharmakologische und subjektive Effekte)
+
+- Kapitel 3.2.1
+
+- Kapitel 3.5
+
+- Kapitel 3.6
+
+- Kapitel 3.10
+
+- Kapitel 3.12.3, 3.12.4.1, 3.12.4.2, 3.12.4.3
+
+- Kapitel 3.15
+
+- Kapitel 6.2.2.2
+
+- Kapitel 6.3.6, 6.3.8
+
+- Kapitel 7.1.1
+
+- Kapitel 7.5.1, 7.5.2, 7.5.6.3, 7.5.6.4, 7.5.7.3, 7.5.7.4,7.5.8
+
+- Kapitel 8.1.1
+
+
+
+Literatur
+
+[1] E. Carboni, G. L. Tanda, R. Frau, G. Di Chiara. J. Neurochem. 1990, 55, 1067.
+
+[2] J. A. Moron, A. Brockington, R. A. Wise, B. A. Rocha, B. T. Hope. J. Neurosci.
+    2002, 22, 389.
+
+[3] D. Taubert, G. Grimberg, W. Stenzel, E. Schomig. PLoS One 2007, 2, e385.
+
+[4] K. Engel, J. Wang, Mol. Pharmacol. 2005, 68, 1397.
+
+[5] R. J. Reimer, E. A. Fon, R. H. Edwards. Curr. Opin. Neurobiol. 1998, 8, 405.
+
+[6] E. Weihe, L. E. Eiden. FASEB J. 2000, 14, 2435.
+
+[7] G. Zheng, L. P. Dwoskin, P. A. Crooks. AAPS J. 2006, 8, E682.
+
+[8] D. Sulzer, M. S. Sonders, N. W. Poulsen, A. Galli. Prog. Neurobiol. 2005, 75, 406.
+
+[9] H. Khoshbouei, H. Wang, J. D. Lechleiter, J. A. Javitch, A. Galli. J. Biol. Chem.
+    2003, 278, 12070.
+
+[10] N. Chen, M. E. Reith. Eur. J. Pharmacol. 2003, 479, 213.
+
+[11] S. Seidel, E. A. Singer, H. Just, H. Farhan, P. Scholze, O. Kudlacek, M. Holy, K.
+     Koppatz, P. Krivanek, M. Freissmuth, H. H. Sitte. Mol. Pharmacol. 2005, 67, 140.
+
+[12] H. H. Sitte, H. Farhan, J. A. Javitch. Mol. Interv. 2004, 4, 38.
+
+[13] A. W. Ravna, I. Sylte, S. G. Dahl. J. Comput. Aided Mol. Des. 2003, 17, 367.
+
+[14] X. Huang, C. G. Zhan. Biophys. J. 2007, 93, 3627.
+
+[15] T. Beuming, J. Kniazeff, M. L. Bergmann, L. Shi, L. Gracia, K. Raniszewska, A.
+     H. Newman, J. A. Javitch, H. Weinstein, U. Gether, C. J. Loland. Nat. Neurosci.
+     2008, 11, 780.

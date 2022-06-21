@@ -1,0 +1,41 @@
+[3], siehe Kapitel 8.4.1). Durch Diversifizieren des 4-Substituenten kann dessen biologische
+Aktivität stark moduliert werden (siehe Kapitel 8.4.8.2 und 8.4.9.1), dies gilt beispielsweise
+für die 5-HT2-Rezeptor-Affinitäten sowie Effekte im Menschen. Wie bereits in Kapitel 7.3.1
+und 7.4.1 in der Gegenüberstellung 2,5- zu 2,4,5- sowie 2,6- zu 2,4,6-Substitution gezeigt
+wurde (die Positionen 2 und 5, sowie 2 und 6 sind jeweils mit MeO-Gruppen besetzt), hat
+der 4-Substituent eine kritische Bedeutung für die pharmakologische Wirkung: Ohne des-
+sen Anwesenheit sind die Affinitäten an den 5-HT2A-und 5-HT2C-Bindungsstellen lediglich
+im mikromolaren Bereich, und Substanzen ohne 4-Substituent erwiesen sich im Menschen
+weitgehend als wirkungslos (das Aktivieren des 5-HT2A-Rezeptors wird primär für die Wir-
+kung von psychedelischen Phenylalkylaminen verantwortlich gemacht, siehe Kapitel 8.5.1).
+Dass dies auch bei der Gegenüberstellung der 3,5- mit den 3,4,5-trisubstituierten Phenylal-
+kylaminen der Fall ist, kann zumindest mit Bindungsaffinitäten zum jetzigen Zeitpunkt nicht
+grundlegend untermauert werden. Dond et al. zeigten für 3,5-DMA (3) eine äußerst geringe
+Affinität zu [3H]Ketanserin markierten r5-HT2A- sowie [3H]Mesulergin markierten r5-HT2C-
+Rezeptoren (beide Ki> 10000nM) [4]. Mescalin (2), das eine 4-MeO-Gruppe trägt, zeigte
+zum [3H]Ketanserin markierten h5-HT2A-Rezeptor auch nur eine Affinität von Ki= 5500nM
+(zum [125I]DOI markierten h5-HT2A-Rezeptor betrug die Affinität Ki= 551nM) [5] (Anmer-
+kung: Mescalin (2) trägt im Gegensatz zu 3,5-DMA (3) keine α-Me-Gruppe; diese hat jedoch
+keinen wesentlichen Einfluss auf die Rezeptoraffinitäten, siehe Tabelle 4 im Kapitel 8.4.10
+sowie Tabelle 14 im Kapitel 8.5.15). Jedoch darf aufgrund von Analogieprinzipien auch hier
+angenommen werden, dass ohne das Vorhandensein eines 4-Substituenten die 3,5-Dime-
+thoxyphenylalkylamine weitgehend wirkungslos sind (Abb. 1).
+
+
+Abb. 1. Aufgrund der
+tiefen 5-HT2A-Rezeptoraffi-
+nität und von Analogien
+darf angenommen wer-
+den, dass 3,5-DMPEA (1)
+ohne 4-Substituenten frei
+von einer psychoaktiven
+Wirkung ist.
+
+
+3,5-Dimethoxyamphetamin (3,5-DMA, 3) wurde bisher ebenfalls nicht im Menschen ge-
+testet, zumindest nicht offiziell. In einer Drug-Discrimination-Studie (Ratten, Training Drug:
+DOM) vermochte 3 für das Psychedelikum DOM (4, siehe auch Kapitel 8.5.4) nicht zu
+substituieren [6], und auch für Amphetamin (5) substituierte 3 nicht (Versuchstiere: Ratten)
+[7]. Die Resultate aus den Tierexperimenten sowie die tiefen Rezeptoraffinitäten [4] zusam-
+mengenommen mit der zuvor geschilderten 4-Substituenten-These sprechen dafür, dass 3,5-
+DMA (5) im Menschen weitgehend keine psychotropen Effekte zeigt.

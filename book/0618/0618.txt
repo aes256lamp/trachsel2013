@@ -1,0 +1,46 @@
+Welche Möglichkeiten hat ein Stoff, mit einem
+Monoamintransporter zu interagieren, und welche
+therapeutischen Anwendungen ergeben sich daraus?
+
+Viele unterschiedliche Stoffe wirken, indem sie mit Transportern interagieren, und
+in den allermeisten Fällen wird durch eine Blockade oder eine Freisetzung erreicht, dass
+mehr Neurotransmitter im synaptischen Spalt zur Verfügung stehen. So wirken viele
+Antidepressiva als Wiederaufnahmehemmer von Monoaminen (siehe Exkurs Antide-
+pressiva). Anorektika wirken auch oft als Wiederaufnahmehemmer, in manchen Fällen
+sogar als Freisetzer oder in anderen Worten ausgedrückt, als Reverse transporter der Mo-
+noamine (siehe Exkurs Anorektika). Die meisten der klassischen Kreislaufstimulanzien
+(z.B. Amphetamin, Ephedrin und Etilephrin) wirken ebenfalls als Freisetzer oder Wie-
+deraufnahmehemmer. In die Klasse der Entaktogene gehört beispielsweise MDMA, das
+als Serotoninfreisetzer wirkt. Medikamentös haben Entaktogene bislang noch keine Be-
+deutung, MDMA befindet sich aber zurzeit in klinischen Untersuchungen zur Behand-
+lung von posttraumatischen Belastungsstörungen (PTSD, siehe Kapitel 7.5.6.8) [17].
+	Streng genommen können vier Ereignisse bei der Interaktion mit einem Monoamin-
+transporter eintreten, wobei man bedenken muss, dass ein und dieselbe Substanz gleich-
+zeitig mehrere dieser Ereignisse in unterschiedlichem Ausmaß bewirken kann. Amphet-
+amin zum Beispiel bringt alle vier Prozesse in Gang,
+
+
+1.) Es gibt viele Stoffe, die einfache Substrate der Transporter sind, das heißt, sie
+werden einfach nur vom synaptischen Spalt ins Zellinnere transportiert, wo sie dann,
+wenn sie nicht von der Monoaminoxidase (MAO) abgebaut werden, im Cytosol angerei-
+chert werden. Wenn der entsprechende Stoff im Zellinneren auch noch einen pharma-
+kologischen Effekt ausübt, dann spricht man von intrazellulärem Targeting, Das promi-
+nenteste Beispiel für ein solches Targeting ist wahrscheinlich MPP+, das für den selek-
+tiven Zelltod dopaminerger Neuronen verantwortlich ist und bei dem es sich um einen
+Metaboliten oder eine Syntheseverunreinigung des synthetischen Opioids MPTP handelt
+(siehe Kapitel 3.12.4.1). Da MPP+ ein hervorragendes Substrat für den DAT darstellt,
+wird es an den Stellen, in denen der DAT vermehrt vorkommt, auch aufgenommen [18]
+— und das ist die Substantia nigra. Da das geladene Molekül die dopaminergen Zellen nicht
+wieder verlassen kann, werden diese sukzessive zerstört, indem den Neuronen durch die
+Hemmung der NADH-Dehydrogenase der Atmungskette die Energieversorgung abge-
+schnitten wird [19]. Dies zeigt, dass die Transporter wie eine Pumpe in aller Regel nur
+in eine Richtung funktionieren. Daraus resultieren die Parkinson-ähnlichen Symptome.
+Des Weiteren wird diskutiert, dass das Auftreten einer pulmonalen Hypertonie nach der
+Gabe bestimmter Anorektika des Phenethylamintyps damit zusammenhängt, dass sie
+eine hohe Substrat-Aktivität zum SERT haben [20].
+
+2.) Als Weiteres kann ein Stoff den Transporter hemmen. Dadurch verbleibt im
+synaptischen Spalt mehr Neurotransmitter, der mit einem Rezeptor interagieren kann
+(Abb. 3). Das führt bis zu einer 400-mal höheren Monoamin-Konzentration im syn-
+aptischen Spalt als unter physiologischen Bedingungen [21, 22]. Solche Stoffe werden
+meist Wiederaufnahmehemmer genannt und finden oft als Arzneimittel Anwendung:

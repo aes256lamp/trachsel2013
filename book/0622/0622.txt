@@ -1,0 +1,44 @@
+zwischen Freisetzung und Wiederaufnahmehemmung vor. Aus der Tabelle ist auch zu ent-
+nehmen, dass keiner der Stoffe ein Freisetzer ist, ohne auch die Wiederaufnahme zu
+hemmen. Umgekehrt führt keines der verwendeten Antidepressiva (hier: Desipra-
+min, Citalopram, Fluoxetin) zu einer Freisetzung von Monoaminen, was durch einen
+IC50 > 10000nM deutlich wird. In der Regel fällt die Intensität (Ki-Wert) der Wiederauf-
+nahmehemmung schwächer aus, als der freisetzende Effekt (IC50-Wert). Das macht auch
+Sinn, da eine zu starke Wiederaufnahmehemmung die Aufnahme des jeweiligen Stoffes,
+der als Freisetzer fungiert, sowie die weiteren Effekte blockieren würde.
+	Aus der Tabelle 1 wird auch ersichtlich, dass Neurotransmitter und biogene Amine
+(hier Dopamin, Serotonin, Norepinephrin und Tyramin) die Funktion der Monoamin-
+transporter regulieren. Oral aufgenommenes Tyramin wird rasch durch die Transporter
+in die Zelle aufgenommen, wo es enzymatisch durch die Monoaminoxidase (MAO) ab-
+gebaut wird. Bei gehemmter MAO kann Tyramin als Reverse-Transporter fungieren und
+Noradrenalin freisetzen, was dann zum gesteigerten Blutdruck führt (Tyramin-Effekt;
+siehe Exkurs Aminoxidasen) [27].
+
+Obwohl Freisetzer auch als Wiederaufnahmehemmer fungieren, muss ihr Bindungs-
+modus ein anderer sein als der von klassischen und reinen Wiederaufnahmehemmer.
+So ist z.B. der Freisetzer MDMA (Ecstasy, siehe Kapitel 7.5.6), der gleichzeitig auch
+die Wiederaufnahme von Serotonin, Norepinephrin und Dopamin hemmt, nicht in
+der Lage, in Radioligand-Verdrängungsstudien tritiierte Radioliganden (Citalopram für
+SERT, GBR 12935 für DAT und Nisoxetin für Norepinephrin) zu verdrängen [32].
+
+4.) Schließlich ist es denkbar, dass Stoffe modulierende Eigenschaften auf den
+Transporter ausüben. So führt z.B. eine Proteinkinase-C-induzierte Phosphorylierung
+des Transporters nicht nur zu veränderten Transporteigenschaften, sondern kann auch
+eine Internalisierung des Transporters zur Folge haben (siehe auch Exkurs Aspekte
+der molekularen Pharmakologie) [33]. Das bedeutet, dass der komplette Transporter
+— analog zu den GPCRs — durch einen endocytoseartigen Prozess von der Zelloberflä-
+che verschwindet und ins Cytoplasma transportiert werden kann. Im Zellinneren kann
+er entweder enzymatisch abgebaut oder an anderer Stelle wieder an die Zelloberfläche
+transportiert werden. Bisher wird dieser Ansatz zur Regulation des Transporterhaus-
+haltes therapeutisch noch nicht genutzt. Neueste Untersuchungen zeigten, dass eine
+geringe Gabe von Amphetamin zur Folge hat, dass solche im Zellinneren ruhenden
+Dopamintransporter wieder vermehrt an die Zelloberfläche transportiert werden [34].
+
+Zusammenfassend lässt sich sagen, dass die Monoamintransporter jede Sekunde in
+unserem Körper aktiv sind und ein Gleichgewicht unter den Neurotransmittern herstel-
+len. Darüber hinaus stellen sie auch für viele Xenobiotika das Tor ins Zellinnere dar, wo
+die Stoffe unter Umständen ungeahnte Effekte haben können. Diese Tatsache könnte
+auch für ein gezieltes intrazelluläres Targeting verwendet werden. Auch die eher „unpo-
+pulären“ Transporter, wie der OCT und PMAT, gewinnen zunehmend an Bedeutung
+und könnten auch therapeutische Relevanz erlangen [35]. Zur weiteren Vertiefung in das
+Thema sind die beiden Reviews von Torres [33] und Sulxer sehr zu empfehlen [8].

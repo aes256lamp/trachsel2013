@@ -1,0 +1,25 @@
+Die resultierenden Verbindungen sind bezüglich ihrer Selektivität schwer einzu-
+schätzen. Wie man bei den Pyrovaleronen sehen kann, können sehr potente Verbin-
+dungen aus solchen strukturellen Variationen entstehen, deren Humandosis etwa 30-
+mal geringer ist als bei MDMA (MDPV ~3-7mg, MDMA ~80-150mg). Qualitativ
+unterscheiden sich die Wirkungen der beiden erwähnten Verbindungen sehr stark.
+Während MDPV (24) vor allem als Stimulans wirkt, ist MDMA (3) in erster Linie ein
+Entaktogen.
+
+
+
+Die Arbeitsgruppe um Meltzer synthetisierte die oxacyclischen (25) and carba-
+cyclischen (26) Analoge von Methylphenidat (Ritalin; 12, siche Kapitel 3.12.4.1) und
+stellten fest, dass in vitro für die Hemmung des DAT überhaupt kein basischer Stickstoff
+vonnöten ist [42]. Diese Beobachtung zeigt, wie gravierend sich die Struktur-Wirkungs-
+Beziehungen zwischen Transportern und G-Protein-gekoppelten Rezeptoren (GPCR)
+unterscheiden können. An den aminischen GPCR ist für die Bindung an den Rezeptor
+die Ausbildung einer Salzbrücke zu einem Aspartat essenziell (siehe Exkurs Aspekte
+der molekularen Pharmakologie) und Verbindungen ohne Stickstoff zeigen keine Affi-
+nität zu GPCRs. Falls sich diese Beobachtung auch noch auf andere Transporter über-
+tragen ließe, wäre eine Unzahl an neuen Verbindungen denkbar, deren Pharmakologie
+auf Grund der gesteigerten Lipophilie und sonstigen veränderten physikochemischen
+Eigenschaften nicht mit den stickstoffhaltigen Analoga vergleichbar wäre. Die Tatsa-
+che, dass für die Wirkung von Methylphenidat überhaupt kein basisches Stickstoffatom
+vonnöten ist, erschwert zusätzlich ein Aufstellen von klaren Regeln bezüglich Struktur-
+Wirkungs-Beziehungen.

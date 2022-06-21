@@ -1,0 +1,21 @@
+Das α-Ethylhomolog 1-(3,5-Dimethoxyphenyl)-2-aminobutan (3,5-DMB; 6) wurde zu-
+sammen mit 3,5-Dimethoxyamphetamin (5) und 3,5-Dimethoxyphenethylamin (1) mit mas-
+senspektrometrischer Analytik für forensische Zwecke charakterisiert [8]. 3,5-DMB (6) ist
+höchstwahrscheinlich ebenfalls inaktiv im Menschen, und es dürfte auch äußerst geringe
+5-HT2A- und 5-HT2C-Rezeptoraffinitäten zeigen. Gründe hierfür liegen einerseits darin, dass
+das analoge 3,5-DMA (3) bereits keine Affinitäten zu diesen Bindungsstellen zeigte (beide
+Ki> 10000nM) [4], andererseits wurde gezeigt, dass das Anbringen einer α-Ethylgruppe bei
+hochaffinen Serotoninrezeptor-Liganden die Affinität abschwächt und die Efficacy senkt, und
+zudem wird die In-vivo-Potenz stark gesenkt (siehe Kapitel 8.5.24).
+
+
+
+Den Einfluss einer terminalen Trifluormethylgruppe in Amphetaminderivaten unter-
+suchten 1969 Pinder, Brimblecombe und Green und stellten dazu unter anderem die Verbindung
+7 her [9]. Diese Verbindungen zeigten keine ZNS-stimulierenden Effekte in Versuchstieren
+(siehe auch Kapitel 3.5). Zur Begründung argumentierten die Forscher mit den elektronischen
+Effekten. Durch die stark elektronenziehenden Fluoratome wird die Basizität der Amino-
+gruppe so stark gesenkt, dass das Molekül die Fähigkeit, protoniert zu werden, verliert (siehe
+auch Diskussionen im Kapitel 3.5 sowie Exkurs Fluor in der Medizinalchemie). Mit wenigen
+Ausnahmen können die Amine nur aufgrund ihrer Fähigkeit, protoniert und wieder depro-
+toniert zu werden, sowohl hydrophile als auch lipophile Barrieren überwinden (Transport

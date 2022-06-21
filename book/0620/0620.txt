@@ -1,0 +1,27 @@
+zunächst als Substrate durch den Monoamintransporter ins Zellinnere transportiert wer-
+den. Das erklärt, warum ein starker Transporter-Hemmstoff auch den Reverse Trans-
+port hemmt. So blockt z.B. Cocain die Effekte von Amphetamin [24].
+	Während Wiederaufnahmehemmer wie Desipramin oder andere Antidepressiva
+die Monoaminkonzentration im synaptischen Spalt um etwa 200-400% erhöhen [25],
+bewirken der Wiederaufnahmehemmer Cocain oder der Reverse-Transporter Metham-
+phetamin eine 1200% Erhöhung der Monoaminkonzentration [26]. Da die prozentua-
+le Erhöhung der Monoaminkonzentration sich selbst bei chronischer Administration
+von Methamphetamin nicht änderte, schließen die Autoren aus, dass die bei chroni-
+schem Methamphetamin-Abusus auftretende Gewöhnung nicht nur mit einer verringer-
+ten Freisetzung von Dopamin einhergeht, sondern noch andere, bisher nicht geklärte
+Mechanismen beteiligt sein müssen. Für eine volle Substitution in Drug-Discrimination-
+Studien (siehe Exkurs Drug Discrimination) muss die Erhöhung des Dopaminspiegels
+um etwa 200-400% erfolgen [26].
+
+Der Mechanismus des reversen Transports von Amphetamin wird z.B. folgen-
+dermaßen über einen Failitated-Exchange-Diffusion-Mechanismus erklärt (siehe dazu
+Abb. 4): Amphetamin wird zuerst als Substrat durch den DAT ins Zellinnere ge-
+schleust. Im Gegenzug (Exchange) kann im Moment des Einschleusens frei herum-
+schwimmendes, also nicht in Vesikel gepacktes Dopamin die Zelle über den DAT
+verlassen. Unter normalen Umständen findet sich Dopamin aber in Vesikeln verpackt
+und kann in diesem gebundenen Zustand nicht über den Monoamintransporter hi-
+nausgeschleust werden. Im Zellinneren wird Amphetamin selbst nun auch über den
+VMAT in die Vesikel eingeschleust und verdrängt dort den Neurotransmitter, der darin
+
+
+Abb. 4. Schematische Darstellung des durch Freisetzer erzeugten Reverse Transports

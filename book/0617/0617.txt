@@ -1,0 +1,33 @@
+eigentlich transportierte Molekül, so spricht man von Symportern. Werden sie in die ent-
+gegengesetzte Richtung transportiert, nennt man sie Antiporter. Die Monoamintrans-
+porter gehören zu den Na-Symportern, weil sie den NaCl-Konzentrationsgradienten als
+treibende Kraft für den Transport verwenden [9, 10].
+	Untersuchungen zeigten aber auch, dass Transporter als Di- oder Oligomere vorlie-
+gen können. Das bedeutet, dass mehrere Transporterproteine miteinander in Kontakt
+stehen und so z.B. tetramere Transporteinheiten bilden [11, 12]. Des Weiteren fand man,
+dass manche Transporter sogar Dimere mit Rezeptoren, wie dem GABAA-Rezeptor,
+ausbilden und sich in ihrer Aktivität gegenseitig steuern [11]. Da sich diese Membran-
+proteine, gerade auch wenn sie in Kontakt zu anderen Proteinen stehen, nur sehr schwer
+kristallisieren und röntgen lassen, weiß man über ihren genaueren Aufbau und ihr Aus-
+sehen bzw. ihre Tertiärstruktur noch relativ wenig, Für ein rationales Drug-Design ist
+man daher auf Homologiemodelle angewiesen.
+	Unter allen Na-Symportern konnte man bisher nur den Leueintransporter des in
+heißen Quellen vorkommenden Bakteriums Aquifex aeolicus LeuT(Aa) kristallisieren und
+röntgen. Daher dient die daraus erhaltene Tertiärstruktur als Templat für die Erstel-
+lung computergestützter Homologiemodelle [13, 14]. So konnten Beumuing et al. mittels
+Modelling-Studien die Bindungsstelle für Dopamin und diejenige für Cocain als Hemm-
+stoff des Dopamintransporters detailliert beschreiben [15]. Singh et al. gelang es, an
+besagtem Leucintransporter sogar Bindungsstellen für trizyklische Antidepressiva als
+Hemmstoffe zu identifizieren und eine Cokristallisation zu erreichen. Somit existieren
+Röntgenstrukturdaten, die Clomipramin, Imipramin und Desipramin in der Bindetasche
+des Leucintransporters zeigen. Die Codes in der Protein Data Bank (PDB) sind je nach
+Hemmstoff 2Q6H, 2Q72 und 2QB4 [16]. In Ref. [43] können die Strukturen herunter-
+geladen werden. Die Abb. 2 zeigt die 12 transmembranären Helices des Leucintranspor-
+ters, den Hemmstoff Clomipramin und das Substrat Leucin.
+
+
+
+Abb. 2. Kristallstruktur des Leucintransporters
+(pdb 2Q6H) mit seinen 12 transmembranären
+Domänen, der Bindungsstelle für den Hemmstoff
+Clomipramin und das Substrat L-Leucin [16].

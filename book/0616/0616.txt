@@ -1,0 +1,45 @@
+Je nach bevorzugtem Substrat unterscheidet man bei den Monoamintransportern
+zwischen Dopamintransportern (DAT), Serotonintransportern (SERT) und Nor-
+epinephrintransportern (NET). Dabei ist die Spezifität nicht übermäßig ausgeprägt:
+So kann z.B. der DAT bei einem Überangebot von Norepinephrin selbiges ebenfalls ins
+Zellinnere transportieren [1, 2]. Ein weiterer wichtiger Transporter ist der sogenannte
+Organische Kationentransporter (OCT), der z.B. den Neurotransmitter Histamin
+transportiert, aber auch einige andere exogene Amine [3]. Des Weiteren existiert ein
+sogenannter Plasmamembran-Monoamintransporter (PMAT), der im Gehirn, aber
+auch in der Peripherie weit verbreitet ist. Er transportiert Dopamin, Norepinephrin,
+Epinephrin und MPP+ und wird z.B. durch den Ca2+-Kanal-Blocker Verapamil und
+durch Tryptamin gehemmt [4].
+	Ein in die Synapse ausgeschütteter Neurotransmitter wird schnell durch die Trans-
+porter — die etwas außerhalb oder seitlich an der Synapse gelegen sind — wieder ins Zell-
+innere aufgenommen, um eine Überstimulation der Rezeptoren zu vermeiden. So kön-
+nen die Neurotransmitter effektiv recycelt werden. Wären die Transporter direkt an der
+präsynaptischen Membran gelegen, würden sie die ausgeschütteten Transmitter zu einem
+großen Teil wieder zurücktransportieren, noch bevor sie mit einem Rezeptor interagiert
+haben. Um allerdings erneut in die Synapse ausgeschüttet werden zu können, müssen
+die Neurotransmitter im Zellinneren vor dem enzymatischen Abbau geschützt werden.
+Dazu werden sie sicher in Speichervesikel verpackt. Dies geschieht mit Hilfe eines wei-
+teren Transporters, des vesikulären Monoamintransporters (VMAT) (siche Abb. 1)
+[5-7]. Wird der VMAT in seiner Aktivität gehemmt, so führt das zunächst dazu, dass die
+Transmitter nicht mehr in Vesikel verpackt werden. Weil sie rasch enzymatisch im Cyto-
+sol durch die Monoaminoxidase (MAO) abgebaut werden, stehen sie nicht mehr für eine
+erneute Ausschüttung zur Verfügung, Über kurz oder lang führt das zu einer Verarmung
+der Zelle an Neurotransmittern. Stoffe, die den VMAT hemmen, führen beispielsweise
+zu Depressionen, Blutdrucksenkung oder verminderter Muskeltätigkeit, und letzteres
+äußert sich am Versuchstier häufig darin, dass ein Augenlid herabhängt (neurotoxische
+Ptosis). Bekannte Stoffe, die am VMAT wirken, sind z.B. Reserpin, das den Blutdruck
+erniedrigt, und Tetrabenazin, das zur Behandlung von Bewegungsstörungen wie Chorea
+Huntington verwendet wird. Auch Amphetamin bzw. Methamphetamin beeinflussen den
+VMAT. Die Verarmung an Neurotransmittern trägt nicht zur Hauptwirkung bei, ist aber
+für Nebenwirkungen bei übermäßigem Amphetaminmissbrauch verantwortlich. Es wird
+angenommen, dass die Hemmüng des VMAT eine Bedingung für den amphetaminindu-
+zierten Revers transport darstellt [8]. Dieser wird später detailliert besprochen.
+
+Wie sehen solche Transporter aus?
+
+Die Transporter sind, ähnlich wie die G-Protein-gekoppelten Rezeptoren (GPCR)
+Membranproteine: Das heißt, sie schwimmen nicht frei herum, sondern sind in eine
+Zellmembran eingebettet. Dort bilden sie 12 helixartig aufgebaute Röhren aus, die zwei
+intrazelluläre Enden besitzen. GPCRs sind im Gegensatz dazu aus 7 transmembranären
+Helices aufgebaut und haben ein extrazelluläres und ein intrazelluläres Ende. Werden
+kleine Moleküle über Zellmembranen transportiert, so geschieht das in der Regel gleich-
+zeitig mit Ionen, (z.B. Na+). Werden die Ionen in dieselbe Richtung transportiert wie das

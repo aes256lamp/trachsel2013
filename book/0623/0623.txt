@@ -1,0 +1,34 @@
+Generell zu beobachtende Struktur-Wirkungs-Beziehungen an Monoamintransportern
+
+
+Wenn man nur die einfachen Phenethylaminderivate betrachtet, die ihre Wirkung
+über Monoamintransporter vermitteln, so fallen einige Struktur-Wirkungsbeziehungen
+auf. Sie scheinen unabhängig davon zu gelten, ob die Stoffe als Wiederaufnahmehem-
+mer oder Freisetzer fungieren, und beziehen In-vivo-Effekte mit ein. Insofern kann man
+nicht von echten SARSs sprechen. Im folgenden Abschnitt sollen tatsächlich nur generell
+und qualitativ beobachtete Trends wiedergegeben werden. In-viv-Effekte sind zwar eine
+Reflektion, lassen aber nicht direkt auf die zugrundeliegenden Mechanismen schließen.
+Es wird auch nicht näher spezifiziert, um welche Monoamintransporter es sich handelt.
+
+Als erstes fällt zur Stereochemie der Substanzen auf, dass die Eutomere in der
+α-Position meist gleich konfiguriert sind, sie tragen S-Konfiguration. Das gilt für die
+Freisetzer Amphetamin (1), Methamphetamin (2), MDMA (3), Fenfluramin (4) und
+Ephedrin (5) genauso wie für die Wiederaufnahmehemmer Pyrovaleron (6) Prolintan (7).
+
+
+
+Bei Psychedelika, die an Serotonin-5-HT2-Rezeptoren wirken, ist das R-Isomer das
+Wirkstärkere (siehe Kapitel 8.5.14). Generell werden bei Phenethylaminen, die transpor-
+tervermittelt wirken, an der Seitenkette mehr strukturelle Variationen toleriert, als bei
+den Rezeptorliganden. So ist eine Homologisierung der α-Methylgruppe zu einer Ethyl-
+oder Propylgruppe der Wirkung am Transporter nicht abträglich. Das fiel schon Shulgin
+bei In-vivo-Versuchen mit der Verbindung BDB (8) und ähnlichen Derivaten auf [36]
+(siehe auch Kapitel 7.5.7.2). Zu den genannten Verbindungen fehlen leider pharmakolo-
+gische In-vitro-Daten. Die beschriebenen MDMA-artigen Effekte und die Tatsache, dass
+diese Strukturvariation bei klassischen Psychedelika, die über 5-HT2-Rezeptoren wirken,
+zum Wirkungsverlust führt, gibt Anlass zur Annahme, dass ähnlich wie bei MDMA (3)
+auch Monoamintransporter für die Wirkung von BDB (8) verantwortlich sind. Auch bei
+Prolintan (6, siehe Kapitel 3.2.1) und Pyrovaleron (7, siehe Kapitel 3.5 und 6.3.6) ist die
+α-Methylgruppe homologisiert.
+	In ß-Position von transporteraktiven Phenethylaminen können ebenfalls Substitu-
+enten eingeführt werden, ohne dass die Interaktion mit den Monoamintransportern
