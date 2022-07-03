@@ -1,0 +1,26 @@
+Das Benzocycloheptanderivat 44 bewirkte in Mäusen ZNS-Depression sowie ein Defizit
+in der Motorik. [73]. Das tranylcyprominanaloge Derivat 3,4,5-Trimethoxytranylcypromin
+(TMT, 45) wurde bis zu 13mg im Menschen geprüft und war bei dieser Dosis im Menschen
+inaktiv [19].
+
+
+
+Das Rigidisieren der MeO-Gruppen in 2,4,5- sowie auch in 2,4,6-trisubstituierten
+Phenethylaminen wie 10 und 46 führte in vitro wie auch in vivo zu potenten Substanzen
+(z.B. Strukturen 47 und 48, siehe auch Kapitel 8.5.27.2 und 8.6.3) [74-76]. Die Affinität
+konnte erhalten oder gar deutlich gesteigert werden (für die komplett aromatisierten DFLY-
+Verbindungen siehe Kapitel 8.5.27.2), und die In-vivo-Potenz war teils massiv gesteigert (Drug-
+Discrimination-Studien). Angetrieben durch diesen Fakt erprobte die Gruppe von Nichols
+diese strukturelle Modifikation ebenfalls an der Struktur von Mescalin (1) [8]. Es zeichnete
+sich jedoch ab, dass dieses Einbinden der MeO-Gruppen in tigide Dihydrofuranringe wie
+in den Substanzen 49 und 50 bei Mescalin (1) zu inaktiven Substanzen führt (Abb. 11). Die
+Affinitäten zu dem 5-HT2A-Rezeptor blieben im Vergleich zu Mescalin (1) nahezu erhalten.
+In den Drug-Discrimination-Studien an Ratten vermochten die beiden Analoga Flyscalin
+(49) und Hemi-Flyscalin (50) jedoch nur noch partiell für LSD zu substituieren, was sie von
+Mescalin (1) unterscheidet.
+	Das Messen der funktionellen Aktivität am 5-HT2A-Rezeptor zeigte schließlich, dass die
+rigiden Mescalinanaloga Flyscalin (49) und Hemi-Flyscalin (50) partielle Agonisten sind [8].
+Im Kontrast zu den 2,5-dimethoxysubstituierten Phenethylaminen müssen demnach in den
+mescalinanalogen Substanzen die beiden MeO-Gruppen in der 3- und 5-Position wahr-
+scheinlich konformationell mobil sein oder out-of-plane-Orientierungen adoptieren können,
+um eine Aktivierung des Rezeptors zu ermöglichen [8].
