@@ -1,0 +1,29 @@
+Was jedoch zunächst rätselhaft scheint, sind die Rezeptoraffinitäten: DOIP (13, Ki=
+76nM) weist an [3H]Ketanserin markierten 5-HT2A-Rezeptoren der Ratte (Frontalkortex)
+eine Affinität auf, die zwischen derjenigen von DOET (14, Ki= 100nM) und DOPR (15, Ki=
+69nM) liegt [36]. Es ist offensichtlich, dass Rezeptoraffinitäten alleine nicht die endogene
+Wirkung im Menschen reflektieren. Doch schließlich untersuchten Trachsel et al. trotzdem
+das 2C-IP (12) [37] (Synthese siehe Abb. 6), das Schätzungen zufolge eigentlich im Bereich
+von über 100mg aktiv sein müsste (siehe Kapitel 8.5.15, Gegenüberstellung der 2C- und
+3C-Derivate).
+	Die Affinität zum [3H]Ketanserin markierten geklonten h5-HT2A-Rezeptor (Tabelle 1) von
+2C-IP (12) beträgt Ki=45nM [38] und ist leicht erhöht im Vergleich zu DOIP (13, Ki=76nM;
+Tabelle 2, Frontalkortex Ratte). Verschiedenen anekdotischen Berichten zufolge erwies
+sich 2C-IP (12) schließlich als deutlich aktiv im Bereich von 8-25mg bei einer Wirkzeit von
+8-12h. Wie bei 2C-E (9) und 2C-P (10) scheint es auch hier, dass eine vorsichtige persönliche
+Titration der Dosis vonnöten ist, um nicht einer Überdosierung zu unterliegen (siehe auch
+Kommentare zum Metabolismus bei DOIP (13)). Aufgrund des starken Bewusstwerdens der
+Bedeutung des Moments wurde die Substanz auch als „Momento“ bezeichnet.
+
+
+
+Abb. 6. Syntheseschema für 2C-IP (12) und DOIP (13) [37]. a) i. BuLi, THF, r.t., dann Me2CO, rt.,
+ii. H2SO4, 97% (cat.), H2 (Ballon) Pd-C 10%, EtOAc, 18h; 73%. b) Dichlormethyl-methylether, TiCl4, DCM;
+52%. d) RCH2NO2, BuNH2, AcOH, mol. Sieb, 15min und 45min 90°C, respektive; 77% (R=H) und 79%
+(R=Me). d) Alan, THF, 0°C: 70% (R=H) und 55% (R=Me), als Hydrochloride.
+
+
+Diese doch überraschenden Resultate veranlassten dann zur Untersuchung des Cyclo-
+Propylanalogon 2C-CP (20) (Synthese siehe Abb. 7, A) 37].
+	Die 5-HT2-Rezeptoraffinitäten von 2C-CP (20) erwiesen sich im Vergleich zu 2C-IP (12)
+als rund 2-4. mal tiefer [38] (siehe Tabelle 1), und dies reflektierte sich schließlich auch in

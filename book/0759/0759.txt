@@ -1,0 +1,31 @@
+Abb. 1. Das Anbringen eines
+4-Substituenten (hier Brom) in
+2,5-Dimethoxyphenethylamine
+hat einen enormen Einfluss auf
+die biologische Aktivität.
+
+
+CF3, etc.), und solche mit einem großen lipophilen 4-Substituenten (Y= Alkylkette > ~ C4,
+3-Phenylpropyl etc.) antagonistisches Verhalten. Jedoch ist bis heute der Übergang zwischen
+diesen Strukturen nicht gut bestimmt.
+	Bis heute scheint das Vorhandensein der 2,5-MeO-Gruppen zumindest für agonistische
+Interaktion ein strukturelles Erfordernis zu sein. Liegen große, lipophile 4-Substituenten vor
+(was zu antagonistischen Bindungseigenschaften führt), so können auch in Abwesenheit der
+2,5-MeO-Gruppen hochaffine 5-HT2A/C-Rezeptorliganden erhalten werden [10] (siehe auch
+Kapitel 7.2.1 und 7.3.4).
+
+Die meisten der Serotoninrezeptoren sind G-Protein-gekoppelte Rezeptoren (GPCR),
+der 5-HT2A-Subtyp eingeschlossen [16, 17]. Serotonin-5-HT2A-Rezeptormodelle schlagen
+zwei sich überlagernde Regionen für die Zugänglichkeit der Liganden vor [18, 19] (zusam-
+mengefasst in [20]). Es wird demnach angenommen, dass Agonisten mit den transmem-
+branen Helices TM3 und den angrenzenden TM4, TM5 und TM6 interagieren, und An-
+tagonisten mit TM3 und den angrenzenden TM2, TM6 und TM7 wechselwirken (Abb. 2).
+In TM3 liegt der hoch konservierte Aspartatrest, der mit dem protonierten Stickstoff der
+Amine eine Salzbrücke bildet, die allen Liganden gemeinsam ist. In TM6 liegt ebenfalls ein
+hoch konserviertes Bündel von Aminosäuren, die aber aromatischen Charakters sind (Trp
+und Phe). Sie ermöglichen ein Stacking mit den aromatischen Teilen von Agonisten und
+Antagonisten.
+
+Eine immense Menge von Phenylalkylaminen mit der allgemeinen Struktur 3 (R= H
+oder Me) und einer großen Varietät an 4-Substituenten (z.B. Y = Halogen, Alkyl, Alkylthio,
+Alkyloxy, Nitro, CF3, und andere) wurden durch zahlreiche Forscher hergestellt und

@@ -1,0 +1,37 @@
+Das eingehend untersuchte Phenethylamin 1-(4-Brom-2,5-dimethoxyphenyl)-2-amino-
+propan (DOB; 2) bindet mit hohen Affinitäten an die 5-HT2A- und 5-HT2C-, (und in kleinerem
+Ausmaß 5-HT2B-) Rezeptoren, jedoch zeigt es zwischen diesen wenig Selektivität [2-6]. Die
+Gründe dafür werden in der hohen Sequenzhomologie in der transmembranen Region der
+beiden Rezeptoren vermutet, wo die eigentliche Ligandenbindung stattfindet [7].
+	Die Phenethylamine sind für die Erforschung der 5-HT2-Rezeptorklasse sehr attraktiv,
+was vor allem an der einfachen synthetischen Zugänglichkeit dieser Substanzen liegen dürfte.
+Unzählige davon haben sich zudem im Menschen als potente Psychedelika erwiesen [8, 9],
+weshalb diese Substanzklasse während der letzten vier Jahrzehnte intensiv in Tiermodellen
+sowie im Menschen untersucht wurde.
+	Innerhalb dieser Substanzklasse tragen die potentesten Derivate die allgemeine Struktur
+3, ein Phenethylamin mit einem 2,4,5-Substitutionsmuster. Dabei sind die 2- und 5-Position
+idealerweise mit MeO-Gruppen substituiert und die 4-Position trägt einen lipophilen Sub-
+stituenten (Alkyl, Alkylthio, CF3, etc.).
+
+
+
+Der 4-Substituent ist für eine hohe Affinität entscheidend: Vergleicht man die 5-HT2A-
+Rezeptoraffinitäten von 2C-H (4) sowie 2,5-DMA (5) mit den potenten Psychedelika wie
+2C-B (6) oder DOB (2), dann erkennt man, wie drastisch das Einführen respektive das Weg-
+lassen eines 4-Substituenten Einfluss auf die Affinität hat. So betragen die Affinitäten am
+[3H]Ketanserin markierten r5-HT2A-Rezeptor für 2C-H (4) Ki= 3000nM, 2C-B (3) 16nM,
+2,5-DMA (5) 4720nM und DOB (2) 32nM [10] (Abb. 1). Auch den MeO-Gruppen kommt
+eine zentrale Bedeutung bei; ihr Fehlen führt in der Regel zu einem deutlichen Affinitäts- und
+Wirkungsverlust (siehe Kapitel 8.5.21 und 8.5.22).
+
+Die Anwesenheit einer α-Methylgruppe in Struktur 3 wirkt sich wenig auf die 5-HT2A/C-
+Affinität aus. Demzufolge weisen Phenethylamine ungefähr dieselbe Affinität wie deren
+racemische α-Methyl-Verwandte (Amphetamine) zu diesen Bindungsstellen auf [2, 10-
+12] (siche Kapitel 8.5.15). Die starken Unterschiede der Humandosis und Wirkdauer [13]
+werden teilweise der erhöhten metabolischen Stabilität [2, 14] und erhöhten Hydrophobizität
+[15] zugeschrieben. Gleichwohl scheint auch die intrinsische Aktivität am Rezeptor
+eine bedeutende Rolle zu spielen [13], worin die α-Methylderivate im Vergleich zu den
+Phenethylaminen eine erhöhte intrinsische Aktivität zeigen [12] (siehe Kapitel 8.5.15 und
+8.5.20). Mit einer α-Ethylierung geht allgemein ein drastischer Wirkverlust einher.
+	Normalerweise zeigen Verbindungen der Struktur 3 mit einem kleinen lipophilen
+Substituenten an der äußerst wichtigen 4-Position agonistische Aktivität (Y= Halogen, Me,

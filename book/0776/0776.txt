@@ -1,0 +1,41 @@
+Erfordernis für agonistische Aktivität. Diese Befunde deuten darauf hin, dass multiple, vom
+Arylsubstituenten abhängige Bindungsarten am Rezeptor vorhanden sind [52].
+
+
+
+
+Das Verzweigen des 4-Alkylsubstituenten wurde auch untersucht. Das einfachste ver
+zweigte Derivat ist das 2,5-Dimethoxy-4-isopropylamphetamin (DOIP; 13) [24, 51]. Zu-
+nächst lassen die In-vitro-Daten vermuten, dass es im Menschen nur schwach aktiv ist, denn
+Aldous et al. fanden heraus, dass der 4-Substituent essenziell ist für hohe Aktivität im Kanin-
+chen-Hyperthermiemodell (das Erhöhen der Temperatur im Kaninchen korrelierte mit der
+Potenz im Menschen) [24]. Während die Aktivität bei den 4-Ethyl- sowie 4-Propylderivaten
+DOET (14) und DOPR (15) hoch blieb, sank sie im Falle der verzweigten 4-Isopropylgruppe
+stark. Im Standardwerk PiHKAL erwähnt Shulgin zudem, dass weder bei 4mg noch 10mg
+DOIP (13) irgendwelche Wirkungen festgestellt wurden, und dass ihm berichtet wurde, erst
+im Bereich von 20-30mg seien deutliche Veränderungen des mentalen Zustandes verspürt
+worden [8].
+	Die Affinität von DOIP (13) zum 5-HT2A-Rezeptor ([3H]Ketanserin vorbeladene
+r5-HT2A-Rezeptoren (Frontalkortex) [36]) liegt zwischen der von DOET (14) und DOPR
+(15) (Ki=76nM vs. 100nM and 69nM). Es ist offensichtlich, dass Rezeptoraffinitäten alleine
+nicht die endogene Wirkung im Menschen reflektieren. Die Untersuchungen mit 2C-IP (12,
+aktiv bei 8-25mg und eine Wirkdauer von 8-12h, siehe Kapitel 8.5.3) lieferten überraschen-
+de Ergebnisse, denn aus Analogieprinzipien würde man, ausgehend von DOIP (13), für
+2C-IP (12) die aktive Dosis im Bereich weit über 100mg erwarten (siehe dazu Kapitel 8.5.15).
+Umgekehrt würde man, wenn 2C-IP (12) bei 8-25mg aktiv ist, für DOIP (13) die aktive
+Dosis 5-10-mal tiefer erwarten (vielleicht 2-6mg, siehe auch Tabelle 13 im Kapitel 8.5.15)
+Die ersten Ergebnisse aus der Reevaluation der Dosis von DOIP (13) im Menschen zeigen,
+dass für empfindliche Personen die Schwellendosis bei etwa 3mg liegt; die Wirkung wurde
+als nicht psychedelisch, sondern mild stimulierend und stimmungsaufhellend beschrieben.
+Die lange Wirkdauer und damit verbunden auch Schlaflosigkeit bei derselben Person waren
+Anlass, eine 5mg-Dosis nicht zu überschreiten. Zwei andere Personen konnten bei 5mg so-
+wie 10mg keinerlei Wirkungen wahrnehmen. Vermutlich wirkt sich auch hier die persönliche
+Suszeptibilität aus, und so könnten wie bei anderen 4-alkylierten 2,5-Dimethoxyphenylalkyl-
+aminen durch verschieden ausgeprägten Metabolismus (genetischer Polymorphismus) starke
+inter-personelle Unterschiede zum Vorschein kommen. Bei der Evaluation von 2C-IP (12)
+und DOIP (13) handelte es sich um dieselbe Gruppe von Personen. Es scheint zum aktuellen
+Zeitpunkt nicht klar, weshalb sich das Paar 2C-IP (12) und DOIP (13) nicht wie die anderen
+2C/3C-Paare verhält. Möglicherweise stellt die 4-iPr-Gruppe im Zusammenspiel mit den
+Effekten einer α-Methylgruppe ein Grenz- und/oder Spezialfall bei der Interaktion mit den
+involvierten Enzymen (Metabolismus) und Rezeptoren dar. Das Abklären der funktionellen
+Selektivität und intrinsischen Aktivität dieser Moleküle könnte vielleicht Ansätze zur Erkla-

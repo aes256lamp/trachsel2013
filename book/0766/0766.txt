@@ -1,0 +1,37 @@
+ersten anekdotischen Untersuchungen; Die für eine Wirkung erforderliche Dosis liegt hoher
+(ca. 15-35mg vs. 8-25mg). Zudem scheint die Wirkzeit deutlich kürzer zu sein (3-6h vs.
+8-12h). Die Wirkung wurde als eher diffus und undefinierbar beschreiben, und die vollen
+Effekte wurden noch nicht erforscht.
+
+
+Eine weitere Substanz mit verzweigtem 4-Substituent ist 2C-TBU (23) [37], das eine
+t-Butylgruppe trägt (Synthese siehe Abb. 7, B). Es ist hoch affin zu den 5-HT2-Rezeptoren
+([3H]Ketanserin markierte h5-HT2A - sowie [3H]Mesulergin markierte r5-HT2C-Rezeptoren:
+Ki= 35nM und 24nM, siehe Tabelle 1). Erste Untersuchungen mit 7mg sowie 10mg
+(5+5mg, 2h getrennte Einnahme) zeigten keine psychedelische Wirkung, es ist lediglich
+aufgefallen, dass eine lang anhaltende, ausgeprägte Müdigkeit aufkam. Durch die Größe des
+4-Substituenten dürfte 2C-TBU (23) antagonistische Eigenschaften am 5-HT2A-Rezeptor
+aufweisen. Gegenwärtig werden verschiedene 5-HT2A-Antagonisten oder inverse Agonisten
+(nicht vom Phenethylamintyp) mit Erfolgsaussichten auf die Behandlung von Schlaflosigkeit
+klinisch geprüft [39, 40]. Die müde machenden Effekte von 2C-TBU (23) lassen eine
+Verwandtschaft mit diesem Wirkprinzip vermuten.
+
+Auch das Oxidieren des 4-Alkylsubstituenten zu Alken- sowie Alkinderivaten wurde un-
+tersucht. Das Alkenderivat 2C-V (28, Synthese siehe Abb. 7, C) [37] trägt eine 4-Vinylgrup-
+pe; es ist strukturell dem 2C-E (9) verwandt. Aus initialen Dosisfindungsuntersuchungen
+ist nur wenig zur Wirkung bekannt: Bei 10+5mg, getrennt durch 1h zeichneten sich erste,
+nicht unangenehm beschriebene Effekte ab, die rund 5h anhielten. Ein weiterer Versuch
+mit 25mg erzeugte eindeutige Effekte, wobei diese noch nicht voll ausgeprägt waren. Eine
+zweite Person verspürte mit 25mg keine nennenswerten Effekte. Interessanterweise konnte
+N-BOC-2C-V (29, Abb. 7, A) unter sauren Bedingungen nicht entschützt werden (TFA oder
+HCl), da die entsprechenden HCl- beziehungsweise TFA-Addukte an der Doppelbindung
+gebildet wurden. Das über den in Abb. 7, C gezeigten Weg erhaltene 2C-V (28) erwies sich
+dann gegenüber IM wässriger Salzsäure als etwas stabiler: nach 6h wurden rund 10% und
+nach 24h etwa 50% zersetzt [37].
+
+Das Ethinylderivat 2C-YN (32) [41] zeigt deutlich abgeschwächte Affinitäten zu den
+PH]Ketanserin markierten 5-HT2A- sowie [3H]Mesulergin markierten 5-HT2C-Rezeptoren
+(Ki= 439nM und 473nM, siehe Tabelle 1) [38]. Es wurde zunächst ein rascher Metabolismus
+der Dreifachbindung vermutet, da eine orale Dosis von 13mg sowie 20mg in Probanden keine
+Wirkung entfaltete. Um einen Teil des Metabolismus zu umgehen, wurden 2.5 mg (getrennt
+durch 1h) nasal appliziert, wobei sich eine kurzanhaltende (2-3h) Wirkung entfaltete. Bei

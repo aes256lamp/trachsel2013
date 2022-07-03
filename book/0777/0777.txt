@@ -1,0 +1,23 @@
+rung dieses Ausnahmefalls liefern. Der Spezialfall, dass ein 2C-Derivat gleich potent oder
+potenter als sein 3C Gegenstück ist, erinnert an die Serie der 2C-G- und GANESHA-Deri-
+vate (siehe Tabelle 1 im Kapitel 9.1). Es ist denkbar, dass mit der etwas sperrigen iPr-Gruppe
+hier ähnliche Phänomene zum Tragen kommen wie bei den in der 3,4-Position sterisch an-
+spruchsvollen substituierten GANESHA-Substanzen.
+
+
+
+Aus einem n-Butylrest lassen sich drei verzweigte Alkylreste bilden, und so wurden die
+drei Substanzen DOIB (73), DOSB (74) und DOTB (75) untersucht [8, 51, 53].
+	DOIB (73) erwies sich im Menschen als etwas potenter als DOSB (74); dies reflektiert die
+Resultate aus den Drug-Discrimination-Studien: DOIB (73) zeigte rund 1/3, und DOSB (74)
+nur 1/12 der Potenz von DOM (8) in LSD-trainierten Ratten [53].
+
+
+
+Vom DOSB (74) existieren theoretisch vier Stereoisomere. Oberlender et al. untersuchten
+den Effekt der Chiralität des s-Butylsubstituenten in DOSB (74), wobei das zweite
+Stereozentrum in 74 jeweils racemisch blieb [51]. Die beiden Epimerenpaare 74a und
+74b zeigten essenziell dieselbe Affinität zu 5-HT2A/C-Bindungsstellen und vermochten in
+LSD-trainierten Ratten vergleichbar zu substituieren (DOM (8) zeigte ein ED50= 0.61nM).
+Demnach weist die Bindungsregion für den 4-Substituenten im Rezeptor kein hoch
+asymmetrisches Umfeld gegenüber dem Ligand auf [51].

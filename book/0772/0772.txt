@@ -1,0 +1,38 @@
+Die 4-Alkyl-2,5-dimethoxyamphetamine sind einerseits potente Liganden der 5-HT2A/C-
+Rezeptoren, andererseits entfalten einige davon typische psychedelische Wirkungen im Menschen.
+Die Namensgebung erfolgt durch den Term „DO“ kombiniert mit dem Platzhalter gebildet aus
+dem 4-Substituenten (M für Methyl, ET für Ethyl etc., siehe Tabelle 2).
+
+Geht man zum Ursprung der Geschichte der 2,4,5-trisubstituierten Amphetamine, so
+kann man sich ungefähr an der Darstellung von Abb. 9 orientieren: Frühe Untersuchungen,
+die bereits in den 1930er Jahren stattfanden [44, 45], zeigten die Wirklosigkeit des Isomes-
+calins (60), einer einfachen strukturellen Abwandlung des Mescalins (61). Auch das weitere
+Umordnen der MeO-Gruppen hin zu 2,4,5-Trimethoxyphenethylamin (61; auch bekannt als
+2C-O oder 2,4,5-TMPEA, siehe Kapitel 8.5.5) ergab eine im Menschen wirklose Substanz.
+Erst das Einführen einer α-Me-Gruppe (Synthese von P. Hey, 1955; zusammengefasst in [8]
+vermochte die Potenz zu steigern: 3,4,5-Trimethoxyamphetamin (TMA; 63, siehe Kapitel
+8.4.3) erwies sich als etwa doppelt so potent wie Mescalin (61, siehe Kapitel 8.4.1). Hier
+beginnt eigentlich auch die Geschichte des glorreichen Chemikers Alexander Shulgin, der,
+fasziniert von der Wirkung des Mescalins (61), zunächst die Wirkung von TMA (63) auf die
+Psyche testete. Das Vorhandensein einer eindeutigen Wirkung ging mit den Kommentaren
+in den persönlichen Mitteilungen über die Wirkung von TMA (63) von Hey an die Gruppe
+von Peretz und Smythies in Kanada einher [8].
+	Die Wirkung einer α-Methylgruppe konnte bereits in den späten 1920er Jahren bei der
+strukturellen Wandlung von 2-Phenethylamin (64) hin zu Amphetamin (65) beobachtet wer-
+den, jedoch noch viel ausgeprägter: Während 2-Phenethylamin (64, siehe Kapitel 1) bis weit
+über 1000mg keine psychoaktive Wirkung entfaltet, wirkt Amphetamin (65, siehe Kapitel
+2) bereits ab Dosierungen von 5mg stimulierend. Der Fall Phenethylamin-Amphetamin
+bewegt sich zwar im Bereich der Psychostimulanzien, einer der Effekte ist jedoch dersel-
+be: Der Metabolismus wird durch die α-Methylgruppe gehemmt (für weitere Effekte der
+α-Methylgruppe siche 8.5.15 Gegenüberstellung der 2C- und 3C-Derivate).
+	Ausgehend von den Erkenntnissen über TMA (63) wurden von Shulgin zunächst die
+sechs möglichen Trimethoxyamphetamine hergestellt [46], wobei zwei herausragten [8]: Das
+TMA-2 (66) und das TMA-6 (67), und ersteres war die spektakulärste Entdeckung, eine
+Substanz, die im Menschen rund 10-mal potenter als Mescalin (61) war.
+	Die nächste Fragestellung für Shulgin war der Effekt der simplen Homologisierung einer
+der drei MeO-Gruppen zum EtO-Analog (MME (68), MEM (69), EMM (70), siehe auch
+Kapitel 8.5.21) [8]. Es war MEM (69), jenes mit der 4-Ethoxygruppe, das sich bereits bei
+10mg mit ersten Anzeichen einer Wirkung im Menschen äußerte. Daraus stellte sich für Shul-
+gin die Frage, was wohl beim Weglassen des O-Atoms in TMA-2 (66) geschehen würde. Die
+daraus abgeleitete Substanz is das „Desoxy-TMA-2" oder, wie cr he Nomenklatur pragte,
+DOM (8; DO fur Desoxy und M fur Methyl, welche anstelles der 4-MeO-Gruppe steht).
