@@ -1,0 +1,54 @@
+Es wurde in Frage gestellt, ob Mescalin per se wirkt oder ob es durch einen Abbau (aktiver
+Metabolit) seine Wirkung entfaltet [1]. Patel, der Verfasser des umfangreichen Review-
+Arikels aus dem Jahre 1968, gibt folgende Grunde an, welche die Hypothese eines aktiven
+Metaboliten stützten[1]:
+
+
+- Mescalin hemmt die Oxidation von Glucose, Lactat oder Pyruvat nur, wenn es zuvor
+zwei bis drei Stunden mit Hirnhomogenat inkubiert wurde.
+
+- Ein Versuch in der Maus zeigte, dass Mescalin rasch in Leberproteine eingebaut wurde
+und dass während des Zeitraums der aktiven ZNS-Phase im Gehirn praktisch kein
+Mescalin gefunden wurde.
+
+- Es stimulierte die Kontraktion des Uterus und von inneren Organen nur, wenn es im
+Versuchsobjekt war. Ex vivo wurden keine derartigen Effekte beobachtet.
+
+- Im Mensch wurde keine Korrelation zwischen dem Grad oder Art der Veränderung
+des Bewusstseins und den Blutwerten oder Ausscheidungsraten beobachtet. Die
+maximale psychische Verhaltensänderung folgt den maximalen Blutwerten und Aus-
+scheidungsraten mit einer Verzögerung von 1-2h.
+
+- Die effektive Dosis (400mg) ist viel höher als bei anderen Psychedelika; die Wirkung
+manifestiert sich nach 1-2h und erreicht ein Maximum erst nach 5-6h.
+
+- Die kombinierte Gabe von Mescalin und Iproniazid (ein Monoaminoxidasehemmer,
+MAOI) konnte laut den Ergebnissen von Friedhof und Goldstein [17] bezüglich des
+Verhaltens von Ratten nicht von einer equivalenten Einzeldosis Mescalin unterschieden
+werden. Das steht im Einklang mit Clarks Entdeckung, dass Mescalin über die SSAO,
+und nicht über die MAO abgebaut wird. Die Tatsache, dass TMA (7) und α-D (8) etwa
+ein Drittel potenter sind als Mescalin selbst (siehe Kapitel 8.4.3 und 8.4.6), ist kein
+Widerspruch, da die „geschützte“ α-Position des Amins den Abbau durch Aminoxidasen
+im generellen verhindert oder verlangsamt (siehe Exkurs Aminoxidasen).
+
+
+In der frühen Forschung wurde postuliert, dass 2-(3,4,5-Trimethoxyphenyl)ethanol (6),
+2-(3,4,5-Trimethoxyphenyl)acetaldehyd (5) oder N-Acetylmescalin (4) für die psychoaktive
+Wirkung von Mescalin verantwortlich sein könnten (zusammengefasst in [18]). Dies konnte
+widerlegt werden, und in einer Drug-Discrimination-Studie (Ratten) vermochte keine der
+drei Substanzen für Mescalin zu substituieren [18]. N-Acetylmescalin (4) erwies sich bei Do-
+sierungen von bis zu 750mg als wirkungslos im Menschen [19]. Charalampous et al. zeigten
+schließlich auch, dass der Metabolit TMPA (2) bis zu einer oralen Dosierung von 750mg im
+Menschen wirkungslos ist [9] (Formeln vide supra).
+
+Fischer stellte 1955 die Hypothese auf, dass Mescalin zusammen mit Norephinephrin
+(NE) oder Serotonin (5-HT) in vivo in eine LSD-ahnliche Struktur bildet (zusammengefasst
+in [1]). Nach Quastel und Weahatley könnte die mescalininduzierte Fehlfunktion der Leber
+„abnormale“ Metaboliten hervorbringen, welche die Versorgung des Hirns beeinträchtigen
+könnten und so eine ZNS-Störung hervorrufen würden. Weiter wurden adrenerge Inter-
+aktion sowie ein Histaminkatabolismus im Gehirn postuliert, dier eine Verbindung zu dem
+dubiosen Abbauprodukt Adrenochrom (9) haben könnte. Später (im Kapitel 8.4.1.4, unter
+Populäre Katalyse) wird diese damals recht populäre Hypothese noch einmal aufgegriffen.
+
+Bis heute ist die neuronale Wirkweise von Mescalin und anderen Scalinen noch nicht
+völlig geklärt. Mescalin (1) fungiert als Serotonin-5-HT2A- und 5-HT2C-Rezeptoragonist. Es

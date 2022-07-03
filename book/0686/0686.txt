@@ -1,0 +1,37 @@
+Der Strukturbeweis durch Ernst Späth
+
+Heffter untersuchte das von ihm extrahierte Mescalin und versuchte mit den damaligen
+Mitteln, dessen Struktur zu ermitteln. Eine prozentuale Bestimmung des Kohlenstoff-, Was-
+serstoff-, Stickstoff- und Sauerstoffgehalts war damals schon möglich. Daraus konnte man
+eine chemische Summenformel bestimmen. Hefffer bestimmte 1896 für Mescalin die richtige
+Summenformel C11H17NO3, und ermittelte mit Hilfe von Gruppenreaktionen bereits etliche
+Struktureinheiten. Er stellte fest, dass bei der Oxidation mit Kaliumpermanganat (KMnO4)
+die 3,4,5-Trimethoxybenzoesäure (17) entsteht. Daraus schloss er auf das Vorhandensein
+einer Benzylaminstruktur. Des Weiteren stellte er Derivate wie das quaternäre Ammoni-
+umsalz her, das nach der sogenannten Herzig-Meyer-Reaktion Methyliodid abgab, was auf
+die Anwesenheit einer freien N-Methylgruppe hindeutet. Weiter gelang es ihm, Mescalin
+zweimal zu bromieren (siche auch Kapitel 10.1), was ein weiterer Beweis dafür war, dass
+am Aromaten noch zwei Positionen frei sein müssen. Aus diesen Beobachtungen schloss er
+auf die N-Methylbenzylaminstruktur 18. Um seine Annahme zu bestätigen, synthetisierte er
+1905 zusammen mit Capellmann die Verbindung 18, die er für Mescalin hielt. Aufgrund der
+Physikochemischen Eigenschaften musste er leider feststellen, dass er mit seiner Annahme
+falsch lag. Im Jahr 1919 befasste sich der Chemiker Ernst Späth erneut ausführlich mit der
+beschriebenen Problematik [35]. Hinsichtlich der Elementaranalyse und der Gewissheit, dass
+es tatsächlich drei Methoxygruppen geben muss, stellte er fest, dass es theoretisch drei Iso-
+mere mit derselben Zusammensetzung geben könnte, nämlich 18, 19 und 1. Er synthetisierte
+die beiden anderen Isomere und fand, dass die physikochemischen Eigenschaften des aus
+Pflanzen isolierten Mescalins und seines Isomers 1 identisch waren. In einer 25-seitigen,
+sehr ausführlichen Publikation beschreibt er genauestens seine Vorgehensweisen, Synthesen
+und Schlussfolgerungen. Im damaligen Stil synthetisierte er zur Charakterisierung und zum
+Vergleich mit Referenzsubstanzen Derivate wie Sulfat, Pikrat, Methoiodid, „Goldchlorid-
+doppelsalz“, „Platindoppelsalz“, N-Benzoylmescalin und ein m-Nitrobenzoylmescalin und
+charakerisierte sie mit Schmelzpunkt, Elementaranalyse und Löslichkeitsverhalten [35]. Seine
+Vorgehensweise könnte direkt in ein Experimentierbuch für Chemiker übernommen werden
+und ist durchaus eine Lektüre wert.
+
+
+
+Im Übrigen schreibt Späth bereits, „dass die, in einer Pflanzenfamilie vorkommenden Basen einen
+ähnlichen chemischen Bau zeigen“ und dass die später als Phenethylamine identifizierte „Anhalin
+und Mezcalin in genetischer Beziehung zueinander stehen“ würden. Weiter ist zu lesen: „Überblicken
+wir das gesamte Gebiet der, in der Natur vorkommenden basischen Verbindungen, die einen Benzolkern und

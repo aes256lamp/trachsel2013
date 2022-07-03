@@ -1,0 +1,48 @@
+Clark et al. fanden 1965 heraus, dass Mescalin ausschließlich über eine semicarbazid-
+sensitive Aminoxidase metabolisiert wird [13]. Das bedeutet, dass Mescalin nicht uber die
+Monoaminoxidase MAO A oder B, sondern über eine andere Aminoxidase verstoffwechselt
+wird, die sogenannte semicarbazidsensitive Aminoxidase (SSAO), die manchmal auch nach
+ihrem Gen AOC3 benannt wird. So kann man annehmen, dass ein reiner MAO-Hemmstoff
+keinen Einfluss auf den Metabolismus von Mescalin haben sollte.
+
+Für die Toxizität des Mescalins findet man unterschiedliche Werte, die beide auf relative
+geringe Toxizität hindeuten. LD50 (Ratte) 330-410mg/kg i.p.; 157mg/kg i.v. [1] andere Quel-
+len geben 100mg/kg s.c. an [14].
+
+Die Forschungsarbeiten befassten sich vor allem mit Teilaspekten der Mescalinwirkung
+mit der Folge, dass das Wissen dazu fragmentarisch blieb. Die Erkenntnisse, die in en
+1930er bis 1960er Jahren gesammelt wurden und die hier synoptisch aufgeführt werden,
+ließen nicht zuletzt die von den Psychiatern Osond und Smythies [15] postulierten Schlussfol-
+gerungen entstehen, die heute nicht mehr geteilt werden. Teils sind die Hypothesen durch
+verfeinerte Analysen widerlegt worden, teils haben neue Erkenntnisse auf anderen Gebie-
+ten sie obsolet gemacht. Andere befassten sich mit Teilgebieten, die sich als unwesentlich
+herausstellten. Dennoch werden einige interessante Resultate dieser 30 Jahre im Folgenden
+zusammengefasst [1]:
+
+- Eine Korrelation zwischen den mescalininduzierten Effekten und Veränderungen im
+Elektroenzephalogramm (EEG) besteht im Tiermodell. Auch im Menschen verursach-
+te Mescalin eine Verkleinerung der Alphawellenamplitude und erhöhte die Ruhephasen
+im EEG. Diese Effekte waren über mehrere Tage persistent, obwohl die eigentliche
+Wirkdauer deutlich kürzer ist [1].
+
+- Versuche im Kaninchen, die übrigens verglichen mit dem Menschen gegenüber Mesca-
+lin 70-mal toleranter sind (Anm.: Kaninchen besitzen ein Enzymsystem, das Mescalin
+rasch zu deaminieren vermag [11]), zeigten den Effekt einer starken und lang anhalten-
+den (48h) Urinretention [1]. Zudem erhöhte Mescalin (und andere Phenylalkylamine)
+im Kaninchen die Körpertemperatur und zwar in dem Maße, als dass eine (wenn auch
+limitierte) qualitative Voraussage zur Wirkstärke getroffen werden kann [16]. Je aus-
+geprägter die rektale Temperaturerhöhung, desto potenter sind die psychedelischen
+Verbindungen bezüglich ihrer Dosierung im Menschen. In mit dem Monoaminoxidase
+(MAO)-Hemmer Iproniazid oder dem vesikulären Monoamintransporter (VMAT)-
+Hemmer Reserpin vorbehandelten Versuchskaninchen wurde die Eigenschaft, die
+Körpertemperatur zu erhöhen, potenziert.
+
+- Zum Behandeln mescalininduzierter Angstzustände erwiesen sich Morphin und Tetra-
+ethylammoniumchlorid als ineffektiv, während intravenöse Verabreichung von Barbitu-
+raten sie aber rasch aufhoben [1]. Das Antipsychotikum Chlorpromazin antagonisierte
+die Effekte von Mescalin.
+
+- Menschen und Tieren, denen täglich Mescalin verabreicht wurde, entwickelten eine
+Toleranz und eine Kreuztoleranz zu LSD, jedoch wurde nach drei bis vier Tagen Un-
+terbruch der Substanzzufuhr wieder die ursprüngliche Empfindlichkeitsschwelle ge-
+genüber diesen Substanzen beobachtet [1].

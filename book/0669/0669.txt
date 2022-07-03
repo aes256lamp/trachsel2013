@@ -1,0 +1,28 @@
+Die 2,3,6-trisubstituierten Phenylalkylamine sind noch spärlicher untersucht worden als 
+die 2,3,5-trisubstitutierten (Kapitel 8.2). Auch hier liegt eine erschwerte Chemie für die Zu- 
+gänglichkeit derartiger Verbindungen vor. Andererseits wurden die Bemühungen zur Aufklä-
+rung der Struktur-Aktivitäts-Beziehungen wohl deshalb gebremst, weil die bis anhin vorhan-
+denen biologischen Resultate wenig Hoffnung auf aktive Verbindungen zulassen.
+
+Das 2,3,6-Trimethoxyphenethylamin (2,3,6-TMPEA; 1) wurde von Clark et al. auf die 
+Interaktion mit der Aminoxidase aus Kaninchenleber geprüft [1], es erwies sich dieser ge- 
+genüber als resistent (siehe Tabelle 1 in Kapitel 8.6). Fünf Jahre später synthetisierten Matsu-
+hiro und Furst [2] Verbindung 1, welche jedoch andere physikalische Eigenschaften aufwies
+als von Clark et al. beschrieben. Die Struktur wurde mittels 1H-NMR bewiesen, und somit
+können die Resultate von Clark et al. angezweifelt werden. Schließlich prüften Matsuhiro und 
+Furst 1 auf die Interaktion mit Monoaminoxidase (MAO) aus Mäusehirn [2]. Es vermochte
+die Produktion von Indolessigsäure aus Tryptamin zu hemmen (43% bei einer Konzentrati-
+on von 2.5mM). Die Autoren statuieren für 1 entweder eine Inhibition der MAO, oder dass
+sie ein kompetitives Substrat mit guten Bindungseigenschaften ist. Über die Wirkung von 1
+im Menschen ist bis dato nichts bekannt.
+
+Das 3C-Analogon TMA-5 (2) wurde ebenfalls nur spärlich untersucht [3-5]. Es war für 
+klinische Untersuchungen nur in sehr kleinen Mengen verfügbar, und daher war es schwierig,
+eine aktive Dosierung zu finden. Bei 20mg p.o. offenbarten sich initiale Zeichen einer Wir-
+kung. Bei 30mg wurden die Effekte mit der Intensität von 751μg LSD verglichen, jedoch sind
+die spärlichen Aussagen nicht abschließend zu bewerten.
+
+
+
+Das dem TMA-5- analoge MMDA-5 (3) wurde ebenfalls nur spärlich untersucht. Bei 
+30mg p.o. scheint die Substanz im Menschen mäßig aktiv gewesen zu sein [5]. Über die

@@ -1,0 +1,44 @@
+Carbonat. Das Molekül kann als ziemlich hydrophil betrachtet werden. Es ist mit einem log
+P (Lipophilie) = 1.18 [8] praktisch unlöslich in Petrolether und Either. Das Sulfatdihydratsalz
+schmilzt bei 183-186°C, das Hydrochlorid bei 181°C.
+
+
+Schon in den 1930er Jahren versuchte man in Erfahrung zu Daugen was mit dem ein-
+genommenen Mescalin im Körper passiert [1]. Man stellte fest, dass es im Verdauungstrakt
+rasch resorbiert wird, und ermittelte im Hund die höchste Konzentration in der Leber und
+den Nieren. In früheren Versuchen, im Menschen und anderen Spezies, wurde die im Urin
+ausgeschiedene Mescalinmenge sowie die der Metaboliten analysiert (ausführlich dargelegt
+in [1]).
+	Bei der Suche nach Daten zur Ausscheidung von Mescalın und dessen Metaboliten stösst
+man nur auf relativ alte Daten, die bis in die 1930er Jahre zurückgehen. Unterschiedliche
+analytische Methoden, verschiedene Verabreichungsformen (oral vs. intravenös vs. intraperi-
+toneal vs. intramuskulär) sowie unterschiedliche Spezies (Mensch, Hund, Katze, Kaninchen,
+Ratte, Maus etc.) erschwerten teilweise die Reproduktion gefundener Resultate (zusammen-
+gefasst in [9]). Selbst aus Humanversuchen gewonnene Werte divergieren.
+	Charalampous et al. berichteten 1964 über eine Ausscheidung von 82% einer oralen Dosis
+(350mg) Mescalin-Hydrochlorid innerhalb der ersten 12 Stunden nach Einnahme (Durch-
+schnitt ermittelt aus 5 erwachsenen Personen) [9]. Nach 48 Stunden betrug die Ausscheidung
+92% (zusammengefasst in [1]). Die Quantifizierung erfolgte mittels beigesetztem radioaktiv
+markiertem 14C-Mescalin. Die folgenden Substanzen wurden im Urin detektiert (Abb. 3):
+Mescalin (1) 55-60%, 3,4,5-Trimethoxyphenylessigsäure (TMPA; 2) 27-30%, N-Acetyl-β-
+(3,4-dimethoxy-5-hydroxyphenyl)ethylamin (3) 5%, N-Acetylmescalin (4) < 0.1%. Diese vier
+Substanzen wurden alle im cerebrospinalen Fluid gefunden. Eine Person, die N-Acetylmesca-
+lin (4) einnahm, schied 68% des konjugierten N-Acetyl-ß-(3,4-dimethoxy-5-hydroxyphenyl)-
+ethylamins (3) und nur Spuren des N-Acetylmescalins (4) aus, was ein Hinweis ist, dass die
+N-Acetylierung die O-Demethylierung fördert. Friedhoff und Hollister konnten lediglich 41%
+des verabreichten Mescalins im humanen Urin wiederfinden; 23% als Mescalin und 18% als
+TMPA (2) [10].
+
+Bereits 1938 stellte Bernheim fest, dass Kaninchen ein besonderes Enzymsystem aufwei-
+sen, das Mescalin rasch und effizient zu deaminieren vermag [11]. Dies steht im Gegensatz
+zu vielen anderen Spezies; auch der Mensch vermag nur in bedingtem Ausmaß Mescalin zu
+deaminieren (via Aminoxidase) [12]. Clark, Benington und Morin statuieren 1964, dass Mescalin
+offenbar durch diverse Abbauprozesse verstoffwechselt wird (O-Demethylierung, oxidative
+Deaminierung sowie Konjugation mit entweder Glutamin- oder Glucuronsäure) [12].
+	Die Tatsache, dass grob 2/3 an unverstoffwechseltem Mescalin ausgeschieden wird
+([1], Abb. 3), und etwa 1/3 als 3,4,5-Trimethoxyphenylessigsäure (2) zeigt, dass etwa 1/3
+durch die Aminoxidasen deaktiviert wird. Das würde bedeuten. dass durch das Umgehen
+dieses Metabolismus etwa eine Dosisreduktion um 1/3 erzeicht werden könnte. Gängige
+Methoden, diesen First-Pass-Metabolismus zu umgehen, sind eine parenterale Applikation
+(z.B. nasal, rektal oder injiziert), die zusätzliche Gabe ainds Aminoxidasehemmers oder auch
+das merabolische Blocken der Substanz selbst, indem die α-Position neben dem Stickstoff
