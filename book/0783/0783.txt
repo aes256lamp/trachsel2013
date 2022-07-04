@@ -1,0 +1,7 @@
+Abb. 11. Parallelchemischer Approach zur Herstellung der 2C-O- und MRM-Derivate. a) MCPBA, DCM,
+danach NaOH, MeOH, H2O; 91%. b) BnBr, K2CO3, KI, DMSO, 85°C; 98%. c) Dichlormethyl-methylether,
+TiCl4, DCM; 91%. d) RCH2NO2, BuNH2, AcOH, mol. Sieb, 90°C; 94% (R=H) and 87% (R=Me). e) Alan,
+THF, 0°C; 81% (R=H) und 83% (R=Me). f) BOC2O, NEt3, DCM; 96% (R=H) und 98% (R=Me). g) H2
+(Ballon), Pd-C 10%, EtOH; 98% (R=H) und 98% (R=Me). h) i. R'X oder R'OTf, K2CO3, Aceton + 3.5%
+Wasser, 70°C, ii. HCl-Dioxan; 31-86%. 108 entspricht 95-100 für 2C-O-Derivate (Tabelle 3) und 115-120
+für MRM-Derivate (Tabelle 4).
