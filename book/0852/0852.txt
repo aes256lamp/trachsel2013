@@ -1,0 +1,16 @@
+Abb. 21. Rigidisieren der MeO-Gruppen von 2,5-DMA (5) und DOM (8) und der Einfluss auf die 5-HT2A-
+Affinitäten (Ki) sowie die ED50-Werte (Drug-Discrimination-Studie, DD). Am besten vermag Substanz 382
+die aktive Konformation von 2,5-DMA (5) zu mimetisieren. Verbindung 285 ist trotz eines Substituenten
+in der wichtigen 4-Position und der strukturellen Nähe zum 5-HT2A-affinen DOM (8) weniger affin und
+weniger potent in der DD. Demzufolge liegen die Lone-pair-Elektronen des 5-Alkyloxysubstituenten nicht
+optimal. Das zusätzliche Einführen eines 4-Br in 382 hin zu 383 bewirkt eine deutliche Affinitätssteigerung
+und Potenz in der DD.
+
+
+In der Folge wurden die Benzoxepine BBOX (384) IBOX (385) und TFMBOX (386) als
+konformationell eingeschränkte Analoge hergestellt und auf ihre Affinitäten geprüft [168].
+Sie zeigten allesamt reduzierte Affinitäten (Ki= 420, 307 und 340nM, respektive) am Ketanse-
+rin-markierten 5-HT2A-Rezeptor (Frontalkortex Ratte). In LSD-trainierten Ratten vermochte
+nur TFMBOX (386, ED50= 3.2umol/kg) zu substituieren (BOB (2): ED50= 1.12umol/kg)-
+In diesen Verbindungen sind die Lone-pair-Elektronen des 2-O-Atoms in syn-Anordnung
+zur Alkylaminseitenkette, was offenbar vom Rezeptor nur schlecht toleriert wird.

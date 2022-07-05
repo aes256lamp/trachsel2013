@@ -1,0 +1,28 @@
+Die 2-Methoxygruppe wurde dann ebenfalls in ein Dihydrobenzofuransystem ein-
+gebunden und die entsprechende 4-Iod-Derivatisierung führte zu einem 5-HT2A-
+Rezeptoragonisten (DOI-hemiFLY-2, auch bekannt als IMBF; 387) der leicht affiner als
+DOI (43) war [3, 169]. Auch hier zeigte sich demnach, dass das Rigidisieren der 2-MeO-
+Gruppe in ein Dihydrobenzofuran die Bindungsorientierung der aktiven Konformation gut
+zu mimetisieren vermag.
+
+
+
+Als nächster Schritt wurden beide MeO-Gruppen simultan zu einem Tetra-
+hydrobenzodifuransystem transformiert und geprüft, ob ein zusätzlicher Gewinn an
+Affinität und In-vivo-Aktivität erfolgt [3] (für 4-unsubstituierte FLY-Verbindungen siehe
+Kapitel 7.3.3.1).
+	Mit den Verbindungen 388-390 bestätigte die Gruppe von Nichols schließlich, dass durch
+diese strukturelle Modifikation die Affinitäten zum 5-HT2A-Rezeptor im Bereich von DOB
+(2) liegen, jedoch ist bei manchen Derivaten die In-vivo-Aktivität enorm gesteigert: In Dis-
+kriminationsstudien mit LSD-trainierten Ratten substituierte das Tetrahydrobenzodifuran
+DOB-FLY (389; auch bekannt als 3C-B-FLY, ED50= 0.061umol/kg) potent und übertraf
+DOB (2, ED50= 1.12umol/kg) damit bei weitem. Dafür verantwortlich gemacht wurden vor
+allem die erhöhte Hydrophobizität und die optimale Orientierung der Sauerstoff-Elektro-
+nenpaare durch konformationelle Einschränkung, Später wurde gezeigt, dass die funktionelle
+Potenz (Phosphoinositidhydrolyse) gegenüber den offenkettigen Analoga leicht gesteigert
+ist [6]. Darüber hinaus wurde auch gezeigt, dass dieselbe Enantioselektivität (R>S) für die
+Affinitäten zu den 5-HT2A/C-Rezeptoren sowie eine Potenz wie bei den einfachen Phenylal-
+kylaminen besteht, wenn auch nicht so ausgeprägt [6].
+
+Die Substanz 2C-B-FLY (388) zeigte eine ED50= 0.31umol/kg, und DOM-FLY (390,
+ED50= 0.78umol/kg) war nur leicht potenter als DOB (2).

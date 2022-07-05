@@ -1,0 +1,28 @@
+Aufgrund der gewonnenen Erkenntnisse wurde ein Bindungsmodell für Phenethylamin-
+liganden am 5-HT2A-Rezeptor postuliert (Abb. 22) [3]. Beide MeO-Gruppen liegen idealer-
+weise in plane zum Benzenring, und damit war die Ausrichtung der Lone-pair-Elektronen
+geklärt.
+
+
+Abb. 22. Vereinfachtes pos-
+tuliertes Bindungsmodell für
+Phenethylaminliganden am
+5-HT2A-Rezeptor [29]. Die
+Lone-pair-Elektronen des 2-O
+sind für hohe Affinität syn
+und die des 5-O anti zur Sei-
+tenkette angeordnet.
+
+
+Eine darauf folgende Strukturabwandlung der Tetrahydrobenzodifuranstruktur war das
+komplette Aromatisieren zu einer Benzodifuraneinheit. So zeigte die Gruppe von Nichols,
+dass Phenylalkylamine mit diesem Strukturelement verglichen mit den Tetrahydrobenzodi-
+furanderivaten nochmals eine erheblich höhere Bindungsaffinität zu den 5-HT2A/C-Rezep-
+toren aufweisen und ihre In-vivo-Aktivität ebenfalls gesteigert ist (Abb. 23) [6, 170, 171].
+	Das komplett aromatisierte DOB-DFLY (226; auch bekannt als Bromo-DragonFLY)
+zeigte an [125I]DOI markierten h5-HT2A-Rezeptoren eine Affinität von Ki= 0.04nM (40pM!)
+und war somit deutlich affiner als DOB-FLY (389, Ki= 0.48nM). Die hohe Potenz von 226
+war nicht nur auf den In-vitro-Versuch beschränkt. In einer Diskriminationsstudie vermochte
+DOB-DFLY (226) mit einem ED50= 0.022umol/kg das Analogon DOB-FLY (389; ED50=
+0.061umol/kg) und gar zum erstenmal überhaupt LSD (ED50= 0.040umol/kg) zu übertref-
+fen [170, 171].
