@@ -1,0 +1,28 @@
+am geklonten r5-HT2A-Rezeptor (377: EC50= 120nM, 33% der 5-HT Stimulierung; gemessen
+mittels Phosphoinositidhydrolyse-Assay). Die potenteste Verbindung, 377, wurde in einer
+Diskriminationsstudie mit Ratten untersucht und vermochte nicht für LSD zu substituieren.
+Dies lässt vermuten, dass diese Substanz im Menschen keine halluzinogene Eigenschaften
+aufweisen würde.
+	Durch diese sterische Modifikation wurden zwar hochaffine Liganden für den 5-HT2A-
+Rezeptor gefunden, jedoch erwiesen sich diese als schwache partielle Agonisten, und die
+sterischen und räumlichen Erfordernisse zur vollen Aktivierung des Rezeptors wurden
+dadurch noch nicht identifiziert.
+
+
+
+Mit dem rigiden Mescalinanalogon Jimscalin (378) wurden die früheren Arbeiten zum
+rigiden Indanylderivat DOM-AI (368) [158] weitergeführt [166]. Die Idee zur Herstellung
+und Prüfung dieses rigiden Analogs entstand durch ein in silico aktiviertes 5-HT2A-
+Homologiemodell (zusammengefasst in [167]; siehe Kapitel 8.4.7). Das (-)-Enantiomer 378a
+zeigte eine fünfmal höhere Affinität und eine gegenüber Mescalin (61) mehr als dreifache
+Erhöhung der Stimulation der Inositoltriphosphat (IP3)-Akkumulation.
+	In Diskriminationsstudien mit Ratten vermochte das (-)-Enantiomer 378a vollumfäng-
+lich für LSD zu substituieren, und das stereoselektive Profil ging mit den virtuellen Docking-
+Experimenten einher [166, 167]. Der HT2A-Rezeptor kann demnach eine out-of-plane-
+Konformation der Seitenkette annehmen.
+
+
+
+Eine darauffolgende Arbeit der Gruppe von Nichols über die aktive Bindungsorientierung
+der Seitenkette von 2,4,5-trisubstituierten Phenylalkylaminen brachte die (±)-Benzocyclo-
+alkene 228 und 379-380 hervor [126]. Die beiden Benzocycloalkene 2C-B-Ind (379) und

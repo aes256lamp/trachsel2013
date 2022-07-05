@@ -1,0 +1,23 @@
+Abb. 17. Syntheseschema für 6F-MDA (294). a) BBr3, DCM; 79%. b) CH2Br2, Cs2CO3, DMF; 74%. c)
+EtNO2, AcOH, BuNH2, mol. Sieb; 98%. d) AlH3, THF; 81% als Hydrochlorid.
+
+
+
+Das Einbringen einer Me-Gruppe in der α-Position von 2,4,5-trisubstituierten Phen-
+ethylaminen führt zu den in vitro und in vivo meist mehrfach potenteren Amphetaminen (siehe
+Kapitel 8.5.15). Das Erweitern zu einer α-Ethylgruppe führt jedoch zu einem drastischen
+Wirkungsverlust [8]. Die erste untersuchte α-Et-Verbindung war ein Mescalinanalogon und
+war wirkungslos [8] (siehe Substanz AEM im Kapitel 8.4.3). Das dem DOM (8) analoge
+ARIADNE (301, auch 4C-DOM; BL-3912; Dimoxamin) [8, 141] sowie weitere α-Et-
+Verbindungen wurden hergestellt und untersucht (Struktur 302, 4-Substituent = Et, Pr, iPr,
+Bu, Cl, Br, I, SMe, EtO, PrO, iPrO, OH, NO2, NH2, die R- sowie $-Enantiomere wurden in
+vivoan Ratten und Katzen untersucht; R>S Enantioselektivität) [142]. Obwohl keine direkte
+Psychedelische Wirkung festgestellt wurde, bestanden Hinweise und die Hoffnung, diese
+Substanzen zu therapeutischen Zwecken nutzen zu können, was schließlich auch Patente
+hervor brachte [143, 144]. Die Substanzen sollten die Lernkapazität von Säugetieren, inklusive
+Menschen, erhöhen, ohne dass sie dabei eine amphetaminähnliche, das Zentralnervensystem
+stimulierende Wirkung hervorrufen. Man spricht in diesem Zusammenhang von Nootropika
+oder Smart Drugs.
+	In DOM-trainierten Ratten (DOM ED50 = 0.45mg/kg) erfolgte eine um das 10-fache
+reduzierte Generalisierung mit ARIADNE (301, ED50= 6.4mg/kg) [14], und für Amphet-
+amin substituierte 301 nur partiell [191]. Interessanterweise vermochte ARIADNE (301,

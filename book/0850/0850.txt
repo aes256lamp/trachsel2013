@@ -1,0 +1,33 @@
+glycerol-Produktion (2-AG, EC50= 1120nM) aus DAG. Im Vergleich dazu ist DOB (2) funk-
+ionell nichtselektiv (EC50= 23nM für IP3-Akkumulation, und 58nM, für Stimulation der AA-
+Freisetzung). Siche auch Kapitel 8.5.20, Funktionelle Selektivität der 2,4,5-trisubstituierten
+Phenylalkylamine.
+	Wenn halluzinogene Effekte mit der Produktion von Arachidonsäure korrelieren [86],
+dann sollte 2C-BCB (228) frei von halluzinogenen Eigenschaften sein [126]. Den Autoren
+wurde von anonymer Seite berichtet, dass 2C-BCB resp. TCB-2 (228) bereits im tiefen
+Milligrammbereich aktiv sein soll [64], allerdings ist zurzeit nicht klar, um welche Effekte
+es sich handelte (stimulierend, psychedelisch oder halluzinogen), und somit kann die
+Arachidonsäurehypothese weder belegt noch widerlegt werden.
+	Neueren Untersuchungen zufolge scheint für die psychedelische Wirkung von Phen-
+ethylaminen auch eine Rezeptordimerisierung zwischen dem 5-HT2A-Rezeptor und dem
+metabotropen Glutamatrezeptor 2 (mGluR2) von Bedeutung zu sein [192].
+
+
+
+Abb. 19. Stereobild von R-228a (hell) and S-228b (dunkel), die an die putative 5-HT2A-Bindungsstelle
+gedockt sind. Gut erkennbar sind die Unterschiede in der Bindungsorientierung. Der Blick ist innerhalb
+der Membran, mit TM6 nach vorne, die transmembranen Helices ungefähr vertikal orientiert, und die
+extrazelluläre Seite des Rezeptors ist im Bild nach oben gerichtet [126].
+
+
+Zunächst sei bemerkt, dass es sich strenggenommen bei den folgenden Substanzen
+wie auch bei den zuvor beschriebenen seitenkettenrigdisierten Derivaten nicht um
+trisubstituierte Verbindungen handelt; sie sind am Arylteil höher substituiert. Aufgrund des
+Forschungsaspektes jedoch macht es Sinn, diese hier zu beschreiben, da sie als konformationell
+eingeschränkte Analoga der einfachen 2,4,5-trisubstituierten Phenylalkylamine betrachtet
+werden.
+
+Während das konformationelle Einschränken der Seitenkette zunehmend Erkenntnisse
+und Einblicke in die Serotonin-5-HT2A-Rezeptorinteraktion der. Phenylalkylamine erlaubte,
+wurde auch die Bedeutung der MeO-Gruppen eingehend untersucht (siehe auch 8.5.21,
+Modifikation der 2,5-Dimethoxysubstituenten): So wurden diese wie die Seitenkette

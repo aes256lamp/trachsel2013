@@ -1,0 +1,39 @@
+die Wirkungen unterscheiden sich jedoch teils drastisch. Die ß-MeO-Substanz BOB (309)
+erwies sich ungefähr gleich potent wie 2C-B (6), genaue Tests mussten jedoch wegen starken
+Nebenwirkungen vorzeitig abgebrochen werden [8, 145]. Die Wirkungen der einzelnen
+Einantiomere von BOB (309) sind nicht bekannt.
+	Ein erster Versuch mit 20mg der B-methylierten Verbindung BMB (312) zeigte das Vor-
+handensein einer Wirkung, allerdings waren die von 2C-B (6) bekannten typischen Effekte
+weitgehend abwesend. Am [3H]Ketanserin markierten h5-HT2A-Rezeptor (Ki= 312nM) so-
+wie [3H]Mesulergin markierten r5-HT2C-Rezeptor (Ki= 395nM) [38] erwies sich BMB (312)
+als deutlich weniger affın als 2C-B (6) (Ki= 34 und 36nM, respektive, Rattenhirnhomogenar
+Frontalkortex [2]). Man beachte, dass BMB (312) sozusagen als Substruktur in den Benzo-
+cycloalkenen 228 und 379 enthalten ist (siehe Kapitel 8.5.27.1).
+
+Im Jahre 1974 zeigten Aldous et al. an einem Kaninchen-Hyperthermiemodell die
+Wirkungslosigkeit der β-methylierten Substanzen 313-315 [24].
+	β-MeO- und/oder β-EtO-Analoge von 2C-B (6), 2C-I (179), 2C-E (9) sowie 2C-T-7
+(126) wurden synthetisch beschrieben [148].
+
+
+
+Allgemein scheinen Me- sowie OH- und Keto-Gruppen (Keto: arylunsubstituiert,
+4-MeO und 2,4-MeO-Analoge) in der ß-Position die In-vivo-Aktivität herabzusetzen [24, 27].
+Vermutlich verhindern die polaren ß-oxidierten Substanzen eine ausreichende Überwindung
+der Blut-Hirn-Schranke [57]. Substanzen, die über polare Gruppen verfügen und dennoch
+hohe Affinitäten zum 5-HT2A-Rezeptor aufweisen, könnten hilfreich zur Behandlung von
+okularer Hypertension und Grünem Star sein, da sie dazu nicht ins ZNS eindringen müssen.
+Der intraokulare Druck (englisch: intraocular pressure, IOP) wird unter anderem durch 5-HT2A-
+Rezeptoren reguliert [57]. So wurden beispielsweise DOB-Analoga mit einer MeO- oder
+HO-Gruppe in ß-Position auf die Rezeptoraffinität sowie Senkung des IOP geprüft [57,
+149]. Das Konzept wurde zudem mit erfolgversprechenden Resultaten an okular-hyperten-
+siven Affen getestet [57, 149]. Das Konzept der Einführung polarer Gruppen in potente
+5-HT2A-Agonisten wurde auch mit den Substanzen 82-87 (siche im Kapitel 8.5.4) erprobt.
+	Es sei hier noch auf die ß-ketofunktionalisierten stimulierenden (Kapitel 3.5 und 6.3.6)
+und entaktogenen Cathinone (Kapitel 7.5.7.3) verwiesen.
+
+
+
+Einerseits wurde der Einfluss von N-Alkyl-, andererseits derjenige von N-Heterogrup-
+pen-Substituenten geprüft.
+	Allgemein ist bekannt, dass das Einführen von Alkylsubstituenten am Stickstoff von

@@ -1,0 +1,29 @@
+gibt (bei den 3C-Derivaten scheint die N-Benzylierung zumindest der 5-HT2A-Rezeptor-
+Affinität eher abträglich zu sein, was nicht heißt, dass die Substanzen inaktiv wären), so er-
+geben sich durch die Modifikation der N-Benzylierung dutzende neue Verbindungen. Hinzu
+kommt die als Möglichkeit vorliegende strukturelle Variation des N-Benzyltests: Er kann
+verschiedenartig arylsubstituiert werden, und an seiner Stelle funktionieren auch Heterocyc-
+len wie Thiophene (Tabelle 17) [43].
+
+Mit seitenkettenrigidisierten Analoga der NBOMe-Verbindungen konnte erstmals ein
+5-HT2A- vs. 5-HT2C-subtypselektiver Ligend identifiziert werden (Details dazu sind im
+Kapitel 8.5.28. beschrieben) [193].
+
+Die dem psychostimulativen AN-1 (Amphetaminil, Aponeuron; 360) analoge Verbin-
+dung 2C-B-AN (361; weist ein Stereozentrum auf) wurde von Rausch untersucht [140]; es
+bewirkte bei 50mg während 5-8h eher eine Stimulation gepaart mit gewissen visuellen
+Veränderungen. Die Verbindungen wurden teils als labil bezeichnet und werden vermutlich
+zumindest teilweise im Körper N-debenzyliert.
+
+
+
+Das N-Methylieren von 25B-NBOMe (359) führte zu einem Affinitätsverlust um mehr
+als zwei Zehnerpotenzen (Struktur 362) [154].
+
+
+
+Eine Alkylierung von DOB (2) zu N,N-Dimethyl- (363; M-154) oder gar zu N,N,N-
+Trimethyl-DOB (364; QDOB) (Quarternisierung) führt ebenfalls zu einem Affinitätsverlust
+am h5-HT2A-Rezeptor [60] (Ki-Werte. N-Methyl-DOB (317) wurde in [2, 150] beschrieben;
+jedoch wurden 5-HT2A-Rezeptoren aus dem Rattenhirnhomogenat des frontalen Kortex
+verwendet. Siehe auch Kapitel 8.5.26 für weitere Details zu 317).

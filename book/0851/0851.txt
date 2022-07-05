@@ -1,0 +1,46 @@
+systematisch in eine rigide Position gebracht und die daraus erhaltenen Substanzen auf ihre
+Affinitäten und In-vivo-Aktivität (Diskriminationsstudien) sowie seit jüngerer Zeit auf ihre
+funktionelle Potenz gerpüft.
+	Klar war bis ins Jahr 1986, dass die Arylsubstituenten von Phenylalkylaminen für optima-
+le psychedelische Aktivität in der 2,4,5-Position liegen sollten, wobei die 2,5-Position jeweils
+mit einer Methoxygruppe und die 4-Position mit einem kleinen lipophilen Rest besetzt sein
+müssen. Für eine Interaktion zwischen einem Wirkstoff und einem Target sind z. B. Van-
+der-Waals-Bindungen, Wasserstoffbrücken, π-Stacking, orthogonales T-Stacking und hydro-
+phobe Wechselwirkungen verantwortlich. In Substanzen des Typs 381 bieten sich nebst der
+Aminogruppe die Lone-pair-Rlektronen der MeO-Gruppen zum Bilden von Wasserstoff-
+brücken an (Abb. 20):
+
+
+Abb. 20. Den freien Elek-
+tronenpaaren (Lone-pair-Elek-
+tronen) der 2,5-Dimethoxy-
+Gruppen von Phenethylaminen
+kommt bei der Interaktion
+mit den 5-HT2A- und 5-HT2C-
+Rezeptoren eine große Be-
+deutung zu.
+
+
+Die ersten Untersuchungen zur sterischen Anordnung der MeO-Gruppen resp. ihrer
+Elektronenpaare erfolgten mit den Verbindungen 285 (auch bekannt als F; siehe auch Ka-
+pitel 8.5.23) und 382 (2,5-DMA-hemiFLY-5). Die Substanz 285 kann als rigides Analogon
+zum potenten Psychedelikum DOM (8) betrachtet werden (Abb. 21). Formell betrachtet
+wurde die 4-Methylgruppe mit der 5-MeO-Gruppe verbunden. In LSD-trainierten Ratten
+erwies sich 285 als nur wenig potent; es substituierte mit einem rund zehnmal höheren ED50-
+Wert (6.99uM/kg) als DOM (8, 0.707uM/kg) [138]. In Verbindung 382 wurde die 5-MeO-
+Gruppe an die 6-Position angebunden (Abb. 21). Sie wies einen ED50-Wert von 5.23uM/kg
+auf [113]. Während Verbindung 285 den für eine hohe Affinität wichtigen 4-Substituenten
+gewissermaßen noch trägt, weist Substanz 382 diesen nicht auf. Trotzdem hat 382 einen et-
+was kleineren ED50-Wert und ist somit leicht potenter als Verbindung 285. Dies korreliert gut
+mit den 5-HT2-Rezeptoraffinitäten: Ki(8)= 18.6nM, Ki(285)= 388nM und Ki (382)= 146nM
+((R)-[125I]-DOI markierte 5-HT2A-Rezeptoren der Ratte).
+	Im Vergleich zeigte die flexible Muttersubstanz 2,5-DMA (8) ein Ki= 465nM, und so
+zeigte sich, dass die Substanz 382 die aktive Konformation von 5 gut mimetisiert. Verbin-
+dung 285 zeigt zwar ebenfalls eine leicht höhere Affinität, es ist aber zu beachten, dass sie
+zusätzlich einen Substituent in der 4-Position trägt, was sich ebenfalls zugunsten einer besse-
+ten Wechselwirkung mit dem Rezeptor auswirkt, Bestätigt werden konnte dieser Zusammen-
+hang durch Einführen eines Substituenten in die 4-Position von Substanz 382 (Abb. 21): So
+zeigte DOB-hemiFLY-5 (383; auch SBF genannt) eine beachtliche Bindungskonstante von
+Ki= 3.1nM und war somit sechsmal affiner als DOM (8, ((R)-[125I]-DOI markierte 5-HT2A-
+Rezeptoren der Ratte) [113]. In Diskriminationsstudien mit LSD-trainierten Ratten erwies
+sich DOB-hemiFLY-5 (383) schließlich als doppelt so potent wie DOB (2) [113].

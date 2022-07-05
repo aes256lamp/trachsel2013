@@ -1,0 +1,29 @@
+Es wurden diverse Versuche gestartet, um zu zeigen und zu prüfen, ob Phenylalkyl-
+amine, Tryptamine sowie Brgoline übereinandergelegt werden können und vergleichbar zum
+5-HT2A-Rezeptor binden (z.B. [161], zusammengefasst in [164]). Seit den späten 1950er Jah-
+ren wurde hypothetisiert, dass der A-Ring von LSD dem Phenylting von Phenylalkylaminen
+entspricht. Bis anhin scheiterten diese Erklärungsversuche, und mit Tetrahydronaphthofura-
+nen des Typs 375, der eine deutliche strukturelle Überlagerung mit dem Ergolin-Gerüst von
+LSD aufweist, wurde ein weiterer Versuch gestartet [164].
+	Die Stereoisomere 375a-375b zeigten interessanterweise nicht die erwarteten bio-
+logischen Daten; zwar zeigte das syn-Diastereomer 375b zum [125I]DOI markierten h5-
+HT2A-Rezeptor eine Affinität von Ki= 13nM, jedoch vermochte keines der Stereoisomere
+in LSD-trainierten Ratten zu substituieren [164]. Das Fehlen einer LSD-artigen Aktivität
+der Tetrahydronaphthofurane ließ vermuten, dass diese in einer anderen Weise zum
+Serotoninrezeptor binden, die Ringe A, B und C nicht bioisoster sind, und nicht direkt
+mit dem Ringsystem von LSD in Deckung gebracht werden können. Dies implizierte
+auch, dass psychedelische Phenylalkylamine entgegen früheren Hypothesen in ihrer
+Bindungsorientierung am Rezeptor nicht direkt mit LSD überlagert werden können,
+(zusammengefasst in [164]). Die Substanz 375b könnte ein Antagonist sein und nicht fähig
+sein, den Rezeptor zu aktivieren [165].
+	Bei einem primären Screening fiel auf, dass 375b zusätzlich eine Akivität an muscariner-
+gen Rezeptoren zeigte. Die Messung der Affinitäten ergab Ki-Werte zwischen 12-33nM an
+allen fünf M1 — M5-Rezeptoren [164].
+
+
+
+Rund fünf Jahre später wurden mit einer anspruchsvollen Synthese die (±)-Naphthofu-
+tane 376-377 präsentiert [165, 166]. Das Benzofuranderivat 377 (Ki= 2.6nM) zeigte eine
+Signifikant höhere Affınität zum [125I]DOI markierten r5-HT2A-Rezeptor als die beiden Di-
+hydrofuran-Derivate 376a-376b; diese lag in der Größenordnung von der von DOB (2; Ki=
+2.2nM) und LSD (Ki= 3.5nM). Alle drei Substanzen zeigten keine hohe intrinsische Aktivität

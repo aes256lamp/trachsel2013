@@ -1,0 +1,24 @@
+Nachdem man eine Vielzahl an potenten 5-HT2-Rezeptorliganden mit Phenylalkylam-
+instruktur und einer Trisubstitution am Aromaten gefunden hatte, wovon sich schr viele als
+psychoaktiv erwiesen, stellte sich insbesondere die Gruppe von David E. Nichols zunehmend
+den Fragen zur räumlichen Anordnung dieser Moleküle, der Orientierung ihrer Seitenkette
+sowie der Methoxygruppen und deren Lone-pair-Elektronen.
+
+Oft hat sich gezeigt, dass bei biologisch aktiven Molekülen durch Rigidisierung der
+chemischen Struktur die Affinität zum Zielrezeptor erhöht werden kann. Flexible Struktu-
+ren können durch ihre freie Drehbarkeit sehr unterschiedliche Konformationen annehmen,
+wovon aber nur schr wenige der aktiven Konformation am Target (z. B. Rezeptor oder
+Enzym) entsprechen. Wenn diese aktive Konformation sterisch und energetisch ungünstig
+ist, so ist die Wahrscheinlichkeit, dass diese Konformation vorliegt entsprechend klein. Wird
+nun durch chemisches Fixieren von Bindungen in einem Molekül diese aktive Konformation
+stabilisiert, so erhöht man die Anzahl der aktiven Moleküle. Dadurch kann die normale
+Wahrscheinlichkeitsverteilung künstlich in die gewünschte Richtung gezwungen werden.
+
+
+
+Die ersten Arbeiten zur Aufklärung der Seitenkettenkonformation in Relation zur Ebene
+des aromatischen Rings präsentierten Nichols et al. 1974 [158]. Keines der beiden Aminoindan-
+sowie Aminotetralinderivate DOM-AI (368) und DOM-AT (369) zeigten psychotomimetische
+Aktivitäten in Ratten. DOM-AT (369) zeigte allerdings deutliche Effekte an 5-HT-Rezeptoren
+in Organbadversuchen mit Streifen aus dem Rattenmagen und Nabelschnurarterien des Schafs
+[158].

@@ -1,0 +1,37 @@
+Von ALEPH (168), ALEPH-2 (169), ALEPH-7 (171), wurden die N-Methylanaloga
+(sowie 4C-T-Derivate, N-Me-Analoga und Positionsisomere) als selektive und reversible
+Monoaminoxidase A-Hemmer geprüft [72].
+
+Das simple Alkylieren hochaffiner 2,4,5-trisubstituierter Phenylalkylamine führt zusam-
+mengefasst eindeutig zu einem Affinitäts- und In-vivo-Wirkungsverlust. Etwas anders sieht
+es bei einem N-Benzylsubstituenten aus. Mitte der 1990er Jahre stellten Glennon et al. eine
+2-3-fache Zunahme der Affinität zum [125I]-DOI markierten 5-HT2A-Rezeptor durch Einfüh-
+ren eines Benzylrests in das Molekül 2C-B (6) fest (erwähnt sind noch weitere 4-substituierte
+N-Benzyle) [29]. Dieser Idee folgten Perrz et al. 1999 [152] und Elz et al. 2002 [153] sowie
+Heim 2004 [154] und Braden im Jahre 2006 [151]. Glennons Resultate wurden damit mehrfach
+bestätigt. Zudem erkannte man insbesondere bei Phenethylaminen, die nicht die 2,4,5-Tri-
+substitution tragen, eine Zunahme der HT2A-Rezeptoraffinität (Abb. 18; h5-HT2A-Rezeptor;
+(±)-[125I]DOI markiert): Es konnten durch N-Benzylsubstituenten auch ohne das 2,4,5-Tri-
+substitutionsmuster Affinitäten nahezu im Bereich von 2C-I (179) zum 5-HT2A-Rezeptor
+erzielt werden (z. B. Substanzen 323 und 324). Bei den ohnehin schon potenten 2,4,5-tri-
+substituierten Phenethylaminen (z.B. 2C-I; 179) war der Effekt einer N-Benzylierung nicht
+mehr so dramatisch, aber mit einem Faktor 17 erhält man dadurch super-potente Liganden
+mit K-Werten im Bereich vom 50pM (25I-NBOMe; Cimbi-5; 325)!
+
+In einem funktionellen Phosphoinositidhydrolyse-Versuch (geklonte h5-HT2A-
+Rezeptoren) zeigte 25I-NBOMe (325; EC50= 0.44nM; 81% der 5-HT-Stimulation)
+agonistischen Charakter und eine Potenz weit über der von 2C-I (179; EC50 =2.54nM; 82%
+der 5-HT-Stimulation) [151]. Somit zählt 25-NBOMe (325) zu den 5-HT2A-Agonisten mit
+einer der höchsten Affinitäten und funktionellen Potenz.
+	Die N-benzylierten Phenylalkylamine zeigten nur mäßige 5-HT2A- vs. 5-HT2C-Subtyp-
+Selektiyität [151, 155, 193]. Nahezu alle N-Benzylsubstituenten führten zu einer Erhöhung
+der Affinität (Tabelle 17). Es wird eine zusätzliche Interaktion der N-Benzylgruppe mit
+Phe339(6.51) der transmembranen Helix TM6 angenommen [155]. Diese scheint derart
+ausgeprägt zu sein, dass das strukturelle Erfordernis einer 2,5-Dimethoxysubstitution gepaart
+mit einem 4-Rest nicht mehr nötig, ist um Agonisten für den 5-HT2A-Rezeptor zu erhalten.
+Allerdings ist anzumerken, dass 24-NBOMe (323; EC50=4.0nM; 89% der 5-HT Sumulation)
+oder 25H-NBOMEe (324; EC50=15.3nM; 88% der 5-HT Stimulation) eine tiefere Potenz als
+25I-NBOMe (325) aufweisen.
+
+Interessanterweise bewirkte beim α-Methylderivat DOI (43) das Einführen des
+effizientesten Substituenten (2-MeO-benzyl) einen Affinitätsverlust (Substanz DOI-

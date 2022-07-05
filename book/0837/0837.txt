@@ -1,0 +1,20 @@
+Abb. 18. Im Gegensatz zu einer simplen N-Alkylierung, bei der ein deutlicher Affinitätsverlust erfolgt,
+geht mit einer N-Benzylierung (insbesondere 2-MeO-Benzyl) eine dramatische Affinitätssteigerung einher.
+Bei den ohnehin schon hochaffinen 2,4,5-trisubstituierten Phenethylaminen (z. B. 2C-I, 197) ist dieser
+Effekt nicht mehr so ausgeprägt, doch werden dadurch superpotente Liganden erhalten (z. B. 325).
+
+NBOMe; 326, siehe Tabelle 17) [155]. Die funktionelle Potenz wurde gesenkt, und die
+intrinsische Aktivität nahm ab (r5-HT2A PI Hydrolyse; 43 vs. 326; EC50= 19.2nM vs. 36.1nM;
+77% vs. 43% der 5-HT Stimulation).
+	Verschiedene N-Benzylderivate wurden an geklonten r5-HT2A-Rezeptoren auf die
+Fähigkeit geprüft, die Hydrolyse von Phosphatidylinositiden (PI) zu stimulieren [155]. Die
+meisten Verbindungen erwiesen sich als relativ potente Agonisten und zeigten robuste
+intrinsische Aktivitäten, mit der Ausnahme von beispielsweise 25I-NB (327), 25I-NNap
+(328), 25I-NBF (329) sowie DOI-NBOMe (326), die alle schwache partielle Agonisten
+waren.
+	Einige der geprüften N-Benzylverbindungen setzen Arachidonsäure (AA) frei, wobei
+sie etwas selektiver für PI:AA sind, d.h. sie stimulieren bevorzugt den Phosphoinositid (PD-
+Umsatz [156].
+	Es wurden eine weitere Reihe von N-benzylierten Phenethylaminen (332-335 sowie 340-
+357) und tigide Analoga (z. B. Substanzen 336-339) geprüft [43]. In Tabelle 17 sind die
+dazugehörigen Affinitäten zu finden.

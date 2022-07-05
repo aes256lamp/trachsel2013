@@ -1,0 +1,21 @@
+2C-B-7 (380) zeigten beide tiefere Affinitäten zum [125I]DOI markierten hHT2A-Rezeptor im
+Vergleich zur Muttersubstanz 2C-B (6). Das Benzocyclobuten 2C-BCB (228; auch bekannt
+als TCB-2) zeigte eine zu 2C-B (6) vergleichbare Affinität.
+
+
+
+Das R-Enantiomer 228a wies die beachtliche dreifache Affinität von 2C-B (6) auf [126].
+In einer Diskriminationsstudie mit LSD-trainierten Ratten vermochte das R-Enantiomer
+228a (ED50= 24nM/kg) DOI (43; ED50= 270nM/kg) und sogar LSD (ED50= 38nM/kg) zu
+überbieten. In DOI-trainierten Ratten erwies sich LSD (ED50= 15nM/kg) etwas potenter als
+228a (ED50= 24nM/kg).
+
+
+
+Diese Resultate der Stereoselektivität gingen mit den Docking-Simulationen einher und
+ließen vermuten, dass die Seitenkette in einer perpendikularen Ebene relativ zum aromati-
+schen Ring liegt [126] (Abb. 19).
+	Das Messen der funktionellen Aktivität ergab für R-Enantiomer 228a schließlich eine
+65-fache Selektivität für den Phospholipase C (PLC)-Signalpfad (Phosphoinositol IP3-
+Akkumulation, EC50= 18nM; 97% der 5-HT Stimulation) gegenüber dem Phospholipase
+A2 (PLA2)-Pfad (Arachidonsäure-Freisetzung, EC50= 1180nM) sowie der 2-Arachidonoyl-

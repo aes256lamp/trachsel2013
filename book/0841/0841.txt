@@ -1,0 +1,12 @@
+Die Gruppe von Nichols zeigte für das CF3-Derivat 2C-TFM (41) eine dem I-Derivat
+2C-I (179) vergleichbare Affinität zu [3H]Ketanserin markierten r5-HT2A-Rezeptoren
+(Frontalkortex; Ki= 74.5nM vs. 80.9nM) [13]. Interessanterweise konnte dieser Trend bei
+den N-(2-Methoxybenzy))- (Cimbi-138) sowie N-(2-hydroxybenzylierten)-Analoga nicht
+bestätigt werden [154], und es wurde beim Austausch eines 4-Iods gegen eine 4-CH3-
+Gruppe ein signifikanter Rückgang der 5-HT2A-Aktivität an vaskulären Rezeptoren der
+Rattenschwanzarterie beobachtet [154].
+
+Die Substanz 25I-NBOMe (auch INBMeO oder Cimbi-5; 325) wurde mit ihrer hohen
+Affinität als selektiver Radioligand (Struktur [3H]INBMeO; 358) und als ökonomische Al-
+ternative zu [125I]DOI vorgeschlagen [157]. Sie weist einen vergleichbaren Nutzen auf wie
+[3H]Ketanserin, zeigt jedoch rund 20-mal höhere Affinitäten zu den HT2A/C-Rezeptoren.
