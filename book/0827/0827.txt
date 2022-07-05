@@ -1,0 +1,12 @@
+Die beiden Fluorderivate 275 und 276 sowie Stickstoffanaloga 277-279 wurden
+synthetisch beschrieben [136].
+
+
+
+Die Verbindung BDFA (227) verzichtet gänzlich auf O-Atome in den 2,5-Positionen.
+Sie zeigte nur mäßige Affinität an [3H]MDL 100,907 markierten r5-HT2A-Rezeptoren (Ki=
+2505nM, rat frontal cortex) [122]. Die funktionelle Aktivität wurde mittels Drug Discrimi-
+nation (LSD-trainierte Ratten) bestimmt, und da keine Substitution erfolgte, wurde BDFA
+(227) als Antagonist eingestuft. Mit dieser Substanz wurde gezeigt, dass die O-Atome in der
+2,5-Position von Phenylalkylaminen für eine Aktivierung des 5-HT2A-Rezeptors notwendig
+sind (siehe auch DOB-ANTH (224) in 8.5.27.2 Evaluation der MeO-Gruppen).

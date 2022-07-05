@@ -1,0 +1,22 @@
+Tabelle 16. Affinitäten (Ki) zu den 5-HT2A- und 5-HT2C-Rezeptoren fluoranaloger Verbindungen von 2C-H
+(4) und 2C-B (6). Werte in nM, aus [38] falls nicht anders vermerkt.
+
+
+
+a) nicht bestimmt. b) beides transfizierte rS-HT2A- oder r5-HT2C-Rezeptoren [10]. c) In Ref. [2] wurde an
+r5-HT2A- oder r5-HT2C-Rezeptoren (aus Rattenhirn-Homogenat, Frontalkortex) ein Ki= 34 und 36nM re-
+spektive bestimmt.
+
+
+Die höheren Affinitäten des Trifluormethylderivates 5TF-2C-H (264) im Vergleich zu
+seinem nichtfluorierten Analogon 2C-H (4) könnten durch die erhöhte Lipophilie in der
+5-Position begründet werden. Interessanterweise scheint beim Vorhandensein zweier F-Ato-
+me in der 2-Position von 2DF-2C-B (260) die Affinität am 5-HT2A-Rezeptor massiv gesenkt,
+und im Falle des 5-HT2C-Rezeptors leicht gesteigert zu sein im Vergleich zu seinem F-freien
+Analog 2C-B (6).
+	Es liegen bis anhin (2012) nur wenige Daten vor und man könnte mit weiteren Mo-
+lekülen die Effekte einer Fluorierung der wichtigen MeO-Gruppen in den 2,5-Positionen
+untersuchen. Es wäre durchaus interessant, diesen Hinweisen der 5-HT2C-Subtyp Selektivität
+weiter nachzugehen und weitere Fluoralkyloxyanaloga zu untersuchen (evtl. bevorzugt mit
+einem agonistischen Assay). Die H-Akzeptoreigenschaften des beteiligten Sauerstoffatoms
+werden durch die Fluorierung mit hoher Wahrscheinlichkeit verringert [190].

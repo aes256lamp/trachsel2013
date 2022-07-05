@@ -1,0 +1,24 @@
+Das Sulfoxid TOMSO (259) [132] erwies sich bei Dosierungen von bis zu 150mg als
+inaktiv [8]. Der Grund für dessen Untersuchung lag in der Tatsache, dass bei 5-TOM (248)
+teils stark unterschiedliche Reaktionen der Probanden auftraten und die Frage nach einem
+aktiven Metaboliten aufkam. Obwohl TOMSO (259) inaktiv war, wurde beobachtet, dass
+zusammen mit Ethanol plötzlich eine 10-16h anhaltende Wirkung auftrat, die nicht diejenige
+des Alkohols war [8]. Dieser Fakt ist auch insofern interessant, da Ethanol gewöhnlicherweise
+eher einen sedierenden als einen aktivierenden Effekt erzeugt.
+
+
+
+An dieser Stelle sei auch noch auf die Varacine im Kapitel 9.1 verwiesen.
+
+Nachdem die Wirksamkeit fluorierter Mescalinanaloge entdeckt worden war [37, 133,
+190] (siehe Kapitel 8.4.8.2) stellte sich die Frage nach dem Einfluss von Fluorierungen an
+den MeO-Gruppen von 2,4,5-trisubstituierten Phenylalkylaminen. Beispielweise sind die
+dem 2C-B (6) verwandten Verbindungen 260-263 synthetisch schwierig zugänglich, und
+daher wurden bis anhin nur das 2-Difluormethoxyderivat 2DF-2C-B (260, Abb. 15) und
+die 5-Trifluormethoxyverbindung STF-2C-H (264) hergestellt (aus 2-MeO-5-TFMeO-Benz-
+aldehyd) und untersucht [37, 38, 190]. Versuche zur Herstellung des 5-Trifluormethoxyderivat
+5TF-2C-B (263) scheiterten bis anhin [37].
+	Eine Messung der Affinitäten von 2DF-2C-B (260) und des bromfreien 5STF-2C-H (264)
+zu den h5-HT2A- sowie r5-HT2C-Rezeptoren ergab eine gewisse Selektivität zugunsten des
+r5-HT2C-Rezeptors (siehe Tabelle 16); 2DF-2C-B (260) zeigte immerhin ein Verhältnis von
+5-HT2C: 5-HT2A = 29, und 5TF-2C-H (264) zeigte eine sechsfache 5-HT2C-Selekuvität.

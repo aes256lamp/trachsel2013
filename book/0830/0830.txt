@@ -1,0 +1,22 @@
+Das 2-substituierte MDA-Derivat 2Me-MDA (292) zeigte am hSERT eine mäßige
+Affinität (Ki= 2200nM, [3H]-5-HT Aufnahmehemmung) [139] (die Daten der beiden anderen
+Me-MDA-Isomere sind in Tabelle 2 des Kapitels 8.1.1 angegeben). 2Me-MDA (292) zeigte
+bei ersten Versuchen mit 160mg spürbare Wirkungen [140]. Das N-methylierte Analogon
+MADAM-6 (293) erfuhr wie METHYL-MMDA-2 (286) einen Wirkverlust [8]. Es scheint
+hier, dass beim Vorhandensein eines 2-Substituenten die N-Methylierung nicht toleriert
+wird, sei es aus sterischer Repulsion, was die Interaktion mit den Monoamintransportern
+stört, oder weil, wie bei den 2,4,5-trisubstituierten Phenylalkylaminen festgestellt wurde, die
+N-Methylierung die Affinität zu den 5-HT2-Rezeptoren massiv senkt.
+
+
+Die halogenierten Verbindungen 6F-MDA (294), 6CL-MDA (295) und 6BR-MDA (296;
+2-BR-4,5-MDA) sind bekannte Verbindungen. In einem kompetitiven Assay (mit Citalo-
+pram, Sertralin, Nisoxetin) zeigte 6F-MDA (294; Synthese siehe Abb. 17 [37]) keine Affinitä-
+ten zu den entsprechenden Bindungsstellen der Monoamintransporter (Ki SERT, DAT, NET
+> 10μM) [38]. Die Daten der beiden anderen F-MDA-Isomere sind in Tabelle 4 des Kapitels
+8.1 angegeben. Leider sind die aussagekräftigere Aufnahmehemmung und Freisetzung der
+natürlichen Liganden (5-HT, DA, NE) durch diese Substanzen noch unbekannt.
+
+Das Chloroanalogon 6CL-MDA (295) war in ersten Tests im Menschen vergleichbar
+aktiv wie 2Me-MDA (292) (160mg, rund 8h Dauer) [140], und 6BR-MDA (296; 2-BR-4,5-
+MDA) erwies sich bei Dosierungen von bis zu 350mg als inaktiv [8, 134].

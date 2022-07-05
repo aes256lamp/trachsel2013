@@ -1,0 +1,34 @@
+Die beiden Verbindungen 2-Et-DOM (280) und 5-Et-DOM (281) dienten zur Aufklä-
+rung der Bindungsorientierung und Potenz von Agonistliganden (Bestimmung der Rolle von
+Serinresten 8239 und S159 in der transmembranen Helix TM5) [137]. Das 5-Et Analogon
+281 wies einen weniger stark ausgeprägten Affinitätsverlust zum 5-HT2A-Rezeptor auf als das
+2-Et-Analogon 280 (siche Ki-Werte). Dies ist wiederum ein Hinweis dafür, dass innerhalb
+der 4-substituierten 2,5-Dimethoxyphenylalkylamine die 2-MeO-Gruppe wichtiger als die
+5-MeO-Gruppe für das agonistische Binden an den 5-HT2A-Rezeptor ist.
+
+
+
+Es stellt sich die Frage nach den Auswirkungen, wenn Strukturelemente der Entaktogene,
+namentlich der 3,4-Methylendioxyphenylalkylamine wie MDMA (282; siehe auch Kapitel
+7.5.6) und der psychedelischen Phenethylamine (z.B. TMA-2; 66) kombiniert werden.
+	Während die 3,4-Methylendioxyphenylalkylamine primär über die Wechselwirkung mit
+den Monoamintransportern wirken (Freisetzung von 5-HT, NE und geringer auch DA),
+zeigen die Letzteren hauptsächlich eine agonistische Interaktion mit 5-HT2-Rezeptoren.
+Beide Klassen weisen am jeweiligen oppositen Target relativ wenig Wechselwirkung auf.
+
+Der folgenden Abb. 16 können die verschiedenen strukturellen Modifikationen mit ih-
+ren Auswirkungen auf die Potenz im Menschen [8] entnommen werden. Das Einführen
+einer 2-MeO-Gruppe in MDA (283) bewirkt eine Steigerung der Potenz um den Faktor 3-4
+(Substanz MMDA-2; 284). Dabei scheint die entaktogene Wirkung teils erhalten zu bleiben.
+Wird umgekehrt die 5-MeO-Gruppe vom potenten Psychedelikum DOM (8) in das Dihyd-
+rofuran F (285) gewandelt [138], so erfolgt ein massiver Wirkungsverlust (siehe auch Kapitel
+8.5.27.2). Während das N-Methylieren von MDA die stark entaktogene Verbindung MDMA
+(282) hervorbringt, erfolgt bei der N-Methylierung von MMDA-2 (284) ein Wirkungsver-
+lust (Substanz METHYL-MMDA-2 (286)). Das Homologisieren der 2MeO-Gruppe von
+MMDA-2 (284) ergibt EMDA-2 (287), eine deutlich schwächer aktive Verbindung. Das
+schwefelhaltige 4T-MMDA-2 (288) wurde bis zu 25mg geprüft und erwies sich als inaktiv.
+Das isomere Methylenthiooxyderivat 5T-MMDA-2 (289, Struktur nicht gezeigt) ist bis anhin
+unbekannt.
+
+Die 2C- sowie 4C-Analoga von MMDA-2 (284) wurden synthetisch beschrieben, jedoch
+die aktive Dosis nicht eruiert [8].
