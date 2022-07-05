@@ -1,0 +1,44 @@
+Die ausgeprägte Korrelation zwischen der Lipophilie und der Bindungsaffinität für
+Agonisten konnte schließlich zur Vorhersage respektive als Indikator der Aktivität Agonist
+vs. Antagonist genutzt werden [122]. Der Nutzen besteht darin, dass bei High-Throughput-
+Screenings (HTS), wo die funktionelle Aktivität von 5-HT2A-Liganden nicht bestimmt werden
+kann, mit dieser Methode Agonisten von Antagonisten unterschieden werden können (wenn
+ein Prüfligand stark von dieser Korrelation abweicht respektive für seine Affinität zu lipophil
+ist, dann ist er mit hoher Wahrscheinlichkeit ein Antagonist).
+
+
+Die Fähigkeit von Liganden, nach deren Binden an einen Rezeptor bevorzugt einen von
+mehreren möglichen Signaltransduktionswegen aktivieren zu können, nennt man funktio-
+nelle Selektivität. Die Aktivierung im Falle des 5-HT,‚-Rezeptors ermöglicht es, eine Vielfalt
+von Mediatoren aktiv werden zu lassen, was aus der Kopplung zu unterschiedlichen G-
+Proteinen resultiert [124, 125]: Je nach Agonist kann die Bindung eines heterotrimeren G-
+Proteins mit einer Gαq/11, einer Gα12/13 und einer Gαi/o Untereinheit an die Unterseite
+des Rezeptors koppeln und entsprechende Signaltransduktionskaskaden in Gang bringen.
+Um die funktionelle Selektivität zu untersuchen, werden also unterschiedliche funktionelle
+Assays durchgeführt. Da die Signaltransduktionskaskaden sehr komplex sind und sich teil-
+weise sogar gegenseitig beeinflussen, sind einfache Untersuchungsmethoden oft schwer zu
+finden. Die Praxis sieht so aus, dass man sich eine Substanz aussucht, die sich relativ einfach
+nachweisen lässt. Für die 5-HT2-Rezeptoren macht man sich z.B. eine einfache enzymatische
+Reaktion zunutze, bei der das Phosphatidylinositol-4,5-diphosphat (PIP2) durch das Enzym
+Phospholipase C (PLC) in das Inositoltriphosphat (IP3) und Diacylglycerol (DAG) umge-
+wandelt wird, was ausschließlich aus der Aktivierung der Gαq/11 Untereinheit herrührt (sie-
+he auch Exkurs Aspekte der molekularen Pharmakologie).
+
+Eine neuere gängige Methode ist es, die Phospholipase A2-(PLA2)-vermittelte freigesetz-
+te Arachidonsäure (arachidonic acid, AA) zu bestimmen. Sie kann durch die Aktivierung der
+beiden anderen G-Untereinheiten Gα12/13 und Gαi/o über komplizierte unterschiedliche
+Wege entstehen. Zusätzlich kann auch noch aus dem oben genannten Gαq/11-Pfad, vermit-
+telt durch das entstehende DAG, ein Glycerylester der Arachidonsäure (2-Arachidonylgly-
+cerol, 2-AG) entstehen, der auch wieder in Arachidonsäure umgewandelt werden kann. Ganz
+stark vereinfacht sind die Verhältnisse für einen 5-HT2A-Rezeptor in Abb. 7 des Exkurses
+Aspekte der molekularen Pharmakologie gezeigt. Dabei sind beispielsweise die Rezeptor-
+regulation und die Serond-messenger-Kaskaden, die von der ßγ-Untereinheit des G-Proteins
+herrühren, ebenso wie viele Zwischenschritte vernachlässigt. Die Quintessenz ist, dass Ago-
+nisten unabhängig von ihrer Affinität zum Rezeptor die sieben Helices durch ihr Binden in
+Konformationen bringen können, in denen sie unterschiedlich gut an bestimmte G-Proteine
+koppeln können und somit auch unterschiedliche Effekte im Menschen haben.
+
+Die meisten Untersuchungen zur Aktivität von Phenylalkylaminen am 5-HT2A-Rezeptor
+erfolgten durch Messung der Phosphoinositidhydrolyse (funktionelle Potenz, sowie
+intrinsische Aktivität). Ein Vergleich der PLC-Aktivierung und der In-vivo-Pharmakologie
+von verschiedenen 5-HT2A-Rezeptoragonisten zeigte, dass keine gute Korrelation besteht

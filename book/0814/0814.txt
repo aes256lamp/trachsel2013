@@ -1,0 +1,30 @@
+Es wurden für 5-DM-DOM (223) leicht höhere Affinitäten als für 2-DM-DOM (222)
+zu den 5-HT2A- und 5-HT2C-Rezeptoren gemessen, jedoch waren diese tiefer als für (-)-R
+DOM (8a) [111].
+
+
+
+Auch einige der 2C-Verbindungen wurden auf ihren Metabolismus geprüft. Kürzlich
+erschienene Studien über den Metabolismus der 2C-Derivate wurden hauptsächlich in Ratten,
+jedoch auch in Mäusen und im Menschen (2C-B (6)), sowie mit Hepatocyten verschiedener
+Spezies durchgeführt (zusammengefasst in [100]).
+	Studien an einem Rattenmodell (Ausscheidungen im Urin) mit 2C-Verbindungen zeigten
+als Hauptschritte des Phase-I-Metabolismus hauptsächlich die Deaminierung und O-Deme-
+thylierung (zusammengefasst in [100]). Dies konnte beispielsweise für 2C-D (7) [114], 2C-E
+(9) [115], 2C-B (6) [116], 2C-I (179) [117] und 2C-T-2 (125) [67] gezeigt werden. Weiter wurde
+eine Hydroxylierung der 4-Me- oder der 4-Et-Gruppe von 2C-D (7) [114] respektive 2C-E
+(9) [115] beobachtet. Bei den 4-Alkylthioderivaten 2C-T-2 (125) und 2C-T-7 (126) konnte
+zudem eine Sulfoxidation oder Sulfonierung sowie eine Hydroxylierung der S-Alkylkette und
+eine S-Dealkylierung beobachtet werden [66, 67]. Im Gegensatz zu 2C-T-2 (125) konnte bei
+2C-T-7 (126) weder eine O-Demethylierung noch eine N-Acetylierung der Hauptsubstanz
+beobachtet werden [66].
+
+Schließlich prüften Theobald und Maurer die Involvierung von humanen Cytochromen
+und Monoaminoxidase (MAO) bei diesen Schritten. Für alle geprüften Substanzen (2C-B (6),
+2C-I (179), 2C-D (7), 2C-E (9), 2C-T-2 (125), 2C-T-7 (126)), waren hauptsächlich die Enzyme
+MAO-A und MAO-B für die Deaminierung verantwortlich, Für 2C-D (, 2C-E (9), 2C-T-
+2 (125), 2C-T-7 (126) war auch CYP2D6 an der Deaminierung beteiligt, jedoch nur in sehr
+kleinem Ausmaß. Dadurch, dass die MAO-A und MAO-B hauptsächlich in den metabolischen
+Pfaden der 2C-Derivate verantwortlich sind, könnten die 2C-Verbindungen empfindlich für
+Drug-Drug-Interaktionen mit MAO-Hemmern sein, so dass durch gleichzeitige Einnahme
+erhöhte Plasmawerte und toxische Nebenwirkungen auftreten könnten.

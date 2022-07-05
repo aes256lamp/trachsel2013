@@ -1,0 +1,46 @@
+Im Gegensatz zu anderen 2,4,5-trisubstituierten. Phenylisopropylaminen wie DOC (182)
+[107], DOB (2) [108] oder DOI (43) [109] war bei DOM (8) nicht die O-Demethylierung der
+Hauptschritt, sondern die Hydroxylierung der 4-Methylgruppe [106].
+
+Die Gruppe von Maurer untersuchte auch die Beteiligung der Cytochrom P450-(CYP)-
+Isoenzyme an der Bildung der Hauptmetaboliten diverser 3C-Derivate [106, 110]. Für
+die Bildung des Hauptmetaboliten Hydroxy-DOM (202) war ausschließlich CYP2D6
+verantwortlich. Da CYP2D6 polymorphologisch exprimiert wird, könnte die Bildung dieses
+Metaboliten stark variieren und somit seine Detektion im Urin erschweren, so dass nach
+DOM (8) selbst und/oder nach anderen Metaboliten gesucht werden müsste. Das Isoenzym
+CYP2D6 war das einzige der geprüften Cytochrome, das an der. O-Demethylierung anderer
+4-substituierter 2,5-Dimethoxamphetamine wie DOC (182), DOB (2), DOI (43) und TMA-
+2 (66) beteiligt war (Mikrosomen aus Insektenzellen, heterogen human-CYP exprimierend),
+wobei bei diesen 3C-Derivaten im Kontrast zuDOM (8) (Hydroxylierung der 4-Methylgruppe)
+hauptsächlich eine O-Demethylierung erfolgte [110]. Alle geprüften Substanzen erwiesen sich
+als nichtmechanismusbasierende kompetitive Inhibitoren von CYP2D6.
+
+Über die mögliche pharmakologische Wirkung der O-Demethylierungsprodukte von
+DOM (8) berichteten Eckler et al. [111]. Die Wirkungen von DOM (8) entfalten sich im
+Menschen erst 60-90min nach Einnahme (siehe dazu Problematik der Überdosierung im
+Kapitel 8.5.4). Auch in Studien mit substanzinduzierter Stimuluskontrolle an Ratten wurde
+festgestellt, dass die stabilsten LSD-artigen Stimuluseffekte mit (-)-R-DOM (8a) bei einer
+Vorbehandlung von 1h oder mehr erfolgen. Dementsprechend wurde eine 75minütige Vor-
+behandlung angewendet, wenn (-)-R-DOM (8a) als Training Drug diente (zusammengefasst
+in [111]). Im Gegensatz zu (-)-R-DOM (8a) sind die maximalen Stimuluseffekte bei LSD und
+Mescalin bereits nach 15 Min vorhanden. Dieses verspätete Eintreten der maximalen Stimu-
+luseffekte von (-)-R-DOM (8a) können nicht mit einer verspäteten Aufnahme ins Gehirn
+erklärt werden, denn maximale Konzentrationen von (-)-R-DOM (8a) im Gehirn wurden
+bereits 15-30min nach Verabreichung festgestellt [112]. Diese Diskrepanz veranlasste Eckler
+et al., Metaboliten von (-)-R-DOM (8a) auf ihre Aktivität zu untersuchen [111]. Tragen Me-
+taboliten aktiv zum gesamten Wirkprofil bei, so wird es umso schwieriger, von den pharma-
+kologischen Daten einer Muttersubstanz auf dessen Wirkung zu schließen.
+	Sie zeigten für die in homogenisierter Kaninchenleber identifizierten Metaboliten [104]
+2-DM-DOM (222) und 5-DM-DOM (223) mittels Drug-Discrimination-Studien eine Subs-
+titution in LSD-trainierten Ratten, wobei 5-DM-DOM (223) leicht potenter war [111]. Im
+Vergleich zu (-)-R-DOM (8a) [113] waren jodoch beide deutlich weniger potent. Beide
+Metaboliten 5-DM-DOM (223) und 2-DM-DOM (222) zeigten die stärksten LSD-artigen
+Stimuluseffekte nach 75min Vorbehandlung und nicht nach 15min, wie dies bei LSD be-
+Obachtet wurde,
+	Man könnte für diese Metaboliten einen schnelleren maximalen Stimuluseffekt erwarten,
+da sie bei Verabreichung bereits vorliegen (bei (-)-R-DOM (8a) müssen sie zuerst gebildet
+werden). Jedoch ist durch ihre erhöhte Polarität eine erschwerte Überwindung der Blut-Hirn-
+Schranke denkbar. Die Studien zeigten schließlich, dass nicht einstimmig verworfen oder
+akzeptiert werden kann, dass aktive Metaboliten eine volle Erklärung für die beobachtete
+Diskrepanz zwischen Hirnkonzentration und maximalen Sümuluseffekten von (-)-R-DOM
+(8a) liefern.

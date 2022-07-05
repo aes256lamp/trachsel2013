@@ -1,0 +1,35 @@
+Im Gegensatz zu dem entaktogenen Phenylalkylamin MDMA, das den Zugang zu kli-
+nischen Studien geschafft hat (siehe Kapitel 7.5.6.8), liegen zum Metabolismus der 2,4,5-tri-
+substituierten Phenylalkylamine relativ wenig Daten vor, und Untersuchungen am Menschen
+wurden bisher nur wenige getatigt.
+	Man findet beispielsweise Daten aus In-vitro-Versuchen mit mikrosomalen Inkubationen
+(z.B. CYP und MAO) sowie aus In-vivo-Experimenten mit Ratten und Kaninchen und in
+letzter Zeit mit Menschen. Es ist wichtig zu verstehen, wie diese Moleküle vom menschli-
+chen Körper behandelt werden, was ihre Metaboliten sind und wie diese wiederum mit dem
+Körper interagieren. Es ist wünschenswert, abschätzen zu können, ob Risiken durch Drug-
+Drug-Interaktionen oder durch Nahrungsmittelinhaltsstoffe vorliegen könnten. Zudem
+können pharmakokinetische Variationen durch pharmakogenetische Variabilität vorliegen.
+Es können starke Unterschiede in der Wirkung vorliegen, wenn jemand für einen Wirkstoff
+ein so genannter Poor-metabolizer oder ein Rich-metabolizer ist. Gerade bei den 4-alkylierten
+2,5-Dimethoxyphenylalkylaminen werden im Menschen ausgeprägtere interindividuelle Un-
+terschiede der benötigten Dosierung beobachtet (siche Kapitel 8.5.3 und 8.5.4).
+	Für die klinische sowie forensische Toxikologie sind Kenntnisse über das Verhalten die-
+ser Substanzen wichtig, um zu wissen, nach welchen potenziellen Metaboliten im Falle einer
+vorliegenden Vergiftung oder Überdosierung zu suchen ist. Es sind fatale Vergiftungen mit
+beispielsweise DOB (2) [79] oder auch 2C-T-7 (126; zusammengefasst in [100]) dokumentiert.
+
+Die vermutlich ersten metabolischen Untersuchungen wurden in den 1970er Jahren
+mit der Substanz DOM (8) getätigt, infolge ihres Auftretens auf dem Schwarzmarkt in
+Kalifornien, USA. Diese metabolischen Studien an Ratten [93, 101] sowie Kaninchen [102-
+105] zeigten, dass DOM (8) hauptsächlich an der 4-Methylgruppe hydroxyliert wird, dann
+teilweise gefolgt von einer Konjugation oder Oxidation zur Carbonsäure, einer Deaminierung
+zu den entsprechenden Ketonen, teilweise gefolgt von der Reduktion zu den entsprechenden
+Alkoholen, O-Demethylierung und Kombination dieser Schritte (Abb. 14, zusammengefasst
+in [106]).
+
+Der Metabolismus von DOM (8) und diversen anderen 3C-Derivaten wurde in den letz-
+ten Jahren durch die Gruppe von Maurer intensiv durch Analyse von Rattenurin untersucht.
+
+
+
+Abb. 14. Teilschritte des Metabolismus von DOM (8) in Ratten und Kaninchen [106].

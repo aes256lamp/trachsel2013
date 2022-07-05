@@ -1,0 +1,26 @@
+kulierten Nichols et al. zwei Jahre später, dass die Abnahme der Potenz im Menschen eher mit
+der Zunahme der Größe des 4-Substituenten als mit der Erhöhung der Lipophilie erfolgt
+[22]. Später zeigten Seggel et al., dass die Rezeptoraffinität durch höhere 4-Alkylsubstituenten
+in 4-substituierten 2,5-Dimethoxyamphetaminen erhalten bleibt, diese Substanzen jedoch
+keine Efficacy aufweisen und sich somit als Antagonisten verhalten [36].
+	Im Jahre 2008 präsentierten Parker, Kurrasch und Nichols für Agonisten den linearen
+Zusammenhang zwischen der log In-vitro-Affinität und Lipophilie [122] (AM.PC α, bestimmt
+durch Chromatografie mit Immobilized Artificial Membrane Column Containing Phosphatidylcholine
+Head Groups), die gut mit den Octanol-Wasser-Koeffizienten log P korreliert [123]: Die
+Datenpunkte der als Agonisten klassifizierten Liganden des 5-HT2A-Rezeptors lagen nahezu
+auf einer geraden Linie (r2=0.92). Alle Antagonisten und partiellen Agonisten lagen entfernt
+dieser Linie; jeder Antagonist mit vergleichbarer Affinität eines Agonisten ist lipophiler.
+Antagonisten müssen demnach eine höhere Lipophilie als Agonisten aufweisen, um
+vergleichbare Affinitäten zu erreichen. Dies wurde mit den beiden Substanzen DOB-ANTH
+(224) und ψ-DOM (225) veranschaulicht: Sie weisen eine nahezu identische Affinität auf
+([3H]Ketanserin markierter 5-HT2A-Rezeptor, Frontalkortex Ratte), jedoch unterscheidet
+sich ihre Lipophilie um rund 2.5 log-Einheiten [122].
+	Jedoch ist nicht jeder Antagonist automatisch lipophiler als ein Agonist. Veranschaulichen
+lässt sich die mit den beiden Substanzen DOB-DFLY (226) vs. BDFA (227) ([3H]MDL
+100,907 markierter 5-HT2A-Rezeptor, Frontalkortex Ratte) [122].
+
+
+
+Der Agonist DOB-DFLY (226, Kapitel 8.5.27.2) ist ein extrem potenter, in vivo aktiver
+Agonist mit einem (aus IAM.PC α) berechneten [123] log P= 4.09, der eine Lipophilie hat,
+die weit über dem früher postulierten Optimum von 3.14 liegt (zusammengefasst in [122]).

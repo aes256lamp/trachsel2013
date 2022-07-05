@@ -1,0 +1,43 @@
+Hunderte Phenethylamine sind bekannt, und ein beachtlicher Teil davon zeigt psycho-
+aktive Wirkungen. Es stellt sich natürlich die Frage, ob es eine Möglichkeit gibt, eine Struktur-
+Aktivitäts Beziehung zu zeigen und mit einem Modell oder einer Korrelation schließlich
+Vorhersagen treffen zu können. Es wurden viele solche Versuche unternommen. Dabei
+bedienten sich diese verschiedener beschreibender Parameter. Einfache Modelle wie der log
+P (Lipophilie, siehe Kapitel 8.5.19) [23], Hyperthermie in Kaninchen [24] oder komplizierte
+Modelle, die elektronisch errechnete Parameter der Moleküle verwenden [118-121] konnten
+innerhalb einer bestimmten Gruppe von Molekülen relativ genau eine Korrelation zwischen
+der Dosis im Menschen und der Struktur zeigen.
+	Wir können verschiedene Deskriptoren betrachten und gegeneinander auftragen. Da die
+endogene Wirkung, die ein Individuum letztendlich erfährt, aus einer Vielzahl von biologi-
+schen Prozessen entsteht, ist es dennoch sehr schwierig zu erklären, ob und weshalb eine
+bestimmte Substanz genau so wirkt. Gerade auch der Übergang von Agonismus zu Antago-
+nismus oder die funktionelle Selektivität ist schwierig vorherzusagen. Es ist möglicherweise
+ein „goldener Schnitt“, die optimale Summe verschiedener Eigenheiten, die zu beispielsweise
+visuellen Veränderungen führt. Während manche Phenethylamine lediglich berauschen oder
+sedieren, ohne dabei Veränderungen in der visuellen Wahrnehmung zu bewirken, vermögen
+andere fraktalartige Muster und Linien bei geschlossenen Augen zu erzeugen oder bringen
+Muster und Bewegungen bei offenen Augen zum Vorschein. Es sollen bei dieser Gelegenheit
+die im Zusammenhang mit psychedelischen Wirkungen stehenden Begriffe kurz definiert
+werden [8]:
+	Unter Imagery oder Closed Eye Imagery versteht man Erscheinungen wie Fraktale, Linien
+oder Muster, die beim Öffnen der Augen wieder verschwinden. Die sogenannten Visuals
+bezeichnen mit offenen Augen wahrnehmbare visuelle Veränderungen oder Bilder. Dies
+können typischerweise Muster oder Bewegungen sein. Der Term Fantasy bezeichnet in die-
+sem Zusammenhang den Zustand, wenn jemand mit geschlossenen Augen glaubt, er sei in
+einer anderen Welt (typischerweise Landschaften), bis er wieder die Augen öffnet. Wenn mit
+diesem Zustand gekoppelt eine Art Schlaf oder ein Nickerchen auftritt, spricht man von
+hypnagogen Bildern oder Hypnagogie. Es werden vereinfachend auch die beiden Begriffe Oper
+Eye Visuals (OEV) und Closed Eye Visnals (CEV) verwendet.
+
+Der Begriff Halluzinogen im Zusammenhang mit Phenylalkylaminen ist eigentlich un-
+präzise und irreführend, da die Phenylalkylamine äußerst selten echte Halluzinationen zu
+erzeugen vermögen, man spricht besser von Pseudohalluzinationen. Von echten Halluzina-
+tionen spricht man, wenn der Betroffene die ihm erscheinenden (z.B. visuellen, akustischen,
+olfaktorischen) Phänomene nicht mehr von der Realität zu unterscheiden vermag, oder er
+sich nicht mehr bewusst ist, dass diese Effekte durch eine Substanz verursacht sind. Da dies
+bei der Einnahme von Phenylalkylaminen äußerst selten vorkommt, und lange nicht alle
+Derivate des Phenylalkylamintyps die eben beschriebenen Phänomene aufkommen lassen,
+vermeidet man besser den Begriff Halluzinogen. Man sollte sich insbesondere bei den akti-
+ven 2,4,5-, 2,4,6- und 3,4,5-trisubstituierten Phenylalkylaminen auf den Begriff Pychedelika
+einigen. Psychedelika können Imagery, Visuals, oder Fantasy oder eine Kombination davon
+oder einfach nur die physische und psychische Wahrnehmung und die Gedankenwelt vor-

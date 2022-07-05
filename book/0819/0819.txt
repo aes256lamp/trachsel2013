@@ -1,0 +1,47 @@
+[86]. So weisen LSD und DOB (2) zwar beide eine signifikante Potenz für diesen Pfad auf
+(EC50 = 10nM und 72nM), jedoch zeigte LSD nur wenig intrinsische Aktivität (22%) im
+Vergleich zu der von DOB (2; 79%). Eine Erprobung des PLA -Signaltransduktionspfades
+verschiedener 5-HT2A-Rezeptoragonisten offenbarte eine etwas Heuer Korrelation mit den
+„halluzinogenen Effekten“ [86]. Es könnte demnach sein, dass für „halluzinogene Effekte“
+die Potenz sowie intrinsische Aktivität eher für die Arachidonsäure-Akkumulation und
+somit die Aktivierung eines PLA2-Pfads relevant ist. Dabei gilt es zu beachten, dass zwei
+unterschiedliche Pfade zur PLA2-vermittelten Arachidonsäure- Akkumulation. führen [125].
+	Wegen der vielen und teilweise langen Signaltransduktionskaskaden gibt es theoretisch
+genauso viele Möglichkeiten für funktionelle Assays, wie es greifbare und quantifizierbare
+Zwischenschritte gibt. Daher ist es für die Interpretierbarkeit und Aussagekraft der
+Ergebnisse eines jeden funktionellen Assays entscheidend, über die Herkunft des jeweils
+untersuchten Messengers Bescheid zu wissen.
+	Bis anhin ist unklar, welche strukturellen Modifikationen bei den Phenylalkylaminen
+zu welchem Signalpfad führt. Klar ist, dass kleine strukturelle Unterschiede eindeutige
+Auswirkungen haben [85, 86], und es gibt bereits erste Hinweise dafür, dass funktionell
+selektive Liganden realisierbar sind [124, 126] (siehe auch Verbindung 2C-BCB (228), Kapitel
+85.27.1).
+
+Moya et al. verglichen die funktionelle Selektivität (PLA2- und PLC-Signalpfade) von
+verschiedenen 2C/3C-Paaren am h5-HT2A- und h5-HT2C-Rezeptor (2C-D (7)/DOM (8),
+2C-I (179)/DOI (43), 2C-N (184)/DON (185), M (61)/TMA (63), 2C-B (6)/DOB (2),
+2C-H (4)/2,5-DMA (5)) [85]. Am h5HT2A-Rezeptor zeigten alle getesteten 3C-Derivate
+(α-Methylphenethylamine; Amphetamine) für beide Pfade eine höhere Efficacy als die
+entsprechenden 2C-Derivate. Dies wurde zuvor in Phosphoinositid-Hydrolyseversuchen
+mehrfach bestätigt [13] (und zusammengefasst in [85]). Am h5-HT2C-Rezeptor hingegen
+konnte kein konsistenter Effekt der «-Methylgruppe festgestellt werden [85]: Verschiedene
+2C/3C-Paare wiesen für beide Pfade eine vergleichbare Efficacy auf.
+
+Frühere Verhaltensstudien mit DOI (43) an Ratten zeigten unter anderem ein dosisab-
+hängiges Kopfschütteln (Head twitch), das durch 5-HT2A Rezeptorantagonisten blockiert wer-
+den konnte [127]. Das durch den 5-HT, -Agonist induzierte Kopfschütteln kann als In-vivo-
+Versuch dazu dienen, die Efficacy von 5-HT2A-Agonisten nachzuweisen (siehe auch [128]):
+Verschiedene 3C-Derivate vermochten starkes Kopfschütteln auszulösen, hingegen zeigen
+die 2C-Analoge diesen Effekt nicht, selbst bei fünffach höheren Dosierungen [85]. Generell
+zeigten die 2C-Derivate eine tiefe Efficacy, und sie wurden auch als partielle Agonisten [85]
+oder gar Antagonisten (in Xenopus laevis-Oocyten) [129] eingeteilt.
+
+Die funktionellen Pfade sind komplex, es gibt jedoch zunehmend neue Erkenntnisse. Die
+Forschung dazu ist relativ jung, und es ist anzunehmen, dass dieses Wissenschaftsgebiet viel
+zum weiteren Verständnis der Rezeptordynamik und Transduktionsmechanismen beitragen
+wird [124]. Es stellt allerdings die Wirkstoffforschung vor eine neue Hürde, da seit der Ent-
+deckung der funktionellen Selektivität feststeht, dass zwei Agonisten mit identischer Affinität
+trotzdem unterschiedliche Effekte haben können. Neueren Untersuchungen zufolge scheint
+für die psychedelische Wirkung von Phenethylaminen weniger die bloße Agonisierung von
+5-HT2A-Rezeptoren verantwortlich zu sein, sondern eher eine Rezeptordimerisierung zwischen
+dem 5-HT2A-Rezeptor und dem metabotropen Glutamatrezeptor 2 (mGluR2) [192].
