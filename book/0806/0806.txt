@@ -1,0 +1,19 @@
+Der Name dieser Verbindungen rührt von der Biphenylstruktur her, und die im Namen
+erscheinenden Zahlen setzten sich in Abhängigkeit von der Syntheseplanung fort. Im Rah-
+men einer Struktur-Aktivitäts-Studie stellten Trachsel et al. 12 verschiedene 4-arylsubstituier-
+te 2,5-Dimethoxyphenethylamine (2C-BI-Derivate 204-215) her und prüften diese auf die
+5-HT2A-Rezeptoraffinitäten (siehe Tabelle 11) [21]. Die Verbindungen verhielten sich mit
+Ausnahme von 2C-BI-12 (215) als Antagonisten. Substanz 215 erwies sich als schwacher
+partieller Agonist. Bemerkenswert ist die sterische Toleranz des 5-HT2A-Rezeptors in der
+Region, wo der 4-Substituent interagiert: Die 4-(2-Naphthyl)-, 4'-Butyl- und 4'-Biphenyl-
+phenylderivate 208, 212 und 214 (ein p-Terphenyl!) zeigen relativ hohe Affinitäten. Wie viel
+Größe würde die entsprechende Bindungstasche wohl noch tolerieren? Über die Wirkungen
+der 2C-BI-Derivate im Menschen ist bis anhin nichts bekannt.
+
+
+Tabelle 11. Übersicht 4-arylsubstituierter 2,5-Dimethoxyphenethylamine (2C-BI-Derivate) und ihre Affini-
+täten zum r5-HT2A-Rezeptor (Ki Werte in nM, [3H]Ketanserin vorbeladen) [21].
+
+
+
+a) Der 2-Naphthylsubstituent ist direkt am 2,5-Dimethoxyphenethylamin in der 4-Position fixiert.

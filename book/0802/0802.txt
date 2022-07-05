@@ -1,0 +1,28 @@
+Etwas verwunderlich ist, dass 2C-N (184) rund 30-mal weniger potent ist als sein
+3C-Gegenstück DON (185; 3-4.5mg). Denn beim Vergleich der Paare 2C-N (184)/DON (185)
+mit anderen 2C/3C-Paaren fällt hier eine viel größere Diskrepanz der Humandosierungen
+auf (siehe 8.5.15, Gegenüberstellung der 2C- und 3C-Derivate). Ein Teil der Ursache
+des größeren In-vivo-Unterschieds könnte daher kommen, dass 2C-N (184) am h5HT2A-
+Rezeptor zwar Arachidonsäure freisetzen kann (durch Aktivierung der Phospholipase A2
+(PLA2)), jedoch im Gegensatz zu anderen 2C-Derivaten essenziell frei von einer Aktivierung
+des PLC-IP-Pfades war [85] (Phospholipase C (PLC) Stimulation führt zur Bildung von
+Inositolphosphaten, siehe 8.5.20, Funktionelle Selektivität der 2,4,5-trisubstituierten
+Phenylalkylamine). Es gibt zwar Hinweise, dass eher die Aktivierung des PLA2-Pfads
+relevant für halluzinogene Effekte sein könnte [86]. 2C-B (6), eine potente Verbindung im
+Menschen, zeigte bei den Versuchen von Moya et al. interessanterweise wenig Aktivierung des
+h5HT2A-Rezeptors für beide Pfade (response 5-10%) [85], und auch andere Untersuchungen
+der intrinsischen Aktivität (PI-Hydrolyse) zeigten für die 2C-Derivate deutlich tiefere
+funktionelle Wirksamkeit (Efficao) als für die α-Methylanaloge (3C-Derivate) [12, 43]. Es
+wurde vorgeschlagen, dass Phenethylamine als partielle Agonisten auch dann halluzinogen
+sein können, wenn sie eine tiefe Efficacy am h5HT2A-Rezeptor aufweisen (zumindest bei den
+beiden erprobten Signaltransduktionspfaden, zusammengefasst in [85]). Es ist auch denkbar,
+dass andere, bisher nicht aufgedeckte Signalpfade bei der Aktivierung des 5HT2A-Rezeptors
+eine entscheidende Rolle spielen, wo sich 2C-N (184) deutlich unterscheidet.
+
+
+
+Die Substanz 2C-CN (186) [87] trägt eine Nitrilgruppe in der 4-Position. Aufgrund der
+polaren Nitrilgruppe und den tieferen Affinitäten des 3C-Analogons DOCN (187) zum
+5-HT2A-Rezeptor (siehe Tabelle 10) kann eine schwache Aktivität im Menschen vermutet
+werden. Das deckt sich mit ersten Versuchen am Menschen, wonach 10mg 2C-CN (186) oral
+keinerlei Effekte zeigten und 22mg lediglich als mögliche Schwellendosis bezeichnet wurden.

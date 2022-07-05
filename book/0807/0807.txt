@@ -1,0 +1,28 @@
+Durch das Stereozentrum der α-Methylphenethylamine (Phenylisopropylamine, Am-
+phetamine) stellt sich die Frage nach der Wirkung der einzelnen Enantiomere. Dank der
+optimierten asymmetrischen Synthese von Nichols et al. im Jahre 1973 waren die einzelnen
+Stereoisomere fortan zugänglich [95]. Aus Bindungsstudien [12, 43, 50, 96], Drug-Discrimi-
+nation-Studien [97] und Versuchen im Menschen [8] geht eindeutig hervor, dass die jewei-
+ligen (-)-R-Enantiomere von DOB (2) sowie DOI (43) die wirkungsstärkeren Enantiomere
+sind (Eutomere) als die (+)-S-Stereoisomere (Distomere). Es ist sehr wahrscheinlich, dass
+dies für alle am 5-HT2A-Rezeptor wirkenden Phenethylaminderivate der Fall ist.
+
+
+
+Aus der Tabelle 12 geht hervor, dass die jeweiligen R-Enantiomere nicht nur eine höhere
+Affinität, sondern auch eine höhere funktionale Potenz (EC50) als die S-Enantiomere am
+h5-HT2A-Rezeptor aufweisen (dasselbe wurde am r5-HT2A-Rezeptor gefunden) [12, 43].
+Dasselbe Verhalten konnte für die funktionelle Efficacy (intrinsische Aktivität) beobachtet
+werden (ebenfalls am r5-HT2A-Rezeptor beobachtet, jedoch weniger ausgeprägt).
+	In PiHKAL beschreibt Shulgin jeweils die Wirkungen der separaten Enantiomere von
+DOM (8), DOB (2) und DOI (43) auf den Menschen, und es zeichnete sich klar ab, dass das
+(-)-R-Enantiomer hauptsächlich für die psychedelische Wirkung verantwortlich und somit etwa
+doppelt so potent wie das Racemat ist, wobei das (+)-S-Enantiomer gleichwohl auch eine Wirkung
+erzeugte, wenn auch viel schwächer und eher stimulierend [8].
+	Es sei der Hinweis gegeben, dass bei den Stimulanzien Amphetamin (Kapitel 2) sowie
+Methamphetamin (Kapitel 3.1.1) und auch beim Entaktogen MDMA (Kapitel 7.5.6)
+jeweils die (+)-S-Enantiomere die wirkungsstärkeren sind. Allerdings sind ihr Target keine
+Serotoninrezeptoren, sondern primär Monoamintransporter.
+
+Tabelle 12. Effekt der α-Methyl-Orientierung (R oder 5) verschiedener Phenylisopropylamine auf das
+Binden und die Aktivität am h5-HT2A-Rezeptor [12, 43].

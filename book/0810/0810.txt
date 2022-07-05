@@ -1,0 +1,34 @@
+α-Methyl-Gegenspieler (3C; Amphetamine) [2, 11]. Dies wurde BB mehrfach bestätigt (z.B.
+[10, 12]). Wie in der Tabelle 14 gezeigt, weisen die jeweiligen 2C/3C-Paare mit Ausnahme von
+2C-TFM (41)/DOTFM (42) jeweils statistisch nicht unterscheidbare Affinitäten zum h5-HT2A-
+Rezeptor auf (der gleiche Trend wurde auch am r5-HT2A-Rezeptor gefunden; Daten hier nicht
+gezeigt). Auch der Vergleich der funktionellen Potenz (EC50) zeigt keinen Unterschied.
+	Andererseits hat die α-Methylgruppe einen signifikanten Einfluss auf die intrinsische
+Aktivität am Rezeptor [12] (Tabelle 14): Die 3C-Substanzen weisen eine höhere funktionale
+Wirksamkeit (funktionelle Efficag) auf als die entsprechenden 2C-Verbindungen.
+
+Es ist jedoch anzunehmen, dass die Phosphoinositid-(PI)-Hydrolyse nicht ausschließlich
+für die Efficacy dieser Substanzen verantwortlich ist, denn es gibt noch weitere Möglichkeiten
+der Aktivierung des Rezeptors, so z.B. die Freisetzung des Endocannabinoids Arachidon-
+säure (siche 8.5.20, Funktionelle Selektivität der 2,4,5-trisubstituierten Phenylalkylamine).
+
+Ein weiterer interessanter, wenn auch statistisch nicht sonderlich stark korrelierender
+Zusammenhang ist die Beziehung zwischen der Humanpotenz und der Wirkdauer im
+Menschen. Trägt man die Datenpunkte aus den Abb. 12 und 13 gegeneinander auf (nicht
+gezeigt), so scheint, zumindest beim vorhandenen Datenset (n=11, alles 4-substituierte
+2,5-Dimethoxyderivate!), dass tendenziell potente Substanzen lange wirken und weniger
+potente weniger lange. Durch Veränderung der metabolischen Stabilität eines potenten
+Derivats könnte diesem Trend engegengewirkt werden, und dies scheint beispielsweise bei
+der Verbindung DOYN (33, 2-6mg, 10-15h) der Fall zu sein (siehe Kapitel 8.5.4).
+	Beim Betrachten der Abb. 12 und 13 fallen weitere Tendenzen auf. So scheint, je lang-
+kettiger/größer der 4-Substituent innerhalb einer Reihe (4-Halogen, 4-Alkyl oder 4-Alkylthio)
+ist, desto mehr gleichen sich die Dosierungen der 2C- an die der 3C-Derivate an. Weiter
+scheint — innerhalb der jeweiligen Reihen — je größer der 4-Substituent, desto potenter die
+Substanz; dies gilt tendenziell für die 2C- und 3C-Derivate, wobei dieser Effekt stärker bei
+den erstgenannten auftritt. Die Wirkdauer nimmt — wiederum innerhalb einer Reihe - mit
+wachsender Größe des 4-Substituenten zu, dies tendenziell bei den 2C-, aber besonders bei
+den 3C-Derivaten. Mögliche Gründe für diese Beobachtungen wurden zuvor genannt.
+
+
+Tabelle 14. Effekt der (racemischen) α-Methylierung verschiedener Phenethylamine (2C-Derivate) auf das
+Binden und die Aktivität am h5-HT2A-Rezeptor [12, 43].
