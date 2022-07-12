@@ -1,0 +1,58 @@
+439
+Ki h5-HT2A: (±)-cis 816nM ([3H]Ketanserin)
+Ki h5-HT2C: (±)-cis 7080nM ([3H]Mesulergin)
+ED50(LSD): 
+
+440
+Ki h5-HT2A: S,S-(-) 2.5nM; R,R-(+) 2100nM; (±)-trans 5.3nM ([3H]Ketanserin)
+Ki h5-HT2C: S,S-(-) 310nM; R,R-(+) 28600nM; (±)-trans 520nM ([3H]Mesulergin)
+ED50(LSD): S,S-(-) 0.41uM/kg
+
+336; 2CBecca
+Ki h5-HT2A: 70.9nM ([3H]Ketanserin)
+Ki h5-HT2C: 850nM ([3H]Mesulergin)
+ED50(LSD): nb
+
+6; 2C-B
+Ki h5-HT2A: 6.0nM ([3H]Ketanserin)
+Ki h5-HT2C: 23.8nM ([3H]Mesulergin)
+ED50(LSD): 1.13uM/kg
+
+359; 25B-NBOMe
+Ki h5-HT2A: 0.19nM ([3H]Ketanserin)
+Ki h5-HT2C: 4.0nM ([3H]Mesulergin)
+ED50(LSD): nb
+
+337; 2CJP
+Ki h5-HT2A: 45.6nM ([3H]Ketanserin)
+Ki h5-HT2C: 320nM ([3H]Mesulergin)
+ED50(LSD): nb
+
+441
+Ki h5-HT2A: 2150nM ([3H]Ketanserin)
+Ki h5-HT2C: 5880nM ([3H]Mesulergin)
+ED50(LSD): nb
+
+443
+Ki h5-HT2A: 167nM ([3H]Ketanserin)
+Ki h5-HT2C: 680nM ([3H]Mesulergin)
+ED50(LSD): nb
+
+442
+Ki h5-HT2A: (±)-cis 290nM; (±)-trans 856nM ([3H]Ketanserin)
+Ki h5-HT2C: (±)-cis 3850nM; (±)-trans 23200nM ([3H]Mesulergin)
+ED50(LSD): nb
+
+339; 2CLisaB
+Ki h5-HT2A: 159nM ([3H]Ketanserin)
+Ki h5-HT2C: 7830nM ([3H]Mesulergin)
+ED50(LSD): nb
+
+Abb. 28. Systematisches Rigidisieren des N-Benzylrests mit der Ethylaminseitenkette des Phenethylamins
+25B-NBOMe (359) [193]. Die fett gezeichneten Bindungen zeigen die Überbrückungen. Das Stereoisomer
+S,S-440 erlangt eine 124-fache 5-HT2A- vs. 5-HT2C-Selektivität (359; 21-fache Selektivität). Racemate, falls
+nicht anders vermerkt. nb = nicht bestimmt.
+
+
+Die Phenylpiperazine 444 und 445 sowie Benzoylpiperazine 446 und 447 wurden als
+serotonerge Agenzien getestet [183]. An 5-HT2A-Rezeptoren des frontalen Cortex der Ratte

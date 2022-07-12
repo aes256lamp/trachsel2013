@@ -1,0 +1,27 @@
+Das symmetrische Phenethylamin 453 wurde bereits 1949 synthetisch beschrieben und
+auf Pressor-, Bronchodilations- und Antihistaminwirkung geprüft [188]. Es erwies sich in
+Bezug auf diese Versuche als inaktiv. Es wurde jedoch nie auf die Interaktion mit dem
+Serotonin-5-HT2A-Rezeptor geprüft. Dies wäre insofern spannend, da diese Substanz zwei
+Aminogruppen trägt, die potenziell mit einem Target interagieren können.
+	Es gibt das Konzept der sogenannten bivalenten Liganden (Binalent ligand approach) (siehe
+z.B. Review [189]), mit dessen Hilfe die Affinität von Liganden teils drastisch gesteigert und
+gewisse Selektivitäten herausgearbeitet werden konnten. Man kann dabei ein Verlinken zweier
+identischer (homodimerer) oder aber auch verschiedener (heterodimerer) Moleküle zu einem
+Dimer in Betracht ziehen. Das Phenethylamin 453 ist zwar in sich punktsymmetrisch, es wä-
+ren aber auch Dimere denkbar, welche über den Stickstoff oder die 4-Position verlinkt werden
+(z.B. Strukturen des Typs 454 und 455). In vielen Fällen hat sich ein Linker (Verknüpfung)
+mit n=6 als am geeignetsten erwiesen. Bislang wurde dieser Approach auf 5-HT2A-Agonisten
+noch nicht angewendet; er könnte ein reichhaltiger und vielversprechender Ansatz sein.
+	Das Bis-DOM-Derivat 456 wurde zusammen mit anderen Verbindungen 1974 hergestellt
+um Abklärungen zum Metabolismus von DOM (8) zu tätigen [102].
+
+
+
+Es stellt sich zu guter Letzt noch die Frage nach der Verwendung von Heterocyclen
+anstelle des Benzenrings in 457. Die mancherorts als bioisoster fungierenden Thiophene
+(siehe auch Kapitel 4.3 und Exkurs Bioisosterie) können hier aufgrund der notwendigen
+Anordnung der 2,4,5-Arylsubstituenten nicht verwendet werden (Abb. 29). Bei den 2-Thie-
+nylderivaten (Strukturen 458 und 459) können der 4-Substituent sowie die 2- oder 5-MeO-
+Gruppe von 457 annäherungsweise mit dem Arylderivat 457 in Deckung gebracht werden;
+eine der wichtigen MeO-Gruppen (siehe Kapitel 8.5.22) fehlt jedoch jeweils. Wie stark
+die Lone-pair-Elektronen des Schwefels für die der fehlenden MeO-Gruppe einspringen

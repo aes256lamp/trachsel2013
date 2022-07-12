@@ -1,0 +1,29 @@
+Abb. 24. Cartoon-Darstellung
+des 5-HT2A-Rezeptors, mit
+(R)-2C-BCB (228a) in der Bin-
+dungsregion [174].
+
+
+
+Es folgt eine Übersicht der strukturellen Modifikationen rund um die konformationelle
+Einschränkung der MeO-Gruppen von 2,4,5-trisubstituierten Phenylalkylaminen (Abb.
+25). Die jeweiligen Affinitäten zum 5-HT2A-Rezeptor der Ratte oder des Menschen sind als
+Bindungskonstanten (Ki) gegeben, der dazugehörige Hor Ligand ist in Klammern angefügt.
+Die Resultate aus den Diskriminationsstudien an Ratten sind als ED50 Werte gegeben
+(Substitution in LSD-trainierten Ratten).
+
+Es sind weitere, rigide Analoge in der Literatur beschrieben. Die Verbindungen 404-406
+sind in Ref. [43] erwähnt; die beiden Substanzen 2C-MeTriox (405) und MeTriox (406) sind
+mit ihrem dritten O-Atom vergleichbar affın zum 5-HT2A Rezeptor wie 2C-D-FLY (404).
+Die Firma Akon hat mit Substanzen des Typs 407 und 408 einen weiteren Versuch unter-
+nommen, durch Einführen polarer Gruppen (R= Hydroxyalkyl, Ether, Ester, Carbonsäu-
+zen, 2-(3-Methyl-1,2,4-oxadiazol-5-yl)alkyl) in potenten Serotonin-5-HT2A-Agonisten deren
+Überschreitung der Blut-Hirn-Schranke zu unterbinden [175]. Solche Substanzen könnten
+durch ihre okulare hypotensive Aktivität zur Behandlung von Grünem Star verwendet wer-
+den. Einige der Substanzen mit hoher Affinität und funktioneller Potenz erwiesen sich in
+okularhypertensiven Affen als effizient (siche auch Substanzen 82-87 im Kapitel 8.5.4 und
+Kommentare in 8.5.25).
+	Ralf Heim zeigte, dass nicht nur an 2,4,5-trisubstituierten Phenylalkylaminen eine
+N-Benzylierung (siehe Kapitel 8.5.26), sondern auch an den Tetrahydrobenzodifuranen
+sowie Benzodifuranen eine N-(2-Methoxybenzyl)-Gruppe zu einer Affinitätssteigerung
+führt (Strukturen 409 und 410) [154]. Allerdings konnte im Gegensatz zu den primären

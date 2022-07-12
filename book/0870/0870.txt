@@ -1,0 +1,15 @@
+Abb. 29. Begrenzte Möglichkeiten, mit Thiophen heterocyclische Bioisostere der 2,4,5-trisubstituierten
+Phenethylamine zu gestalten.
+
+
+kann ist nicht klar. Im Falle der 3-Thienylderivaten können bei Struktur 460 beide MeO-
+Gruppen von 457 modelliert werden, dies jedoch ohne den wichtigen 4-Substituenten. Bei
+461 liegt nur noch eine MeO-Gruppe im vergleichbaren Bereich vor; der wichtige 4-Subs-
+tituent von 457 kann nicht in die 2-Position der Thienyleinheit von 461 gesetzt werden, da
+sie in der Verbindung 457 der Position 3 entspräche. Bine 5-MeO-Gruppe in 461 entspräche
+schließlich der Position 6 in 457.
+	Etwas anders sieht dies zumindest auf dem Papier mit sechsgliedrigen Stickstoffhetero-
+cyclen aus: Die Pyridinstrukturen 462 und 463 sowie das Pyrazinderivat 464 würden die ent-
+sprechende Geometrie von 457 ziemlich genau mit sich bringen, auch wenn diese Derivate
+sicherlich andere physikochemische, elektronische, metabolische und Bindungseigenschaften
+besitzen.

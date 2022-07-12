@@ -1,0 +1,23 @@
+Aminen (DOB-FLY (389) vs. DOB-DFLY (226)) bei den N-benzylierten FLY- vs DFLY-
+Verbindungen durch den Aromatisierungsschritt (Tetrahydrobenzodifuran zu Benzodifuran)
+keine signifikante Steigerung der Affinität beobachtet werden. Eine α-Methylgruppe führ-
+te auch hier zu einem deutlichen Affinitätsverlust [154]. Die Substanz 2C-B-FLY-NBOMe
+(409, R=H, R’=Me) erwies sich als potenter Ligand des r5-HT2A-Rezeptors (Ki=0.14nM)
+[43]. Die N-(2-Methoxybenzyl)-Gruppe wurde auch in 2C-BCB (228) eingeführt [43]: Mit
+einer Bindungsaffinität von Ki=0.27nM zum h5-HT2A-Rezeptor ([125I]DOI markiert) erwies
+sich 2C-BCB-NBOME (411) gleich affin wie (R)-2C-BCB (228a; Ki=0.26nM).
+	Das Cyclopropanderivat DMCPA-FLY (412) wurde als extrem zersetzungsanfällig
+bezeichnet [176].
+
+
+404; 2C-D-FLY
+Ki h5-HT2A: 6.22nM ([125I]DOI)
+Ki h5-HT2C: 1.91nM ([125I]DOI)
+
+405; 2C-MeTriox
+Ki h5-HT2A: 10.35nM ([125I]DOI)
+Ki h5-HT2C: 2.84nM ([125I]DOI)
+
+406; MeTriox
+Ki h5-HT2A: 6.33nM ([125I]DOI)
+Ki h5-HT2C: 4.87nM ([125I]DOI)

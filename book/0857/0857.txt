@@ -1,0 +1,27 @@
+5-HT Stimulation) und DOB-MOTH (394; EC50= 117nM; 82% der 5-HI Stimulation) doch
+deutlich reduzierte Werte im Vergleich zu (-)-(R)-DOB-FLY (389a, EC50= 8.38nM; 80% der
+maximalen 5-HT Stimulation).
+
+Als nächster Schritt wurden „Hybrid“-Benzofuran-Benzopyran-Kongenere hergestellt
+um damit weitere Untersuchungen zur Größe der Bindungstaschen innerhalb der Serotonin-
+5-HT2A-Rezeptoragonist-Bindungsstelle zu bewerkstelligen (Substanzen 2C-B-FLYMOTH
+(395), DOB-FLYMOTH (396), DOB-DFELYMOTH (397), 2C-B-MOTHFLY (398)
+und DOB-MOTHFLY (399)) [173]. Obwohl alle Hybridisomere vergleichbare r5-HT2A-
+Affinitäten im tiefen nanomolaren Bereich zeigten (3H]Ketanserinmarkierung), wiesen
+diejenigen mit dem kleineren Furanring in der 2-Position eine 4-15-mal größere funktionelle
+Potenz auf (Phosphoinositidhydrolyse) als diejenigen mit dem größeren Pyranring in dieser
+Position. Wenn der Furanring von 395 aromatisiert wurde, erhielt man für 397 eine Affinität,
+die mit derjenigen von DOB-FLY (389) vergleichbar ist.
+
+Wie bereits mit verschiedenen Ansätzen gezeigt wurde (siehe auch 8.5.21, Modifikationen
+der 2,5-Dimethoxy-Substituenten), bestätigten diese Moleküle für die Bindungsregion der
+2-Position von 2,4,5-trisubstituierten Phenylalkylaminen eine gegenüber der 5-Position
+eingeschränktere Akkomodation des Rezeptors.
+
+
+
+Die Verbindung DOB-ANTH (224) [122] weist wie DOB-DFLY (226) eine erweiterte
+Aromatizität auf. Die Substanz BDFA (227) trägt anstelle der beiden 2,5-Dialkoxy-Reste
+F-Atome. Fluor bildet viel schwächere Wasserstoffbrücken aus als Sauerstoff (siehe auch
+Exkurs Fluor in der Medizinalchemie). Beide Verbindungen 224 und 227 binden mit mäßiger
+Affinität an den 5-HT2A-Rezeptor, doch das Drug-Discrimination-Experiment zeigte, dass

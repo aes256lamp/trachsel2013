@@ -1,0 +1,29 @@
+beide frei von agonistischer Aktivität sind, da in LSD-trainierten Ratten keine Substitution
+erfolgte. Demzufolge werden offenbar die O-Atome in DOB-FLY (389) und DOB-DFLY
+(226) für die Eficagy in den Phenylalkylaminen benötigt und weder die extrem schwache
+H-Bindungsfähigkeit der F-Atome von BDFA (227) noch die erweiterte Aromatizität von
+DOB-ANTH (224) reichen für eine Rezeptoraktivierung aus.
+
+
+
+Die rigide FLY- [3, 6] und DFLY-Serie [6, 171] sowie die MOTH-Verbindungen [4] zeig-
+ten eine leicht erhöhte Affinität zum 5-HT2C- vs. 5-HT2A-Rezeptor. Obschon die Unterschiede
+der Affinität (2-5-fach) nicht genügen, um von Subtypselektivität zu sprechen, könnte diese
+strukturelle Änderung vielleicht als Leitstruktur dazu verwendet werden, um Liganden zu
+identifizieren, die dazu dienen, zwischen den verwandten 5-HT2A- und 5-HT2C-Rezeptorsub-
+typen unterscheiden zu können. Die Sequenz-Homologie und vor allem die hohe Homolo-
+gie (80%) in der transmembranen Region, wo das Binden der Agonisten zugewiesen wird,
+erschwert allgemein das Identifizieren subtypselektiver Agonisten [7].
+	Trachsel, Setola und Roth gaben mit den beiden Verbindungen 2C-H-ANTH (400)
+und 2C-D-ANTH (401) einen weiteren Hinweis für die Möglichkeit einer Präferenz für
+den 5-HT2C-Rezeptorsubtyp (18- und 6-fach) [38], obwohl anzumerken ist, dass diese
+Verbindungen höchstwahrscheinlich Antagonisten sind.
+
+
+
+Die Erkenntnisse aus dem konformationellen Einschränken der Alkylaminseitenkette
+sowie der MeO-Gruppen von 4-substituierten 2,5-Dimethoxyphenylalkylaminen, die orts-
+gerichtete Mutagenese (zusammengefasst in [125]) und das molekulare Modeling haben
+bemerkenswert zum Verständnis des Bindens dieser Liganden an den 5-HT2A-Rezeptor
+beigetragen. Die folgende Abb. 24 zeigt ein Modell des 5-HT2A-Rezeptors mit ae potenten
+Agonisten (R)-2C-BCB (228a) gedockt [174].

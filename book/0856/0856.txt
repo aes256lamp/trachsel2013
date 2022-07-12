@@ -1,0 +1,37 @@
+Im Phosphoinositidhydrolyse-Versuch war DOB (2, EC50= 72nM, 79% der maximalen
+5-HT Stimulation) weniger potent als (-)-R-DOB-FLY (389a, EC50= 8.38nM, 80% der
+maximalen 5-HT Stimulation), und (-)-R-DOB-DFLY (226, EC50= 2.7nM, 93% der
+maximalen 5-HT Stimulation) war die potenteste Verbindung am r5-HT2A-Rezeptor.
+(-)-R-DOTFM-DFLY (392a, EC50= 3.8nM, 60% der maximalen 5-HT-Stimulation) erwies
+sich als nur etwas weniger potent, jedoch war die intrinsische Aktivität tiefer.
+
+Die Autoren gaben für die erhöhten Affinitäten und Potenzen der DFLY-Verbindungen
+gegenüber den FLY-Verbindungen als mögliche Erklärung an, dass einerseits die erhöhte
+Lipophilie eine bessere Interaktion mit der hydrophoben Region des Rezeptors zulässt. An
+dererseits könnte die erweiterte Aromatizität in der DFLY-Serie verglichen mit der FLY-Serie
+die Interaktion durch bevorzugtes r-stacking fördern. Obschon die Wasserstoffbrücken-
+Akzeptoren im Furansystem schwächer sind, scheint das Benzodifuransystem vorzüglich für
+die Interaktion zu sein. Obwohl die Potenz der DFLY-Serie gegenüber der FLY-Serie generell
+höher war, blieb die intrinsische Aktivität interessanterweise größtenteils unverändert. Später
+wurde gezeigt, dass die erhöhte In-vitro- und In-vivo-Potenz von DOB-DFLY (226) gegenüber
+DOB-FLY (389) am besten durch die erhöhte Lipophilie erklärt werden kann [122] (siehe
+auch Kapitel 8.5.19).
+
+Es drängte sich später die Frage auf, was mit einer Ringhomologisierung bewirkt werden
+kann. So wurden die beiden heterocyclischen Dihydrofuranringe zum Strukturelement
+Hexahydrobenzodipyran erweitert [4].
+	Die beiden Verbindungen 2C-B-MOTH (393) und DOB-MOTH (394) waren in vitro
+sowie in vivo weniger potent als ihre direkten Tetrahydrobenzodifuran-Gegenspieler, lagen
+jedoch immer noch im Bereich der potentesten nichtrigiden Phenylalkylamine. An [125I]DOI
+markierten r5-HT2A-Rezeptoren zeigten 393 und 394 eine Affinität von Ki= 1.76 und
+3.87nM, respektive (Ki-Werte mit [3H]Ketanserin-Markierung stammen aus Ref. [173]). In
+einer Drug-Discrimination-Studie mit Ratten vermochten 393 und 394 mit einem ED50
+2.48 resp. 0.47umol/kg für LSD zu substituieren.
+
+
+
+Offenbar scheinen die Bindungsregionen der Sauerstoffatome relativ tolerant gegenüber
+dieser sterischen Expansion zu sein, solange die lone-pair Eletronen der Alkoxygruppen
+durch Fixierung zur entsprechenden Ausrichtung gezwungen werden (wahrscheinlich die
+Serinreste S239 und S159 [137, 172]). Die Messung der funktionellen Potenz (Phosphoino-
+sitidhydrolyse) am 5-HT2A-Rezeptor ergab für 2C-B-MOTH (393; EC50= 257nM; 45% der

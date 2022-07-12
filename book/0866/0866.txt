@@ -1,0 +1,42 @@
+durch Mutterkorn im Mittelalter. Die Abb. 27 zeigt einen Ausschnitt aus dem Isenheimer
+Altar in Colmar, auf dem ein Mensch abgebildet ist, der an Ergotismus leidet.
+	Insgesamt wäre es sehr wünschenswert, mehr über die potenzielle Toxizität dieser Subs-
+tanzklassen zu erfahren und dieses Wissen angemessen verbreiten zu können, um weitere
+fatale Vergiftungen zu verhindern. Diese Substanzen wurden nie auf ihre Toxizität gepruft,
+und es ist anzunehmen, dass sie (speziell die Benzofurane) noch andere biologische Aktivi-
+täten als die Interaktion mit den Serotonin-5-HT2-Subtypen aufweisen. Man kann gegen-
+wärtig, analog zu den Aflatoxinen, eine hepatotoxische oder gar karzinogene Wirkung der
+DFLY-Verbindungen nicht ausschließen [169], und auch eine Interaktion mit Cytochromen
+ist denkbar, so dass gefährliche Drug-Drug-Interaktionen erfolgen können.
+
+
+Die Tetrahydroisochinolin-(THIQ)-Analoga 437 und 438 wurden als rigide Analoga von
+DOM (8) und DOB (2) untersucht. Sie waren jeweils deutlich weniger affin zum 5-HT2A-
+Rezeptor als ihre Analoga [182]. Weiter vermochten sie in einer Diskriminationsstudie keinen
+Stimulus in DOM-trainierten Ratten zu erzeugen.
+
+437
+Ki h5-HT2A: 2150nM ([3H]Ketanserin)
+(Ki DOM: 100nM)
+
+438
+Ki h5-HT2A: 242nM ([3H]Ketanserin)
+(Ki DOB: 41nM)
+
+
+Die 5-HT2A- vs. 5-HT2C-Subtypselektivität gilt insbesondere für Agonisten als Herausfor-
+derung (siehe Tabellen 1, 2, 5, 9, 10 und 17) [2-6, 151, 155, 171, 193]. Mit der systematischen
+Rigidisierung (Abb. 28., Anm.: 336-337, 339 und 443 besitzen keine MeO-Gruppe; diese hat
+allgemein relativ wenig Einfluss auf die Affinität) des superpotenten N-Benzylderivats 359
+(siehe auch Kapitel 8.5.26) wurde ein Agonist mit vergleichsweiser hoher Subtypselekivität
+identifiziert [193]. Das $,5-440 zeigte zwar im Vergleich zu 359 eine etwas tiefere Affinität
+zum 5-HT2A-Rezeptor (2.5nM vs. 0.19nM; antagonistisches Labelling. [125I]-DOI Labelling:
+0.20nM vs. 0.067nM), dafür weist es eine signifikant höhere 2A- vs. 2C-Subtyp-Selektvität
+auf (124-fach vs. 21-fach). In einem funktionellen Assay (PI-Hydrolyse) erwies sich das ra-
+cemische trans-Deriyat 440 als nahezu voller Agonist (EC50 = 74nM, 73% der maximalen
+5-HT-Aktivität) [193]. Verbindung S,S-440 dürfte demnach die Bindungsorientierung des
+N-Benzylsubstituenten dieser Substanzklasse am 5-HT2A-Rezeptor optimal mimetisieren
+und ist der erste identifizierte 5-HT2A vs. 5-HT2C -selektive Ligand mit nahezu voller agonis-
+tischer Aktivitat [193]. In LSD-trainierten Ratten erwies sich das racemische trans-Derivat
+440 (ED50 = 0.18mg/kg resp. 0.41umol/kg) als potenter als 2C-B (6; ED50 = 0.34mg/kg resp.
+1.13umol/kg) [193].

@@ -1,0 +1,38 @@
+Abb. 23. Das Aromatisieren
+des Tetrahydrobenzodifuran-
+kerns zum Benzodifuran
+geht mit einer Steigerung
+der Affinität und der In-vivo-
+Aktivität einher. In einer Drug-
+Discrimination-Studie mit LSD
+(ED50= 0.040umol/kg) ver-
+mochte 226 dieses sogar zu
+übertreffen.
+
+
+DOB-DFLY (226) war somit das erste Arylalkylamin, das die Potenz von LSD in einem
+Verhaltenstest übertraf, und dabei einen anderen Nukleus als Benzen oder Indol trägt [171].
+Die Affinität zum h5-HT2C-Rezeptor betrug Ki= 0.02nM (20pM!) und somit war 226 auch
+für diesen Rezeptor der potenteste zitierte Ligand. Zu erwähnen ist, dass 226 hier lediglich
+als Racemat gemessen wurde.
+	Als nächstes wurde die Enantioselektivität am r5-HT2A- und r5-HT2C-Rezeptor sowie
+die funktionelle Potenz (Phosphoinositidhydrolyse) am r5-HT2A-Rezeptor bei den Tetrahy-
+drobenzodifuranen DOB-FLY (389) und DOTFM-FLY (391) sowie den Benzodifuranen
+DOB-DFLY (226) und DOTFM-DFLY (392) bestimmt [6] (Substanzen ohne 4-Substituent
+sind im Kapitel 7.3.3.1 beschrieben). Die beiden letzteren erwiesen sich als die affinsten
+und zeigten Affinitäten und funktionelle Potenz, die im vergleichbaren Bereich lagen. Zum
+[3H]DOB markierten r5-HT2A-Rezeptor zeigte (-)-R-DOTFM-DFLY (392a, Ki= 0.29nM)
+die gleiche Affinität wie (-)-R-DOB-DFLY (226a, Ki= 0.31nM) (Bemerkung: hier wurden
+geklonte Rezeptoren der Ratte und [3H]DOB als Hot Ligand verwendet [6]. In der Ref. [171]
+wurden geklonte Humanrezeptoren und [125I]DOI verwendet).
+
+
+
+Für die untersuchten Verbindungen zeigte sich der Trend, dass nicht nur die Affinitäten,
+sondern auch die funktionelle Potenz (Phosphoinositidhydrolyse) am r5-HT2A-Rezeptor von
+den offenkettigen über die FLY- hin zu den DFLY-Verbindungen zunehmen. Es setzte sich
+wie bei den einfachen 2,4,5-trisubstituierten Phenylalkylaminen (3C-Derivate) der Trend fort,
+dass die R-Enantiomere primär für die Affınität und Aktivität am r5-HT2ARezeptor verant-
+wortlich sind, wenn auch nicht so ausgeprägt, wie dies bei den einfachen 3C-Derivaten der
+Fall ist [6]. Dies konnte auch für den r5-HT2C-Rezeptor gezeigt werden. Es konnte innerhalb
+der geprüften Substanzen keine signifikante Subtyp-Selektivität beobachtet werden.

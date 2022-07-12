@@ -1,0 +1,72 @@
+5; 2,5-DMA
+r5-HT2A: 465nM (R-[125I]DOI)
+ED50(LSD): partielle Subst.
+
+285; F
+r5-HT2A: 388nM (R[125i]DOI)
+ED50(LSD): 6.99uM/kg
+
+382; 2,5-DMA-hemifly-5
+r5-HT2A: 146nM (R-[125I]DOI)
+ED50(LSD): 5.23uM/kg
+
+402; 2,5-DMA-hemifly-2
+r5-HT2A: nba)
+ED50(LSD): nba)
+
+403
+r5-HT2A: nba)
+ED50(LSD: nba)
+
+8; DOM
+r5-HT2A: 18.6nm (R-125I]DOI)
+ED50(LSD): 0.89uM/kg
+
+383; DOB-hemifly-5
+r5-HT2A: 3.1nM (R-[125I]DOI)
+ED50(LSD): 0.57uM/Kg
+
+387; DOI-hemifly-2
+r5-HT2A: nbb)
+ED50(LSD): nbb)
+
+384; BBOX
+r5-HT2A: 422nM ([3H]Ketanserin)
+ED50(LSD): 67% @ 6.8uM/kg
+
+226; DOB-DFLY
+h5-HT2A: 0.04nM ([125I]DOI)
+ED50(LSD): 0.022uM/kg
+
+389; DOB-FLY
+r5-HT2A: 0.48nM ([125I]DOI)
+r5-HT2A: 1.0nM ([3H]Ketanserin)
+ED50(LSD); 0.061uM/kg
+
+2; DOB
+r5-HT2A: 2.2nM ([3H]DOB)
+r5-HT2A: 13nM ([3H]Ketanserin)
+r5-HT2A: 0.68nM ([125I]DOI)
+ED50(LSD): 1.06uM/kg
+
+394; DOB-MOTH
+r5-HT2A: 3.87nM ([125I]DOI)
+r5-HT2A: 3.77nM ([3H]Ketanserin)
+ED50(LSD): 0.47uM/kg
+
+396; DOB-FLYMOTH
+r5-HT2A: 3.6nM ([3H]Ketanserin)
+ED50(LSD): 0.38uM/kg
+
+397; DOB-DFLYMOTH
+r5-HT2A: 1.0nM ([3H]Ketanserin)
+ED50(LSD):nba)
+
+399; DOB-MOTHFLY
+r5-HT2A: 5.3nM ([3H]Ketanserin)
+ED50(LSD): 1.16uM/kg
+
+
+Abb. 25. Rigidisierung der MeO-Gruppen von 2,4,5-trisubstituierten Phenylalkylaminen und dessen
+Einfluss auf die Bindungseigenschaften (Ki-Werte) am 5-HT2A-Rezeptor sowie auf die In-vivo-Potenz (ED50,
+Drug-Discrimination, LSD als Training Drug). a) nicht determiniert. b) ‘potenter' als DOI [169].
