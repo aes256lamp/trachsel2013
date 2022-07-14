@@ -1,0 +1,32 @@
+Abb. 4. Räumliche Struktur
+und sterische Ausdehnung
+von 2C-G-5 (10; links) und
+2C-IP (14; rechts). Optimiert
+mittels Force-Field-Methode
+des Programms Moloc [8, 9].
+
+
+Agonisten führen, und mit großen, lipophilen Substituenten erhält man Antagonisten (siehe
+auch Kapitel 8.5.1). Als Antagonist wurde beispielsweise DOTB (12) identifiziert [5], und
+das 2C-Analog 2C-TBU (13) bewirkte im Menschen Müdigkeit (siche auch Kapitel 8.5.3).
+Gegenwärtig werden verschiedene Substanzen vom Nicht-Phenethylamintyp mit Erfolgs-
+aussichten zur Behandlung von Schlafstörungen klinisch geprüft [6, 7]. Es sind dies 5-HT2A-
+Antagonisten oder inverse Agonisten, welche die Schlafarchitektur regulieren. Es ist denkbar,
+dass 2C-G Derivate mit sterisch anspruchsvolleren Gruppen bereits einen antagonistischen
+Charakter aufweisen. Den Erfahrungsberichten zufolge wurde teils erwähnt, dass der Schlaf
+nach einigen Stunden des Experiments gut war; bei dem Benzonorbornan 2C-G-5 (10) trat
+gelegentlich Müdigkeit auf, und Einschlafen gelang ohne Probleme [4].
+
+
+
+Die Substanz 2C-IP (14) ist eine im Menschen psychedelisch wirksame Substanz (8-25mg;
+siehe Kapitel 8.5.3) und trägt strukturell betrachtet in der 4-Position eine mit dem 4-Subs-
+tituenten von 2C-G-5 (10) verwandtere Gruppe (Isopropyl); in 2C-IP (14) ist der 4-Substi-
+tuent jedoch relativ frei drehbar, was in 10 durch das rigide Gebilde nicht möglich ist (Abb.
+4). Es scheint, dass kleine sterische Unterschiede wie im Falle von 2C-TBU (13) durch die
+zusätzliche Me-Gruppe im Vergleich zu 2C-IP (14) einen kritischen Parameter darstellen und
+deshalb 2C-TBU (13) im Vergleich zu 2C-IP (14) und 2C-G-5 (10) nur müde machte.
+
+Derivate mit einer Methylgruppe in α-Position zum Stickstoff wurden ebenfalls unter-
+sucht, sie gehören zu den GANESHA-Verbindungen, kurz G [4]. Betrachtet man die ein-
+fachste Verbindung GANESHA (15), so fällt beim Vergleich mit der verwandten Substanz

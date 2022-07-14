@@ -1,0 +1,36 @@
+Tabelle 2. Affinitäten zu den 5-HT1A-, 5-HT2A- und 5-HT2C-Rezeptoren von Mescalin und 2-substituierten
+Analoga. Ki-Werte in nM [27].
+
+
+
+2-substituierten Mescalinderivate out of plane gezwungen wird, wogegen in Mescalin (2)
+die MeO-Gruppen vermutlich in plane liegen. Hinzuzufügen ist jedoch auch, dass die mes-
+calinartigen Effekte in Ratten verloren gingen, wenn die 3- und/oder die 5-MeO-Gruppen
+von Mescalin (2) konformationell eingeschränkt wurden (in Dihydrofuranringe, siehe Kapi-
+tel 8.4.7), was durch mangelnde Fähigkeit der Substanzen, den Rezeptor zu aktivieren, erklärt
+wurde [19, 27]. Inwiefern der 2-Substituent der Substanzen 53, 55, 56 und 59 Einfluss auf die
+Aktivierung dieser Rezeptoren hat, ist bis anhin unbekannt.
+	Eine Affinitätssteigerung kann auch mit Solvatisierungseffekten zu tun haben. Wenn li-
+pophile Moleküle an einen Rezeptor binden, fällt die auftretende Desolvatisierungsenergie
+geringer aus (anders gesagt: wenn lipophile Liganden aus einer lipophilen Bindetasche Was-
+ser verdrängen können, das in der Tasche gefangen ist, dann ist das aus energetischen Grün-
+den günstig und kann zu höheren Affinitäten führen). Daher muss eine gesteigerte Affinität
+nicht zwangsläufig bedeuten, dass ein Ligand besser in den Rezeptor passt.
+
+Die beiden Benzocycloalkenderivate Bromotomscalin (60) und Bromojimscalin (61) wur-
+den ebenfalls durch die Gruppe von Nichols untersucht [27]; sie sind Bromoderivate von
+tigidisierten Mescalinanaloga (Tomscalin (62) und Jimscalin (63), siehe auch Kapitel 8.4.7).
+Bromotomscalin (60) zeigte hohe Affinitäten zu [125I]DOI markierten 5-HT2A- und 5-HT2C-
+Rezeptoren und war jeweils rund 10-mal affiner als das bromfreie Tomscalin (62. Ki-Werte
+sind unter den Strukturen gegeben) [27]. Bromojimscalin (61) war etwas weniger affın zu den
+5-HT2A- und 5-HT2C-Bindungsstellen, jedoch zeigte es zusammen mit Jimscalin (63) recht
+hohe Affinitäten zum [3H]8-OH-DPAT markierten 5-HT1A-Rezeptor [27]. Die bei den Subs-
+tanzen 53, 55, 56 und 59 (Tabelle 2) beobachteten erhöhten 5-HT1A-Rezeptoraffinitäten im
+Vergleich zu Mescalin (2) könnten von einer (durch sterische Repulsion bedingten) günstige-
+ten Konformation der Ethylaminseitenkette herrühren; das zum 5-HT1A-Rezeptor hochaffi-
+ne Jimscalin (63) könnte durch seine konformationelle Einschränkung der Seitenkette diese
+günstige Bindungsorientierung aufweisen.
+
+Wie sich ein F-Atom in der 2-Position von Mescalin (2) auswirkt, ist bis anhin nicht
+untersucht worden (Substanz 2-Fluoromescalin, 2-F-M; 64). Diese und weitere Modi-
+fikationen ließen sich theoretisch an vielen Verbindungen des Kapitels 8.4 durchspielen.

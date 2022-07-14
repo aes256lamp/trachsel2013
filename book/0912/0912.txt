@@ -1,0 +1,20 @@
+Varacin (70) besitzt stark fungizide und cytotoxische Eigensc haften, letztere vermutlich
+aufgrund der DNA-Schädigung [34]. Gegenüber der menschlichen Colonkrebs-Zelllinie
+HCT 116 ist es verglichen mit Fluoruracil 100-mal stärker aktiv [31]. Varacin A (71) besitzt
+eine deutlich schlechtere fungizide und antibakterielle Aktivität [32].
+	In Bezug auf die antikarzinogene/cytostatische Wirkung wird vermutet, dass Varacin
+(70) oxidierend und hoch elektrophil ist, so dass nucleophile Teile der DNA angegriffen
+werden, was einen detrimentalen Effekt auf das Überleben der Zelle hat [33].
+	Varacin C (73) scheint unter sauren Bedingungen effizient DNA entfernen zu können,
+was eine nennenswerte Bedeutung in der Tumorchemotherapie haben könnte. Tumorgewebe
+weist eine saure Mikroumgebung auf, so dass Varacin C (73) zum Design von neuartigen
+Prodrugs anregen könnte (zusammengefasst in [35]).
+
+Welche Serotonin 5-HT2A-Rezeptoraffinitäten die Varacine wohl haben? Die vorher-
+gehenden Oligosulfide inspirieren theoretisch zu weiteren Substanzen, so z.B. zu 74
+(2C-GT-3); es ist eine Anlehnung an die in diesem Kapitel besprochenen 2C-G-Derivate
+sowie an die 2C-T-Verbindungen (75; siehe Kapitel 8.5.7). Siehe auch Kapitel 8.5.21.
+
+
+
+Die Thioderivate 76 [35], 77-79 [36] und 80 [29] sind synthetisch beschrieben.

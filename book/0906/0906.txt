@@ -1,0 +1,30 @@
+DMMDA (40) wird aufgrund der strukturellen Verwandtschaft zum Naturstoff Apiol
+(42) von Shulgin als eines der zehn essenziellen Amphetamine genannt (siehe Exkurs
+Naturstoffe) [4]. Es war das erste Tetraoxyamphetaminderivat, das im Menschen erforscht
+wurde, dies im Jahre 1962 (zusammengefasst in [4]). Im Menschen zeigt DMMDA (40)
+im Bereich von 30-75mg während 6-8 Stunden eine Wirkung, die eher aufseiten der
+Psychedelika als der Entaktogene liegt. Beim Betrachten der Strukturen 40 und 4 fällt
+die Verwandtschaft zu den Entaktogenen MDA (43) und MDMA (4) auf (siehe Kapitel
+7.5.5.1). Durch das Vorhandensein eines weiteren MeO-Substituenten in MDA (43) könnte
+die Aktivität an den Monoamintransportern tendenziell gesenkt werden (möglicherweise ist
+eine MeO-Gruppe zu groß, siehe auch Tabelle 2 und 3 im Kapitel 8.1, sowie Kapitel 8.5.23)
+[10], und die Struktur 40 kann durch das Substitutionsmuster vermutlich eher den 5-HT2A-
+Liganden zugewiesen werden. Das N-Methylanalogon DMMDMA (41) wurde bis anhin nur
+synthetisch beschrieben [4]; interagiert 40 primär mit den 5-HT2A-Rezeptoren, so wäre durch
+die N-Methylierung wohl von einem Wirkungsverlust auszugehen (Substanz 41, siehe auch
+Kapitel 8.5.26).
+
+
+
+Von der Substanz 45 wurden die beiden Stereoisomerenpaare hergestellt; das threo (trans)
+Derivat erhielt den Namen S-1495, und das erythro (cis) den Namen S-1496 [4]. Das threo-
+Derivat zeigte bei 80mg einen möglichen Schwelleneffekt, und das erythro-Derivat wurde nur
+bis 10mg geprüft, wobei sich keine Effekte zeigten [4].
+
+Das dem DMMDA (40) isomere Derivat DMMDA-2 (46) wurde bis anhin nur sehr
+spärlich untersucht, so dass die aktive Dosis (>28mg) noch nicht eindeutig identifiziert
+wurde [4, 17]. Es trägt die Substruktur des ätherischen Öls Dillapiol (47), das in Dill-Öl
+enthalten ist [18], und somit ist DMMDA-2 (46) ebenfalls eines der sogenannten zehn
+essenziellen Amphetamine [4] (siehe Exkurs Naturstoffe). Für DMMDA-2 (46) wurde die
+Aktivität an den Monoamintransportern (5-HT, DA) geprüft; es vermochte die Monoamine
+kaum freizusetzen [10].

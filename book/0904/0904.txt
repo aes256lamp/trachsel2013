@@ -1,0 +1,23 @@
+Wie würde sich ein 3-Alkylrest in 24 auswirken und was geschähe, wenn ein 3-Fluor-
+Rest in 25 vorhanden wäre, ein Halogensubstituent in 26, Alkylreste in 27? Denkbar wären
+Heteroatome in den 3,4-Positionen (28-32), Fluoratome am 3,4-Ringsystem oder weitere
+Homocyclen (34-35) oder Bicyclen (36-38); der Phantasie sind schier keine Grenzen gesetzt.
+In der Substanz 2C-G-N (11) oder G-N (20) könnten möglicherweise durch elektronenzie-
+hende oder -stoßende Substituenten am zweiten Aromaten die Wirkungen ebenfalls
+modifiziert werden [4].
+
+Die Substanz 39 ist eine GANESHA-ähnliche Substanz und wurde im Jahre 2004 von
+der Firma Alcon zur Behandlung von Grünem Star (Glaukoma) patentiert [11]. Nebst vielen
+neurologischen Prozessen (siehe Kapitel 8.5.1) steuern die 5-HT2-Rezeptoren auch die Regu-
+lierung des intraokularen Drucks (engl. TOP). Es sind vor kurzem diverse Versuche gestartet
+worden, 5-HT2-Liganden zu finden, um effektiv Glaukoma bekämpfen zu können. Dabei
+nutzten die Forscher das Konzept, bereits bekannten 5-HT2-Liganden des Phenylalkylamin-
+typs eine ausreichende Hydrophilie zuzuweisen, so dass die Verbindungen dadurch nicht
+mehr ZNS-gängig sind respektive die Blut-Hirn-Schranke nicht mehr überwinden können
+(z.B. [11-16], siehe auch Kapitel 8.5.4 und 8.5.25). Die Substanz 39 weist durch ihre Ether-
+struktur eine leicht erhöhte Polarität auf. Inwiefern diese allerdings ausreicht um das Über-
+winden der Blut-Hirn-Schranke zu vermeiden, wurde nicht erwähnt. Das (-)-Enantiomer
+von 39 wies die höchste Affinität zu 5-HT2-Rezeptoren auf (Frontalkortex; IC50= 0.87nM;
+Referenzverbindung DOI: IC50= 0.33nM), und in einem Calcium-Mobilisierungsassay wur-
+de die funktionelle Potenz bestimmt (EC50= 39nM; Emax = 55%; Referenzverbindung DOI:
+EC50= 30.2nM; Emax= 31%) [11].

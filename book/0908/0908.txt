@@ -1,0 +1,20 @@
+Die Gruppe von Nichols untersuchte eingehender die Effekte von Arylsubstituenten in
+Mescalin (2) auf die Affinitäten zu 5-HT1A-, 5-HT2A- und 5-HT2C-Rezeptoren [26, 27]. Un-
+tersucht wurden die Derivate 2-Me-M (2-Methylmescalin; 59), 2-CL-M (2-Chloromescalin;
+55), 2-BR-M (2-Bromomescalin, 53) und 2-I-M (2-Iodomescalin; 56) sowie auch disubstitu-
+ierte Mescalinanaloge (siehe Tabelle 1 im Kapitel 10.1).
+	Es zeichnete sich ab, dass das Einführen eines 2-Substituenten eine Erhöhung der
+Affinitäten im Vergleich zu Mescalin (2) bewirkt, und mit zunehmender Größe des
+2-Substituenten die Affinitäten an allen drei untersuchten Serotoninrezeptor-Subtypen
+zunehmen (Tabelle 2).
+	Es ist interessant, dass die in der Tabelle 2 gezeigten tetrasubstituierten Derivate
+nennenswerte Affinitäten zum 5-HT1A-Rezeptor zeigen. Dies ist insofern außergewöhnlich,
+da für Phenylalkylamine bis anhin keine Affinitäten zu dieser Bindungsstelle beobachtet
+wurden [27]. Hohe Affinitäten zum 5-HT1A-Rezeptor sind von den Tryptaminen und
+beispielsweise LSD (Ki= 1.1nM [26]) bekannt.
+
+Die Zunahme der Affinitäten an den drei 5-HT-Rezeptoren könnte einerseits mit erhöh-
+ter Lipophilie (siehe auch Kapitel 8.5.19.), andererseits auch mit einer sterischen Repulsion
+einhergehen. Möglicherweise wird durch die zunehmende Größe des 2-Substituenten die
+Aminoethylseitenkette in eine günstigere Konformation gezwungen, was die Bindung an
+den Rezeptor verbessert. Es ist auch denkbar, dass die benachbarte 3-MeO-Gruppe der

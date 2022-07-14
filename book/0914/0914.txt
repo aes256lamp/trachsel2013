@@ -1,0 +1,44 @@
+Zusammenfassung
+
+Es liegen bis anhin relativ wenig biologische Daten zu den 2,3,4,5-tetrasubstituierten
+Phenylalkylaminen vor, was vermutlich auch in der etwas aufwendigeren Herstellung dieser
+Verbindungen liegen könnte.
+	Es wurde gezeigt, dass Substanzen aus dem Kapitel 8.5, die 2,4,5-trisubstituierten Phe-
+nylalkylamine, durch Hinzufügen eines 3-Substituenten ihre Fähigkeit, psychoaktiv wirken
+zu können, nicht verlieren. Beispielsweise zeigte die Verbindung 2,5-Dimethoxy-3,4-di-
+methylphenethylamin (2C-G; 6) gegenüber 2,5-Dimethoxy-4-methylphenethylamin (2C-D;
+7) eine leichte Steigerung der Humanpotenz, und die Wirkdauer wurde gar massiv gesteigert.
+Es kann durch das Vorhandensein der 3-Me-Gruppe von einer Erhöhung der metabolischen
+Stabilität ausgegangen werden. Bei dem direkten Amphetaminanalogon wurde ausgehend
+von DOM (16) hin zu G (15) eine Wirkungsabschwächung beobachtet, die Wirkdauer wurde
+jedoch ebenfalls erhöht, wenn auch nicht so ausgeprägt.
+	Innerhalb der wenig bekannten und psychedelisch wirksamen 2,3,4,5-tetrasubstituierten
+Phenylalkylamine zeichnete sich die Tendenz ab, dass - zum ersten Mal überhaupt — die 2C-
+Derivate im Schnitt etwa gleich potent wie ihre 3C-(Amphetamin)-Analoga und gleich lange
+wirksam sind, mit leichten Variationen. Mit der Verbindung 2C-G-5 (10) liegt vermutlich
+das bis anhin am längsten wirksame einfache Phenylalkylamin vor (32-48h!), und es ist dem
+3C-Analogon G5 (18) damit gar überlegen (16-30h). Theoretisch wären hunderte neue Ver-
+bindungen möglich und die Strukturen 24-38 stellen nur einen Denkanstoß dar.
+	Auch durch Einführen eines 2-Aryl-Substituenten in eine psychoaktive 3,4,5-trisubstitu-
+ierte Verbindung (siehe Kapitel 8.4) wie z.B. Mescalin (2) ist theoretisch eine riesige Anzahl
+an neuen Verbindungen denkbar. Bis anhin sind zu wenige Daten vorhanden, um Trends zur
+Wirkung im Menschen geben zu können. Hingegen konnte durch Bindungsstudien gezeigt
+werden, dass die Affinitäten zu den 5-HT1A-, 5-HT2A- und 5-HT2C-Rezeptoren mit zuneh-
+mender Größe eines 2-Substituenten in Mescalin zunehmen (siehe Substanzen 53, 55, 56
+und 59 in Tabelle 2). Welchen Einfluss der Substituent auf die Funktionalität an diesen
+Rezeptoren hat, ist bis anhin unbekannt. Erwähnenswert ist nicht nur die Zunahme der Af-
+finitäten, sondern auch, dass mit den Substanzen 53, 55, 56 und 59 bedeutende Affinitäten
+(Ki ~200-500nM) am 5-HT1A-Rezeptor erzielt wurden, was für Phenylalkylamine bisher nie
+der Fall war.
+	Das rigide Analog Bromotomscalin (60) erwies sich zu den 5-HT2A- und 5-HT2C-
+Rezeptoren ls hochafin (Ki < 10nM). Das analoge Bromojimscalin (61) zeigte etwas weniger
+Affinität, und am 5-HT1A-Rezeptor band es relativ potent (Ki= 56nM).
+	Eine wichtige und spahnende Klasse stellen die Oligosulfide dar: Unter marinen Bedin-
+gungen leben 1de Seesch eiden enthalten beispielsweise die Phenethy lamine Lissoclinotoxine
+(58, 60-61) oder Varacine (53-56). Diese tragen ebenfalls eine 2,3,4,5-Tetrasubstitution
+am Aromaten, und das Besondere an diesen Verbindungen sind die drei- oder fünffachen
+Schwefeleinheiten, die sich zwischen zwei Arylpositionen spannen. Mancher dieser Substan-
+zen konnten teils bemerkenswert ausgeprägte fungizide und cytotoxische Wirkungen zuge-
+schrieben werden, was sie für die Tumorbekämpfung attraktiv machen könnte; gegenüber
+einer menschlichen Colonkrebs-Zelllinie war Varacin (63) verglichen mit dem Zytostatikum
+Fluoruracil 100-mal stärker aktiv.
