@@ -1,0 +1,41 @@
+den Verbindungen ψ-DOM-FLY (77) und ψ-DOM-DELY (78) sind zwar weniger affın
+als die superpotenten 2,4,5-analogen Derivate DOB-FLY (80) [27] und DOB-DFLY (81)
+[28, 29] (siehe auch Kapitel 8.5.27.2), sie unterscheiden sich aber auch noch durch den für
+die Affinität sowie funktionelle Potenz wichtigen 4-Substituenten (siehe Kapitel 8.5.1). Ein
+4-Bromsubstituent in 77 oder 78 anstelle der 4-Methylgruppe würde die Affinitäten der bei-
+den Verbindungen möglicherweise noch erhöhen.
+
+
+Ki r5-HT2A: 49nM ([125I]DOI)
+Ki r5-HT2C: 50nM ([125I]DOI)
+
+Ki r5-HT2A: 6.3nM ([125I]DOI)
+Ki r5-HT2C: 7.5nM ([125I]DOI)
+
+Ki r5-HT2A: 1.80M ([125I]DOI)
+Ki r5-HT2C: 0.9nM ([125I]DOI)
+
+Ki r5-HT2A: 2.2nM ([125I]DOI)
+Ki r5-HT2C: 2.80M ([125I]DOI)
+
+Ki r5-HT2A: 0.48nM ([125I]DOI)
+Ki r5-HT2C: 0.30nM ([125I]DOI)
+
+Ki r5-HT2A: 0.04nM ([125I]DOI)
+Ki r5-HT2C: 0.02nM ([125I]DOI)
+
+
+
+Zusammenfassung
+
+Die 2,4,6-trisubstituierten Phenylalkylamine wurden bis anhin nur spärlich in der Litera-
+tur erwähnt. Generell dürfte dies durch die erschwerte chemische Zugänglichkeit begründ-
+bar sein. Die 4-substituierten 2,6-Dimethoxyphenylalkylamine werden Pseudo-(ψ)-Derivate
+genannt, weil sie sich nur durch Verschieben des 5-MeO-Substituenten in die 6-Position von
+den 4-substituierten 2,5-Dimethoxyphenylalkylaminen unterscheiden. Obwohl nur wenige
+Daten vorliegen, gibt es Hinweise, dass die Pseudo-Derivate das Potential für etliche struktu-
+telle Spielereien haben, wie sie bei den 2,4,5-trisubstituierten Derivaten getätigt wurden. Die
+wenigen möglichen Vergleiche der In-vitro- sowie In-vivo-Tierexperimente sowie Versuche im
+Menschen deuten darauf hin, dass die Pseudo-Derivate nur wenig schwächer in ihrer Potenz
+Sind. Das 2,6-Dimethoxy-Muster senkt möglicherweise die Deaminierungsrate stärker als
+andere Di-oder Trimethoxy-Substitutionsmuster.

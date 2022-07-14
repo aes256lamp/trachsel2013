@@ -1,0 +1,22 @@
+Abb. 4. a) F2ClCCOONa, K2CO3, DMF, H2O, 100°C, danach HCl aq.; 69%. b) RCH2NO2, BuNH2, AcOH,
+mol. Sieb, 90°C; 89% (R=H und 93% (R=Me). c) AlH3, THF, 0°C; 85% (R=H) und 84% (R=Me), als
+Hydrochloride.
+
+
+Das schwefelhaltige ψ-2C-T-4 (55) wurde von Shulgin untersucht [1]. Es zeigte im
+Menschen bis 12mg lediglich Verdachtsmomente einer Wirkung und wurde nie in einer
+höheren Dosierung geprüft. Das Nicht-Pseudoanalogon 2C-T-4 (56) erwies sich im Bereich
+von 8-20mg als deutlich wirksam [1, 7]. Weitere S-haltige ψ-Derivate (u.a. ψ-ALEPH und
+ψ-ALEPH-2) wurden als selektive und reversible Monoaminoxidase (MAO)-A-Hemmer
+geprüft [30].
+
+
+
+Das dritte und zugleich letzte von Shulgin untersuchte Pseudo-Derivat ist W-DOM (Z-7,
+2) [1,11]: Es erwies sich im Menschen etwa dreimal weniger potent und zeigte eine deutlich
+kürzere Wirkzeit als DOM (1) [1].
+	An mit (±)-[125I]DOI markierten geklonten 5-HT2A-Rezeptoren der Ratte zeigte
+ψ-DOM (2; Ki= 49nM) eine etwas tiefere Affinität als DOM (1; Ki= 19nM, R-[125I]DOI
+markierte 5-HT2A-Rezeptoren, Rattenhirn-Homogenat des präfrontalen Cortex) [12, 13]. An
+[3H]Ketanserin markierten 5-HT2A-Rezeptoren (Frontalkortex Ratte) erwies sich ψ-DOM
+(2; Ki= 351nM) ebenfalls weniger affin als DOM (1; Ki= 100nM) [14]. Die tieferen Affinitäten

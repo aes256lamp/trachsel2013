@@ -1,0 +1,24 @@
+deaminiert. Bei den Aminen, die deaminiert wurden, konnte durch Zugabe von Semicarb-
+azid (5) einzig Mescalin (4) komplett von der Deaminierung bewahrt werden, was Mescalin
+(4) als einzigartig erscheinen ließ. Die in diesem Versuch inerten Amine vermochten die
+Deaminierung von Mescalin (4) oder auch Tyramin (6) nicht zu hemmen, und daraus schlos-
+sen die Autoren, dass die Verbindungen am Enzym nicht mit diesen Aminen konkurrierten.
+Aus heutiger Sicht kann man aus den Untersuchungen von 1965 schließen, dass Mescalin (4)
+ausschließlich über die semicarbazidsensitive Aminoxidase SSAO oder über AOC3 und nicht
+über die MAO deaminiert wird.
+
+Das Derivat ψ-2C-O (3) unterliegt demnach zumindest keiner Deaminierung von der
+Aminoxidase der Kaninchenleber. Es stellt sich nun die Frage nach dessen Aktivität im
+Menschen, denn strukturell ist es dem Mescalin (4) nahe verwandt. Interessanterweise kann
+man bei ψ-2C-O (3) und TMA-6 (27) dasselbe Phänomen beobachten, wie bei dem Paar
+2C-O (20) und TMA-2 (26, siche auch Kapitel 8.5.5 und 8.5.6): Die α-Desmethylierung führt
+hier ebenfalls zu inaktiven Verbindungen (Abb. 2). So zeigte ψ-2C-O (3) bei Dosierungen
+von bis zu 300mg im Menschen keinerlei Wirkungen [5].
+
+
+Tabelle 1. Relative Deaminierungsraten von ringmethoxylierten Phenethylaminen durch lösliche Amin-
+oxidase aus Kaninchenleber [3].
+
+
+a) In Ref. [4] wird durch vorsichtige Resynthese angezweifelt, dass es sich tatsächlich um dieses Derivat
+handelt (siehe Kapitel 8.3.).

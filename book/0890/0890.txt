@@ -1,0 +1,31 @@
+polyhalogenierten Amphetaminderivate 73-75 [22, 23] sowie Verbindung 72 [23] wurden
+kürzlich als synthetische Intermediate für Agrochemikalien in Patenten beschrieben.
+
+
+
+Das Anilinderivat FLA 365 (76) wurde ursprünglich als MAO-Inhibitor entwickelt
+[24, 25]. Erst kürzlich wurde entdeckt, dass 76 ein Inhibitor von Ryanodinrezeptoren
+(membranständige Calciumionenkanäle) ist [26].
+
+
+
+Bei den 4-substituierten 2,5-Dimethoxyphenylalkylaminen bewirkte das Rigidisieren
+der MeO-Gruppen und das Aromatisieren der entstandenen Tetrahydrobenzodifurane
+eine massive Steigerung der In-vitro- und In-vivo-Potenz (siche Kapitel 8.5.27.2). Dasselbe
+Konzept prüften Chambers, Kurrasch-Orbaugh und Nichols auch bei den 2,4,6-trisubstituierten
+Phenylalkylaminen [12, 13]. Die konformationell eingeschränkten Verbindungen ψ-DOM-
+FLY (77) und ψ-DOM-DFLY (78) zeigten ungefähr eine 7-fache und 27-fache Erhöhung
+der Affınität zum (±)-[125I]DOI markierten r5-HT2A-Rezeptor im Vergleich zum nichtrigiden
+ψ-DOM (). Ein vergleichbarer Trend zeigte sich am r5-HT2C-Rezeptor, wobei das komplett
+aromatisierte Derivat 78 eine noch etwas stärkere Erhöhung der Affinität zu diesem Rezeptor
+zeigte. Der Trend einer leichten Präferenz für den 5-HT2C-Rezeptor konnte auch bei den
+FLY- sowie DFLY-Verbindungen festgestellt werden (bis zu 2.5-fach, siehe Kapitel 8.5.27.2).
+Das komplett aromatisierte ψ-DOM-DFLY (78) bindet somit in der Größenordnung von
+DOB (79; K=2.2 und 2.8nM, respektive) an die (±)-[125I]DOI markierten r5-HT2A- und r5-
+HT2C-Rezeptoren [12].
+	Das Rigidisieren der MeO-Gruppen von ψ-DOM (2) hat einen Gewinn für die Inter-
+aktion mit dem 5-HT2A- und 5-HT2C-Rezeptor gebracht. Durch das konformationelle Ein-
+schränken ist möglicherweise die entropische Barriere, um an den Rezeptor zu binden, tief-
+er, und diese Konformation könnte ausgeprägtere H-Bindungen zu den Aminosäureresten
+des Rezeptors bilden [12]. Zudem wirkt sich die erhöhte Lipophilie solcher Verbindungen
+günstig auf die Interaktion mit dem Rezeptor aus [14] (siehe auch Kapitel 8.5.19). Die bei-

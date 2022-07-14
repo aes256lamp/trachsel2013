@@ -1,0 +1,23 @@
+Die tetrasubstituierten Phenylalkylamine können durch insgesamt drei verschiedene
+Positionsisomere klassifiziert werden. Die Abb. 1 zeigt deren Grundstrukturen ausgehend
+vom 2-Phenethylamin. Die ungefähre Anzahl besprochener Verbindungen in den jeweiligen
+Kapiteln ist in den Klammern gegeben.
+
+
+
+Abb. 1. Die drei Klassen der tetrasubstituierten Phenylalkylamine.
+
+
+Obschon mit vier Substituenten theoretisch enorm viele strukturelle Variationen durch-
+gespielt werden könnten, liegen bis anhin recht wenig Vertreter dieser Klassen vor. Und noch
+weniger wurden pharmakologische Daten generiert, so dass aussagekräftige Schlüsse zur
+Struktur-Aktivitäts-Beziehung kaum gezogen werden können.
+
+Interessanterweise häufen sich hier einige Naturstoffe, die speziell in maritimer Um-
+gebung gefunden wurden, so z.B. das 2,3,4,5-tetrasubstituierte Lissoclinotoxin A (1) und
+Varacin A (2) in Seescheiden (siehe Kapitel 9.1) oder das 2,3,4,6-tetrasubstituierte Con-
+volutamin F (3) in Moostierchen (siehe Kapitel 9.2). Durch ihre Eigenschaften, antifungal
+oder cytotoxisch zu wirken, erscheinen diese Moleküle recht attraktiv und könnten mit
+ihren speziellen Strukturelementen (vor allem die Oligosulfideinheit) als Leitstrukturen in
+der Krebstherapie dienen.
+	Interessant erscheint die Struktur von Convolutamin F (3) auch deshalb, weil sie dem
