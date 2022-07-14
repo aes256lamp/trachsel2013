@@ -1,0 +1,55 @@
+Modifikation
+
+Konformationell eingeschränkte (z.B. Dihydrobenzo-
+furane und Benzofurane) und andere Analoge (Ersatz
+der MeO-Gruppe) zeigten, dass
+- der Sauerstoff resp. eine MeO-Gruppe 
+  für agonistische Interaktion mit den 
+  5-HT2A/C-Rezeptoren notwendig ist.
+
+- Konformationelle Einschränkungen der MeO-
+  Gruppen in die richtige Position in großem
+  Ausmaß die In-vitro- und In-vivo-Potenz erhöhen
+  kann (die freien Elektronenpaare des 5-O müssen
+  in anti-Orientierung zur Seitenkette stehen)
+
+- MeO-Ersatz durch MeS, Et, F zu Verbindungen
+  mit verminderten 5-HT2A/C-Affinitäten und
+  Humanpotenz führen.
+
+- die 5-HT2A/C-Rezeptoren sich sterischen
+  Expansionen in der Region des 5-Substitu-
+  enten etwas besser anpassen als in der 2-Position.
+
+
+
+Modifikation:
+
+Beim Vorhandensein einer 2,5-DiMeO-Substitution führen
+viele 4-Substituenten zu In-vitro- und In-vivo-Aktivitäten (der
+4-Substituent ist für hohe Affinitäten zu den 5-HT2-Rezep-
+toren sowie für hohe Wirkstärke unabdingbar):
+
+- Kleine, lipophile Gruppen (Me, Et, MeS, EtS,
+CF3, Halogen etc.) führen zu 5-HT2A/C-Liganden
+mit agonistischem Charakter.
+
+- Große, lipophile Gruppen (Bu, tBu, Phenylpropyl etc.)
+führen zu Antagonisten der S-HT2A/C-Rezeptoren.
+
+- Bei großen 4-Substituenten wie 3-Phenylpropyl werden
+die 2- und 5-MeO-Gruppen für hohe Affinitäten
+nicht mehr benötigt (ergibt Antagonisten).
+
+- Polare Gruppen senken ausgeprägt die Affinitäten
+sowie In-vivo-Potenz.
+
+- Der 4-Substituent beeinflusst stark Eigenschaften
+wie Affinitäten, Efficacy, funktionelle Selektivität
+und Metabolismus.
+
+- Der 4-Substituent definiert ausgeprägt den Wirk-
+Charakter im Menschen (Art der physischen und
+psychologischen Effekte, Wahrnehmung).
+
+Abb. 20. Qualitative Sruktur-Aktivitats Beziehungen der 24,5-trisubstituierten Phenylalkylamine.

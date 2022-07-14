@@ -1,0 +1,35 @@
+Die 2,4,6-trisubstituierten Phenylalkylamine weisen eine symmetrische Anordnung der
+Arylsubstituenten auf. In der Literatur sind nur wenige solche Verbindungen beschrieben.
+Gründe hierfür dürften in der Natur der chemischen Substituenteneffekte liegen: Sind elekt-
+ronenliefernde Substituenten in 2,6-Position resp. ist eine „1,2,3-Trisubstitution“ vorhanden,
+so wird über eine elektrophile Substitution am Aromaten (SEAr) ein Substituent bevorzugt
+in der ortho-Position eingeführt, sofern nicht sterisch anspruchsvolle oder e-ziehende Grup-
+pen vorhanden sind. So entsteht ein 1,2,3,4-Substitutionsmuster, welches ungleich dem der
+2,4,6-trisubstituierten Phenylalkylamine ist (=1,2,4,6-Substitutionsmuster). Infolgedessen
+sind die 2,4,6-trisubstituierten Phenylalkylamine synthetisch viel weniger einfach zugänglich
+als beispielsweise die 2,4,5-trisubstituierten Phenylalkylamine. Dies spiegelt sich denn auch
+in der Anzahl an untersuchten Verbindungen wider. Dennoch sind die 2,4,6-trisubstituierten
+Verbindungen nicht minder interessant, wie wir im Folgenden schen werden.
+
+
+
+Im vorhergehenden Kapitel 8.5. wurden hunderte Verbindungen mit einer 2,4,5-Trisubs-
+titution präsentiert; die meisten trugen eine 2,5-Dialkyloxysubstitution. Prinzipiell lassen
+sich, durch Verschieben des 5-Alkyloxysubstituenten (hauptsächlich 5-MeO) in die 6-Posi-
+tion, alle 2C- sowie 3C-Derivate (Definition siehe Kapitel 8.5.2) analog herstellen. Die No-
+menklatur dieser Derivate bedient sich generell der Kombination aus dem griechischen ψ
+(Psi, das für „Pseudo“ steht) und dem Namen, welche die Verbindung mit einer 2,4,5-Tri-
+substitution tragen würde (also durch Verschieben des 5-MeO in die 6-Position): Aus DOM
+(2,5-Dimethoxy-4-methylamphetamin, 1) wird beispielsweise ψ-DOM (2,6-Dimethoxy-4-
+methylamphetamin, 2). Die 2,4,5-Verbindungen in ihrer 2,4,6-Version gehören demnach zu
+den Pseudo-Verbindungen (Abb. 1) [1].
+
+Eines der ersten untersuchten 2,4,6-trisubstituierten Phenylalkylamine ist 2,4,6-Tri-
+methoxyphenethylamin (3; 2,4,6-TMPEA oder ψ-2C-O). Es wurde von Benington, Morin
+und Clark 1954 zusammen mit anderen Phenylalkylaminen synthetisch beschrieben [2].
+Rund zehn Jahre später untersuchten dieselben Wissenschaftler den Effekt von Ring-
+MeO-Gruppen auf die biologische Deaminierungsrate von Phenethylaminen [3]. Es waren
+frühere Studien zur Relation der chemischen Struktur und psychotomimetischen Aktivität an
+Mescalin (4; 3,4,5-Trimethoxyphenethylamin), die dazu veranlassten, weitere/andere MeO-
+Substitutionsmuster zu untersuchen. Schließlich wurden alle 19 möglichen methoxylierten
+Phenethylamine auf die Deaminierungsrate durch lösliche Aminoxidase von Kaninchenleber

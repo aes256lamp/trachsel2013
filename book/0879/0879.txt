@@ -1,0 +1,72 @@
+[146] H. J. Weintraub, D. E. Nichols, A. Maktiyannis, S. W. Fesik. J. Med. Chem. 1980, 23,
+      339.
+
+[147] B. T. Ho, L. W. Tansey, W. M. McIsaac. J. Med. Chem. 1970, 13, 1022.
+
+[148] M. A. Torres, B. Cassels, M. C. Rezende. Synth. Commun. 1995, 25, 1239.
+
+[149] R. A. Glennon, M. R. Hellberg. beta-Hydroxyphenylalkylamines and their use for
+      treating glaucoma. WO2004028451, 2004.
+
+[150] R. A. Glennon, M. Titeler, M. R. Seggel, R. A. Lyon. J. Med. Chem. 1987, 30, 930.
+
+[151] M. R. Braden, J. C. Parrish, J. C. Naylor, D. E. Nichols. Mol. Pharmacol. 2006, 70,
+      1956.
+
+[152] H. H. Pertz, A. Rheineck, S. Elz. Naunyn-Schmiedeberg's Arch. Pharm. 1999, 359, R29.
+
+[153] S. Elz, T. Kläss, R. Helm, U. Warnke, H. H. Pertz. Naunyn. Schmiedebergs. Arch.
+      Pharmacol. 2002, 365 (Suppl. 1), R29.
+
+[154] R. Heim. Synthese und Pharmakologie potenter 5-HT2A-Rezeptoragonisten mit
+      N-2-Methoxybenzyl-Partialstruktur. Freie Universität Berlin, 2004.
+
+[155] M. R. Braden. Towards a biophysical understanding of hallucinogen action. Purdue
+      University, West Lafayette, Indiana, 2007.
+
+[156] D. E. Nichols. Persönliche Mitteilung, 2007.
+
+[157] D. E. Nichols, S. P. Frescas, B. R. Chemel, K. S. Rehder, D. Zhong, A. H. Lewin.
+      Bioorg. Med. Chem. 2008, 16, 6116.
+
+[158] D. E. Nichols, C. F. Barfknecht, J. P. Long, R. T. Standridge, H. G. Howell, R. A.
+      Partyka, D. C. Dyer. J. Med. Chem. 1974, 17, 161.
+
+[159] E. J. Warawa, B. Migler. Aminotetralin derivatives and compositions and method of
+      use thereof. WO9731887, 1997.
+
+[160] D. E. Nichols, R. Woodard, B. A. Hathaway, M. T. Lowy, K. W. Yom. J. Med. Chem.
+      1979, 22, 458.
+
+[161] D. E. Nichols, W. R. Pfister, G.K. Yim. Life Sci. 1978, 22, 2165.
+
+[162] D. E. Nichols, K. P. Jadhav, R. A. Oberlender, J. E. Zabik, J. F. Bossart, A. Hamada,
+      D. D. Miller. J. Med. Chem. 1984, 27, 1108.
+
+[163] J. N. Jacob, D. E. Nichols. J. Med. Chem. 1982, 25, 526.
+
+[164] A. P. Monte, D. Marona-Lewicka, M. M. Lewis, R. B. Mailman, D. B. Wainscott, D.
+      L. Nelson, D. E. Nichols. J. Med. Chem. 1998, 41, 2134.
+
+[165] J. J. Chambers, J. C. Parrish, N. H. Jensen, D. M. Kurrasch-Orbaugh, D. Marona-
+      Lewicka, D. E. Nichols. J. Med. Chem. 2003, 46, 3526.
+
+[166] J. J. Chambers. Use of conformationally-restricted analogues and homology
+      modeling to provide insight into the nature of the 5-HT2A receptor agonist binding
+      site. Purdue University, West Lafayette, Indiana, 2002.
+
+[167] T. H. McLean, J. J. Chambers, J. C. Parrish, M. R. Braden, D. Marona-Lewicka, D.
+      Kurrasch-Orbaugh, D. E. Nichols. J. Med. Chem. 2006, 49, 4269.
+
+[168] A. P. Monte, D. Marona-Lewicka, N. V. Cozzi, D. L. Nelson, D. E. Nichols. Med.
+      Chem. Res. 1995, 5, 651.
+
+[169] D. E. Nichols. Persönliche Mitteilung, 2009.
+
+[70] M. A. Parker. Studies of perceptiotropic phenethylamines: determinants of affinity for
+     the 5-HT2A receptor. Purdue University, West Lafayette, Indiana, 1998.
+
+[171] M. A. Parker, D. Marona-Lewicka, V. L. Lucaites, D. L. Nelson, D. E. Nichols.
+      J. Med. Chem. 1998, 41, 5148.
+
+[172] J. J. Chambers, D. E. Nichols. J. Comput. Aided. Mol. Des. 2002, 16, 511.

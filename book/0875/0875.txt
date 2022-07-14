@@ -1,0 +1,67 @@
+Substitution in B-Position:
+- Alkyl Wenig Daten, Hinweise auf abgeschwächte Aktiitäten.
+- Polare Gruppen (HO, MeO) können zu adrenerger Aktivität führen.
+
+N-Alkylierung:
+
+- Ein MAlkysubstituent senkt
+  allgemein die In-vitro-und
+  In-vivo-Potenz.
+
+- N-Benzyisubstituenten können
+  die Affinitäten zu den 5-HT2A/C-
+  Rezeptoren stark erhöhen.
+
+- Dialkyl- und quaternisierte
+  Derivate weisen noch stärker
+  gesenkte Eigenschaften auf.
+
+Alkylierung in α-Position:
+α-Me-Gruppe:
+
+- Lipophilie und metabolische
+  Stabilität werden erhöht
+
+- 5-HT2A-Affinität sowie
+  funktionelle Potenz
+  bleiben unverändert (wobei R > S)
+
+- Intrinsische Aktivität wird
+  gesteigert (wobei R> S)
+
+- Stark erhöhte Potenz in Drug-
+  Discrimination-Studien sowie im
+  Menschen (wobei R > S)
+
+- Dimethyl senkt die Aktivitäten
+
+α-Et-Gruppe:
+
+- senkt die pharmakologischen
+  Eigenschaften (Affinitäten,
+  Efficacy, In-vivo-Potenz).
+
+
+Modifikation:
+Konformationell eingeschränkte (z.B. Dihydro-
+benzofurane und Benzofurane) und andere Ana-
+loga (Ersatz der MeO-Gruppe) zeigten, dass:
+
+- der Sauerstoff resp. eine MeO-Gruppe für
+  agonistische Interaktion mit den 5-HT2A/C-
+  Rezeptoren notwendig ist
+
+- konformationelle Einschränkungen der
+  MeO-Gruppen in die richtige Position in
+  großem Ausmass die In-vtro- und In-vivo-
+  Potenz erhöhen können (die freien Eiektronen-
+  paare des 2-O müssen in syn-Orientierung
+  zur Seitenkette stehen).
+
+- MeO-Ersatz durch MeS, Et, F zu Verbindungen
+  mit verminderten 5-HT2A/C-Affinitäten und
+  Humanpotenz führen,
+
+- die 5-HT2A/C-Rezeptoren sich sterischen
+  Expansionen in der Region des 2-Substituenten
+  weniger gut anpassen als in der S-Position.
