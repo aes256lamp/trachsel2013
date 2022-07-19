@@ -1,0 +1,31 @@
+Das Entfernen des 2-Substituenten R2 liefert die „3,4,6-trisubstituierten“ Phenylalkyl
+amine, die nach den IUPAC-Regeln [1] umnummeriert werden müssen (die Summe der
+Substituentennummern muss den kleinsten Wert ergeben), und so erhält man daraus die
+2,4,5-Klasse (Kapitel 8.5). Dies ist mit Abstand die am ausführlichsten untersuchte Phenylal-
+kylaminklasse, und viele daraus sind Liganden der Serotonin-5-HT2A- und 5-HT2C-Rezepto-
+ren. Die Aktivierung des 5-HT2A-Subtyps wird primär für die psychedelische Wirkung dieser
+Liganden verantwortlich gemacht (siehe Kapitel 8.5.1). Das Entfernen des 3-Substituenten
+R3 bringt die 2,4,6-Klasse hervor, ebenfalls Träger von potenziell psychedelisch wirksamen
+Substanzen und 5-HT2A- sowie 5-HT2C-Liganden (siehe Kapitel 8.6). Schließlich erhält man
+durch Entfernen des 4- oder 6-Substituenten die 2,3,6- sowie 2,3,4-trisubstituierten Phenylal-
+kylamine (Kapitel 8.3 und 8.1), die bis anhin nur minder aktive Verbindungen hervorbrach-
+ten. Demnach soll den ersten beiden Substrukturen (2,4,5- und 2,4,6-Klasse) Beachtung
+geschenkt werden. Es könnte natürlich auch umgekehrt argumentiert werden, dass durch
+Hinzufügen eines ergänzenden R6-Substituenten die resultierende 2,3,4,6-Verbindung aktiv
+ist, wenn ein inaktives 2,3,4-trisubstituiertes Phenylalkylamin mit bereits latent optimaler
+Struktur vorliegt. Es soll hier jedoch ausgehend von aktiven Molekülen argumentiert werden.
+
+Man hat mit den 2,3,4,6-tetrasubstituierten Phenylalkylaminen ein strukturelles Ver-
+schmelzen zweier potenziell aktiver Klassen (2,4,5 mit 2,4,6 = 2,4,5,6, was nach IUPAC zu
+2,3,4,6 wird), und diese Betrachtung führt zu der umgekehrten Sichtweise, dass pozentiell in
+jede 2,4,5-Substanz ein „6-Substituent“, sowie in jeder 2,4,6-Substanz ein 3-Substituent ein-
+geführt werden kann. Das wirft wie in der 2,3,4,5-Klasse (Kapitel 9.1) die Frage auf, ob auf-
+grund der ohnehin schon sehr zahlreichen aktiven Verbindungen noch neue pharmakologisch
+aktive Substanzen erhalten werden können. Bei der 2,4,5-Klasse (Kapitel 8.5) liegt bevorzugt
+eine 2,5-Dimethoxysubstitution kombiniert mit einem kleinen, lipophilen 4-Substituenten
+(Alkyl, Alkylthio, Cl, Br, I etc.) vor, und bei der 2,4,6-Klasse (Kapitel 8.6) erhält man die po-
+
+
+
+Abb. 2. Ausgehend von den vielen psychoaktiven 2,4,5- und 2,4,6-trisubstituierten Phenethylaminen
+werden durch Anbringen eines weiteren Arylsubstituenten 2,3,4,6-tetrasubstituierte Derivate erhalten.
