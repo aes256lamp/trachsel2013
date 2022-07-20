@@ -1,0 +1,25 @@
+Das Derivat 2,3,4,6-Tetramethoxyphenethylamin (11) wurde im Jahre 1955 von Benington,
+Morin und Clark hergestellt [6] und später auf die Wechselwirkung mit der Aminoxidase
+geprüft [7, 8] (siehe auch Tabelle 1 in Kapitel 8.6). Interessanterweise schienen alle Phen-
+ethylamine mit mehr als drei MeO-Gruppen nicht signifikant deaminiert zu werden.
+
+Das analoge 2,3,4,6-Tetramethoxyamphetamin (12) wurde nur einmal in der Litera-
+tur erwähnt (Bestimmung der nativen Fluoreszenz, zur Evaluierung der Struktur-Aktivi-
+täts-Bezichung im Vergleich zu anderen Phenylalkylaminen) [9] und ist somit eine nahezu
+unerforschte Substanz.
+
+
+
+In der marinen Moostierchenart (Bryozoa) Amathia convoluta wurde eine Reihe von Aryl-
+alkylaminen isoliert (zusammengefasst in [10]). Diese Convolutamine A (13), C (14) und F
+(15) mit Phenethylamingrundstruktur erinnern an das potente Psychedelikum 2C-B (1) oder
+2C-DB (3). Pharmakologisch wurden sie auf ihre cytotoxischen Eigenschaften gegenüber
+bestimmten Krebszelllinien untersucht [10]. An GPCR wurden noch keine Untersuchungen
+angestellt (aufgrund der N-Alkylgruppen würde man schwache Interaktionen erwarten,
+siehe auch Kapitel 8.5.26).
+
+
+Die Substanzen 16 [11], 17 [10], 18 [12], 19-20 [13, 14], und 21 [15] wurden synthetisch
+beschrieben, Verschiedene Fluordopamine wurden auf die Affinität zu adrenergen und
+dopaminergen (D1-D4) Rezeptoren geprüft, so auch 20 [14]; die Affinitäten wurden dabei im
+Vergleich zu Dopamin (siehe Kapitel 7.5.1) deutlich gesenkt.
