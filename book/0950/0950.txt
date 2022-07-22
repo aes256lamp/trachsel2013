@@ -1,0 +1,46 @@
+in der Bindetasche des humanen β2-Rezeptors. Wasserstoffatome sind nicht gezeigt; die
+gestrichelten Linien markieren die Salzbrücke zwischen dem protonierten Stickstoff des
+Carazolols und den beiden Sauerstoffatomen eines Aspartats, die bei allen aminergen
+Rezeptoren die wichtigste Ligand-Protein-Wechselwirkung darstellt.
+
+Durch die Interaktion eines Moleküls mit einem Protein ändert sich natürlich auch in
+einem gewissen Maß die Konformation des Proteins. Das kann zur Folge haben, dass sich
+seine Eigenschaften ändern und die natürlich ablaufenden Prozesse begünstigt oder ge-
+hemmt werden. Demzufolge kann man auch bezüglich einer bestimmten Eigenschaft des
+Proteins von einer aktiven oder inaktiven Konformation sprechen, die durch bestimmte
+Liganden begünstigt sein kann oder erschwert wird. Da ein Protein viele unterschiedli-
+che Eigenschaften besitzen und mit verschiedenen anderen Proteinen interagieren kann,
+spricht man auch von vielen unterschiedlichen aktiven oder inaktiven Zuständen.
+	All diese Wechselwirkungen zwischen Ligand und Protein sind dynamische Prozes-
+se. Nichts ist fest, alles unterliegt einer ständigen Neueinstellung von Gleichgewichts-
+zuständen. Daher gibt man die Bindungsstärke eines Moleküls an ein Protein oft als
+Gleichgewichtskonstante K an, die das Verhältnis zwischen gebundenen und ungebun-
+denen Molekülen wiederspiegelt.
+	Solche Arbeits- oder Signalproteine lassen sich grob in mehrere Klassen unterteilen,
+die im Folgenden kurz abgehandelt werden sollen. Dabei wird ein besonderes Augen-
+merk auf die Klassen gelegt, mit denen Substanzen dieses Buches interagieren können:
+Zunächst werden ausführlich Enzyme besprochen und dabei bereits einige molekulare
+Konzepte erklärt. Im Anschluss folgen ligandgesteuerte Ionenkanäle und schließlich
+GPCRs. In diesem Teil werden Begriffe wie Agonist und Antagonist näher erläutert.
+Transporter werden in einem separaten Exkurs besprochen (siehe Exkurs Monoamin-
+transporter).
+
+
+Die Enzyme
+
+Enzyme sind Proteine, die mehr oder weniger spezifisch eine bestimmte chemische
+Reaktion ermöglichen, die ohne das Enzym nicht ablaufen würde. Daher kann man
+sie als Arbeitsproteine bezeichnen. Bildlich gesprochen bestehen Enzyme aus einem
+Proteinkörper, der wie das Metallgehäuse einer Maschine gesehen werden kann. Die
+eigentliche harte Arbeit wird aber durch das Innenleben getätigt. Das „Innenleben“ der
+Enzyme ist meist nichtproteinischer Natur, Man bezeichnet diesen nichtproteinischen
+Anteil als prosthetische Gruppe oder Cofaktor. Diese essenziellen Hilfsstoffe können
+Vitamine, Metallionen, aber auch andere Stoffe sein,
+	Man erkennt Enzyme an ihrem Namen, der meist das Suffix ...-ase trägt. Die en-
+zymkatalysierten Reaktionen können unterschiedlichster Natur sein. Formal kann ein
+Umbau (z.B. Oxidoreduktase, Isomerase oder Ligase), ein Abbau oder eine Spaltung
+(z.B. Hydrolase oder Lyase) oder ein Einführen bzw, Austauschen einer funktionellen
+Gruppe (z.B. Transferase) stattfinden. Sie werden mit einer Enzyme Commissions Number
+(EC-Nummer) klassifiziert [1]. Im Folgenden sollen ganz kurz einige wenige Vertreter
+der Gruppen erwähnt werden, die im Zusammenhang mit dem Inhalt dieses Buches
+Relevanz haben könnten.

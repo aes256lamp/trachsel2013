@@ -1,0 +1,27 @@
+Verbindung 28 wurde als synthetisches Intermediat [11] beschrieben und auf die In-
+teraktion mit Aminoxidase geprüft [12], Derivat 29 diente als Intermediat [13] und wurde
+zusammen mit 30 zur Studie des Mechanismus von der Inaktivierung der Catechol-O-me-
+thyltransferase (COMT) verwendet [14]. Das Tetramethoxyderivat 31 ist in einem Patent
+als synthetisches Intermediat erwähnt [15]. Im Jahre 1955 beschrieben Benington et al. die
+Synthese von 2,3,4,5,6-Pentamethoxyphenethylamin (32) [16], und später wurde es unter
+anderem auf die biologische Deaminierungsrate durch Aminoxidase zusammen mit anderen
+methoxylierten Phenethylaminen untersucht [17, 18] (siehe Tabelle 1 im Kapitel 8.6). Ein
+Vergleich der Aktivität in der Conditioned avoidance response an Ratten (i.v.) zeigte, dass von 32
+eine etwa sechsmal tiefere Dosis benötigt wird als von Mescalin (3) [19]. Die physiologische
+Verteilung von 32 im Gehirn, Leber und Plasma der Ratte wurde ebenfalls bestimmt [19].
+Das Pentamethylderivat 33 wurde ebenfalls von Benington et al. beschrieben [20]. Substanz
+34 wurde auf die Interaktion mit noradrenergen und dopaminergen Neuronen geprüft [21].
+Das tritiierte Dopamin 35 wurde synthetisch beschrieben [22].
+
+
+
+Verschiedene Fluordopamine wurden auf die Affinität zu adrenergen und dopaminergen
+(D1-D4) Rezeptoren geprüft, so auch 36 [23]; die Affinitäten wurden dabei im Vergleich
+zu Dopamin deutlich gesenkt, Substanz 37 diente dabei als synthetisches Intermediat. Das
+Anilin 38 [24], 2,3,4,5,6-Pentafluorphenethylamin (39) [25], sowie die Derivate 40-42 [26]
+wurden allesamt synthetisch beschrieben.
+
+Die beiden Thioether 2,5,6-Tris(NACSyl)-DA (43) und 2,5,6-Tris(GSyl)-DA (44) wurden
+im Zusammenhang mit dem Morbus Parkinson als Dopaminmetaboliten diskutiert [27,
+28]. Sowohl N-Acetyleystein als auch Glutathion können nucleophil an chinoide Systeme
+addieren.

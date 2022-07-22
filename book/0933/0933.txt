@@ -1,0 +1,33 @@
+Nachdem bei den tetrasubstituierten Verbindungen relativ wenige Exemplare in der
+Literatur gefunden wurden, ließ dies dasselbe für die pentasubstituierten Phenylalkylamine
+vermuten. Interessanterweise existieren doch immerhin einige Derivate, auch wenn diese
+meist nicht pharmakologisch untersucht, aber zumindest synthetisch beschrieben wurden.
+
+
+
+Diese Klasse trägt mit fünf Arylsubstituenten am Phenylalkylamin keine freie Position
+mehr. Man kann prinzipiell — wie bei allen substituierten Phenylalkylaminen — auch hier
+nach möglichen Substrukturen suchen und wird auch fündig (exemplifiziert in den Kapi-
+teln 9.1-9.3). Umgekehrt kann man sich die Frage stellen, ob denn eine niedrig arylsub-
+stituierte Substanz durch Hinzufügen weiterer Substituenten ihr Wirkprofil aufrechterhält.
+Es gibt dazu in der Medizinalchemie etliche Beispiele, wo mit Hilfe eines oder mehrerer
+Substituenten die Wirkung selektiv, stärker, schwächer oder gänzlich nichtig gemacht werden
+kann. Auch innerhalb der Phenylalkylamine können diese Effekte beobachtet werden, sei
+es anhand von Bindungseigenschaften (z.B. zu Monoamintransportern oder Serotoninre-
+zeptoren) oder direkt an der Wirkung am Menschen (z.B. Stimulanzien, Entaktogene oder
+Psychedelika), dies soll hier jedoch nur am Rande diskutiert werden, und mit dem Einfluss
+der Substituenten(anzahl) kann man sich in den vorhergehenden Kapiteln vertraut machen.
+	Da durch Mehrfachsubstitutionen die Phenylalkylamine ihre Wirkungen an den Mono-
+amintransportern größtenteils verlieren, jedoch durch geeignete Anordnung ausgewählter
+Substituenten die Derivate potente Serotonin-5-HT2A- und 5-HT2C-Liganden sind, soll zu-
+nächst Ausschau nach solchen potenziellen Substrukturen gehalten werden. Im Kapitel 8. hat
+Sich gezeigt, dass Substanzen mit einer 2,4,5-, einer 2,4,6- und 3,4,5-Trisubstitution grund-
+Sätzlich zu Liganden der 5-HT2A- und 5-HT2C-Rezeptoren werden können. Die übrigen drei
+möglichen Klassen der Trisubstitution, namentlich die 2,3,4-, 2,3,5- und 2,3,6-Substanzen,
+haben bis anhin keine nennenswert aktiven Substanzen hervorgebracht. Wird der Fokus
+auf die ersten drei Klassen gelenkt und fügt man jeweils zwei weitere Substituenten hinzu,
+so resultieren daraus die drei Typen der pentasubstituierten Phenylalkylamine (Abb. 1, A).
+Natürlich könnte man auch so vorgehen, dass durch geeignete Wahl der Substituenten die
+an und für sich inaktiven 2,3,4-, 2,3,5- und 2,3,6-Substanzen potenziell „aktiviert“ werden
+könnten (Abb. 1, B). Der Einfachheit halber soll jedoch von bereits aktiven Strukturen aus-
+gegangen werden.

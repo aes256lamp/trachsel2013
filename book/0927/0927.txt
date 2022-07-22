@@ -1,0 +1,20 @@
+Die 2,3,5,6-tetrasubstituierten Phenylalkylamine tragen im Arylteil grundsätzlich eine
+Achsensymmetrie, die natürlich durch unterschiedliche Substituenten aufgehoben wird. Es
+wurden bis anhin sehr wenige Substanzen mit diesem Substitutionsmuster pharmakologisch
+geprüft, und auch synthetisch sind nur relativ wenige beschrieben worden.
+
+Wie bei den anderen beiden tetrasubstituierten Klassen der Phenylalkylamine, nament-
+lich der 2,3,4,5-Klasse (Kapitel 9.1) und der 2,3,4,6-Klasse (Kapitel 9.2), kann theoretisch
+nach Substrukturen gesucht werden, die pharmakologisch untersucht wurden. Auch hier
+liegt es nahe, sich bei der Suche nach Strukturelementen auf klassische 5-HT2A- und 5-HT2C-
+Liganden zu beziehen. Entfernt man zunächst jeweils einen Arylsubstituenten, so entstehen
+theoretisch vier Substitutionsklassen. Durch Anwendung der Nomenklatur nach IUPAC
+[1] müssen die „3,5,6“- und „2,5,6“-Klassen umnummeriert werden (die Summe der Sub-
+stituentennummern muss den kleinsten Wert ergeben). Daraus entstehen schließlich die bei-
+den Klassen der 2,3,5- und 2,3,6-trisubstituierten Phenylalkylamine (Abb. 1).
+
+
+
+Abb. 1. 'Retrosynthetische' Betrachtung der 2,3,5,6-tetrasubstituierten Phenethylamine: Welche
+trisubstituierten Phenethylaminklassen sind als Substruktur zu finden? Es sind dies die 2,3,5- und
+2,3,6-trisubstituierten Phenethylamine.

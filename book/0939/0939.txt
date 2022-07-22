@@ -1,0 +1,26 @@
+Die dritte Möglichkeit, von welcher man potenziell aktive Strukturen diskutieren kann,
+geht von den 2,4,6-trisubstituierten Phenylalkylaminen aus (Kapitel 8.6). Bis anhin exis-
+tieren keine Substanzen, so dass keine Struktur-Aktivitäts-Beziehungen aufgestellt werden
+können. Aus Kapitel 9.2 geht jedoch hervor, dass TMA-6 (20) durch Monobromierung zu
+BR-TMA-6 (21) die psychoaktive Wirkung verliert. Dies lässt vermuten, dass auch das dib-
+romierte Derivat DBR-TMA-6 (22) eine inaktive Substanz wäre (Abb. 3). Klar, mit Brom-
+Atomen handelt es sich um cher große Substituenten, und kleinere wie F oder Me könnten
+möglicherweise eine Aktivität aufrechterhalten. Denkbar ist, dass im Falle von BR-TMA-6
+(21) durch den Bromsubstituenten die erforderliche Bindungsorientierung zum 5-HT2A-Re-
+zeptor weitgehend gestört ist. Möglicherweise würde eine im Vergleich zu TMA-6 (20) po-
+tentere 2,4,6-trisubstituierte Verbindung zwei (kleine?) zusätzliche Substituenten hin zu einer
+pentasubstituierten Verbindung zulassen, um aktive Substanzen zu erhalten.
+
+
+
+Das Trichlorderivat 23 wurde in Straßenproben aus Japan detektiert, und durch chemi-
+sche Synthese konnte dessen Struktur bestätigt werden [8]. Diskutiert wurde eine mögliche
+Überchlorierung beim Ziel, das bekannte Psychedelikum 2C-C (24; siehe Kapitel 8.5.9) her-
+zustellen.
+
+
+
+Die tentakelartigen Substanzen 25-26 wurden hergestellt und als amphipathische Ben-
+zene geprüft, wie sie die Interaktion des Östrogenrezeptors α mit einem Coactivator dieses
+Steroidrezeptors zu hemmen vermögen [9]. Ähnliche Substanzen, so auch 27, wurden von
+Hisaki et al. beschrieben [10].

@@ -1,0 +1,55 @@
+Zusammenfassung
+
+Inwiefern die Pentasubstitution an Phenylalkylaminen deren Wirkung beeinflusst, ist im
+Moment nahezu unbekannt. Es gibt tetrasubstituierte Phenylalkylamine, die bezüglich der
+Wirkung im Menschen den 2,4,5- oder 3,4,5-trisubstituierten psychedelischen Derivaten ver-
+wandt sind (siehe Kapitel 9.1 und 9,2), aber auch ein Wirkungsverlust konnte beobachtet
+werden (siehe Br-TMA-6 im Kapitel 9.2). Kommt ein weiterer Substituent zu diesen tetra-
+substituierten Phenethylaminen hinzu, so resultieren die pentasubstituierten Phenylalkylami-
+ne, Es liegen hier noch weniger pharmakologische Daten vor, und die meisten Substanzen
+sind lediglich chemisch beschrieben worden.
+	Zumindest die Verbindung DBR-M (1) zeigte in Tiermodellen ( Drug-Discrimination-
+Studie) eine etwas höhere Potenz als Mescalin (3), und DOTMA (9) ist vermutlich das erste
+pentasubstituierte Phenylalkylamin überhaupt, das im Menschen geprüft wurde und sich
+zudem als psychedelisch erwies.
+	Durch Bindungsstudien konnte gezeigt werden, dass die Affinitäten zu den 5-HT1A-,
+5-HT2A- und 5-HT2C-Rezeptoren durch Anwesenheit von 2,6-Substituenten in Mescalin (3)
+zunehmen (siehe Substanzen 1 und 4-7, siehe Tabelle 1). Erwähnenswert ist nicht nur die
+Zunahme der Affinitäten, sondern auch, dass mit den Substanzen 1 und 4-7 bedeutende
+Affinitäten (Ki< 100nM) am 5-HT1A-Rezeptor erzielt wurden: DBR-M (1, Ki= 22nM)
+zeigte gegenüber Mescalin (3, Ki= 2974nM) zu dieser Bindungsstelle eine beachtliche Affi-
+nitätssteigerung um den Faktor ~135.
+	Als interessante und zugleich exotische Klasse ergänzen die marinen Substanzen 52-
+61 dieses Kapitel. Ihre cytotoxischen Eigenschaften könnten als ergänzender Zweig in der
+Krebsforschung betrachtet werden.
+
+
+Literatur
+
+[1] M. A. Parker. Studies of perceptiotropic phenethylamines: determinants of affinity for
+    the 5-HT2A receptor. Purdue University, West Lafayette, Indiana, 1998.
+
+[2] A. Heffter. Ber. Dtsch. Chem. Ges. 1901, 34, 3004.
+
+[3] J. H. Pardanani, J. L. McLaughlin, R. W. Kondrat, R. G. Cooks. Lloydia 1977, 40, 585.
+
+[4] T. H. McLean. Conformationally-restricted analogues of hallucinogenic phen-
+    ethylamines as functionally-selective agonists of the 5-HT2A receptor. Purdue
+    University, 2005.
+
+[5] D. E. Nichols. Persönliche Mitteilung, 2010.
+
+[6] P. Rausch, Persönliche Mitteilung, 2000.
+
+[7] A. T. Shulgin, A. Shulgin. PiHKAL — A Chemical Love Story. Transform Press:
+    Berkeley, CA, 1995.
+
+[8] J. Suzuki, M. Takahashi, M. Nagashima, T. Seto, K. Mori, S. Ogino. Tokyo-to Kenko
+    Anzen Kenkyu Senta Kenkyu Nenpo 2008, 59, 85.
+
+[9] J. R. Gunther, T. W. Moore, M. L. Collins, J. A. Katzenellenbogen. ACS Chem. Biol.
+    2008, 3, 282,
+
+[10] I. Hisaki, S.-I. Sasaki, K. Hirose, Y. Tobe, Eur. J. Org. Chem. 2007, 4, 607.
+
+[11] L. I. Smith, S. Wawzonek, H. C. Miller, J. Org. Chem. 1941, 6, 229.

@@ -1,0 +1,32 @@
+Die 2,3,5- und 2,3,6-Klassen wurden jeweils nur spärlich untersucht; jedoch weisen die
+bisweilen erfolgten Untersuchungen darauf hin, dass mit derartigen Substitutionsmustern
+vermutlich keine potenten Serotonin 5-HT2A- und 5-HT2C-Liganden erzielt werden können
+(siehe Kapitel 8.2 und 8.3, sowie Kapitel 8). Es wird hier also postuliert, dass durch Hinzufu-
+gen eines weiteren Substituenten hin zu 2,3,5,6-tetrasubstituierten Phenylalkylaminen nicht
+sonderlich an Affinität gewonnen werden kann. Gezeigt wird dies im Folgenden an 3-subs-
+tituierten 2,5- sowie 2,6-Dimethoxyphenylalkylaminen (Abb. 2).
+	Die Gründe für die Wahl zweier MeO-Gruppen in den 2,5- und 2,6-Positionen res-
+pektive, als Modell liegen darin, dass diese zentrale Substituenten für die Interaktion mit
+den S-HT,,: und 5-HT, Rezeptoren sind; Für das Erreichen hoher Affinitäten müsste in
+beiden Fällen ein essenzieller (lipophiler) 4-Substituent hinzukommen (was die 2,4,5- sowie
+2,4,6-Klassen liefern; siehe Kapitel 8.5 und 8.6). In den beiden soeben gezeigten theoreti-
+schen Strukturen liegt jedoch nach wie vor kein 4-Substituent vor, worin letztlich die Gründe
+für die vermutete Wirkungslosigkeit der 2,3,5,6-Klasse liegen. Eine gewisse Chance für affine
+Liganden besteht möglicherweise durch das Einführen eines großen, lipophilen Restes in der
+3- oder 5-Position (z.B. 3-Phenylpropyl); damit hätte man ähnliche Liganden (vermutlich
+Antagonisten) wie sie Dowd [2] und Rangisetty beschrieben [3] (siehe auch Kapitel 7.3.4).
+
+Eine gewisse Ausnahme bilden die Tetrahydrobenzodifurane 2C-H-FLY (1) und H-FLY
+(2) [4], das Benzodifuran H-DFLY (3) [5], das Anthracen 2C-H-ANTH (4) [6] und die
+Hexahydrobenzodipyrane 2C-H-MOTH (5) sowie H-MOTH (6) [7]. Sie weisen alle eine
+2,3,5,6-Tetrasubstitution auf. Sie dienten eigentlich als synthetische Intermediate für die teils
+sehr potenten 5-HT2A- und 5-HT2C-Agonisten 7-12 (siehe Kapitel 8.5.27.2). In diesen Sub-
+stanzen wurden die für eine Interaktion mit dem 5-HT2A- und 5-HT2C-Rezeptor wichtigen
+MeO-Gruppen konformationell eingeschränkt, was sich als günstig erwies. So zeigten 1-4
+auch ohne den wichtigen 4-Substituenten immer noch mäßige Affinitäten zu diesen Bin-
+dungsstellen (Gründe und ausführliche Diskussion siehe Kapitel 7.3.3 und 8.5.27.2). Da sie
+
+
+
+Abb. 2. Ausgehend von den (biologisch wenig aktiven) 2,3,5- und 2,3,6-trisubstituierten Phenethylamin
+werden durch Anbringen eines weiteren Arylsubstituenten 2,3,5,6-tetrasubstituierte Derivate erhalten.

@@ -1,0 +1,30 @@
+Tabelle 1. Affinitäten zu den 5-HT1A-, 5-HT2A- und 5-HT2C-Rezeptoren von Mescalin und 2,6-disubstitu-
+ierten Analoga. Ki-Werte in nM [5].
+
+
+
+Wie bei den monosubstituierten Mescalinanaloga (siehe Tabelle 2 im Kapitel 9.1) nehmen
+die Affinitäten zu den 5-HT2A- und 5-HT2C-Rezeptoren mit zunehmender Grösse der ortho-
+Substituenten zur Seitenkette zu. Bei den Affinitäten zum 5-HT1A-Rezeptor konnte dieser
+Trend im Gegensatz zu den monosubstituierten Mescalinanaloga hier nur bedingt beob-
+achtet werden: In Substanzen mit zwei Cl-Atomen (Substanz 4) oder mit einem Cl- und Br-
+Atom kombiniert (Substanz 7) scheint ein Cl-Atom der Affinität am 5-HT1A-Rezeptor leicht
+abträglich zu sein. So sind die Me-substituierten Derivate 5 und 6 jeweils etwas affiner als
+die Cl-haltigen Analogen 4 und 7, und die Br2- und Br/Me-haltigen Derivate 1 und 6 zeigen
+die höchsten Affinitäten zum 5-HT1A-Rezeptor. Der Grund dafür ist zurzeit nicht bekannt.
+Die Ideen zur Erklärung der allgemeinen Affinitätssteigerung an den 5-HT1A-, 5-HT2A- und
+5-HT2C-Rezeptoren im Vergleich zu Mescalin (3) wurden im Kapitel 9.1 diskutiert (Lipophi-
+lie und/oder sterische Repulsion der Seitenkette hin zu einer bevorzugten Konformation).
+
+DF-M (2,6-Difluoromescalin) ist bis anhin unbekannt. Es wären theoretisch noch
+unzählige Mescalinanaloga des Typs 8 denkbar (z.B. Kombinationen von R2 und R6 mit F,
+Cl, Br, I, Me, Et etc.; dies auch bei weiteren Scalinen des Kapitels 8.4).
+
+
+
+Die nächste Klasse, der man zwei Substituenten hinzufügen kann, um potenziell phar-
+makologisch aktive Substanzen zu erhalten, ist die der 2,4,5-trisubstituierten Phenylalkyl-
+amine (Kapitel 8.5). In Bezug auf die psychedelische Wirksamkeit wurde bis anhin nur das
+Trimethylderivat DOTMA (Julia; 9) geprüft (Abb. 2) [6]. Obwohl DOTMA (9; 70mg und
+7-9h) deutlich schwächer als die ihm zugrundeliegende psychedelische Verbindung DOM
+(10; 3-10mg und 14-20h, siehe auch Kapitel 8.5.4) ist, zeigte es immer noch eine psychede-

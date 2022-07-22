@@ -1,0 +1,44 @@
+Exkurs:
+Aspekte der molekularen Pharmakologie
+
+Grundlegendes zu Rezeptoren
+und Arbeits- oder Signalproteinen
+
+
+Es gibt viele unterschiedliche Proteine im Körper, die eine Bindungsstelle besitzen,
+an die ein körpereigener oder fremder Stoff (Ligand) andocken kann, wodurch dann
+ein bestimmter Effekt an diesem Protein ausgelöst wird. Solche Proteine eignen sich
+hervorragend als Target für Arzneistoffe. Diese Proteine können nach ihrer Funktion
+klassifiziert werden. So kann man Enzyme, die an der Umwandlung von Stoffen beteiligt
+sind, als Arbeitsproteine bezeichnen und Rezeptoren cher als Signalproteine. Auf den
+folgenden Seiten soll zunächst einmal ein Streifzug quer durch die Enzyme unternom-
+men werden und im Anschluss werden dann unterschiedliche Arten von Rezeptoren
+erläutert. Dabei wird ein besonderes Augenmerk auf wichtige Begriffe (wie Agonist,
+Antagonist, Funktionalität usw.) und Mechanismen (Blockade, allosterisches oder ortho-
+sterisches Binden, Mechanismen der Ligand-Proteininteraktion u.v.m.) gelegt.
+	Es ist schwierig, dieses Thema so grundlegend zu behandeln, dass alles bis ins Detail
+ohne Vorkenntnisse verstanden werden kann. Daher kann dieser Exkurs nicht die Lek-
+türe eines Pharmakologiebuches ersetzen, sondern soll dazu dienen, Grundprinzipien
+der Pharmakologie und neuere Konzepte in einen Zusammenhang zu bringen, der the-
+matisch im Bereich der Pharmakologie Relevanz hat und mit den Verbindungen, die in
+diesem Werk besprochen werden, eng verknüpft ist.
+	Rezeptoren und Enzyme haben mehrere Gemeinsamkeiten: Beides sind Proteine
+mit einer Bindetasche, an die ein Stoff binden kann. Rezeptoren sind meistens in eine
+Membran eingebunden und schwimmen nicht frei herum, wie das bei Enzymen oft der
+Fall ist. Ein Hauptunterschied ist aber, dass ein Stoff, der am Enzym als Substrat bindet,
+von ihm umgewandelt wird. Wenn ein Stoff als Ligand an einen Rezeptor bindet, dann
+bleibt der Ligand unverändert, aber der Rezeptor wird in seiner Konformation geändert
+oder zumindest konformativ fixiert. Außerdem ist es die Hauptaufgabe eines Rezeptors,
+ein chemisches Signal in weitere Information umzusetzen.
+
+
+Welche Interaktionsmöglichkeiten kann es zwischen
+Molekülen und Proteinen geben?
+
+Proteine bestehen aus vielen Aminosäuren und haben eine bestimmte Anordnung
+oder Konformation im Raum. Diese Tertiärstruktur bestimmt die Eigenschaften und
+Funktionen der Proteine, und nur leichte Änderungen des Milieus, sei es durch Hitze,
+pH-Änderung, bestimmte Ionen oder kleine Moleküle, können eine Konformations-
+änderung hervorrufen, die gravierende Folgen auf die Funktion des Proteins haben.
+	Die einzelnen Aminosäuren können in physiologischem Milieu, also im Wässrigen
+bei pH 7.4 protoniert sein und so selbst als H-Donor fungieren, wie das bei Arginin (Arg;

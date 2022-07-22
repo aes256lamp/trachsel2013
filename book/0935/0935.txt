@@ -1,0 +1,29 @@
+riert [3]. Um den Extraktionsartefakt zu beweisen, behandelten die Autoren reines Mes-
+calin (3) mit elementarem Chlor in Chloroform. Dabei entstand nebst monochloriertem
+Mescalin (siehe Kapitel 9.1) nach längerer Reaktionszeit ausschließlich das Dichloromescalin
+(DCL-M, 4) [3].
+
+Den Effekt von Arylsubstituenten in Mescalin (3) auf die Affinitäten zu 5-HT1A, 5-HT2A-
+und 5-HT2C-Rezeptoren untersuchte die Gruppe von Nichols eingehender [4, 5]. Untersucht
+wurden einerseits Mescalinanaloge mit einem zusätzlichen Arylsubstituenten (siehe Tabelle 2
+im Kapitel 9.1), andererseits prüfte seine Gruppe auch solche mit zwei zusätzlichen Substi-
+tuenten [5], die somit pentasubstituierte Phenylalkylamine sind. Die Ki-Werte der pentasubs-
+üituierten Derivate sind in Tabelle 1 angegeben (Substanzen DMe-M (2,6-Dimethylmescalin;
+5), DCL-M (2,6-Dichloromescalin; 4), DBR-M (2,6-Dibromomescalin, 1), 2-BR-6-Me-M
+(2-Bromo-6-methylmescalin; 6) und 2-BR-6-CL-M (2-Bromo-6-chloromescalin; 7)).
+
+
+
+Bei den tetrasubstituierten Derivaten im Kapitel 9.1 zeichnete sich ab, dass das Einführen
+eines 2-Substituenten eine Erhöhung der Affinitäten im Vergleich zu Mescalin (3) bewirkt,
+und mit zunehmender Größe des 2-Substituenten die Affinitäten an allen drei untersuch-
+ten Serotoninrezeptor-Subtypen zunehmen (siche Tabelle 2 im Kapitel 9.1). Alle geprüften
+disubstituierten Mescalinanaloga (1, 4-7, Tabelle 1) zeigten vergleichbare oder höhere Af-
+finitäten zu den 5-HT2A- und 5-HT2C-Rezeptoren im Vergleich zu den monosubstituierten
+Mescalinanaloga, und am 5-HT1A-Rezeptor konnte nochmals eine deutliche Affinitätsstei-
+gerung beobachtet werden. Die Affinitäten zum 5-HT1A-Rezeptor sind beachtlich, da ge-
+wöhnlicherweise für Phenylalkylamine im Gegensatz zu den Tryptaminen oder Ergolinen
+(z.B. LSD) allgemein keine nennenswerten Affinitäten zu dieser Bindungsstelle beobach-
+tet wurden [5]. So zeigte beispielsweise DBR-M (1, Ki= 22nM) gegenüber Mescalin (3, Ki=
+2974nM) eine beachtliche Affinitätssteigerung um den Faktor ~135 und ist somit ein hoch-
+affiner 5-HT1A-Ligand.
