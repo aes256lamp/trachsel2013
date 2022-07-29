@@ -1,0 +1,45 @@
+Serotonin (15) und Phenylalanin (Phe; 7) in Phenethylamin (16) um. Sie ist teilweise
+auch am Metabolismus von Arzneistoffen beteiligt, obwohl die Stoffe in der
+Regel durch Lyasen cher lipophiler als hydrophiler werden und somit schlechter
+ausgeschieden werden können.
+Ein weiterer wichtiger Vertreter ist die Adenylatcyclase (EC 4.6.11). Sie wird von
+G-Proteinen entweder aktiviert oder gehemmt und wandelt ATP in Phosphat und
+cyclo-AMP um. Letzteres ist eines der wichtigsten Signalmoleküle, die im Körper als
+Second Messenger in einer Kaskade freigesetzt werden. Es ist z.B. an der Aktivität von
+Kinasen beteiligt, die wiederum andere Proteine regulieren. Auch die Transkription
+und somit die Proteinbiosynthese selbst kann cyclo-AMP beeinflussen.
+
+- Die Isomerasen oder Racemasen vertreten die Gruppe EC 5. Sie sind eine
+große Gruppe und sind z.B. an der Prostaglandinbiosynthese und der Arachidon-
+säuresynthese beteiligt. In die Prostaglandinsynthese greifen z.B. klassische schwach
+wirksame Analgetika und entzündungshemmende Stoffe wie Ibuprofen ein. Im
+ZNS scheint die Arachidonsäure auch mehrere entscheidende Rollen in Bezug auf
+Depression und bipolare Störungen sowie beim Lernen zu spielen [3-5].
+
+- Ligasen sind die letzte Gruppe von Enzymen (EC 6). Sie sind an der Verknüpfung
+zweier Moleküle beteiligt. Synthethasen (EC 6.1.1.) spielen in der Proteinbiosynthese
+eine wichtige Rolle, indem sie Transfer-RNA (tRNA) mit den entsprechenden
+Aminosäuren beladen. Man kennt z.B. auch Carboxylasen (EC 6.5.), die CO2 an
+andere Moleküle anlagern. Sie sind in der Biochemie von großer Bedeutung.
+
+Enzyme sind maßgeblich am Metabolismus von Arzneistoffen beteiligt. Das heißt,
+sie zersetzen die Moleküle, damit sie besser ausgeschieden werden können. In der Regel
+entstehen dabei inaktive Spaltprodukte, nicht selten aber auch aktive Metaboliten. In
+manchen Fällen werden die Arzneistoffe allerdings enzymatisch’erst in die eigentliche
+Wirkform überführt. Man spricht bei solchen Arzneistoffen von Prodrugs. Andererseits
+können Arzneistoffe auch Enzyme hemmen oder manchmal sogar aktivieren. Die
+Bindungs/Dissoziationskonstante KD gibt an, wie gut ein Ligand an das Enzym bindet.
+Unabhängig davon ist die Rate oder Geschwindigkeit (v), in der ein Substrat vom Enzym
+umgebaut wird, von großer Bedeutung, Es gibt noch weitere enzymkinetische Parameter,
+die hier nicht näher besprochen werden sollen.
+
+Wenn ein Ligand die Enzymtätigkeit verringert, kann das mehrere potenzielle Gründe
+haben: Entweder der Ligand bindet im aktiven Zentrum und wird von letzterem nicht
+als Substrat „behandelt“; dann ist es ein normaler Enzymhemmstoff. Es kann aber
+auch sein, dass der Ligand gut im aktiven Zentrum bindet, aber verglichen mit dem
+natürlichen Substrat nur sehr langsam „umgebaut“ wird. In beiden Fällen konkurriert
+der Ligand mit dem endogenen Substrat, so dass man von einer kompetitiven und
+zudem orthosterischen Bindung sprechen kann, da die Prozesse in der regulären
+(orthos, griech.: „recht, richtig") Bindungstasche bzw. dem aktiven Zentrum ablaufen. Als
+dritte Möglichkeit kann ein Stoff allosterisch binden, Das stammt aus dem Griechischen
+und bedeutet, dass es an einer anderen Stelle (allos: griech.: „anders“) als das eigentliche

@@ -1,0 +1,33 @@
+Transferasen (EC 2.) sind im Körper für die Übertragung funktioneller Gruppen
+verantwortlich. Die bekanntesten Vertreter sind die Überträger von Phosphatgruppen
+aus ATP. Diese gehören der Untergruppe EC 2.7 an, heißen Kinasen und haben
+unzählige unterschiedliche Funktionen: Manche interagieren z.B. mit Rezeptoren
+oder Transportmolekülen und verändern ihre funktionellen Eigenschaften. Sie sind
+der erste Schritt bei einer Desensitation mit darauffolgender Arrestin-Clathrin
+Internalisierung, die später noch einmal detailliert besprochen wird.
+Wichtig ist auch die Untergruppe EC 2.1.1, zu der die O- und N-Methyltransfera-
+sen gehören. Am bekanntesten sind bestimmt die Catechol-O-methyltransferase
+(COMT), und die Phenylethanolamin-N-methyltransferase (PNMT), die z.B. Nore-
+Pinephrin (12) in Epinephrin (13) umwandelt. Als eigentlicher Spender der Methyl-
+gruppe dient S-Adenosylmethionin (SAM). Die S-Methylgruppe wird dabei abge-
+spalten und es bleibt S-Adenosyl-Homocystein (SAH) übrig. Als Cofaktoren werden
+für diese Reaktion Folsäure, Vitamin B6 und B12 benötigt. Die COMT und PNMT
+sind entscheidend an der Biotransformation der Neurotransmitter beteiligt, können
+aber auch an der Biotransformation von zugeführten Arzneistoffen beteiligt sein.
+Da die COMT zur Methylierung und damit zur Inaktivierung von Dopamin (11) bei-
+trägt, werden COMT-Inhibitoren zur Behandlung von Morbus Parkinson verwendet
+[2]. Über einen therapeutischen Nutzen von PNMT-Inhibitoren ist man sich noch
+nicht im klaren.
+
+
+
+Die UDP-Glucuronyltransferase (UDP-GT) überträgt Glucuronsäure auf kleine
+polare Moleküle oder Arzneistoffe, damit sie hydrophiler werden und schneller
+ausgeschieden werden können (Phase-II-Metabolismus).
+
+Kategorie EC 3. beschreibt die Hydrolasen. Ester werden von sogenannten
+Esterasen (EC 3.1.) abgebaut, Amide von Peptidasen (EC 3.4.), aber auch Ether
+und Nitrile können durch Hydrolasen abgebaut werden. Dehalogenasen sind eine
+besondere Art von Hydrolasen. Sie sind in der Lage, kovalent gebundene Halogene
+abzuspalten. Allgemein spielen die Hydrolasen beim Abbau von Arzneistoffen eine
+besondere Rolle, da Ester in der Regel sehr rasch gespalten werden können.

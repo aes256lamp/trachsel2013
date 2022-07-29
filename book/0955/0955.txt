@@ -1,0 +1,44 @@
+Substrat des Enzyms bindet und so die Enzymtätigkeit beeinflusst. Man spricht dann
+von allosterischer Modulation. Diese Modulation kann in beide Richtungen, im Sinne
+einer Hemmung (NAM = negative allosterische Modulation), aber auch im Sinne einer
+Aktivierung (PAM = positive allosterische Modulation) stattfinden. In diesem Fall
+konkurriert der Stoff also nicht mit dem endogenen Substrat in kompetitiver Weise
+um die eigentliche Bindungstasche. Die Begriffe orthosterische Bindungsstelle und
+allosterische Modulation werden auch bei Rezeptoren verwendet.
+	Unabhängig vom Bindungsort, ob am aktiven Zentrum (orthosterisch) oder einer
+anderen Stelle (allosterisch), kann ein Ligand, wenn er eine reaktive funktionelle Gruppe
+trägt, auch kovalent an das Protein binden. Dann spricht man von irreversiblen
+Hemmstoffen. Das Enzym ist dadurch unwiederbringlich gehemmt oder zerstört. Da
+Enzyme aber rasch wieder vom Körper nachgebildet werden, ist der tatsächliche Effekt
+für den Menschen meist nicht endgültig. Beispiele für Arzneistoffe, die als irreversible
+Liganden binden, sind Omeprazol, das die Magensäureproduktion hemmt, und der
+MAO-Hemmer Selegilin. Sind die gehemmten Enzyme akut lebenswichtig, ist die
+Hemmung sehr ausgeprägt und geht die Aufnahme und Verteilung des Hemmstoffs
+im Körper sehr schnell vonstatten, dann kann es wie im Falle der irreversiblen Cholin-
+esterasehemmstoffe der Gruppe der Organophosphate rasch zu tödlichen Vergiftungen
+kommen.
+
+
+Ligandgesteuerte Ionenkanäle
+
+Prinzipiell unterscheidet man zwischen zwei großen Familien von Rezeptoren,
+den ligandgesteuerten Ionenkanälen und G-Protein-gekoppelten Rezeptoren
+(GPCR). In diesem Abschnitt werden die Ionenkanäle besprochen.
+	Ligandgesteuerte Ionenkanäle sind wie eine Pore in der Zellmembran einge-
+bettet. Sie sind aus mehreren Untereinheiten aufgebaut, welche die Größe bzw. die
+Durchlässigkeit der Pore bestimmen. Der endogene Ligand oder Transmitter kann an
+den Ionenkanal binden und so die Durchlässigkeit für bestimmte Ionen steuern. Insofern
+handelt es sich um sogenannte ionotrope Rezeptoren. Sie steuern in Gegenwart des
+jeweiligen Transmitters augenblicklich (binnen Millisekunden) die Erregbarkeit einer
+Zelle, indem die Pore selektiv manche Ionen passieren lässt. Je nach Ion kann dann eine
+Zelle entweder leichter, oder schwerer ein einlaufendes Aktionspotenzial weiterleiten.
+	Exzitatorische Ionenkanäle fungieren für die Reizweiterleitung quasi als „Gas“,
+während inhibitorische Ionenkanäle als „Bremse“ verstanden werden können.
+Ihre Namen leiten sich meist von ihrem endogenen Transmitter oder einer Substanz
+ab, die besonders gut an den jeweiligen Kanal bindet. Ein Paradebeispiel für einen
+exzitatorischen Ionenkanal ist der nicotinische Acetylcholinrezeptor, der in Abb. 4
+mit seiner Röntgenstruktur dargestellt ist. Abb. 5 zeigt ebenfalls einen nicotinischen
+Acetylcholinrezeptor, jedoch schematisch dargestellt. Er ist kein selektiver Ionenkanal,
+sondern kann in Anwesenheit eines Agonisten wie Acetylcholin oder Nicotin, K+- und
+Na+-Ionen durchschleusen. Das führt zu einer Depolarisation und somit einer erhöhten
+Erregbarkeit der Zelle.

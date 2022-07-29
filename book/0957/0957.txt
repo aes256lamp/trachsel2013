@@ -1,0 +1,29 @@
+sich in drei Untergruppen einteilen: in NMDA- (N-Methyl-D-aspartat), Kainat- (Salze
+der Kainsäure) und AMPA-(α-Amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid)-
+Rezeptoren. In diesem Fall leiten sich die Namen von synthetischen Testsubstanzen
+ab, auf die jeweiligen Rezeptoren gut ansprechen. Sie sind bei Lernprozessen von ganz
+entscheidender Bedeutung. Viele Erkrankungen wie Schlaganfälle, neurodegenerative
+Erkrankungen oder Epilepsie gehen aber auch mit einer Glutamat-Überaktivität ein-
+her, die auf Dauer zum Zelltod führt. Man spricht hier von Exzitotoxizität. NMDA-
+Antagonisten, die den offenen Kanal blockieren (Open-channel blocker) sind z.B. die
+dissoziativ wirksamen Anästhetika Ketamin und Phencyclidin (siehe Kapitel 3.12.4.1).
+	Der wichtigste, inhibitorische oder als Bremse wirksame Kanal ist der GABAA-
+Rezeptor. Er ist ein Chloridionenkanal. Anhand dieses Beispiels lassen sich wichtige
+Begriffe wie Agonist, Antagonist oder inverser Agonist gut erklären. Die Abb. 8
+kann hier zur Veranschaulichung dienen. Zunächst aber zu den G-Protein-gekoppelten
+Rezeptoren:
+
+
+G-Protein-gekoppelte Rezeptoren (GPCR)
+
+Es gibt eine riesige Fülle unterschiedlicher G-Protein-gekoppelter Rezeptoren mit
+den unterschiedlichsten Funktionen, und von vielen kennt man bis heute weder die
+Funktion, noch einen Liganden. Was haben sie alle gemeinsam? Alle sind Membranpro-
+teine, die sich in sieben röhrenartig gebauten, lipophilen Helices durch die Zellmenbran
+
+
+
+Abb. 6. Röntgenstruktur des
+monomeren Bacteriorhodop-
+sins mit angedeuteter Zell-
+membran (PDB-Code: 1PY6).

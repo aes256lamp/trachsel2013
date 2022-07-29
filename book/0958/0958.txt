@@ -1,0 +1,45 @@
+spannen, daher auch der alternative Name 7TM (7 transmembrane Helices). Diese
+Röhren sind miteinander über sogenannte Loops verbunden, extrazellulär und
+intrazellulär. Abb. 6 zeigt die Röntgenstruktur des Bakteriorhodopsins, in der die Helices
+cartoonartig dargestellt sind. Das ganze Gebilde besteht aus einer langen Kette von
+aneinandergereihten Aminosäuren und ist nicht starr, sondern wird leicht in seiner
+dreidimensionalen Konformation beeinträchtigt. Das außerhalb der Zelle liegende
+Ennde wird auch N-Terminus genannt, das andere, innenliegende Ende wird C-Terminus
+genannt. Liganden binden von der extrazellulären Seite des Rezeptors und stabilisieren
+dadurch die Konformation des Rezeptors.
+	Wenn sich der Rezeptor in einer sogenannten aktiven Konformation befindet, ist es
+möglich, dass Signalproteine eine freie Stelle an der Rezeptorunterseite finden, an die sie
+andocken können. Dadurch werden, je nach Beschaffenheit des Rezeptors, bestimmte
+Signale oft kaskadenartig weitergeleitet. Daher nennt man die GPCR manchmal auch
+metabotrope Rezeptoren. Die vermittelten Effekte haben keine sofortige Konsequenz
+für die Erregbarkeit der Zelle, wie das bei den Ionenkanälen mit dem Bild von Gas und
+Bremse der Fall ist, sondern treten je nachdem erst Sekunden oder Stunden später auf.
+Sie nehmen indirekt Einfluss auf die Proteinbiosynthese, die Aktivierung und Inaktivie-
+rung anderer Rezeptoren und Ionenkanäle und auf Enzyme und Kinasen, die ihrerseits
+wieder die Biosynthese von Neurotransmittern, die Rezeptordichte (Häufigkeit und Ver-
+teilung), wie auch ihre Aktivität beeinflussen. All das geschieht durch Signalmoleküle,
+mit denen der GPCR interagiert.
+
+Die prominentesten, aber bei weitem nicht die einzigen Vertreter dieser Signalmo-
+leküle, die durch den Rezeptor aktiviert werden können, sind die sogenannten hete-
+rotrimeren „Guanine nucleotide-binding protein“, oder einfach G-Proteine. Heterotrimer
+nennt man die G-Proteine deshalb, weil sie (nicht der Rezeptor) aus drei verschiede-
+nen Untereinheiten bestehen, die mit den griechischen Buchstaben α, β und γ benannt
+werden. Guaninbindend heißen sie, weil auch noch ein Molekül Guanosindiphosphat
+(GDP) an der Gα- Untereinheit hängt. Wenn so ein GDP-geladenes Dreierpack beste-
+hend aus Gα-, Gβ- und Gγ-Einheit auf den richtigen GPCR in der aktiven Konfor-
+mation trifft, wird das GDP durch ein GTP ausgetauscht und die Gx-Einheit von der
+Gβγ-Einheit abgespalten. Beide Teile, die Gα-Einheit und die Gβγ-Einheit fungieren
+als separate Regler für viele Prozesse. Die Vorgänge an den GPCR können sehr viel-
+schichtig sein und sich sogar gegenseitig beeinflussen, so dass oft von einer signalling
+machinery gesprochen wird. Die einzelnen Vorgänge sind zwar teilweise geklärt, aber die
+detaillierten zugrundeliegenden Mechanismen und Verkettungen sind oft immer noch
+unbekannt.
+	In Abb. 6 ist nur der Rezeptor ohne das G-Protein, und in Abb. 7 sind die G-Pro-
+teine als Fragmente unterhalb des Rezeptors stark vereinfacht dargestellt (ovale Formen
+und die darin enthaltenen hellgrauen Rechtecke). Wichtig ist, sich vor Augen zu halten,
+dass unterschiedliche GPCRs unterschiedliche G-Proteine binden können, die wieder-
+um unterschiedliche Signaltransduktionskaskaden ins Rollen bringen, und dass nicht alle
+G-Proteine überall im Körper anwesend sein müssen. Anhand des Serotonin-5-HT2A-
+Rezeptors wird in Abb. 7 gezeigt, wie unterschiedliche G-Proteine unterschiedliche Kas-
+kaden ansteuern und wie diese miteinander verknüpft sind.

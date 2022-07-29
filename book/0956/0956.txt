@@ -1,0 +1,15 @@
+Abb. 4. Röntgenstruktur des nicotinischen Acetylcholinrezeptors (PDB Code 2BG9) als Beispiel
+für einen ligandgesteuerten lonenkanal. Links: Seitenansicht, die dunkel dargestellten Helices
+liegen in der Zellmembran und bilden die eigentliche Pore. Rechts: Einblick von oben durch die
+Pore, Porendurchmesser etwa 0.7A; Der extrazelluläre Teil, an dem auch ACh bindet, ist hier gut
+erkennbar. Man kann die fünf Untereinheiten erkennen, aus denen der lonenkanal aufgebaut ist.
+
+
+
+Abb. 5. Schematische Darstellung eines nicotinischen Acetylcholinrezeptors als Beispiel für einen
+ligandgesteuerten lonenkanal, gemäß [6].
+
+
+Weitere wichtige exzitatorische Rezeptoren sind die ionotropen Glutamatrezep-
+toren. In Anwesenheit des endogenen Liganden Glutamat kann sich der unspezifische
+Kationenkanal öffnen und so die Zelle depolarisieren. Die Glutamatrezeptoren lassen

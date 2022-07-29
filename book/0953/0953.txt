@@ -1,0 +1,13 @@
+Als Arzneistofftarget werden z.B. die Cholinesterasen verwendet. Sie spalten und
+inaktivieren das Signalmolekül Acetylcholin, können aber auch andere Ester spalten.
+Hemmstoffe verringern den Abbau der Substrate und erhöhen so die Acetylcholin-
+konzentration. Bei Krankheitsbildern mit verringerter cholinerger Transmission wie
+z.B. Morbus Alzheimer können Cholinesterasehemmstoffe therapeutischen Nutzen
+haben. Manche Organophosphate wie die Nervenkampfstoffe Soman, Sarin oder
+Tabun zerstören das Enzym durch irreversible und kovalente Bindung und führen zu
+einer tödlichen Übererregung der Nervenzellen durch überschüssiges Acetylcholin.
+
+Lyasen (EC 4.) spalten Bindungen in Molekülen. Für den Stoffwechsel von
+aminergen Neurotransmittern ist die aromatische L-Aminosäuredecarboxylase
+(EC 4.1.1.28) von entscheidender Bedeutung. Sie benötigt als Cofactor Vitamin B6
+(Pyridoxalphosphat) und wandelt z.B. L-Dopa (10) in Dopamin (11), 5-HTP (9) in

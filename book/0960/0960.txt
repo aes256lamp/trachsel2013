@@ -1,0 +1,46 @@
+Konzepte zur Funktionalität von Liganden
+
+Der GABAA-Rezeptor bzw. der Chloridionenkanal wurde vorher bereits als ligand-
+gegesteuerter Ionenkanal besprochen. Er hat eine Eigenschaft, die bei Rezeptoren gele-
+gentlich vorkommt: er ist konstitutiv aktiv. Das bedeutet, dass auch ganz ohne Ligand
+die zentrale Pore so weit geöffnet ist, dass einige wenige Chloridionen passieren kön-
+nen. Bei G-Protein-gekoppelten Rezeptoren, die weiter unten noch genauer besprochen
+werden, gibt es ein ähnliches Phänomen: Manche Rezeptoren befinden sich auch ohne
+Ligand bereits zu einem gewissen Teil in einer aktiven Konformation, in der ein G-
+Protein binden kann und so quasi immer ein gewisses Grund-Signalling vorherrscht.
+Bindet nun ein Agonist, sei es der endogene Ligand oder ein synthetischer Wirkstoff, so
+verändert er die Rezeptorkonformation dahingehend, dass sich der Rezeptor in einem
+noch aktiveren Zustand befindet. Das bedeutet für den Chloridkanal, dass sich die Pore
+noch weiter Öffnet und so mehr Chloridionen penetrieren können. Für einen GPCR
+bedeutet das, dass intrazellulär ein bestimmtes G-Protein (z.B. Gi, Go, Gq, G11, Gs, usw.)
+noch besser binden kann und dadurch mehr Einfluss auf einen Second messenger (z.B.
+c-AMP, IP3, DAG) hat. Je nach G-Protein können bestimmte Second messenger gebremst
+oder gesteigert werden (mehr dazu folgt später). Wichtig ist, dass ein Agonist die aktive
+Konformation im Rezeptor begünstigt.
+	Ein Antagonist wird manchmal auch Silent antagonist genant. „Silent“ deshalb,
+weil er ähnlich wie ein Agonist an eine Bindungsstelle bindet und sie einfach nur still,
+ohne eigenen Effekt, besetzt. Im Unterschied zum Agonisten, der den Rezeptor in
+seine aktive Form bringt, ändert sich bezüglich der Aktivität am Rezeptor hierbei jedoch
+nichts. Das heißt, ein Agonist (entweder der endogene Ligand oder ein Arzneistoff,
+der sich zusätzlich im System befindet) hat es schwer, an die durch den Antagonisten
+besetzte Bindungsstelle zu kommen und etwas zu bewirken. Natürlich spielen an dieser
+Stelle die Konzentrationen und die Affinitäten beider Stoffe eine entscheidende Rolle.
+In der Realität ist es auch so, dass ein Agonist und ein Antagonist nicht auf die exakt
+selbe Art in der Bindungstasche sitzen, da sie ja sonst auch denselben Effekt auf den
+Rezeptor ausüben würden. Oft sind die pharmakophoren Einheiten zwischen Agonist
+und Antagonist relativ ähnlich. Bei aminergen Rezeptoren, wie z.B. den Histamin-,
+Norepinephrin-, Serotonin- und den Dopaminrezeptoren, haben Antagonisten oft
+noch die Möglichkeit, eine weitere hydrophobe Region im Rezeptor zu besetzen.
+Durch die zusätzliche Bindung ist, bildlich gesprochen, der oft etwas tiefer liegenden
+Bindungsregion, an der ein Agonist bindet, ein Riegel vorgeschoben [8].
+	Ähnlich ist es auch am GABAA-Rezeptor: Sobald der endogene agonistische Ligand
+γ-Aminobuttersäure (GABA; 17) bindet, öffnet sich die zentrale Pore so, dass noch mehr
+Chloridionen durch den Kanal strömen können. Dadurch wird das Ruhepotenzial der
+Zelle stabilisiert bzw. die exzitatorische Wirkung der oben genannten Kationenkanäle
+wird nivelliert. Vereinfacht gesprochen ist die Zelle nicht mehr so leicht erregbar. Bei
+den Ionenkanälen wie z.B. dem GABAA-Rezeptor kennt man mehrere unterschiedli-
+che sogenannte allosterische Bindungsstellen, die in Verbindung mit bestimmten
+Liganden die Größe der zentralen Porenöffnung beeinflussen. Benzodiazepine wie
+z.B. Diazepam (18) binden an solch eine Stelle und bewirken eine Öffnung des Kanals,
+stabilisieren also das Ruhepotenzial. Ähnlich, nur an einer anderen Stelle des Kanals,
+binden die Barbiturate wie z.B. Phenobarbital (19), die denselben Effekt - eine Sedie-

@@ -1,0 +1,35 @@
+rung oder Anxiolyse hervorrufen. Da weder die Barbiturate, noch die Benzodiazepine
+an der Stelle binden, an welcher der endogene Ligand GABA bindet, sollte man sie nicht
+als GABA-Agonisten bezeichnen, sondern vielmehr als allosterische Modulatoren.
+Das erklärt auch, weshalb der Benzodiazepinantagonist Flumazenil (20) selbst keinen
+Effekt am Menschen hervorruft. Er bindet nämlich, ohne eine Konformationsänderung
+des Kanals zu bewirken, an eine Bindungsstelle, an die nur ein exogener Ligand, nämlich
+ein Benzodiazepin, binden. Somit kann Flumazenil (20) als Antidot bei Benzodiazepin-
+vergiftungen verwendet werden. Analog dazu gibt es auch Barbituratantagonisten, wie
+Bemegrid (21). Muscimol (22), ein Inhaltsstoff des dissoziativ wirkenden Fliegenpilzes
+(siehe Kapitel 4.9) ist ein echter GABAA-Agonist was bedeutet, dass er an der echten
+orthosterischen GABA-Bindungsstelle bindet und so den Kanal in seiner offenen Kon-
+formation stabilisiert. Ein GABAA- Antagonist wie das Bicucullin (23) hingegen führt
+zu Krampfzuständen ähnlich einer Epilepsie, da er die Bindestelle für die natürliche
+Bremse, nämlich GABA (17), blockiert.
+	Nun gibt es aber außer Agonisten und Antagonisten auch noch inverse Agonisten.
+Inverse Agonisten existieren nur, wenn der Rezeptor auch ohne Ligand eine gewisse
+Grundaktivität oder konstitutive Aktivität hat. Am anschaulichsten ist das anhand des
+GABAA-Rezeptors zu erklären, der in seiner Mitte eine Pore besitzt, die bis zu einem
+gewissen Grad geöffnet ist und einige Chloridionen auch ohne GABA durchlässt. In-
+verse Agonisten führen dazu, dass sich die Pore nicht wie mit einem Agonisten noch
+weiter öffnet, sondern sich verengt und somit ein dem Agonisten entgegengesetzter
+Effekt eintritt und sich die Pore weiter schließt. Man kennt z.B. inverse Agonisten an der
+Benzodiazepinbindestelle. Wie zu erwarten, haben diese Verbindungen den entgegen-
+
+
+Orthosterische
+GABA-Bindungsstelle
+
+
+Allosterische
+Benzodiazepin-Bindungsstelle
+
+
+Allosterische
+Barbiturat-Bindungsstelle

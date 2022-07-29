@@ -1,0 +1,43 @@
+Abb. 7. Schematische Darstel-
+lung eines G-Protein-gekop-
+pelten Rezeptors: Serotonin
+5-HT2A-Rezeptor mit verschie-
+denen G-Proteinen auf der
+intrazellulären Seite sowie den
+sehr vereinfachten Signalpfa-
+den. PLA2 = Phospholipase
+A2; PLC = Phospholipase C;
+PIP2 = Phosphatidylinositol-
+4,5-biphosphat; IP, = Inositol-
+1,4,5-triphosphat; DAG =
+1,2-Diacylglycerol; 2-AG =
+2-Arachidonoylglycerol; AA =
+Arachidonsäure. Das Gai/o G-
+Protein stimuliert PLA2 über
+den Ras-Raf-MEK1,2-ERK1,2-
+Pfad, während das Ga12/13 G-
+Protein Gebrauch vom RhoA-
+P38MAP-Kinasenpfads macht.
+
+
+Autorezeptoren sind Rezeptoren, die nicht wie die „normalen“ Rezeptoren an der
+postsynaptischen Membran, sondern etwas außerhalb an der Präsynapse lokalisiert sind.
+Sie werden nur stimuliert, wenn sich sehr viel ausgeschütteter Neurotransmitter im syn-
+aptischen Spalt befindet. In diesem Fall droßelt er dann die weitere Transmitterausschüt-
+tung. Somit stellen die Autorezeptoren eine Art Feedback-Mechanismus dar. Sie können
+aber auch mit Arzneistoffen interagieren. Ein Agonist würde die natürliche Neurotrans-
+mitterausschüttung via Autorezeptor bremsen, während ein Antagonist dort quasi die
+natürliche Bremse außer Kraft setzt und so die Ausschüttung des jeweiligen endogenen
+Transmitters verstärkt. Klassische Target-Beispiele sind der adrenerge α2-Rezeptor so-
+wie der Serotonin-5-HT1A- und 5-HT1B-Rezeptor. Der verzögerte Wirkeintritt von Anti-
+depressiva wird unter anderem über die modulatorischen Effekte an Autorezeptoren
+erklärt.
+
+Wenn sich zwei unterschiedliche Rezeptorsysteme gegenseitig in ihrer Aktivität
+beeinflussen, dann nennt man das Heterorezeptoren. Ein klassischer Fall ist der
+Histamin-H3-Rezeptor, der, an der Präsynapse lokalisiert, nicht nur die Ausschüttung
+von Histamin regelt — wie das bei einem normalen Autorezeptor der Fall wäre - sondern
+auch die Ausschüttung von Dopamin, Serotonin, Acetylcholin und Noradtenalin regelt.
+Somit erhöhen H3-Antagonisten die Ausschüttung der genannten Neurotransmitter und
+könnten bei ADHS, Depression oder neurodegenerativen Erkrankungen Anwendung
+finden. H3-Agonisten werden zur Behandlung von Schizophrenie diskutiert [7].

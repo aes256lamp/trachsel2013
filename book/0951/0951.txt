@@ -1,0 +1,22 @@
+Oxidoreduktasen (EC 1) katalysieren, wie der Name schon sagt, einen Redoxpro-
+zess. Natürlich geht das nur, wenn auch Reduktions- oder Oxidationsmittel als Co-
+faktoren anwesend sind. Die häufigsten Reduktionsmittel im Körper sind NADH,
+FADH und Fe2+, Sie werden dabei selbst zu NAD+, FAD bzw Fe3+ oxidiert und
+stehen dann wieder Enzymen als Cofaktor zur Verfügung, die oxidierende Eigen-
+schaften haben. Sie tragen die EC-Nummer 1. Bekannte Vertreter, die durch Arz-
+neistoffe gehemmt werden und mit denen ein therapeutischer Nutzen erzielt werden
+kann, sind die Aminoxidasen, die die EC-Nummer 1.4. tragen. Sie machen formal
+aus Aminen Aldehyde. Da diese Gruppe von besonderer Bedeutung ist, hat sie einen
+separaten Exkurs verdient (siehe Exkurs Aminoxidasen). Auch die riesige Gruppe
+der Cytochrome gehören zu den Oxidoreduktasen. Sie kommen auch mit unge-
+wöhnlichen Redoxprozessen klar und machen sich das Redoxpaar Eisen (II)/(III)
+zunutze, das den Enzymen auch ihre farbige Gestalt gibt (griech.: ???? sprich
+chroma= Farbe).
+Im Zusammenhang mit Phenethylaminen sind noch Hydroxylasen (EC 1.14.) zu
+erwähnen, die im Körper für den Aufbau von Dopamin, Norepinephrin und Sero-
+tonin essenziell sind. Sie führen mit Hilfe von molekularem Sauerstoff und Tetrahy-
+drobiopterin (abgekürzt als BH4) an aromatischen Systemen OH-Gruppen ein. Ver-
+treter sind die Phenylalaninhydroxylase (Phe; 7 → Tyr; 8), Tyrosinhydroxylase (Tyr;
+8 → Dopa; 10), und Tryptophanhydroxylase (Trp; 6 → 5-HTP; 9). Sie benötigen
+Eisenionen als Cofaktor. Die Dopamin-β-hydroxylase (DBH) überführt Dopamin
+(11) in Norepinephrin (12) und benötigt als Cofaktoren Kupferionen und Vitamin C.

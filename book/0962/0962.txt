@@ -1,0 +1,46 @@
+gesetzten Effekt von Benzodiazepinen. Sie können je nach Subtypselcktivität stimu-
+lierend, anxiogen, konvulsiv, oder nootropisch wirken. Man versucht, inverse Agonis-
+ten zu finden, die vor allem nootrop wirksam sind, um sie zur Behandlung von
+Demenzerkrankungen zu nutzen. Das β-Carbolinderivat DMCM (24) ist ein älterer
+Vertreter dieser Klasse, der vor allem konvulsiv und anxiogen wirkt. TB-21007 (25)
+hingegen ist eine neuere Verbindung, die als Nootropikum entwickelt wurde [9].
+
+
+Methoden und Parameter zur Klassifizierung von Liganden
+
+Zur Untersuchung von Liganden können zwei wichtige Parameter bestimmt werden:
+zum einen ein Affinitätswert aus einer kompetetiven Radioligand-Verdrängungs-
+studie, die hier nicht näher beschrieben werden soll. Er gibt an, bei welcher Ligandkon-
+zentration die Hälfte eines gebundenen Radioliganden durch den untersuchten Liganden
+von seiner Bindungstelle verdrängt wird. Der erhaltene Wert wird meist als sogenannter
+Ki-Wert oder IC50 angegeben, und kleine Werte stehen für eine hohe Affinität. Ki-Werte
+im tiefen nanomolaren Bereich (<10-8 mol/l oder 10nM) sind ausgezeichnet gute Wer-
+te. Sind die Ki-Werte eines Stoffes im mikromolaren Bereich (>10-6mol/l = 1uM oder
+1000nM), so kann er durchaus noch als Arzneistoff Verwendung finden. Wenn die Bin-
+dung über 10000nM liegt, sagt man, dass keine therapeutisch relevante Affinität mehr
+vorliegt. Demzufolge wird eine Affinität von >10000nM meist als Cut-off verwendet.
+Das bedeutet, dass Verbindungen in diesem Affinitätsbereich inaktiv bezeichnet werden.
+Ki-Werte sind eine Art normierte IC50-Werte, die sich nach einer Gleichung berechnen
+lassen, die von Cheng und Prusoff aufgestellt wurde [10]. Es soll hier nicht weiter darauf
+eingegangen werden. Beide Werte befinden sich in ähnlichen Größenordnungen und
+können näherungsweise auch untereinander verglichen werden.
+	Ein zweiter wichtiger Parameter ist die sogenannte Funktionalität. Sie besagt, ob
+es sich um einen Agonisten, Antagonisten, inversen Agonisten oder partiellen Agoni-
+sten handelt. Um diesen Parameter zu bestimmen, muss man sich in der Regel einen
+bestimmten Second messenger aussuchen, der durch den natürlichen Liganden reguliert
+wird. Das kann z.B. cAMP (cyclo-Adenosylmonophosphat) oder IP3 (Inositoltriphos-
+phat) sein, aber auch ein weniger spezifisches nachgeschaltetes Signal, also mit anderen
+Worten ein Third messenger wie Ca2+. Zunächst misst man den natürlichen Level oder die
+Grundaktivität. Dann gibt man den natürlichen Agonisten hinzu und bestimmt das
+Ausmass des Effektes auf den untersuchten Second messenger, indem seine Konzentrati-
+on bestimmt wird. Daraus ergibt sich ein Efficacy (Wirksamkeits)-Wert von 100%.
+Eine Testsubstanz, die sich bezüglich des Second messenger ähnlich verhält, ist ein Agonist
+(siehe Abb. 8). Unabhängig von der Affinität können agonistische Testsubstanzen oft
+nicht den Second messenger in dem Ausmaß beeinflussen, wie es der natürliche Agonist tut.
+Dann ist seine Efficaey z.B. nur 60% der Efficacy des eigentlichen Agonisten (natürlichen
+Liganden), der als 100%-Wert gesetzt wurde. In so einem Fall spricht man von Partial
+agonism, Partielle Agonisten zwingen den Rezeptor immer auch zu einem Teil in eine
+inaktive Konformation, Darum mindern partielle Agonisten auch immer die Wirkung
+gleichzeitig vorhandener Agonisten ab.
+	Wenn ein Ligand im betrachteten Second messenger-System einen gleich starken Effekt
+ausübt, wie der natürliche Ligand, ist er ein Full agonist. In diesem Zusammenhang
